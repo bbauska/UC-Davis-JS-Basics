@@ -5,9 +5,18 @@ title: |
   taught by William Mead, Lecturer -- UC &#64;Davis
 ---
 
-![javascript logo clipart 10 free Cliparts &#124; Download images on
-&#46;&#46;&#46;](./images/image001.webp){width="2.0in" height="1.773685476815398in"}![](./images/image002.webp){width="2.0995866141732282in"
-height="1.77in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image001.webp?raw=true"
+  width="20%"
+  alt="JavaScript logo coffee cup version." />
+<img src="./images/image002.webp?raw=true"
+  width="20%"
+  alt="UC Davis logo." />
+</p>
+<!-- {width="2.0in" height="1.773685476815398in"}![](./images/image002.webp){width="2.0995866141732282in" height="1.77in"} -->
 
 ## About this Course {#about-this-course }
 
@@ -831,7 +840,6 @@ You&apos;re also going to need an image editor. If you have access to
 Photoshop, that&apos;s great. Photoshop is fantastic for this kind of thing,
 but if you don&apos;t have access to Photoshop, there&apos;s another one called
 GIMP, which is free.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 32.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -893,8 +901,14 @@ that struggle a lot with typing. And it really impedes their ability to
 learn something like JavaScript. So I really recommend that you get
 those keyboarding skills if you don&apos;t have them already.
 
-![](./images/image036.webp){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 36.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image036.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image036.webp){width="4.0in" height="2.06965769903762in"} -->
 
 The **second** thing that you need is you need to be able to manage your
 files. That means when you save a file on your computer, you know where
@@ -910,8 +924,14 @@ clean up all of your files. And work with a clean desktop. And for every
 project, you should have a folder and all the files you need for that
 project should be in that folder.
 
-![](./images/image037.webp){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 37.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image037.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image037.webp){width="4.0in" height="2.06965769903762in"} -->
 
 The **third** thing that you need is persistence. Learning JavaScript is
 not easy. It&apos;s challenging and maybe that&apos;s true for every programming
@@ -929,8 +949,14 @@ realize you just left that one character or semi colon or something like
 that, and that broke the entire script. But stick with it, keep working
 at it, stay calm, keep pushing forward. And you&apos;ll make a lot of
 progress with it, I promise.
-
-![](./images/image038.webp){width="4.0in"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 38.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image038.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image038.webp){width="4.0in" -->
 height="2.06965769903762in"}
 
 The **fourth** skill that you need is to be good with logic. And logic
@@ -945,9 +971,14 @@ programming that involves very sophisticated math and a lot of
 programmers don&apos;t. There are programmers that do. But we don&apos;t need
 that in order to get good at JavaScript. But you do need to be good with
 logic.
-
-![](./images/image039.webp){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 39.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image039.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image039.webp){width="4.0in" height="2.06965769903762in"} -->
 
 The next thing is, you really should know HTML and CSS as well as you
 can. JavaScript manipulates the HTML and CSS that makes up the page.
@@ -955,9 +986,14 @@ That&apos;s how it works, that&apos;s what it does. And if you don&apos;t know H
 and CSS, you don&apos;t really know what you&apos;re manipulating. So I
 recommend building some skills with HTML and CSS if you don&apos;t already
 have them.
-
-![](./images/image040.webp){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 40.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image040.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image040.webp){width="4.0in" height="2.06965769903762in"} -->
 
 And a good place to go is this Interneting Is Hard website here. This is
 a really great tutorial. They&apos;ve got a lot of really great, it&apos;s very
@@ -993,8 +1029,14 @@ with JavaScript.
 
 # JavaScript Variables
 
-![](./images/image041.webp){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image041.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image041.webp){width="4.0in" height="2.261538713910761in"} -->
 
 JavaScript variables. It&apos;s good practice when programming to write code
 that is as generalizable as possible. It allows the code to be reused
