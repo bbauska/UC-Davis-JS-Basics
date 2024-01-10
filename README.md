@@ -18,7 +18,7 @@ title: |
 </p>
 <!-- {width="2.0in" height="1.773685476815398in"}![](./images/image002.webp){width="2.0995866141732282in" height="1.77in"} -->
 
-<h2 id="#about'>About this Course</h2>
+<h2 id="#about">About this Course</h2>
 
 This course introduces the programming language JavaScript and shows the
 websites that include the type of interactions students will eventually
