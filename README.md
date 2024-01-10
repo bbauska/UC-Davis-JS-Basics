@@ -1,6 +1,6 @@
 ---
 title: |
-  **JavaScript Basics**
+  <b>JavaScript Basics</b>
 
   taught by William Mead, Lecturer -- UC &#64;Davis
 ---
