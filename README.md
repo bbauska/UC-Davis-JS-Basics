@@ -6,8 +6,7 @@ title: |
 ---
 
 ![javascript logo clipart 10 free Cliparts &#124; Download images on
-&#46;&#46;&#46;](./images/image001.webp){width="2.0in"
-height="1.773685476815398in"}![](./images/image002.webp){width="2.0995866141732282in"
+&#46;&#46;&#46;](./images/image001.webp){width="2.0in" height="1.773685476815398in"}![](./images/image002.webp){width="2.0995866141732282in"
 height="1.77in"}
 
 ## About this Course {#about-this-course }
@@ -753,11 +752,19 @@ height="2.261538713910761in"}
 
 Tools and skills needed for success for learning JavaScript.
 
-![](./images/image023.webp){width="4.0in"
-height="2.258546587926509in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 23.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image023.webp?raw=true"
+  width="40%"
+  alt="." />
+</p>
+<!-- ![](./images/image023.webp){width="4.0in" height="2.258546587926509in"} -->
 
 First, we&apos;ll talk about software and then we&apos;ll talk a little bit
 about hardware.
+
 
 ![](./images/image024.webp){width="3.5in"
 height="1.8064632545931758in"}![](./images/image025.webp){width="3.5in"
@@ -779,15 +786,27 @@ height="2.435042650918635in"}
 You could use Atom, you could use Sublime Text, even if you have
 Dreamweaver, you could use that as a code editor.
 
-![](./images/image029.webp){width="5.0in"
-height="3.073718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 29.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image029.webp?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/image029.webp){width="5.0in" height="3.073718285214348in"} -->
 
 Dreamweaver has a lot of other stuff built into it that you don&apos;t need,
 but it works perfectly fine as code editor if you want to use that as
 well.
 
-![](./images/image030.webp){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 30.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image030.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image030.webp){width="4.0in" height="2.259401793525809in"} -->
 
 The second thing you&apos;re going to need is a web browser, and I&apos;m going
 to recommend that you use **Chrome**. **Chrome** has a lot of the
@@ -799,17 +818,28 @@ developers use **Chrome** and get comfortable with the **Chrome**
 developer tools. So I recommend that you download **Chrome** and use
 that browser. Do NOT use **IE** or **Edge** developed by Microsoft.
 Unless you LOVE advertisements and poor coding techniques.
-
-![](./images/image031.webp){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 31.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image031.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image031.webp){width="4.0in" height="2.259401793525809in"} -->
 
 You&apos;re also going to need an image editor. If you have access to
 Photoshop, that&apos;s great. Photoshop is fantastic for this kind of thing,
 but if you don&apos;t have access to Photoshop, there&apos;s another one called
 GIMP, which is free.
 
-![](./images/image032.webp){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 32.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image032.webp?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/image032.webp){width="5.0in" height="2.824251968503937in"} -->
 
 You can go download **GIMP** and I have that pulled up here. You can
 actually download **GIMP** for Mac or for Windows and that kind of
@@ -836,7 +866,9 @@ really up to the task. You&apos;ll be fighting it every step along the way.
 You want to be working with Mac OS X or Windows 10 on a computer in
 order to really make this work.
 
-# Skills needed for Success (5:38)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2><a href="ch1-x">1.0x Skills Needed for Success (5:38)</a></h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image034.webp){width="4.0in"
 height="2.261538713910761in"}
