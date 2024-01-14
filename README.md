@@ -8,12 +8,12 @@ title: |
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 01/02. javascript logo (coffee) / UC Davis log (01) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / UC Davis log (01) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.webp?raw=true"
   width="25%"
-  alt="JavaScript logo coffee cup version." />
+  alt="JavaScript coffee cup logo version." />
 <img src="./images/image002.webp?raw=true"
   width="25%"
   alt="UC Davis logo." />
@@ -313,9 +313,6 @@ vacation destination list application.
 
     -   **Basic Distance Converter Project Open Discussion**
 
-    ```{=html}
-    <!-- -->
-    ```
     -   **Advanced Distance Converter Start Files**
 
 7.  **Advanced Distance Converter Project - Part 1**
