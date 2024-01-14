@@ -53,7 +53,7 @@ browser console and be able to create variables and arrays. You will be
 able to assign values to these variables and arrays and be able to read
 values from them.
 
-### 12 videos, 5 readings {#videos-5-readings }
+### 12 lessons, 5 readings
 
 -   **1.00.A Note From UC Davis**
 
@@ -90,7 +90,7 @@ values from them.
 
 -   **Module 1 Reflection**
 
-# Week 2 {#week-2 }
+# Week 2
 
 ## Controlling Logical Flow in JavaScript {#controlling-logical-flow-in-javascript }
 
@@ -110,10 +110,9 @@ combine sets of program instructions into named functions and create
 custom functions that can be called to complete the instructions they
 contain.
 
-### 25 videos, 5 readings {#videos-5-readings-1 }
+### 25 lessons, 5 readings
 
-1.  [**[Module 2
-    Introduction]{.underline}**](https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue)
+1.  <a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">Module 2 Introduction</a>
 
 2.  **Visual Studio - Part 1**
 
@@ -133,7 +132,9 @@ contain.
 
 10. **Using &&**
 
--   **Additional Resources**
+<ul>
+  <li>Additional Resources</li>
+</ul>
 
 11. **Loops in JavaScript**
 
@@ -143,7 +144,9 @@ contain.
 
 14. **While Loops**
 
--   **Additional Resource**
+<ul>
+  <li>Additional Resources</li>
+</ul>
 
 15. **Structured Programming, Sequence - Part 1**
 
@@ -155,7 +158,9 @@ contain.
 
 19. **JavaScript Basic Challenges Introduction**
 
--   **JavaScript Basic Challenges 01-09**
+<ul>
+  <li>JavaScript Basic Challenges 01-09</li>
+</ul>
 
 20. **Functions in JavaScript**
 
@@ -169,13 +174,13 @@ contain.
 
 25. **More On Functions**
 
--   **Additional Resource**
+<ul>
+  <li>Additional Resources</li>
+  <li>JavaScript Function Challengs 10-16</li>
+  <li>Module 2 Reflection</li>
+</ul>
 
--   **JavaScript Function Challenges 10-16**
-
--   **Module 2 Reflection**
-
-# Week 3 {#week-3 }
+# Week 3
 
 ## Using JavaScript in the Web Browser {#using-javascript-in-the-web-browser }
 
@@ -214,9 +219,10 @@ the course by putting together a simple slideshow on a web page.
 
 11. **Video: Removing Elements**
 
--   **Additional Resource**
-
--   **JavaScript DOM Challenges 17-21**
+<ul>
+  <li></li>Additional Resources</li>
+  <li>JavaScript DOM Challengs 17-21</li>
+</ul>
 
 12. **Capturing Events with JavaScript**
 
@@ -234,7 +240,9 @@ the course by putting together a simple slideshow on a web page.
 
 19. **Key Down Event**
 
--   **Additional Resources**
+<ul>
+  <li>Additional Resources</li>
+</ul>
 
 20. **JavaScript Event Challenges 22-30**
 
@@ -248,9 +256,10 @@ the course by putting together a simple slideshow on a web page.
 
 25. **Scope in JavaScript Summary**
 
--   **Additional Resources**
-
--   **Simple Slide Show Start Files**
+<ul>
+  <li>Additional Resources</li>
+  <li>Simple Slide Show START Files</li>
+</ul>
 
 26. **Simple JS Slideshow - Part 1**
 
@@ -262,9 +271,10 @@ the course by putting together a simple slideshow on a web page.
 
 30. **Simple JS Slideshow - Part 5**
 
--   **Discussion Prompt: Simple JS Slideshow Open Discussion**
-
--   **Advanced Slide Show Start Files**
+<ul>
+  <li>Simple JS Slideshow Open Discussion</li>
+  <li>Advanced Slide Show START Files</li>
+</ul>
 
 31. **Slideshow with Cross Fade Effect - Part 1**
 
@@ -280,11 +290,12 @@ the course by putting together a simple slideshow on a web page.
 
 37. **Slideshow with Cross Fade Effect - Part 7**
 
--   **Slideshow With Cross Fade Effect Open Discussion**
+<ul>
+  <li>Slideshow With Cross Fade Effect Open Discussion</li>
+  <li>Prompt: Module 3 Reflection</li>
+</ul>
 
--   **Prompt: Module 3 Reflection**
-
-# Week 4 {#week-4 }
+# Week 4
 
 ## Basic JavaScript Application Projects {#basic-javascript-application-projects }
 
@@ -311,9 +322,10 @@ vacation destination list application.
 
 6.  **Basic Distance Converter Project - Part 5**
 
-    -   **Basic Distance Converter Project Open Discussion**
-
-    -   **Advanced Distance Converter Start Files**
+<ul>
+  <li>Basic Distance Converter Project Open Discussion</li>
+  <li>Advanced Distance Converter START Files</li>
+</ul>
 
 7.  **Advanced Distance Converter Project - Part 1**
 
@@ -325,9 +337,10 @@ vacation destination list application.
 
 11. **Advanced Distance Converter Project - Part 5**
 
-    -   **Advanced Distance Converter Project Open Discussion**
-
-    -   **Vacation Desitnation Project - Part 1 Start Files**
+<ul>
+  <li>Advanced Distance Converter Project Open Discussion</li>
+  <li>Vacation Destination Project - Part 1 START Files</li>
+</ul>
 
 12. **Vacation Destination Project: HTML & CSS - Part 1**
 
@@ -341,9 +354,10 @@ vacation destination list application.
 
 17. **Vacation Destination Project: HTML & CSS - Part 6**
 
-    -   **Vacation Destination Project: Part 1 Open Discussion**
-
-    -   **Vacation Destination Project - Part 2 Start Files**
+<ul>
+  <li>Vacation Destination Project - Part 1 Open Discussion</li>
+  <li>Vacation Destination Project - Part 2 START Files</li>
+</ul>
 
 18. **Vacation Destination Project: JavaScript - Part 1**
 
@@ -361,17 +375,20 @@ vacation destination list application.
 
 25. **Vacation Destination Project: JavaScript - Part 8**
 
-    -   **Vacation Destination Project: Part 2 Open Discussion**
-
-    -   **Module 4 Reflection**
+<ul>
+  <li>Vacation Destination Project: Part 2 Open Discussion</li>
+  <li>Moduel 4 Reflection</li>
+</ul>
 
 26. **Course Summary**
 
--   **Self-Reflection**
+<ul>
+  <li>Self-Reflection</li>
+</ul>
 
-# A Note From UC Davis {#a-note-from-uc-davis }
+<h2 id="wk1-00">A Note From UC Davis</h2>h2>
 
-### Welcome to this course! {#welcome-to-this-course }
+<h3>Welcome to this course!</h3>
 
 We are delighted to be a part of your continuing education. This course
 will provide you with a variety of tools and learning opportunities, to
@@ -458,9 +475,9 @@ We look forward to having you in this course. Happy learning!
 
 <https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code>
 
-# Week One:  {#week-one }
+<h1 id="ch1">Week One:</h1>
 
-# 1.00 Welcome to JavaScript Basics (1.01) {#welcome-to-javascript-basics-1.01 }
+<h2 id="ch1-00a">1.00a Welcome to JavaScript Basics (1:01)</h2>
 
 ![](./images/image003.webp){width="4.0in"
 height="2.261538713910761in"}
@@ -481,7 +498,7 @@ with and if you&apos;re new to programming, don&apos;t worry, we&apos;re going t
 start at the very beginning and get you going all on the right track.
 Buckle in and let&apos;s get started learning JavaScript.
 
-# 1.00. Week 1 Introduction (0:57) {#week-1-introduction-057 }
+<h2 id="ch1-00b">1.00b. Week 1 Introduction (0:57)</h2>
 
 Welcome to the first module on JavaScript. In this module we&apos;ll get
 into the basics of the language. We&apos;ll talk about variables and arrays
@@ -496,7 +513,7 @@ able to do some interesting things with JavaScript as you go along. So
 stick with me and we will have a lot of fun in this first module
 learning about JavaScript in the basics of the language.
 
-# Intro to JavaScript -- Part 1 (3:13)
+<h2 id="ch1-01">1.01. Intro to JavaScript -- Part 1 (3:13)</h2>
 
 ![](./images/image004.webp){width="4.0in"
 height="2.261538713910761in"}
@@ -1029,7 +1046,7 @@ with JavaScript.
 # JavaScript Variables
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. javascript variables (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image041.webp?raw=true"
