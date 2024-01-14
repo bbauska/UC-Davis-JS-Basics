@@ -33,11 +33,10 @@ resources and recommendations are provided to improve these skills.
 There is ample opportunity for students to practice these first, core
 skills.
 
-# Syllabus {#syllabus }
+<h2>Syllabus</h2>
 
-### Week 1 {#week-1 }
-
-### Getting Started, Introduction to JavaScript, Variables, and Arrays {#getting-started-introduction-to-javascript-variables-and-arrays }
+<h3>Week 1</h3>
+<h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
 
 In this module, you will be introduced to JavaScript and what it can do.
 You will be able to identify websites that include the types of
@@ -53,46 +52,43 @@ browser console and be able to create variables and arrays. You will be
 able to assign values to these variables and arrays and be able to read
 values from them.
 
-### 12 lessons, 5 readings
+<h4>12 lessons, 5 readings</h4>
 
--   **1.00.A Note From UC Davis**
+<ul>
+  <li>1.00.A Note From UC Davis</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">1.00.Welcome/Intro to this Course!</a></li>
+</ul>
 
--   [**1.00.Welcome/Intro to this
-    Course!**](https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim)
+<ol type="1">
+  <li>Introduction to JavaScript - Part 1</li>
+  <li>Introduction to JavaScript - Part 2</li>
+  <li>Introduction to JavaScript - Part 3</li>
+  <li>Tools Needed for Success</li>
+  <li>Skills Needed for Success</li>
+</ol>
 
-1.  **Introduction to JavaScript - Part 1**
+<ul>
+  <li>1.05.Additional Resources</li>
+</ul>
 
-2.  **Introduction to JavaScript - Part 2**
+<ol type="1" start="6">
+  <li>JavaScript Variables</li>
+  <li>JavaScript Variables Practice - Part 1</li>
+  <li>JavaScript Variables Practice - Part 2</li>
+  <li>JavaScript Variables Practice - Part 3</li>
+  <li>JavaScript Arrays - Part 1</li>
+  <li>JavaScript Arrays - Part 2</li>
+  <li>JavaScript Arrays Practice</li>
+</ol>
 
-3.  **Introduction to JavaScript - Part 3**
+<ul>
+  <li>Additional Resources</li>
+  <li>Module 1 Reflection</li>
+</ul>
 
-4.  **Tools Needed for Success**
+<h3>Week 2</h3>
 
-5.  **Skills Needed for Success**
-
--   **1.05.Additional Resources**
-
-6.  **JavaScript Variables**
-
-7.  **JavaScript Variables Practice - Part 1**
-
-8.  **JavaScript Variables Practice - Part 2**
-
-9.  **JavaScript Variables Practice - Part 3**
-
-10. **JavaScript Arrays - Part 1**
-
-11. **JavaScript Arrays - Part 2**
-
-12. **JavaScript Arrays Practice**
-
--   **Additional Resources**
-
--   **Module 1 Reflection**
-
-# Week 2
-
-## Controlling Logical Flow in JavaScript {#controlling-logical-flow-in-javascript }
+<h3>Controlling Logical Flow in JavaScript</h3>
 
 In this module, you will be able to download, install and use of a code
 editor as a tool for writing code, and properly save and manage their
@@ -110,7 +106,7 @@ combine sets of program instructions into named functions and create
 custom functions that can be called to complete the instructions they
 contain.
 
-### 25 lessons, 5 readings
+<h4>25 lessons, 5 readings</h4>
 
 1.  <a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">Module 2 Introduction</a>
 
@@ -180,9 +176,9 @@ contain.
   <li>Module 2 Reflection</li>
 </ul>
 
-# Week 3
+<h3>Week 3</h3>
 
-## Using JavaScript in the Web Browser {#using-javascript-in-the-web-browser }
+<h3>Using JavaScript in the Web Browser</h3>
 
 In this module, you will be introduced to the methods built into
 JavaScript for accessing and manipulating DOM elements in the web
@@ -194,7 +190,7 @@ variables in JavaScript so that scope does not become a problem. You
 will be able to practice all the skills and techniques learned so far in
 the course by putting together a simple slideshow on a web page.
 
-36 videos, 7 readings
+<h4>36 videos, 7 readings</h4>
 
 1.  [**[Module 3
     > Introduction]{.underline}**](https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE)
@@ -295,9 +291,9 @@ the course by putting together a simple slideshow on a web page.
   <li>Prompt: Module 3 Reflection</li>
 </ul>
 
-# Week 4
+<h3>Week 4</h3>
 
-## Basic JavaScript Application Projects {#basic-javascript-application-projects }
+<h3>Basic JavaScript Application Projects</h3>
 
 In this module, you will be able to apply and practice the skills and
 techniques you have learned in the course by building a basic and a more
@@ -305,7 +301,7 @@ advanced distance converter. You will be able to further apply and
 practice to extend your skills and techniques by building a simple
 vacation destination list application.
 
-### 26 videos, 4 readings {#videos-4-readings }
+<h4>26 videos, 4 readings</h4>
 
 1.  [**[Module 4
     > Introduction]{.underline}**](https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0)
@@ -385,6 +381,8 @@ vacation destination list application.
 <ul>
   <li>Self-Reflection</li>
 </ul>
+
+<!-- start course here -->
 
 <h2 id="wk1-00">A Note From UC Davis</h2>h2>
 
