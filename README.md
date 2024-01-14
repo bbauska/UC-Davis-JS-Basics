@@ -142,6 +142,7 @@ contain.
   <li>Sequence - Part 3, Loop</li>
   <li>Loop + Selection</li>
   <li>JavaScript Basic Challenges Introduction</li>
+</ol>
 
 <ul>
   <li>JavaScript Basic Challenges 01-09</li>
@@ -176,7 +177,7 @@ variables in JavaScript so that scope does not become a problem. You
 will be able to practice all the skills and techniques learned so far in
 the course by putting together a simple slideshow on a web page.
 
-<h4>36 videos, 7 readings</h4>
+<h4>37 videos, 7 readings</h4>
 
 <ol type="1">
   <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">Module 3 Introduction</a></li>
@@ -193,7 +194,7 @@ the course by putting together a simple slideshow on a web page.
 </ol>
 
 <ul>
-  <li></li>Additional Resources</li>
+  <li>Additional Resources</li>
   <li>JavaScript DOM Challengs 17-21</li>
 </ul>
 
@@ -340,7 +341,7 @@ vacation destination list application.
 
 <!-- start course here -->
 
-<h2 id="wk1-00">A Note From UC Davis</h2>h2>
+<h2>A Note From UC Davis</h2>
 
 <h3>Welcome to this course!</h3>
 
@@ -451,31 +452,60 @@ able to do some interesting things with JavaScript as you go along. So
 stick with me and we will have a lot of fun in this first module
 learning about JavaScript in the basics of the language.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01. Intro to JavaScript -- Part 1 (3:13)</h2>
-
-![](./images/image004.webp){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image004.webp?raw=true"
+  width="40%"
+  alt="." />
+</p>
+<!-- ![](./images/image004.webp){width="4.0in" height="2.261538713910761in"} -->
 
 Unlike a pillbox which really can&apos;t hold much more than just pills, you
 can put anything into an array in JavaScript.
-
-![](./images/image005.webp){width="5.0in"
-height="2.8269225721784776in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image005.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image005.webp){width="5.0in" height="2.8269225721784776in"} -->
 
 You can even put in an array and an array. You think about a pillbox
 with a sub-container with even smaller divisions in it.
-
-![](./images/image006.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 06.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image006.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image006.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 Let&apos;s take a look at what that looks like. Let me switch back over to
 my tab here. I&apos;m just going to paste this in, but you might want to
 type it. It&apos;s a little bit hard to type and get right, but it&apos;s worth
 trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.
-
-![](./images/image007.webp){width="3.5in"
-height="2.138140857392826in"}![](./images/image008.webp){width="3.5in"
-height="2.138140857392826in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07/08.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image007.webp?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/image008.webp?raw=true"
+  width="45%"
+  alt="." />
+</p>
+<!-- ![](./images/image007.webp){width="3.5in" height="2.138140857392826in"}
+![](./images/image008.webp){width="3.5in" height="2.138140857392826in"}
+-->
 
 Now if I do, if I want to access an element from this array, I could do
 vehicles, square bracket one. That&apos;s going to go and get the line that
@@ -491,8 +521,15 @@ arrays inside of arrays to start off with. But it&apos;s an important thing
 to understand about arrays is that they&apos;re very flexible tools that you
 can use to hold groups of data, and that&apos;s very useful.
 
-![](./images/image009.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 09.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image009.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image009.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 Another thing that&apos;s interesting is that a regular variable holding a
 string can be treated as an array in JavaScript. If I make a variable
@@ -504,57 +541,100 @@ chicken. Or I could do, joke dot length, and it will tell me that there
 are 28 characters in that string. That&apos;s kind of an interesting thing
 to understand about arrays as well.
 
-# Intro to JavaScript -- Part 2
-
-![](./images/image010.webp){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-02">1.02. Intro to JavaScript -- Part 2</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 10.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image010.webp?raw=true"
+  width="40%"
+  alt="." />
+</p>
+<!-- ![](./images/image010.webp){width="4.0in" height="2.261538713910761in"} -->
 
 A great place to go to find some websites that will show you the way
 JavaScript can interact with the website is this Awwwards website with
 the extra w&apos;s in here.
-
-![](./images/image011.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 11.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image011.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image011.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 I have that website pulled up over here. You can come here and look
 through some of the different sites that have won awards on
 awwwards.com. <https://www.awwwards.com/>. They tend to be pretty
 innovative and interesting sites.
-
-![](./images/image012.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 12.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image012.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image012.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 I have this one (<https://www.awwwards.com/sites/taptaro>). Whether
 you&apos;re talking about following the mouse, or coming over here and the
 animation around the circle, or the way these images pop in, this is all
 being done with JavaScript, this kind of thing.
-
-![](./images/image013.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 13.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image013.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image013.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 Then here we are in one of the NASA spacecraft website here (no longer
 active). Click on one of these things it will come up and show you the
 different pictures and give you some other interactions including some
 sounds as you work around it.
-
-![](./images/image014.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 14.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image014.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image014.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 Or this website (<https://boyntonyards.com/>) over here which as you
 scroll through does some interesting interactions as you&apos;re scrolling
 through the website, that kind of stuff.
-
-![](./images/image015.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 15.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image015.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image015.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 Yeah, look around on the web and wherever you see interactions
 happening, whether it&apos;s a map like this or all kinds of interactions
 are being created by JavaScript. You&apos;ve seen some interactions and
 websites and you&apos;ve probably seen plenty of others in other websites or
 you&apos;ve gone off and found your own.
-
-![](./images/image016.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 16.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image016.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image016.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 But let&apos;s talk about some other reasons why we should learn JavaScript.
 First of all, it&apos;s the most popular programming language in the world.
@@ -575,9 +655,15 @@ places where you can use JavaScript, but it is ultimately the language
 of the web. It is the programming, the scripting language for the web
 browser, and it&apos;s native to the web browser. That&apos;s a really great
 place to start with programming.
-
-![](./images/image017.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 17.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image017.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image017.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 The story of JavaScript is really interesting. It really is the story of
 an underdog who became king. JavaScript didn&apos;t start off as the most
@@ -598,8 +684,15 @@ a marketing ploy. But it&apos;s not actually the same language as Java,
 they&apos;re two completely different languages. It&apos;s easy as a beginner to
 get confused between Java and JavaScript.
 
-![](./images/image018.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image018.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image018.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 As I said before, JavaScript had some rough beginnings. The early years
 of JavaScript were plagued by bad implementations, developers who just
@@ -607,9 +700,15 @@ despised the language mostly due to poor documentation and it was
 greatly misunderstood as a language. This gentleman, Douglas Crockford,
 did a lot to help people understand the incredible value of JavaScript
 as a language and its strengths as well as its weaknesses.
-
-![](./images/image019.webp){width="5.0in"
-height="3.0544870953630796in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 19.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image019.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image019.webp){width="5.0in" height="3.0544870953630796in"} -->
 
 He wrote a book called JavaScript: The Good Parts. It&apos;s a legendary
 book because in this book he really talks about how JavaScript has some
@@ -629,17 +728,29 @@ from other languages, which was behind some of the frustration that
 people had with it initially is they just didn&apos;t understand it because
 it was different.
 
-# Intro to JavaScript -- Part 3 (5:33)
-
-![](./images/image020.webp){width="4.0in"
-height="2.261538713910761in"}
+<h2 id="ch1-03">1.03. Intro to JavaScript -- Part 3 (5:33)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image020.webp?raw=true"
+  width="40%"
+  alt="." />
+</p>
+<!-- ![](./images/image020.webp){width="4.0in" height="2.261538713910761in"} -->
 
 It&apos;s really important to understand the development of JavaScript over
 the years, and this is because the way JavaScript is developed has
 really impacted the way that we write JavaScript.
-
-![](./images/image021.webp){width="5.0in"
-height="2.823183508311461in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 21.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image021.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!-- ![](./images/image021.webp){width="5.0in" height="2.823183508311461in"} -->
 
 So having a little bit of understanding of this history is really
 important as you learn the language. Again, I&apos;m just going to cover
@@ -708,10 +819,17 @@ is a beginner&apos;s course, but we will be doing a lot with **ECMAScript
 5** and **ES6** or **ECMAScript 2015**. Dive in and I hope you enjoy
 learning about JavaScript as we go along here.
 
-# Tools Needed for Success
+<h3>Tools Needed for Success</h3>
 
-![](./images/image022.webp){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 22.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image022.webp?raw=true"
+  width="40%"
+  alt="." />
+</p>
+<!-- ![](./images/image022.webp){width="4.0in" height="2.261538713910761in"} -->
 
 Tools and skills needed for success for learning JavaScript.
 
@@ -727,12 +845,31 @@ Tools and skills needed for success for learning JavaScript.
 
 First, we&apos;ll talk about software and then we&apos;ll talk a little bit
 about hardware.
-
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 24/25.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image024.webp?raw=true"
+  width="40%"
+  alt="." />
+<img src="./images/image025.webp?raw=true"
+  width="40%"
+  alt="." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image026.webp?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!--
 ![](./images/image024.webp){width="3.5in"
 height="1.8064632545931758in"}![](./images/image025.webp){width="3.5in"
 height="1.8064632545931758in"}![](./images/image026.webp){width="5.0in"
 height="2.9594017935258092in"}
+-->
 
 The first thing you&apos;re going to need in order to work with JavaScript
 and write JavaScript is a good code editor, and I recommend using Visual
@@ -742,9 +879,21 @@ that for Mac or for Windows, or I believe also for Linux you can get
 Visual Studio Code. It&apos;s a really good code editor. It&apos;s very popular
 these days. There are plenty of other code editors out there.
 
-![](./images/image027.webp){width="3.5in"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 27/28.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image027.webp?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/image028.webp?raw=true"
+  width="45%"
+  alt="." />
+</p>
+<!-- ![](./images/image027.webp){width="3.5in"
 height="2.435042650918635in"}![](./images/image028.webp){width="3.5in"
 height="2.435042650918635in"}
+-->
 
 You could use Atom, you could use Sublime Text, even if you have
 Dreamweaver, you could use that as a code editor.
@@ -812,9 +961,13 @@ your browser. You might find some of those types of tools as well, but
 you will need some image editor to help you working with images. That&apos;s
 a nice to have. It&apos;s not absolutely necessary, but it&apos;s really nice to
 have.
-
-![](./images/image033.webp){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 33.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image033.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image033.webp){width="4.0in" height="2.06965769903762in"} -->
 
 Next, you&apos;re going to need a computer and internet access. It may sound
 obvious that you&apos;re going to need internet access to do an internet
@@ -827,19 +980,24 @@ code on and save files to. iOS you can make it work, but it&apos;s not
 really up to the task. You&apos;ll be fighting it every step along the way.
 You want to be working with Mac OS X or Windows 10 on a computer in
 order to really make this work.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2><a href="ch1-x">1.0x Skills Needed for Success (5:38)</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image034.webp){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 34.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image034.webp?raw=true"
+  width="40%"
+  alt="." />
 
 Let&apos;s talk about some of the skills you need in order to be successful
 learning JavaScript.
-
-![](./images/image035.webp){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 35.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image035.webp?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/image035.webp){width="4.0in" height="2.06965769903762in"} -->
 
 **First and foremost**, you need to be able to talk type. And by typing,
 I mean typing with 10 fingers without looking at your fingers, touch
@@ -905,13 +1063,11 @@ at it, stay calm, keep pushing forward. And you&apos;ll make a lot of
 progress with it, I promise.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 38.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image038.webp?raw=true"
   width="40%"
   alt="." />
-<!-- ![](./images/image038.webp){width="4.0in" -->
-height="2.06965769903762in"}
+<!-- ![](./images/image038.webp){width="4.0in" height="2.06965769903762in"} -->
 
 The **fourth** skill that you need is to be good with logic. And logic
 is a learned skill. Some people are naturally very logical but it&apos;s
@@ -981,7 +1137,7 @@ with JavaScript.
 
 -   [GNU Gimp](https://www.gimp.org/)
 
-# JavaScript Variables
+<h3>JavaScript Variables</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 41. javascript variables (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
