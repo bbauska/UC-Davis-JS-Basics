@@ -826,8 +826,7 @@ is a beginner&apos;s course, but we will be doing a lot with **ECMAScript
 5** and **ES6** or **ECMAScript 2015**. Dive in and I hope you enjoy
 learning about JavaScript as we go along here.
 
-<h3>Tools Needed for Success</h3>
-
+<h2><a href="ch1-04">1.04 Tools Needed for Success</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 22. tools needed for success in learning javascript (xx) ~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -988,7 +987,7 @@ really up to the task. You&apos;ll be fighting it every step along the way.
 You want to be working with Mac OS X or Windows 10 on a computer in
 order to really make this work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2><a href="ch1-x">1.0x Skills Needed for Success (5:38)</a></h2>
+<h2><a href="ch1-05">1.05 Skills Needed for Success (5:38)</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 34. skills needed for success with javascript (xx) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
