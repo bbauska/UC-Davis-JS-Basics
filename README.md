@@ -108,67 +108,53 @@ contain.
 
 <h4>25 lessons, 5 readings</h4>
 
-1.  <a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">Module 2 Introduction</a>
-
-2.  **Visual Studio - Part 1**
-
-3.  **Visual Studio - Part 2**
-
-4.  **Visual Studio - Part 3**
-
-5.  **Operators, Booleans & Selection in JavaScript**
-
-6.  **Try This!**
-
-7.  **Comparing Values**
-
-8.  **Else If**
-
-9.  **Switch Statements**
-
-10. **Using &&**
+<ol>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">Module 2 Introduction</a></li>
+  <li>Visual Studio - Part 1</li>
+  <li>Visual Studio - Part 2</li>
+  <li>Visual Studio - Part 3</li>
+  <li>Operators, Booleans & Selection in JavaScript</li>
+  <li>Try This!</li>
+  <li>Comparing Values</li>
+  <li>Else If</li>
+  <li>Switch Statements</li>
+  <li>Using &&</li>
+</ol>
 
 <ul>
   <li>Additional Resources</li>
 </ul>
 
-11. **Loops in JavaScript**
-
-12. **Working With Arrays**
-
-13. **The For..Of Loop**
-
-14. **While Loops**
+<ol type="1" start="11">
+  <li>Loops in JavaScript</li>
+  <li>Working With Arrays</li>
+  <li>The For..Of Loop</li>
+  <li>While Loops</li>
+</ol>
 
 <ul>
   <li>Additional Resources</li>
 </ul>
 
-15. **Structured Programming, Sequence - Part 1**
-
-16. **Sequence - Part 2**
-
-17. **Sequence - Part 3, Loop**
-
-18. **Loop + Selection**
-
-19. **JavaScript Basic Challenges Introduction**
+<ol type="1" start="15">
+  <li>Structured Programming, Sequence - Part 1</li>
+  <li>Sequence - Part 2</li>
+  <li>Sequence - Part 3, Loop</li>
+  <li>Loop + Selection</li>
+  <li>JavaScript Basic Challenges Introduction</li>
 
 <ul>
   <li>JavaScript Basic Challenges 01-09</li>
 </ul>
 
-20. **Functions in JavaScript**
-
-21. **Passing In and Returning Data**
-
-22. **Useful Example - Step 1**
-
-23. **Useful Example - Steps 2-4**
-
-24. **Useful Example - Step 5**
-
-25. **More On Functions**
+<ol type="1" start="20">
+  <li>Functions in JavaScript</li>
+  <li>Passing In and Returning Data</li>
+  <li>Useful Example - Step 1</li>
+  <li>Useful Example - Steps 2-4</li>
+  <li>Useful Example - Step 5</li>
+  <li>More On Functions</li>
+</ol>
 
 <ul>
   <li>Additional Resources</li>
@@ -192,99 +178,76 @@ the course by putting together a simple slideshow on a web page.
 
 <h4>36 videos, 7 readings</h4>
 
-1.  [**[Module 3
-    > Introduction]{.underline}**](https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE)
-
-2.  **JavaScript and the DOM**
-
-3.  **Dot Syntax and Methods**
-
-4.  **DOM: getElementsByTagName();**
-
-5.  **DOM: getElementsByClassName();**
-
-6.  **DOM: querySelector();**
-
-7.  **DOM: querySelectorAll();**
-
-8.  **innerHTML**
-
-9.  **className**
-
-10. **Creating Elements and Text Nodes**
-
-11. **Video: Removing Elements**
+<ol type="1">
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">Module 3 Introduction</a></li>
+  <li>JavaScript and the DOM</li>
+  <li>Dot Syntax and Methods</li>
+  <li>DOM: getElementsByTagName();</li>
+  <li>DOM: getElementsByClassName();</li>
+  <li>DOM: querySelector();</li>
+  <li>DOM: querySelectorAll();</li>
+  <li>innerHTML</li>
+  <li>className</li>
+  <li>Creating Elements and Text Nodes</li>
+  <li>Removing Elements</li>
+</ol>
 
 <ul>
   <li></li>Additional Resources</li>
   <li>JavaScript DOM Challengs 17-21</li>
 </ul>
 
-12. **Capturing Events with JavaScript**
-
-13. **Event Listeners**
-
-14. **The Event Object**
-
-15. **More On Events**
-
-16. **Mouseover, Mouseover Events: HTML**
-
-17. **Scroll Events: HTML**
-
-18. **deo: Window Resizing**
-
-19. **Key Down Event**
+<ol type="1" start="12">
+  <li>Capturing Events with JavaScript</li>
+  <li>Event Listeners</li>
+  <li>The Event Object</li>
+  <li>More On Events</li>
+  <li>Mouseover, Mouseover Events: HTML</li>
+  <li>Scroll Events: HTML</li>
+  <li>deo: Window Resizing</li>
+  <li>Key Down Event</li>
+</ol>
 
 <ul>
   <li>Additional Resources</li>
 </ul>
 
-20. **JavaScript Event Challenges 22-30**
-
-21. **Scope in JavaScript**
-
-22. **Strategy 1: Never Use Global Scope**
-
-23. **Strategy 2: &ldquo;use strict;&rdquo;**
-
-24. **Strategy 3: const and let**
-
-25. **Scope in JavaScript Summary**
+<ol type="1" start="20">
+  <li>JavaScript Event Challenges 22-30</li>
+  <li>Scope in JavaScript</li>
+  <li>Strategy 1: Never Use Global Scope</li>
+  <li>Strategy 2: &ldquo;use strict;&rdquo;</li>
+  <li>Strategy 3: const and let</li>
+  <li>Scope in JavaScript Summary</li>
+</ol>
 
 <ul>
   <li>Additional Resources</li>
   <li>Simple Slide Show START Files</li>
 </ul>
 
-26. **Simple JS Slideshow - Part 1**
-
-27. **Simple JS Slideshow - Part 2**
-
-28. **Simple JS Slideshow - Part 3**
-
-29. **Simple JS Slideshow - Part 4**
-
-30. **Simple JS Slideshow - Part 5**
+<ol type="1" start="26">
+  <li>Simple JS Slideshow - Part 1</li>
+  <li>Simple JS Slideshow - Part 2</li>
+  <li>Simple JS Slideshow - Part 3</li>
+  <li>Simple JS Slideshow - Part 4</li>
+  <li>Simple JS Slideshow - Part 5</li>
+</ol>
 
 <ul>
   <li>Simple JS Slideshow Open Discussion</li>
   <li>Advanced Slide Show START Files</li>
 </ul>
 
-31. **Slideshow with Cross Fade Effect - Part 1**
-
-32. **Slideshow with Cross Fade Effect - Part 2**
-
-33. **Slideshow with Cross Fade Effect - Part 3**
-
-34. **Slideshow with Cross Fade Effect - Part 4**
-
-35. **Slideshow with Cross Fade Effect - Part 5**
-
-36. **Slideshow with Cross Fade Effect - Part 6**
-
-37. **Slideshow with Cross Fade Effect - Part 7**
+<ol type="1" start="31">
+  <li>Slideshow with Cross Fade Effect - Part 1</li>
+  <li>Slideshow with Cross Fade Effect - Part 2</li>
+  <li>Slideshow with Cross Fade Effect - Part 3</li>
+  <li>Slideshow with Cross Fade Effect - Part 4</li>
+  <li>Slideshow with Cross Fade Effect - Part 5</li>
+  <li>Slideshow with Cross Fade Effect - Part 6</li>
+  <li>Slideshow with Cross Fade Effect - Part 7</li>
+</ol>
 
 <ul>
   <li>Slideshow With Cross Fade Effect Open Discussion</li>
@@ -303,80 +266,73 @@ vacation destination list application.
 
 <h4>26 videos, 4 readings</h4>
 
-1.  [**[Module 4
-    > Introduction]{.underline}**](https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0)
+<ol type="1" start="1">
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">Module 4 Introduction</a></li>
+</ol>
 
-    -   **Basic Distance Converter Start Files**
+<ul>
+  <li>Basic Distance Converter Start Files</li>
+</ul>
 
-2.  **Basic Distance Converter Project - Part 1**
-
-3.  **Basic Distance Converter Project - Part 2**
-
-4.  **Basic Distance Converter Project - Part 3**
-
-5.  **Basic Distance Converter Project - Part 4**
-
-6.  **Basic Distance Converter Project - Part 5**
+<ol type="1" start="2">
+  <li>Basic Distance Converter Project - Part 1</li>
+  <li>Basic Distance Converter Project - Part 2</li>
+  <li>Basic Distance Converter Project - Part 3</li>
+  <li>Basic Distance Converter Project - Part 4</li>
+  <li>Basic Distance Converter Project - Part 5</li>
+</ol>
 
 <ul>
   <li>Basic Distance Converter Project Open Discussion</li>
   <li>Advanced Distance Converter START Files</li>
 </ul>
 
-7.  **Advanced Distance Converter Project - Part 1**
-
-8.  **Advanced Distance Converter Project - Part 2**
-
-9.  **Advanced Distance Converter Project - Part 3**
-
-10. **Advanced Distance Converter Project - Part 4**
-
-11. **Advanced Distance Converter Project - Part 5**
+<ol type="1" start="7">
+  <li>Advanced Distance Converter Project - Part 1</li>
+  <li>Advanced Distance Converter Project - Part 2</li>
+  <li>Advanced Distance Converter Project - Part 3</li>
+  <li>Advanced Distance Converter Project - Part 4</li>
+  <li>Advanced Distance Converter Project - Part 5</li>
+</ol>
 
 <ul>
   <li>Advanced Distance Converter Project Open Discussion</li>
   <li>Vacation Destination Project - Part 1 START Files</li>
 </ul>
 
-12. **Vacation Destination Project: HTML & CSS - Part 1**
-
-13. **Vacation Destination Project: HTML & CSS - Part 2**
-
-14. **Vacation Destination Project: HTML & CSS - Part 3**
-
-15. **Vacation Destination Project: HTML & CSS - Part 4**
-
-16. **Vacation Destination Project: HTML & CSS - Part 5**
-
-17. **Vacation Destination Project: HTML & CSS - Part 6**
+<ol type="1" start="12">
+  <li>Vacation Destination Project: HTML & CSS - Part 1</li>
+  <li>Vacation Destination Project: HTML & CSS - Part 2</li>
+  <li>Vacation Destination Project: HTML & CSS - Part 3</li>
+  <li>Vacation Destination Project: HTML & CSS - Part 4</li>
+  <li>Vacation Destination Project: HTML & CSS - Part 5</li>
+  <li>Vacation Destination Project: HTML & CSS - Part 6</li>
+</ol>
 
 <ul>
   <li>Vacation Destination Project - Part 1 Open Discussion</li>
   <li>Vacation Destination Project - Part 2 START Files</li>
 </ul>
 
-18. **Vacation Destination Project: JavaScript - Part 1**
-
-19. **Vacation Destination Project: JavaScript - Part 2**
-
-20. **Vacation Destination Project: JavaScript - Part 3**
-
-21. **Vacation Destination Project: JavaScript - Part 4**
-
-22. **Vacation Destination Project: JavaScript - Part 5**
-
-23. **Vacation Destination Project: JavaScript - Part 6**
-
-24. **Vacation Destination Project: JavaScript - Part 7**
-
-25. **Vacation Destination Project: JavaScript - Part 8**
+<ol type="1" start="18">
+  <li>Vacation Destination Project: JavaScript - Part 1</li>
+  <li>Vacation Destination Project: JavaScript - Part 2</li>
+  <li>Vacation Destination Project: JavaScript - Part 3</li>
+  <li>Vacation Destination Project: JavaScript - Part 4</li>
+  <li>Vacation Destination Project: JavaScript - Part 5</li>
+  <li>Vacation Destination Project: JavaScript - Part 6</li>
+  <li>Vacation Destination Project: JavaScript - Part 7</li>
+  <li>Vacation Destination Project: JavaScript - Part 8</li>
+</ol>
 
 <ul>
   <li>Vacation Destination Project: Part 2 Open Discussion</li>
   <li>Moduel 4 Reflection</li>
 </ul>
 
-26. **Course Summary**
+<ol type="1" start="26">
+  <li>Course Summary</li>
+</ol>
 
 <ul>
   <li>Self-Reflection</li>
@@ -404,7 +360,7 @@ in this course.
 
 When navigating the course, you can find available **course resources**
 under each of the lecture videos in a section labeled
-"[Downloads]{.underline}" -- here you can download the lecture video,
+"[Downloads]" -- here you can download the lecture video,
 view transcripts, PDFs of the lecture slides, and **find additional
 readings or files**.
 
@@ -449,29 +405,13 @@ Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-C
 
 We look forward to having you in this course. Happy learning!
 
-***UC Davis Coursera Team***
+<b><i>UC Davis Coursera Team</i></b>
 
-## **Additional Links**: {#additional-links }
+<h3>Additional Links:</h3>
 
-#### Coursera's Learner Support/Help Center: {#courseras-learner-supporthelp-center }
-
-<https://learner.coursera.help/hc/en-us>
-
-#### Flagging a Lecture: {#flagging-a-lecture }
-
-<https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course>
-
-#### Assignment Deadlines:  {#assignment-deadlines }
-
-<https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines>
-
-#### Peer Reviewed Assignments: {#peer-reviewed-assignments }
-
-<https://learner.coursera.help/hc/en-us/sections/201895903-Peer-reviewed-assignments>
-
-#### Coursera's Honor Code: {#courseras-honor-code }
-
-<https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code>
+<ul>
+  <li><a href="https://learner.coursera.help/hc/en-us">Coursera's Learner Support/Help Center:</a></li>
+</ul>
 
 <h1 id="ch1">Week One:</h1>
 
