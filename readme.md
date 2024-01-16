@@ -45,15 +45,17 @@ skills.
 
 ## [**Week 1: Getting Started, Intro to JS, Variables, and Arrays**](#ch1)
 >### [**1.00 A Note from UC Davis**](#ch1-00-note)
->### [**1.00 Learning Objectives**](#ch1-00-objectives)
+>### [**1.00 Learning Objectives**](#ch1-00-obj)
 >### [**1.00 Welcome/Intro to this Course!**](#ch1-00-welcome)
 >### [**1.01 Intro to JavaScript - Part 1**](#ch1-01)
 >### [**1.02 Intro to JavaScript - Part 2**](#ch1-02)
 >### [**1.03 Intro to JavaScript - Part 3**](#ch1-03)
 >### [**1.04 Tools Needed for Success**](#ch1-04)
 >### [**1.05 Skills Needed for Success**](#ch1-05)
-	>## [**1.05.Assessing Your Skills**](#ch1-05-assess)
-	>## [**1.05.Additional Resources**](#ch1-05-add)
+
+	>### [**1.05.Assessing Your Skills**](#ch1-05-assess)
+	>### [**1.05.Additional Resources**](#ch1-05-add)
+
 >### [**1.06 JavaScript Variables**](#ch1-06)
 >### [**1.07 JavaScript Variables Practice - Part 1**](#ch1-07)
 >### [**1.08 JavaScript Variables Practice - Part 2**](#ch1-08)
@@ -61,14 +63,14 @@ skills.
 >### [**1.10 JavaScript Arrays - Part 1**](#ch1-10)
 >### [**1.11 JavaScript Arrays - Part 2**](#ch1-11)
 >### [**1.12 JavaScript Arrays Practice**](#ch1-12)
-	>## [**1.12.Additional Resources**](#ch1-12-add)
-	>## [**1.12.Reserved Words**](#ch1-12-words)
-    >## [**1.12.Array Methods**](#ch1-12-array)
+
+	>### [**1.12.Additional Resources**](#ch1-12-add)
+	>### [**1.12.Reserved Words**](#ch1-12-words)
+	>### [**1.12.Array Methods**](#ch1-12-array)
 	
 ## [**Week 2: Controlling Logical Flow in JavaScript**](#ch2)
->### [**2.00 Learning Objectives**](#ch2-00-objectives)
->### [**2.00 Module 2 Introduction**](#ch2-00)
-
+	>### [**2.00 Learning Objectives**](#ch2-00-obj)
+	>### [**2.00 Module 2 Introduction**](#ch2-00)
 >### [**2.01 Visual Studio - Part 1**](#ch2-01)
 
 <h2>Syllabus</h2>
