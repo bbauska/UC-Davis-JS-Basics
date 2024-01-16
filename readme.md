@@ -1,7 +1,7 @@
 ---
 title: |
   University of California @Davis JavaScript Basics
-  taught by William Mead, Lecturer -- UC-Davis
+  by William Mead, Lecturer -- UC-Davis
 author: "bbauska"
 date last editted: "1/16/2024 12+pm"
 output: 
