@@ -1,7 +1,7 @@
 ---
 title: |
   University of California @Davis JavaScript Basics
-  by William Mead, Lecturer -- UC-Davis
+  by William Mead, Lecturer - UC-Davis
 author: "bbauska"
 date last editted: "1/16/2024 12+pm"
 output: 
@@ -40,6 +40,29 @@ resources and recommendations are provided to improve these skills.
 There is ample opportunity for students to practice these first, core
 skills.
 
+<!--~~ Hoverable Dropdown Menu ~~-->
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
+
+## [**Week 1: Getting Started, Intro to JS, Variables, and Arrays**](#ch1)
+>### [**1.00 A Note from UC Davis**](#ch1-00-note)
+>### [**1.00 Learning Objectives**](#ch1-00-objectives)
+>### [**1.01 Intro to JavaScript - Part 1**](#ch1-01)
+>### [**1.02 Intro to JavaScript - Part 2**](#ch1-02)
+>### [**1.03 Intro to JavaScript - Part 3**](#ch1-03)
+>### [**1.04 Tools Needed for Success**](#ch1-04)
+>### [**1.05 Skills Needed for Success**](#ch1-05)
+>### [**1.06 JavaScript Variables**](#ch1-06)
+>### [**1.07 JavaScript Variables Practice - Part 1**](#ch1-07)
+>### [**1.08 JavaScript Variables Practice - Part 2**](#ch1-08)
+>### [**1.09 JavaScript Variables Practice - Part 3**](#ch1-09)
+>### [**1.10 JavaScript Arrays - Part 1**](#ch1-10)
+>### [**1.11 JavaScript Arrays - Part 2**](#ch1-11)
+>### [**1.12 JavaScript Arrays Practice**](#ch1-12)
+
+## [**Week 2: Visual Studio**](#ch2)
+>### [**2.00 
+>### [**2.01 Visual Studio - Part 1**](#ch2-01)
+
 <h2>Syllabus</h2>
 
 <h3>Week 1</h3>
@@ -63,6 +86,7 @@ values from them.
 
 <ul>
   <li>1.00.A Note From UC Davis</li>
+  <li>1.00.Learning Objectives</li>
   <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">1.00.Welcome/Intro to this Course!</a></li>
 </ul>
 
@@ -75,6 +99,7 @@ values from them.
 </ol>
 
 <ul>
+  <li>1.05.Assessing Your Skills</li>
   <li>1.05.Additional Resources</li>
 </ul>
 
@@ -89,8 +114,8 @@ values from them.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
-  <li>Module 1 Reflection</li>
+  <li>1.12.Additional Resources</li>
+  <li>1.12.Module 1 Reflection</li>
 </ul>
 
 <h3>Week 2</h3>
@@ -113,8 +138,13 @@ custom functions that can be called to complete the instructions they contain.
 
 <h4>25 lessons, 5 readings</h4>
 
+<ul>
+  <li>2.00.Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">2.00.Module 2 Introduction</a></li>
+</ul>
+
 <ol>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">Module 2 Introduction</a></li>
+  <li>Visual Studio - Part 1</li>
   <li>Visual Studio - Part 1</li>
   <li>Visual Studio - Part 2</li>
   <li>Visual Studio - Part 3</li>
@@ -127,7 +157,7 @@ custom functions that can be called to complete the instructions they contain.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
+  <li>2.09.Additional Resources</li>
 </ul>
 
 <ol type="1" start="11">
@@ -138,7 +168,7 @@ custom functions that can be called to complete the instructions they contain.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
+  <li>2.13.JavaScript-LoopsAdditional-Resources</li>
 </ul>
 
 <ol type="1" start="15">
@@ -146,11 +176,10 @@ custom functions that can be called to complete the instructions they contain.
   <li>Sequence - Part 2</li>
   <li>Sequence - Part 3, Loop</li>
   <li>Loop + Selection</li>
-  <li>JavaScript Basic Challenges Introduction</li>
 </ol>
 
 <ul>
-  <li>JavaScript Basic Challenges 01-09</li>
+  <li>2.17.JavaScript Basic Challenges Introduction 01-09</li>
 </ul>
 
 <ol type="1" start="20">
@@ -163,9 +192,9 @@ custom functions that can be called to complete the instructions they contain.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
-  <li>JavaScript Function Challengs 10-16</li>
-  <li>Module 2 Reflection</li>
+  <li>2.24.Additional Resources</li>
+  <li>2.24.JavaScript Function Challengs 10-16</li>
+  <li>2.24.Module 2 Reflection</li>
 </ul>
 
 
@@ -185,8 +214,12 @@ the course by putting together a simple slideshow on a web page.
 
 <h4>37 videos, 7 readings</h4>
 
+<ul>
+  <li>3.00.Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">3.00.Module 3 Introduction</a></li>
+</ul>
+
 <ol type="1">
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">Module 3 Introduction</a></li>
   <li>JavaScript and the DOM</li>
   <li>Dot Syntax and Methods</li>
   <li>DOM: getElementsByTagName();</li>
@@ -200,11 +233,11 @@ the course by putting together a simple slideshow on a web page.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
-  <li>JavaScript DOM Challengs 17-21</li>
+  <li>3.10.Additional Resources</li>
+  <li>3.10.JavaScript DOM Challengs 17-21</li>
 </ul>
 
-<ol type="1" start="12">
+<ol type="1" start="11">
   <li>Capturing Events with JavaScript</li>
   <li>Event Listeners</li>
   <li>The Event Object</li>
@@ -216,10 +249,10 @@ the course by putting together a simple slideshow on a web page.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
+  <li>3.18.Additional Resources</li>
 </ul>
 
-<ol type="1" start="20">
+<ol type="1" start="19">
   <li>JavaScript Event Challenges 22-30</li>
   <li>Scope in JavaScript</li>
   <li>Strategy 1: Never Use Global Scope</li>
@@ -229,11 +262,11 @@ the course by putting together a simple slideshow on a web page.
 </ol>
 
 <ul>
-  <li>Additional Resources</li>
-  <li>Simple Slide Show START Files</li>
+  <li>3.24.Additional Resources</li>
+  <li>3.24.Simple Slide Show START Files</li>
 </ul>
 
-<ol type="1" start="26">
+<ol type="1" start="25">
   <li>Simple JS Slideshow - Part 1</li>
   <li>Simple JS Slideshow - Part 2</li>
   <li>Simple JS Slideshow - Part 3</li>
@@ -242,11 +275,11 @@ the course by putting together a simple slideshow on a web page.
 </ol>
 
 <ul>
-  <li>Simple JS Slideshow Open Discussion</li>
-  <li>Advanced Slide Show START Files</li>
+  <li>3.29.Simple JS Slideshow Open Discussion</li>
+  <li>3.29.Advanced Slide Show START Files</li>
 </ul>
 
-<ol type="1" start="31">
+<ol type="1" start="30">
   <li>Slideshow with Cross Fade Effect - Part 1</li>
   <li>Slideshow with Cross Fade Effect - Part 2</li>
   <li>Slideshow with Cross Fade Effect - Part 3</li>
@@ -257,8 +290,8 @@ the course by putting together a simple slideshow on a web page.
 </ol>
 
 <ul>
-  <li>Slideshow With Cross Fade Effect Open Discussion</li>
-  <li>Prompt: Module 3 Reflection</li>
+  <li>3.36.Slideshow With Cross Fade Effect Open Discussion</li>
+  <li>3.36.Prompt: Module 3 Reflection</li>
 </ul>
 
 <h3>Week 4</h3>
@@ -278,10 +311,12 @@ vacation destination list application.
 </ol>
 
 <ul>
-  <li>Basic Distance Converter Start Files</li>
+  <li>4.00.Learning Objectives</li>
+  <li>4.00.Module 4 Introduction</li>
+  <li>4.00.Basic Distance Converter START Files</li>
 </ul>
 
-<ol type="1" start="2">
+<ol type="1" start="1">
   <li>Basic Distance Converter Project - Part 1</li>
   <li>Basic Distance Converter Project - Part 2</li>
   <li>Basic Distance Converter Project - Part 3</li>
@@ -290,11 +325,11 @@ vacation destination list application.
 </ol>
 
 <ul>
-  <li>Basic Distance Converter Project Open Discussion</li>
-  <li>Advanced Distance Converter START Files</li>
+  <li>4.05.Basic Distance Converter Project Open Discussion</li>
+  <li>4.05.Advanced Distance Converter START Files</li>
 </ul>
 
-<ol type="1" start="7">
+<ol type="1" start="6">
   <li>Advanced Distance Converter Project - Part 1</li>
   <li>Advanced Distance Converter Project - Part 2</li>
   <li>Advanced Distance Converter Project - Part 3</li>
@@ -303,11 +338,11 @@ vacation destination list application.
 </ol>
 
 <ul>
-  <li>Advanced Distance Converter Project Open Discussion</li>
-  <li>Vacation Destination Project - Part 1 START Files</li>
+  <li>4.10.Advanced Distance Converter Project Open Discussion</li>
+  <li>4.10.Vacation Destination Project - Part 1 START Files</li>
 </ul>
 
-<ol type="1" start="12">
+<ol type="1" start="11">
   <li>Vacation Destination Project: HTML & CSS - Part 1</li>
   <li>Vacation Destination Project: HTML & CSS - Part 2</li>
   <li>Vacation Destination Project: HTML & CSS - Part 3</li>
@@ -317,11 +352,11 @@ vacation destination list application.
 </ol>
 
 <ul>
-  <li>Vacation Destination Project - Part 1 Open Discussion</li>
-  <li>Vacation Destination Project - Part 2 START Files</li>
+  <li>4.16.Vacation Destination Project - Part 1 Open Discussion</li>
+  <li>4.16.Vacation Destination Project - Part 2 START Files</li>
 </ul>
 
-<ol type="1" start="18">
+<ol type="1" start="17">
   <li>Vacation Destination Project: JavaScript - Part 1</li>
   <li>Vacation Destination Project: JavaScript - Part 2</li>
   <li>Vacation Destination Project: JavaScript - Part 3</li>
@@ -333,16 +368,16 @@ vacation destination list application.
 </ol>
 
 <ul>
-  <li>Vacation Destination Project: Part 2 Open Discussion</li>
-  <li>Moduel 4 Reflection</li>
+  <li>4.24.Vacation Destination Project: Part 2 Open Discussion</li>
+  <li>4.24.Module 4 Reflection</li>
 </ul>
 
-<ol type="1" start="26">
+<ol type="1" start="25">
   <li>Course Summary</li>
 </ol>
 
 <ul>
-  <li>Self-Reflection</li>
+  <li>4.25.Self-Reflection</li>
 </ul>
 
 <!-- start course here -->
@@ -411,9 +446,20 @@ Coursera Honor Code</a>.</p>
 <ul>
   <li><a href="https://learner.coursera.help/hc/en-us">Coursera's Learner Support/Help Center:</a></li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One:</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-00-objectives">1.00 Learning Objectives</h2>
 
+<ul>
+  <li>Identify interactions on web pages created with JavaScript.</li>
+  <li>Articulate, in general terms, the importance of how JavaScript was developed and how that impacts the way JavaScript is written.</li>
+  <li>Identify properly formed semantic HTML.</li>
+  <li>Articulate major concepts in CSS.</li>
+  <li>Identify properly formed CSS syntax.</li>
+  <li>Write simple JavaScript statements in the web browser console.</li>
+  <li>Assign and retrieve values from variables and arrays in JavaScript.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-welcome">1.00 Welcome to JavaScript Basics (1:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
