@@ -1573,12 +1573,12 @@ a little bit problematic. Already you&apos;re learning a little bit about
 why we use JavaScript in certain ways or why we type in certain ways.
 We&apos;ll get into more detail about that as we go along.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-09">1.09. JavaScript Variables Practice -- Part 3 (5:21)
+<h2 id="ch1-09">1.09. JavaScript Variables Practice -- Part 3 (5:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src=4./images/image067.png?raw=true"
+<img src="./images/image067.png?raw=true"
   width="50%"
   alt="." />
 <!-- ![](./images/media/image67.png){width="4.0in" height="2.2508552055993003in"} -->
@@ -1677,14 +1677,14 @@ interesting aspects of the language, and you&apos;ll be creating more
 interesting little programs that will actually do things on web pages
 and on websites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-10">1.10. JavaScript Arrays -- Part 1 (5:27)
+<h2 id="ch1-10">1.10. JavaScript Arrays -- Part 1 (5:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 73. javascript arrays - part 1 (1.10) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image073.png?raw=true"
   width="40%"
-  alt="." />
+  alt="1.10. JavaScript Arrays - Part 1." />
 <!-- ![](./images/media/image73.png){width="4.0in" height="2.2508552055993003in"} -->
 
 JavaScript arrays.
@@ -1769,14 +1769,14 @@ programming, frequently we start counting with 0 first, 0, 1, 2, but the
 length of the array is 3. That&apos;s an important distinction and something
 to be aware of.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-11">1.11. JavaScript Arrays -- Part 2 (3:17)
+<h2 id="ch1-11">1.11. JavaScript Arrays -- Part 2 (3:17)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 78. javascript arrays - part 2 (1.11) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image078.png?raw=true"
   width="40%"
-  alt="." />
+  alt="1.11. JavaScript Arrays - Part 2." />
 <!-- ![](./images/media/image78.png){width="4.0in" height="2.2508552055993003in"} -->
 
 Unlike a pill box, which really can&apos;t hold much more than just pills,
@@ -1837,14 +1837,14 @@ could do joke.length and it&apos;ll tell me that there are 28 characters in
 that string. So that&apos;s kind of an interesting thing to understand about
 arrays as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-12">1.12. JavaScript Arrays Practice (6:16)
+<h2 id="ch1-12">1.12. JavaScript Arrays Practice (6:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 82. javascript arrays practice (1.12) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image082.png?raw=true"
   width="40%"
-  alt="." />
+  alt="1.12. JavaScript Arrays Practice." />
 <!-- ![](./images/media/image82.png){width="4.0in" height="2.2508552055993003in"} -->
 
 Let&apos;s do a little bit of practice with arrays, so I can make a new
