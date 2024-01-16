@@ -2027,19 +2027,17 @@ you&apos;ll see that that will in fact get me the Llama at the very end.</p>
 seem a little counterintuitive to begin with, but you&apos;ll get used to
 working with arrays and with the lengths of arrays and with different
 ways of getting elements out of arrays.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Additional Resources</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 <p>Here are resources related to these lessons:</p>
 
 <ul>
   <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/vzVsq/additional-resources">
-    Additional Resources</a></li>
-  <li><a href="https://www.w3schools.com/js/js_reserved.asp">Reserved Words</a></li>
+    1.12.Additional Resources</a></li>
+  <li><a href="https://www.w3schools.com/js/js_reserved.asp">1.12.Reserved Words</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
-    Array Methods</a></li>
+    1.12.Array Methods</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
