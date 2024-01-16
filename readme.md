@@ -360,43 +360,44 @@ the lecture videos in a section labeled "[Downloads]" -- here you can download t
 video, view transcripts, PDFs of the lecture slides, and <b>find additional readings or 
 files</b>.
 
-If you run into any issues during this course, <b>learner support</b> is available to all 
+<p>If you run into any issues during this course, <b>learner support</b> is available to all 
 Coursera students. The link for Coursera's Learner support is included below. The 
 <a href="https://learner.coursera.help/hc/en-us">Help Center/Learner Support</a> includes 
-topics such as account setup, payments, enrollment questions, and troubleshooting common problems.
+topics such as account setup, payments, enrollment questions, and troubleshooting common problems.</p>
 
-If you find any content issues, be sure to let the course staff know by <b>flagging the 
+<p>If you find any content issues, be sure to let the course staff know by <b>flagging the 
 lecture</b>, assignment, reading, or quiz and this will inform us of where these issues occur. 
 Here is the link for more information on how to 
 <a href="https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course">
-Flag an Issue</a> &minus; it is also listed below.
+Flag an Issue</a> &minus; it is also listed below.</p>
 
-One of the great things about Coursera courses is that they are
+<p>One of the great things about Coursera courses is that they are
 self-paced. The course dates are based on the average time it takes to
 complete a course. However, if you need additional time to complete a
 course you can <b>reset your deadlines</b> with no penalties. More
-information on resetting deadlines can be found here: [Assignment
-Deadlines](https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines)
+information on resetting deadlines can be found here: 
+<a href="https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines">
+Assignment Deadlines</a>.</p>
 
-Need additional help during your course session? Be sure to utilize the
+<p>Need additional help during your course session? Be sure to utilize the
 <b>discussion forums</b> and interact with your fellow peers. In this area,
 you can ask questions or search for similar issues that have already
 been posted in the forums. Learner support is also a great place to find
 answers, but specific course content questions can typically be found
 and answered in the discussion forums. This is also a great place to
 post your assignment if additional peer reviews are needed. Here is a
-link with more information on the discussion forums: [Discussion
-Forums](https://learner.coursera.help/hc/en-us/articles/208279996-Get-help-with-course-content-in-the-discussion-forums)
+link with more information on the discussion forums: 
+<a href="https://learner.coursera.help/hc/en-us/articles/208279996-Get-help-with-course-content-in-the-discussion-forums">
+Discussion Forums</a>.</p>
 
-Because of the self-paced nature of Coursera courses, this is an
-excellent opportunity to show your commitment to your work and the work
-of your peers through academic integrity. Be sure to read the Coursera
-guidelines and the <b>Coursera Honor Code</b> here: [Coursera Honor
-Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code)
+<p>Because of the self-paced nature of Coursera courses, this is an excellent opportunity 
+to show your commitment to your work and the work of your peers through academic integrity. 
+Be sure to read the Coursera guidelines and the <b>Coursera Honor Code</b> here: 
+<a href="https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code">
+Coursera Honor Code</a>.</p>
 
-We look forward to having you in this course. Happy learning!
-
-<b><i>UC Davis Coursera Team</i></b>
+<p>We look forward to having you in this course. Happy learning!<br>
+<b><i>UC Davis Coursera Team</i></b></p>
 
 <h3>Additional Links:</h3>
 
@@ -417,7 +418,7 @@ We look forward to having you in this course. Happy learning!
   alt="." />
 </p>
 
-Hello, and welcome to our course on JavaScript. My name is Bill Mead,
+<p>Hello, and welcome to our course on JavaScript. My name is Bill Mead,
 and I&apos;ve been teaching and learning about JavaScript for many years.
 Here I am in California, outside on this beautiful day not that many
 miles away from where JavaScript was invented over 25 years ago. It&apos;s a
@@ -425,17 +426,17 @@ fun programming language, I think you&apos;ll enjoy learning it. It can be
 frustrating and maddening at times when you can&apos;t get it to work, but
 when you do get things to work the way you want them to work, it&apos;s
 super satisfying. It&apos;s become one of the most popular programming
-languages in the planet.
+languages in the planet.</p>
 
-As we go through this course and through this specialization, I think
+<p>As we go through this course and through this specialization, I think
 you&apos;ll start to understand why it&apos;s satisfying and easy to get started
 with and if you&apos;re new to programming, don&apos;t worry, we&apos;re going to
 start at the very beginning and get you going all on the right track.
-Buckle in and let&apos;s get started learning JavaScript.
+Buckle in and let&apos;s get started learning JavaScript.</p>
 
 <h2 id="ch1-00-intro">1.00. Week 1 Introduction (0:57)</h2>
 
-Welcome to the first module on JavaScript. In this module we&apos;ll get
+<p>Welcome to the first module on JavaScript. In this module we&apos;ll get
 into the basics of the language. We&apos;ll talk about variables and arrays
 and these kinds of things that you see in a lot of programming
 languages. But we&apos;ll also talk about the history of JavaScript and do a
@@ -446,8 +447,7 @@ developed and how that affects the way you write modern, up to date
 JavaScript. And I think you&apos;ll learn a lot from this and you&apos;ll be
 able to do some interesting things with JavaScript as you go along. So
 stick with me and we will have a lot of fun in this first module
-learning about JavaScript in the basics of the language.
-
+learning about JavaScript in the basics of the language.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01. Intro to JavaScript -- Part 1 (3:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -460,8 +460,8 @@ learning about JavaScript in the basics of the language.
 </p>
 <!-- ![](./images/image004.png){width="4.0in" height="2.261538713910761in"} -->
 
-Unlike a pillbox which really can&apos;t hold much more than just pills, you
-can put anything into an array in JavaScript.
+<p>Unlike a pillbox which really can&apos;t hold much more than just pills, you can put 
+anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. arrays in javascript (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -472,8 +472,8 @@ can put anything into an array in JavaScript.
 </p>
 <!-- ![](./images/image005.png){width="5.0in" height="2.8269225721784776in"} -->
 
-You can even put in an array and an array. You think about a pillbox
-with a sub-container with even smaller divisions in it.
+<p>You can even put in an array and an array. You think about a pillbox with a sub-container 
+with even smaller divisions in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. inspect console arrays (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -484,10 +484,10 @@ with a sub-container with even smaller divisions in it.
 </p>
 <!-- ![](./images/image006.png){width="5.0in" height="3.0544870953630796in"} -->
 
-Let&apos;s take a look at what that looks like. Let me switch back over to
+<p>Let&apos;s take a look at what that looks like. Let me switch back over to
 my tab here. I&apos;m just going to paste this in, but you might want to
 type it. It&apos;s a little bit hard to type and get right, but it&apos;s worth
-trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.
+trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 07/08. console inspect array elements (12) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -503,20 +503,19 @@ trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.
 ![](./images/image008.png){width="3.5in" height="2.138140857392826in"}
 -->
 
-
-Now if I do, if I want to access an element from this array, I could do
+<p>Now if I do, if I want to access an element from this array, I could do
 vehicles, square bracket one. That&apos;s going to go and get the line that
 starts with which element. There we go. Then, it&apos;s going to give me
 this because this is zero, and now this is one. Right? It&apos;s going to
 get me that into that sub-array. You can see it&apos;s sort of showing up
 down there. Then if I do square bracket two, that&apos;s going to get me the
 explorer elements in that sub-array. You can do things like that with
-arrays.
+arrays.</p>
 
-That&apos;s kind of complicated and you&apos;re not probably going to be doing
+<p>That&apos;s kind of complicated and you&apos;re not probably going to be doing
 arrays inside of arrays to start off with. But it&apos;s an important thing
 to understand about arrays is that they&apos;re very flexible tools that you
-can use to hold groups of data, and that&apos;s very useful.
+can use to hold groups of data, and that&apos;s very useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 09. console inspect array elements, #3 (12) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -527,15 +526,13 @@ can use to hold groups of data, and that&apos;s very useful.
 </p>
 <!-- ![](./images/image009.png){width="5.0in" height="3.0544870953630796in"} -->
 
-Another thing that&apos;s interesting is that a regular variable holding a
-string can be treated as an array in JavaScript. If I make a variable
-var joke equals the chicken crossed the road, now I&apos;ve got a variable
-called joke, but I can actually treat it as an array. I could do. Joke
-square bracket four, and that&apos;s going to get me the C in chicken.
-Because zero, one, two, three, four is going to get me that C in
-chicken. Or I could do, joke dot length, and it will tell me that there
-are 28 characters in that string. That&apos;s kind of an interesting thing
-to understand about arrays as well.
+<p>Another thing that&apos;s interesting is that a regular variable holding a string can 
+be treated as an array in JavaScript. If I make a variable var joke equals the chicken 
+crossed the road, now I&apos;ve got a variable called joke, but I can actually treat 
+it as an array. I could do. Joke square bracket four, and that&apos;s going to get me 
+the C in chicken. Because zero, one, two, three, four is going to get me that C in
+chicken. Or I could do, joke dot length, and it will tell me that there are 28 characters 
+in that string. That&apos;s kind of an interesting thing to understand about arrays as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-02">1.02. Intro to JavaScript -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -548,10 +545,8 @@ to understand about arrays as well.
 </p>
 <!-- ![](./images/image010.png){width="4.0in" height="2.261538713910761in"} -->
 
-
-A great place to go to find some websites that will show you the way
-JavaScript can interact with the website is this Awwwards website with
-the extra w&apos;s in here.
+<p>A great place to go to find some websites that will show you the way JavaScript can 
+interact with the website is this Awwwards website with the extra w&apos;s in here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 11. javascript interaction: awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -562,10 +557,10 @@ the extra w&apos;s in here.
 </p>
 <!-- ![](./images/image011.png){width="5.0in" height="3.0544870953630796in"} -->
 
-I have that website pulled up over here. You can come here and look
+<p>I have that website pulled up over here. You can come here and look
 through some of the different sites that have won awards on
 awwwards.com. <https://www.awwwards.com/>. They tend to be pretty
-innovative and interesting sites.
+innovative and interesting sites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 12. taptaro example in awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -576,10 +571,10 @@ innovative and interesting sites.
 </p>
 <!-- ![](./images/image012.png){width="5.0in" height="3.0544870953630796in"} -->
 
-I have this one (<https://www.awwwards.com/sites/taptaro>). Whether
+<p>I have this one (<https://www.awwwards.com/sites/taptaro>). Whether
 you&apos;re talking about following the mouse, or coming over here and the
 animation around the circle, or the way these images pop in, this is all
-being done with JavaScript, this kind of thing.
+being done with JavaScript, this kind of thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 13. javascript example, no longer there (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -590,10 +585,9 @@ being done with JavaScript, this kind of thing.
 </p>
 <!-- ![](./images/image013.png){width="5.0in" height="3.0544870953630796in"} -->
 
-Then here we are in one of the NASA spacecraft website here (no longer
-active). Click on one of these things it will come up and show you the
-different pictures and give you some other interactions including some
-sounds as you work around it.
+<p>Then here we are in one of the NASA spacecraft website here (no longer active). Click 
+on one of these things it will come up and show you the different pictures and give you 
+some other interactions including some sounds as you work around it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 14. boyntonyards.com - awwwards.com (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -617,10 +611,10 @@ that kind of stuff.
 </p>
 <!-- ![](./images/image015.png){width="5.0in" height="3.0544870953630796in"} -->
 
-Yeah, look around on the web and wherever you see interactions happening, whether it&apos;s 
+<p>Yeah, look around on the web and wherever you see interactions happening, whether it&apos;s 
 a map like this or all kinds of interactions are being created by JavaScript. You&apos;ve 
 seen some interactions and websites and you&apos;ve probably seen plenty of others in other 
-websites or you&apos;ve gone off and found your own.
+websites or you&apos;ve gone off and found your own.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. why learn javascript? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -686,12 +680,12 @@ get confused between Java and JavaScript.
 </p>
 <!-- ![](./images/image018.png){width="5.0in" height="3.0544870953630796in"} -->
 
-As I said before, JavaScript had some rough beginnings. The early years
+<p>As I said before, JavaScript had some rough beginnings. The early years
 of JavaScript were plagued by bad implementations, developers who just
 despised the language mostly due to poor documentation and it was
 greatly misunderstood as a language. This gentleman, Douglas Crockford,
 did a lot to help people understand the incredible value of JavaScript
-as a language and its strengths as well as its weaknesses.
+as a language and its strengths as well as its weaknesses.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 19. javascript - the good and the bad  (19) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -702,16 +696,16 @@ as a language and its strengths as well as its weaknesses.
 </p>
 <!-- ![](./images/image019.png){width="5.0in" height="3.0544870953630796in"} -->
 
-He wrote a book called JavaScript: The Good Parts. It&apos;s a legendary
+<p>He wrote a book called JavaScript: The Good Parts. It&apos;s a legendary
 book because in this book he really talks about how JavaScript has some
 of the best features any programming language has ever had right
 alongside some of the worst features. Becoming a good JavaScript
 developer is about understanding how to leverage the best parts of the
 language while minimizing the worst parts of the language. We&apos;ll be
 seeing some examples of some parts of the language that are good and
-not-so-good right off the bat, and I&apos;ll be pointing those out.
+not-so-good right off the bat, and I&apos;ll be pointing those out.</p>
 
-You&apos;ll see that as we go along, we write JavaScript in ways to minimize
+<p>You&apos;ll see that as we go along, we write JavaScript in ways to minimize
 the bad features of the language. When I say bad features, what I mean
 are features that can lead to more errors, lead to confusion in the
 programming, and so on and so forth. But it&apos;s also a very expressive
@@ -719,7 +713,7 @@ language, it&apos;s a very powerful language. Some of the ideas behind it
 are very interesting and very powerful, even though they&apos;re different
 from other languages, which was behind some of the frustration that
 people had with it initially is they just didn&apos;t understand it because
-it was different.
+it was different.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-03">1.03. Intro to JavaScript -- Part 3 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -732,9 +726,9 @@ it was different.
 </p>
 <!-- ![](./images/image020.png){width="4.0in" height="2.261538713910761in"} -->
 
-It&apos;s really important to understand the development of JavaScript over
+<p>It&apos;s really important to understand the development of JavaScript over
 the years, and this is because the way JavaScript is developed has
-really impacted the way that we write JavaScript.
+really impacted the way that we write JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. javascript versions (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -813,7 +807,7 @@ is a beginner&apos;s course, but we will be doing a lot with <b>ECMAScript
 5</b> and <b>ES6</b> or <b>ECMAScript 2015</b>. Dive in and I hope you enjoy
 learning about JavaScript as we go along here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2><a href="ch1-04">1.04 Tools Needed for Success</a></h2>
+<h2 id="ch1-04">1.04 Tools Needed for Success</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 22. tools needed for success in learning javascript (23) ~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -827,47 +821,85 @@ learning about JavaScript as we go along here.
 <p>Tools and skills needed for success for learning JavaScript.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 23. tools and skills needed for success (xx) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 23. tools and skills needed for success (23) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image023.png?raw=true"
   width="40%"
   alt="Tools and Skills Needed for Success." />
 </p>
-<!-- ![](./images/image023.webp){width="4.0in" height="2.258546587926509in"} -->
+<!-- ![](./images/image023.png){width="4.0in" height="2.258546587926509in"} -->
 
-First, we&apos;ll talk about software and then we&apos;ll talk a little bit
-about hardware.
-
-![](./images/media/image24.png){width="3.5in"
-height="1.8064632545931758in"}![](./images/media/image25.png){width="3.5in"
-height="1.8064632545931758in"}![](./images/media/image26.png){width="5.0in"
+<p>First, we&apos;ll talk about software and then we&apos;ll talk a little bit about hardware.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24/25. code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image024.png?raw=true"
+  width="40%"
+  alt="Code editor." />
+<img src="./images/image025.png?raw=true"
+  width="40%"
+  alt="Visual Studio Code editor." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. visual studio code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image026.png?raw=true"
+  width="50%"
+  alt="Visual Studio Code." />
+</p>
+<!--
+![](./images/image024.png){width="3.5in"
+height="1.8064632545931758in"}![](./images/image025.png){width="3.5in"
+height="1.8064632545931758in"}![](./images/image026.png){width="5.0in"
 height="2.9594017935258092in"}
+-->
 
-The first thing you&apos;re going to need in order to work with JavaScript
-and write JavaScript is a good code editor, and I recommend using Visual
-Studio Code. Not to be confused with Visual Studio product, but Visual
-Studio Code, and I have that in this browser tab here. You can download
-that for Mac or for Windows, or I believe also for Linux you can get
-Visual Studio Code. It&apos;s a really good code editor. It&apos;s very popular
-these days. There are plenty of other code editors out there.
-
-![](./images/media/image27.png){width="3.5in"
-height="2.435042650918635in"}![](./images/media/image28.png){width="3.5in"
+<p>The first thing you&apos;re going to need in order to work with JavaScript and write 
+JavaScript is a good code editor, and I recommend using Visual Studio Code. Not to be 
+confused with Visual Studio product, but Visual Studio Code, and I have that in this 
+browser tab here. You can download that for Mac or for Windows, or I believe also for 
+Linux you can get Visual Studio Code. It&apos;s a really good code editor. It&apos;s 
+very popular these days. There are plenty of other code editors out there.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27/28. atom and sublime (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image027.png?raw=true"
+  width="45%"
+  alt="Atom web editor." />
+<img src="./images/image028.png?raw=true"
+  width="45%"
+  alt="Sublime web text editor." />
+</p>
+<!-- ![](./images/image027.png){width="3.5in"
+height="2.435042650918635in"}![](./images/image028.png){width="3.5in"
 height="2.435042650918635in"}
+-->
 
-You could use Atom, you could use Sublime Text, even if you have
-Dreamweaver, you could use that as a code editor.
-
-![](./images/media/image29.png){width="5.0in"
-height="3.073718285214348in"}
+<p>You could use Atom, you could use Sublime Text, even if you have Dreamweaver, you 
+could use that as a code editor.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. adobe dreamweaver (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image029.png?raw=true"
+  width="50%"
+  alt="Adobe's Dreamweaver Web Editor." />
+<!-- ![](./images/image029.png){width="5.0in" height="3.073718285214348in"} -->
 
 Dreamweaver has a lot of other stuff built into it that you don&apos;t need,
 but it works perfectly fine as code editor if you want to use that as
 well.
-
-![](./images/media/image30.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. web browser (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image030.png?raw=true"
+  width="40%"
+  alt="Web Browser; Chrome Preferred. Also, Brave, Safari and Firefox." />
 
 The second thing you&apos;re going to need is a web browser, and I&apos;m going
 to recommend that you use <b>Chrome</b>. <b>Chrome</b> has a lot of the
@@ -879,17 +911,27 @@ developers use <b>Chrome</b> and get comfortable with the <b>Chrome</b>
 developer tools. So I recommend that you download <b>Chrome</b> and use
 that browser. Do NOT use <b>IE</b> or <b>Edge</b> developed by Microsoft.
 Unless you LOVE advertisements and poor coding techniques.
-
-![](./images/media/image31.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. image editor - nice to have (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image031.png?raw=true"
+  width="40%"
+  alt="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView." />
+<!-- ![](./images/image031.png){width="4.0in" height="2.259401793525809in"} -->
 
 You&apos;re also going to need an image editor. If you have access to
 Photoshop, that&apos;s great. Photoshop is fantastic for this kind of thing,
 but if you don&apos;t have access to Photoshop, there&apos;s another one called
 GIMP, which is free.
-
-![](./images/media/image32.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. gimp (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image032.png?raw=true"
+  width="50%"
+  alt="GIMP (GNU Image Manipulation Program) image editor." />
+<!-- ![](./images/image032.png){width="5.0in" height="2.824251968503937in"} -->
 
 You can go download <b>GIMP</b> and I have that pulled up here. You can
 actually download <b>GIMP</b> for Mac or for Windows and that kind of
@@ -900,9 +942,13 @@ your browser. You might find some of those types of tools as well, but
 you will need some image editor to help you working with images. That&apos;s
 a nice to have. It&apos;s not absolutely necessary, but it&apos;s really nice to
 have.
-
-![](./images/media/image33.png){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. computer and internet access (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image033.png?raw=true"
+  width="40%"
+  alt="A Computer and Internet Access." />
+<!-- ![](./images/image033.png){width="4.0in" height="2.06965769903762in"} -->
 
 Next, you&apos;re going to need a computer and internet access. It may sound
 obvious that you&apos;re going to need internet access to do an internet
@@ -915,17 +961,25 @@ code on and save files to. iOS you can make it work, but it&apos;s not
 really up to the task. You&apos;ll be fighting it every step along the way.
 You want to be working with <b>Mac OS X</b> or <b>Windows 10</b> on a computer
 in order to really make this work.
-
-# Skills needed for Success (5:38)
-
-![](./images/media/image34.png){width="4.0in"
-height="2.261538713910761in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-05">1.05 Skills Needed for Success (5:38)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 34. skills needed for success with javascript (28) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image034.png?raw=true"
+  width="40%"
+  alt="Skills needed for success with JavaScript." />
+</p>
 
 Let&apos;s talk about some of the skills you need in order to be successful
 learning JavaScript.
-
-![](./images/media/image35.png){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. keyboarding skills (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image035.png?raw=true"
+  width="40%"
+  alt="Keyboarding Skills." />
+<!-- ![](./images/image035.png){width="4.0in" height="2.06965769903762in"} -->
 
 <b>First and foremost</b>, you need to be able to type. I mean typing with
 10 fingers without looking at your fingers, touch typing. And it will
@@ -940,9 +994,14 @@ error. And I have known a lot of students over the years that struggle a
 lot with typing. And it really impedes their ability to learn something
 like JavaScript. So I recommend that you get those keyboarding skills if
 you don&apos;t have them already.
-
-![](./images/media/image36.png){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. file management (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image036.png?raw=true"
+  width="40%"
+  alt="File Management." />
+<!-- ![](./images/image036.png){width="4.0in" height="2.06965769903762in"} -->
 
 The <b>second</b> thing that you need is you need to be able to manage your
 files. That means when you save a file on your computer, you know where
@@ -957,9 +1016,14 @@ break. And we don&apos;t want that to happen. So make sure you clean up all
 of your files. And work with a clean desktop. And for every project, you
 should have a folder and all the files you need for that project should
 be in that folder.
-
-![](./images/media/image37.png){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. persistence (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image037.png?raw=true"
+  width="40%"
+  alt="Persistence." />
+<!-- ![](./images/image037.png){width="4.0in" height="2.06965769903762in"} -->
 
 The <b>third</b> thing that you need is persistence. Learning JavaScript is
 not easy. It&apos;s challenging and maybe that&apos;s true for every programming
@@ -977,9 +1041,13 @@ realize you just left that one character or semi colon or something like
 that, and that broke the entire script. But stick with it, keep working
 at it, stay calm, keep pushing forward. And you&apos;ll make a lot of
 progress with it, I promise.
-
-![](./images/media/image38.png){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. logic (not math) (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image038.png?raw=true"
+  width="40%"
+  alt="Logic (not math)." />
+<!-- ![](./images/image038.png){width="4.0in" height="2.06965769903762in"} -->
 
 The <b>fourth</b> skill that you need is to be good with logic. And logic
 is a learned skill. Some people are naturally very logical but it&apos;s
@@ -993,9 +1061,14 @@ programming that involves very sophisticated math and a lot of
 programmers don&apos;t. There are programmers that do. But we don&apos;t need
 that in order to get good at JavaScript. But you do need to be good with
 logic.
-
-![](./images/media/image39.png){width="4.0in"
-height="2.06965769903762in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. html and css (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image039.png?raw=true"
+  width="40%"
+  alt="HTML and CSS." />
+<!-- ![](./images/image039.png){width="4.0in" height="2.06965769903762in"} -->
 
 The next thing is, you really should know HTML and CSS as well as you
 can. JavaScript manipulates the HTML and CSS that makes up the page.
@@ -1003,9 +1076,14 @@ That&apos;s how it works, that&apos;s what it does. And if you don&apos;t know H
 and CSS, you don&apos;t really know what you&apos;re manipulating. So I
 recommend building some skills with HTML and CSS if you don&apos;t already
 have them.
-
-![](./images/media/image40.png){width="5.0in"
-height="2.58707239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 40. interneting is hard: great place for learning (31) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image040.png?raw=true"
+  width="40%"
+  alt="Interneting is hard: a Great Place for Learning HTML &amp; CSS." />
+<!-- ![](./images/image040.png){width="4.0in" height="2.06965769903762in"} -->
 
 And a good place to go is this Interneting Is Hard website here
 (<https://internetishard.com>) . This is a really great tutorial.
@@ -1016,67 +1094,85 @@ recommend going and looking through the Interneting Is Hard website if
 you need to get caught up I need you to know in CSS. Well, if you&apos;ve
 never done any HTML and CSS at all, then maybe take a course in HTML and
 CSS before diving into JavaScript.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 41. summary: learn javascript for free (32) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image041.png?raw=true"
+  width="40%"
+  alt="Summary: Learning JavaScript for Free." />
+<!-- ![](./images/media/image41.png){width="4.0in" height="2.2508552055993003in"} -->
 
-![](./images/media/image41.png){width="4.0in"
-height="2.2508552055993003in"}
-
-In summary, there&apos;s a low barrier for entry to this class. The software
+<p>In summary, there&apos;s a low barrier for entry to this class. The software
 is free. You don&apos;t need a super fast, or super fancy computer. And
 getting good at JavaScript can be a ticket to a high paying job, and a
 good life. But it&apos;s not easy. You&apos;re going to have to work hard to get
 there. But it really is worth it if you keep working at it. And I hope
 that you continue with us and see all the cool things that you can do
-with JavaScript.
+with JavaScript.</p>
 
-## Assessing your Skills in HTML & CSS
+<h3><a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
+Assessing your Skills in HTML & CSS</a></h3>
 
-https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css
+<h3>Additional Resources</h3>
 
-## Additional Resources
+<h4>Here are resources related to these lessons:</h4>
 
-### Here are resources related to these lessons:
+<ul>
+  <li><a href="https://www.awwwards.com/">Awwwards website</a></li>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+  <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
+  <li><a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a></li>
+  <li><a href="https://www.gimp.org/) https://www.gimp.org/">GNU Gimp</a></li>
+</ul>
 
--   [Awwwards website](https://www.awwwards.com/)
-    https://www.awwwards.com/
-
--   [Visual Studio Code](https://code.visualstudio.com/)
-    https://code.visualstudio.com/
-
--   [Google Chrome](https://www.google.com/chrome/)
-    https://www.google.com/chrome/
-
--   [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
-    https://www.adobe.com/products/photoshop.html
-
--   [GNU Gimp](https://www.gimp.org/) https://www.gimp.org/
-
-# JavaScript Variables (6:27)
-
-![](./images/media/image42.png){width="4.0in"
-height="2.261538713910761in"}
+<h2 id="ch1-06">1.06 JavaScript Variables (6:27)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image042.png?raw=true"
+  width="40%"
+  alt="1.06. JavaScript Variables." />
+<!-- ![](./images/image042.png){width="4.0in" height="2.261538713910761in"} -->
 
 JavaScript variables.
-
-![](./images/media/image43.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image043.png?raw=true"
+  width="40%"
+  alt="JavaScript variables." />
+<!-- ![](./images/media/image43.png){width="4.0in" height="2.2508552055993003in"} -->
 
 It&apos;s good practice when programming to write code that is as
 generalizable as possible. It allows the code to be reused and helps
 limit the effort of writing and maintaining redundant code. Imagine
 somebody gave you a robot as a gift to do chores around your house. You
 have to teach it how to do your chores.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. washing the dishes (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image044.png?raw=true"
+  width="40%"
+  alt="Washing the dishes." />
+<!-- ![](./images/media/image44.png){width="4.0in" height="2.2508552055993003in"} -->
 
-![](./images/media/image44.png){width="4.0in"
-height="2.2508552055993003in"}
-
-What if you wanted to teach it to wash the dishes? That would be great.
+<p>What if you wanted to teach it to wash the dishes? That would be great.
 It will be really helpful to have a robot wash the dishes for you. But
 what if you had to write different instructions for each dish in your
 house? That would be a lot of dishes and perhaps a lot of instructions.
-That wouldn&apos;t be so great.
-
-![](./images/media/image45.png){width="4.0in"
-height="2.2508552055993003in"}
+That wouldn&apos;t be so great.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. using a variable (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image045.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image45.png){width="4.0in" height="2.2508552055993003in"} -->
 
 What we can do with a variable is that we can treat it as like a
 container, and then we can write a set of directions and pass each item
@@ -1088,9 +1184,14 @@ you see here is really the variable. It&apos;s a temporary container that we
 can pass these items through, and we can teach our robot to wash all of
 the items one at a time using this container. That will make your
 instructions more modular and more reusable and that&apos;s really helpful.
-
-![](./images/media/image46.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 46. declaring a variable in javascript (35) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image046.png?raw=true"
+  width="40%"
+  alt="Declaring a variable in JavaScript." />
+<!-- ![](./images/media/image46.png){width="4.0in" height="2.2508552055993003in"}-->
 
 There are many ways of declaring a variable in JavaScript. We&apos;ll start
 with one of the most basic ways which is using the <b>var</b> keyword
@@ -1110,9 +1211,14 @@ is assigned to <b>cheese</b>.
 Then the next example we have a variable called <b>age</b> and it&apos;s
 assigned a value of 25. Twenty-five is a number. It doesn&apos;t need to go
 inside quotes because JavaScript knows what a 25 is.
-
-![](./images/media/image47.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. variables are case sensitive (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image045.png?raw=true"
+  width="40%"
+  alt="Variables are case sensitive." />
+<!-- ![](./images/media/image47.png){width="4.0in" height="2.2508552055993003in"} -->
 
 In JavaScript, variables are case-sensitive. They have to follow certain
 rules. For example, a variable has to start with a letter, you can&apos;t
