@@ -1415,9 +1415,8 @@ times <b>myOtherNum</b>. And you&apos;ll see I still get 30. But I&apos;m showin
 you the <b>console.log</b> method because when we start working with files,
 we&apos;ll use this method a lot to send things to this console. While I&apos;m
 in the console, I don&apos;t actually need to use it.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# JavaScript Variables Practice -- Part 2
+<h2 id="ch1-08">1.08 JavaScript Variables Practice -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/media/image63.png){width="4.0in"
@@ -1492,7 +1491,7 @@ why we use JavaScript in certain ways or why we type in certain ways.
 We&apos;ll get into more detail about that as we go along.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# JavaScript Variables Practice -- Part 3 (5:21)
+<h2 id="ch1-09">1.09. JavaScript Variables Practice -- Part 3 (5:21)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/media/image67.png){width="4.0in"
@@ -1565,7 +1564,7 @@ interesting little programs that will actually do things on web pages
 and on websites.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# JavaScript Arrays -- Part 1 (5:27)
+<h2 id="ch1-10">1.10. JavaScript Arrays -- Part 1 (5:27)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/media/image73.png){width="4.0in"
@@ -1634,7 +1633,7 @@ length of the array is 3. That&apos;s an important distinction and something
 to be aware of.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# JavaScript Arrays -- Part 2 (3:17)
+<h2 id="ch1-11">1.11. JavaScript Arrays -- Part 2 (3:17)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/media/image78.png){width="4.0in"
@@ -1682,9 +1681,8 @@ zero, one, two, three, four is going to give me that c in chicken. Or I
 could do joke.length and it&apos;ll tell me that there are 28 characters in
 that string. So that&apos;s kind of an interesting thing to understand about
 arrays as well.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# JavaScript Arrays Practice (6:16)
+<h2 id="ch1-12">1.12. JavaScript Arrays Practice (6:16)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/media/image82.png){width="4.0in"
@@ -1788,5 +1786,5 @@ ways of getting elements out of arrays.</p>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Week Two:
+<h1 id="ch2">Week Two:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
