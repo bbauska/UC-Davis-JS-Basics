@@ -1285,7 +1285,7 @@ see variables that are using camel casing.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07. JavaScript Variables Practice -- Part 1 (7:12)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 50. javascript variables practice - part 1 (37) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 50. javascript variables practice - part 1 (38) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image050.png?raw=true"
@@ -1299,9 +1299,14 @@ because it&apos;s pretty exciting to start seeing you come alive on web
 pages. And it&apos;ll be a little while before we start making really
 interesting things, but we&apos;ll be working with the basics now. So let&apos;s
 get started with that.
-
-![](./images/media/image51.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 51. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image051.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image51.png){width="5.0in" height="3.071581364829396in"} -->
 
 And what we can do with our browser is we can actually open just a new
 browser tab and use the console to write some JavaScript. Because
@@ -1310,14 +1315,25 @@ browser and it&apos;ll actually do stuff in the browser. I have a new tab
 over here and you can create a new tab for yourself. And I&apos;m just going
 to right click and choose <b>inspect</b>.
 
-![](./images/media/image52.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 52. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image052.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- [](./images/media/image52.png){width="5.0in" height="3.071581364829396in"} -->
 
 And you have to right click on the white area, you can&apos;t right click on
 an element.
-
-![](./images/media/image53.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 53. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image053.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image53.png){width="5.0in" height="3.071581364829396in"} -->
 
 Right click on the white area and choose inspect. And that&apos;ll bring up
 the inspector in Chrome. And again, I&apos;m in Chrome. And when I do that,
@@ -1327,40 +1343,65 @@ you can use these buttons here. You can arrange this thing, make it
 bigger or smaller. You can use these buttons to move this inspector
 around. So this button here will allow me to choose where I want it to
 display.
-
-![](./images/media/image54.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 54. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image054.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image54.png){width="5.0in" height="3.071581364829396in"} -->
 
 Right now, it&apos;s on the right but I could put it on the left or I could
 put it on the bottom. I want it on the bottom in this case.
-
-![](./images/media/image55.png){width="5.0in"
-height="3.0673075240594927in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 55. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image055.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image55.png){width="5.0in" height="3.0673075240594927in"} -->
 
 Sometimes, it&apos;s helpful to tear it off entirely into a different
 window, which is this icon, but I&apos;m going to leave it down here on the
 bottom. And then I want to close this thing down here because that&apos;s
 just giving me some information. And I&apos;m going to make this come up
 here.
-
-![](./images/media/image56.png){width="5.0in"
-height="3.0673075240594927in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 56. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image056.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image56.png){width="5.0in" height="3.0673075240594927in"} -->
 
 And right now and on the elements tab, and I can see the HTML that is
 making up this page. And you can actually drag around on here and
 you&apos;ll see different elements of the page will get highlighted.
-
-![](./images/media/image57.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 57. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image057.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image57.png){width="5.0in" height="3.071581364829396in"} -->
 
 But what I really want to do to write some JavaScript is the console. So
 click on the console. And click the garbage can to clear console screen.
 And now I can do things like create a variable, var cheese = &quot;yummy&quot;.
 And again, yummy is assigned to cheese, the variable cheese here, put a
 semi colon and press Enter.
-
-![](./images/media/image58.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 58. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image058.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image58.png){width="5.0in" height="3.071581364829396in"} -->
 
 Now before I do this, another thing that&apos;s useful is if this is seeming
 very small in your screen, you can use Ctrl on Windows or Cmd at Mac and
@@ -1375,9 +1416,14 @@ variable here so don&apos;t worry factor that says undefined here. Now that
 I&apos;ve defined this variable, if I type cheese, you&apos;ll see that I get
 yummy. That comes back. That&apos;s the return value for that variable, for
 that variable name.
-
-![](./images/media/image59.png){width="5.0in"
-height="3.071581364829396in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 59. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image059.png?raw=true"
+  width="50%"
+  alt="Practice chrome inspect console." />
+<!-- ![](./images/media/image59.png){width="5.0in" height="3.071581364829396in"} -->
 
 I&apos;m going to make a new variable. Line and assign it a value of 5. And
 I get a 5 back. That returns the value of 5. So I could make another
@@ -1386,13 +1432,25 @@ keyword. And that&apos;s fine. JavaScript will adjust for that in this case
 and we&apos;ll talk later about what happens when you don&apos;t use the var
 keyword. But in this case, it&apos;s fine. It actually created a variable
 called <b>myNum</b> and assigned it 5.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60/61.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image060.png?raw=true"
+  width="45%"
+  alt="Atom web editor." />
+<img src="./images/image061.png?raw=true"
+  width="45%"
+  alt="Sublime web text editor." />
+</p>
+<!--
 ![](./images/media/image60.png){width="3.5in"
 height="2.150107174103237in"}
 ![](./images/media/image61.png){width="3.5in"
 height="2.150107174103237in"}
+-->
 
-But it would be better to use the var keyword for <b>myOtherNum</b> = 6,
+<p>But it would be better to use the var keyword for <b>myOtherNum</b> = 6,
 that comes back undefined. And this came back with 5 because of the fact
 that I didn&apos;t use the var keyword. But if I do <b>myNum</b>, you&apos;ll see
 I&apos;ll still get 5. If I do <b>myOtherNum</b>, and you&apos;ll notice that in
@@ -1401,10 +1459,15 @@ the keyboard, I don&apos;t even have to type that whole thing. I can do
 something like, Var sum = myNum Plus myOtherNum, I can even pick it from
 the list using my keyboard here. So I don&apos;t even have to type it. Now
 if I do sum, you&apos;ll notice I get an 11 because it&apos;s doing basic
-arithmetic.
-
-![](./images/media/image62.png){width="5.0in"
-height="3.071581364829396in"}
+arithmetic.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image062.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image62.png){width="5.0in" height="3.071581364829396in"} -->
 
 I can also use a method called <b>console.log</b>. <b>Console.log</b>, and I
 could do <b>myNum, Times, MyOtherNum</b>. Semi colon, and you&apos;ll notice
@@ -1418,23 +1481,37 @@ in the console, I don&apos;t actually need to use it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-08">1.08 JavaScript Variables Practice -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image63.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image063.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image63.png){width="4.0in" height="2.2508552055993003in"} -->
 
 Here you can see a cleared out the console by clicking this clear thing
 here.
 
 That won&apos;t actually forget any of the code that you&apos;ve put.
-
-![](./images/media/image64.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image064.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image64.png){width="5.0in" height="3.053418635170604in"} -->
 
 If you do want to actually forget the variables, you can click the
 Refresh button up here that will actually forget everything.
-
-![](./images/media/image65.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image065.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image65.png){width="5.0in" height="3.053418635170604in"} -->
 
 Now I&apos;m getting the error that came back just with the Google page, but
 I can clear that here. I can actually create variables fresh that way.
@@ -1463,8 +1540,14 @@ and get 15, but instead, we got 105 in a string. So that&apos;s an important
 distinction and something important to understand about the way
 JavaScript works.
 
-![](./images/media/image66.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image066.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- [](./images/media/image66.png){width="5.0in" height="3.053418635170604in"} -->
 
 Another thing to know is that the plus operator in JavaScript does
 double duty. It will add numbers together, so we can make another
@@ -1489,20 +1572,29 @@ seeing that the plus sign does double duty. That&apos;s not only unusual but
 a little bit problematic. Already you&apos;re learning a little bit about
 why we use JavaScript in certain ways or why we type in certain ways.
 We&apos;ll get into more detail about that as we go along.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-09">1.09. JavaScript Variables Practice -- Part 3 (5:21)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image67.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src=4./images/image067.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image67.png){width="4.0in" height="2.2508552055993003in"} -->
 
 I&apos;m going to clear out my console here, press the clear button there,
 and then I&apos;m going to create a new variable, var myNum equals 10,
 We&apos;ll put that in there.
 
-![](./images/media/image68.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image068.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image68.png){width="5.0in" height="3.053418635170604in"} -->
 
 Then I&apos;m going to make another variable, var, myNumAsString. I&apos;m going
 to make a variable there and we&apos;ll call it five. But that variable
@@ -1519,9 +1611,14 @@ nothingAtAll and assign it null, and I could do typeof nothingAtAll, and
 I get object, so that&apos;s kind of interesting. These are all very
 different variables with different values. That&apos;s an important thing to
 understand about JavaScript, but they do have type associated with them.
-
-![](./images/media/image69.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image069.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image69.png){width="5.0in" height="3.053418635170604in"} -->
 
 Let&apos;s try one more. I&apos;m going to make another variable var
 emptyString. I&apos;m going to assign it a couple of quotes, and if I do
@@ -1530,10 +1627,22 @@ there&apos;s nothing really assigned to this variable. The fact that I put a
 pair of quotes there means that it is in fact a string. It&apos;s also kind
 of important to note that I could use single quotes or double quotes in
 JavaScript.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70/71.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image070.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/image071.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+<!--
 ![](./images/media/image70.png){width="3.5in"
 height="2.1373928258967627in"}![](./images/media/image71.png){width="3.5in"
 height="2.1373928258967627in"}
+-->
 
 Now if you want to find out more about the type of method, you could
 come over here and just Google JavaScript typeof. The MDN will come up
@@ -1541,9 +1650,14 @@ very quickly, if not the first, sometimes you&apos;ll get W3Schools. The
 MDN, which is the Mozilla Developer Network, is the definitive resource
 for web technologies such as HTML and CSS and will give you a lot of
 information about different methods and different things you can use.
-
-![](./images/media/image72.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image072.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image72.png){width="5.0in" height="3.053418635170604in"} -->
 
 We&apos;ll be referring a lot to the MDN throughout this course, sometimes
 the W3Schools website as well, but the MDN really is sort of the
@@ -1562,18 +1676,26 @@ JavaScript, but then pretty quickly we&apos;re going to be getting into more
 interesting aspects of the language, and you&apos;ll be creating more
 interesting little programs that will actually do things on web pages
 and on websites.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-10">1.10. JavaScript Arrays -- Part 1 (5:27)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image73.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 73.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image073.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image73.png){width="4.0in" height="2.2508552055993003in"} -->
 
 JavaScript arrays.
-
-![](./images/media/image74.png){width="4.0in"
-height="2.4427351268591426in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 74.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image074.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image74.png){width="4.0in" height="2.4427351268591426in"} -->
 
 An array is really just a container with sub-containers and it&apos;s the
 next piece of the puzzle that we need to talk about in terms of
@@ -1584,9 +1706,14 @@ friend or relative has to take medications each day and perhaps they
 have a box that looks like the image here on your screen where you have
 different containers that are going to hold different pills for the
 week. Frequently in JavaScript, we have to deal with groups of things.
-
-![](./images/media/image75.png){width="4.0in"
-height="2.4427351268591426in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 75.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image075.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image75.png){width="4.0in" height="2.4427351268591426in"} -->
 
 If we go back to our robot analogy, if we&apos;re teaching our robot how to
 wash the dishes, perhaps glasses need to be handled in a certain way or
@@ -1596,9 +1723,14 @@ certain way, but then we&apos;ve got a subgroup of spoons, and knives, and
 forks, and maybe other pieces of silverware. That&apos;s a group within a
 group. The analogy that works best for that is thinking about groups of
 things with arrays.
-
-![](./images/media/image76.png){width="4.0in"
-height="2.4427351268591426in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 76.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image076.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image76.png){width="4.0in" height="2.4427351268591426in"} -->
 
 Let&apos;s take a look at what that looks like. In JavaScript, we can create
 a new array in a couple of different ways. We can use the new keyword
@@ -1606,9 +1738,14 @@ with array and parentheses as shown here or we can create it more
 explicitly using the square brackets as shown below on the right here.
 Let&apos;s actually do this over the console. I think it&apos;s helpful to
 actually see us create these elements.
-
-![](./images/media/image77.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image077.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image77.png){width="5.0in" height="3.053418635170604in"} -->
 
 I&apos;m going to come over here and make a new tab, and choose Inspect,
 right-click and choose Inspect. Then I&apos;m going to run the console here,
@@ -1631,26 +1768,39 @@ there are three elements in the array. It&apos;s just they&apos;re numbered 0,
 programming, frequently we start counting with 0 first, 0, 1, 2, but the
 length of the array is 3. That&apos;s an important distinction and something
 to be aware of.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-11">1.11. JavaScript Arrays -- Part 2 (3:17)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image78.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image078.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image78.png){width="4.0in" height="2.2508552055993003in"} -->
 
 Unlike a pill box, which really can&apos;t hold much more than just pills,
 you can put anything into an array in JavaScript.
-
-![](./images/media/image79.png){width="5.0in"
-height="3.053419728783902in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image079.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image79.png){width="5.0in" height="3.053419728783902in"} -->
 
 You can even put in an array in array. So you think about a pillbox with
 a sub container with even smaller divisions in it. So let&apos;s take a look
 at what that looks like.
-
-![](./images/media/image80.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image080.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image80.png){width="5.0in" height="3.053418635170604in"} -->
 
 Let me switch back over to my tab here. And I&apos;m going to clear out this
 tab by clicking the clear button there. And I&apos;m just going to paste
@@ -1668,9 +1818,14 @@ not probably going to be doing arrays inside of arrays to start off
 with. But it&apos;s an important thing to understand about arrays is
 they&apos;re very flexible tools for you can use to hold groups of data, and
 that&apos;s very useful.
-
-![](./images/media/image81.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image081.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image81.png){width="5.0in" height="3.053418635170604in"} -->
 
 Another thing that&apos;s interesting is that a regular variable holding a
 string can be treated like an array in JavaScript. So if I make a
@@ -1684,29 +1839,49 @@ arrays as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-12">1.12. JavaScript Arrays Practice (6:16)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image82.png){width="4.0in"
-height="2.2508552055993003in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image082.png?raw=true"
+  width="40%"
+  alt="." />
+<!-- ![](./images/media/image82.png){width="4.0in" height="2.2508552055993003in"} -->
 
 Let&apos;s do a little bit of practice with arrays, so I can make a new
 variable bar Animals and assign an array.
-
-![](./images/media/image83.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image083.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image83.png){width="5.0in" height="3.053418635170604in"} -->
 
 Cat, dog, chicken and all of those animals will be in the array. So if I
 just do animals. You&apos;ll see that I get back an array with three
 elements, cat, dog and chicken. Now, arrays come with certain array
 methods that you can do to arrays specifically, so if I do animals.
-
-![](./images/media/image84.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image084.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image84.png){width="5.0in" height="3.053418635170604in"} -->
 
 That push llama, now there are four elements in the animals array The
 cat, the dog, the chicken and the llama are all in the array.
 
-![](./images/media/image85.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image085.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image85.png){width="5.0in" height="3.053418635170604in"} -->
 
 Remember, we can use the console log method we don&apos;t really need to
 hear in the console, but we will when we go to using file shortly. So
@@ -1718,16 +1893,27 @@ there, it&apos;ll give me the chicken. I don&apos;t really need to use the
 console log method here in the console. But you can, and it&apos;s worth
 remembering that you can do that.
 
-![](./images/media/image86.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image086.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image86.png){width="5.0in" height="3.053418635170604in"} -->
 
 Now, what if I wanted to remove an element from the array or we could do
 animals that splice (1, 1) and that will take the dog out of the array.
 So now, if I do animals, you can see it&apos;s got the cat, chicken, and the
 lama,but not the dog.
-
-![](./images/media/image87.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 87.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image087.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image87.png){width="5.0in" height="3.053418635170604in"} -->
 
 And I could do push and push the dog back into the array. Let&apos;s do
 that, animals don&apos;t push, dog and now the dog is back in the array.
@@ -1735,9 +1921,14 @@ Another array method is sort, animals. dot sort. And notice now that the
 order of the animals in the array has changed slightly, so that the dog
 is in the third position based on alphabetical order. So there are a lot
 of array methods that you can use.
-
-![](./images/media/image88.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image088.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image88.png){width="5.0in" height="3.053418635170604in"} -->
 
 And a really good place to go look at them would be the
 <b>W3schools.com</b> website or the MDN JavaScript arrays. And here it is
@@ -1749,8 +1940,14 @@ And just working in the console and getting used to how this works,
 because that&apos;s a really great way of learning sort of the basics of
 JavaScript.
 
-![](./images/media/image089.png){width="5.0in"
-height="3.053418635170604in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 89.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image089.png?raw=true"
+  width="50%"
+  alt="." />
+<!-- ![](./images/media/image089.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Here&apos;s a challenge for you, we have an array for animals here, and we
 can see that the length of the array is four but you could also find out
