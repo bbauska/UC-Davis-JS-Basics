@@ -1,10 +1,17 @@
 ---
 title: |
-  JavaScript Basics
-
+  University of California @Davis JavaScript Basics
   taught by William Mead, Lecturer -- UC-Davis
+author: "bbauska"
+date last editted: "1/16/2024 12+pm"
+output: 
+  markdown:
+    with some style
 ---
 
+<h1 align="center">JavaScript Basics</h1>
+
+<h6 align="center">(by William Mead, Lecturer - University of California @Davis)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
