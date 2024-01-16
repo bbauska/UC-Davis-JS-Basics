@@ -67,8 +67,47 @@ skills.
 
 ## [**Week 2: Controlling Logical Flow in JavaScript**](#ch2)
 >	- ### [**2.00 Learning Objectives**](#ch2-00-obj)
->	- ### [**2.00 Module 2 Introduction**](#ch2-00)
+>	- ### [**2.00 Module 2 Introduction**](#ch2-00-intro)
 >### [**2.01 Visual Studio - Part 1**](#ch2-01)
+>### [**2.02 Visual Studio - Part 2**](#ch2-02)
+>### [**2.03 Visual Studio - Part 3**](#ch2-03)
+>### [**2.04 Operators, Boolean &amp; Selection in JavaScript**](#ch2-04)
+>### [**2.05 Try This!**](#ch2-05)
+>### [**2.06 Comparing Values**](#ch2-06)
+>### [**2.07 Else If**](#ch2-07)
+>### [**2.08 Switch Statements**](#ch2-08)
+>### [**2.09 Using &amp;&amp;**](#ch2-09)
+>	- ### [**2.09.Additional Resources**](#ch2-09-add)
+>### [**2.10 Loops in JavaScript**](#ch2-10)
+>### [**2.11 Working With Arrays**](#ch2-11)
+>### [**2.12 The For...Of Loop**](#ch2-12)
+>### [**2.13 While Loops**](#ch2-13)
+>	- ### [**2.13.JavaScript-Loops Additional-Resources**](ch2-13-add)
+>### [**2.14 Structured Programming, Sequence - Part 1**](#ch2-14)
+>### [**2.15 Sequence - Part 2**](#ch2-15)
+>### [**2.16 Sequence - Part 3, Loop**](#ch2-16)
+>### [**2.17 Loop + Selection**](#ch2-17)
+>	- ### [**2.17.JavaScript Basic Challenges Introduction 1-9**](ch2-17-intro)
+>### [**2.18 JavaScript Basic Challenges**](#ch2-18)
+>### [**2.19 JavaScript Basic Challenges**](#ch2-19)
+>### [**2.20 JavaScript Basic Challenges**](#ch2-20)
+>### [**2.21 Useful Example - Step 1**](#ch2-21)
+>### [**2.22 Useful Example - Steps 2-4**](#ch2-22)
+>### [**2.23 Useful Example - Step 5**](#ch2-23)
+>### [**2.24 More on Functions**](#ch2-24)
+>	- ### [**2.24.Additional Resources**](ch2-17-add)
+>	- ### [**2.24.JavaScript Function Challenges 10-16**](ch2-17-func)
+>	- ### [**2.24.Module 2 Reflection**](ch2-24-refl)
+
+## [**Week 3: Using JavaScript in the Web Browser**](#ch3)
+>	- ### [**3.00 Learning Objectives**](#ch3-00-obj)
+>	- ### [**3.00 Module 3 Introduction**](#ch3-00-intro)
+>### [**3.01 JavaScript and the DOM**](#ch3-01)
+>### [**3.02 Dot Syntax and Methods**](#ch3-02)
+>### [**3.03 DOM; getElementsByTagName();**](#ch3-03)
+>### [**3.04 DOM; getElementsByClassName();**](#ch3-04)
+>### [**3.05 DOM; querySelector()**](#ch3-05)
+>### [**3.06 DOM; querySelectorAll();**](#ch3-06)
 
 <h2>Syllabus</h2>
 
@@ -389,7 +428,7 @@ vacation destination list application.
 
 <!-- start course here -->
 
-<h2>A Note From UC Davis</h2>
+<h2 name="ch1-00-note">1.00. A Note From UC Davis</h2>
 
 <h3>Welcome to this course!</h3>
 
@@ -456,7 +495,7 @@ Coursera Honor Code</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-00-objectives">1.00 Learning Objectives</h2>
+<h2 id="ch1-00-obj">1.00 Learning Objectives</h2>
 
 <ul>
   <li>Identify interactions on web pages created with JavaScript.</li>
