@@ -46,7 +46,7 @@ skills.
 ## [**Week 1: Getting Started, Intro to JS, Variables, and Arrays**](#ch1)
 >	- ### [**1.00 A Note from UC Davis**](#ch1-00-note)
 >	- ### [**1.00 Learning Objectives**](#ch1-00-obj)
->	- ### [**1.00 Welcome/Intro to this Course!**](#ch1-00-welcome)
+>	- ### [**1.00 Welcome/Intro to this Course!**](#ch1-00-intro)
 >### [**1.01 Intro to JavaScript - Part 1**](#ch1-01)
 >### [**1.02 Intro to JavaScript - Part 2**](#ch1-02)
 >### [**1.03 Intro to JavaScript - Part 3**](#ch1-03)
@@ -62,7 +62,7 @@ skills.
 >### [**1.11 JavaScript Arrays - Part 2**](#ch1-11)
 >### [**1.12 JavaScript Arrays Practice**](#ch1-12)
 >	- ### [**1.12.Additional Resources**](#ch1-12-add)
->	- ### [**1.12.Reserved Words**](#ch1-12-words)
+>	- ### [**1.12.Reserved Words**](#ch1-12-res)
 >	- ### [**1.12.Array Methods**](#ch1-12-array)
 
 ## [**Week 2: Controlling Logical Flow in JavaScript**](#ch2)
@@ -2029,12 +2029,12 @@ of array methods that you can use.
   alt="W3schools JS array methods; toString." />
 <!-- ![](./images/media/image88.png){width="5.0in" height="3.053418635170604in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88b. list of arrays methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image088b.png?raw=true"
   width="50%"
-  alt="List of Basic Array Methods." />
+  alt="List of Basic Array Methods; length, toString, at, join, pop & push." />
 
 And a really good place to go look at them would be the
 <b>W3schools.com</b> website or the MDN JavaScript arrays. And here it is
@@ -2047,7 +2047,7 @@ because that&apos;s a really great way of learning sort of the basics of
 JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. array of four animals (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. array of four animals (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.png?raw=true"
@@ -2079,13 +2079,13 @@ ways of getting elements out of arrays.</p>
 <p>Here are resources related to these lessons:</p>
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/vzVsq/additional-resources">
+  <li id="ch1-12-add"><a href="https://www.coursera.org/learn/javascript-basics/supplement/vzVsq/additional-resources">
     1.12.Additional Resources</a></li>
-  <li><a href="https://www.w3schools.com/js/js_reserved.asp">1.12.Reserved Words</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
+  <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp">1.12.Reserved Words</a></li>
+  <li id="ch1-12-array"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
     1.12.Array Methods</a></li>
 </ul>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch2">Week Two:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
