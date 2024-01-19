@@ -2205,7 +2205,14 @@ the cursor between the two, and I can move that down.</p>
   alt="Add a new variable; var hello." />
 </p>
 
-And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order to get it to do something currently what we have to work with is the console. because that's what I've shown you so far in the other videos, we'll get to other things later. And really pretty soon, but for right now we just have the console. So I can use console.log, remember, we talked about this method before. (hello) to put that variable or really the string associated with that variable into the console. So I can save this file and there's the data up here, I have to save it. I can save the file and then I can go over to Chrome over here. 
+And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order 
+to get it to do something currently what we have to work with is the console. because 
+that's what I've shown you so far in the other videos, we'll get to other things later. 
+And really pretty soon, but for right now we just have the console. So I can use 
+console.log, remember, we talked about this method before. (hello) to put that variable 
+or really the string associated with that variable into the console. So I can save this 
+file and there's the data up here, I have to save it. I can save the file and then I can 
+go over to Chrome over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2215,7 +2222,9 @@ And here I can make a variable, var hello = “Good Morning Bill!”;. And then 
   alt="Add a new variable; var hello." />
 </p>
  
-And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my desktop and I can open this file. And it comes up and it doesn't really look like much, it's just a webpage and we're not even seeing the script run. 
+And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my 
+desktop and I can open this file. And it comes up and it doesn't really look like much, 
+it's just a webpage and we're not even seeing the script run. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. add new variable var hello (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2227,7 +2236,9 @@ And I can go to File and open, or on Windows, you can do Cmd+O. And then here I 
 
 But if we go and choose Inspect and then click on the Console, you'll see that it comes 
 up here. And my JavaScript is actually running. We've gotten our first script to run. 
-The next thing to talk about is how we can make some comments in JavaScript in case we want to remind ourselves exactly what we're doing. It's always good practice to add comments to your scripts so that when you come back to them later, you know what's going on. 
+The next thing to talk about is how we can make some comments in JavaScript in case we 
+want to remind ourselves exactly what we're doing. It's always good practice to add 
+comments to your scripts so that when you come back to them later, you know what's going on. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. add new variable var hello (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2339,32 +2350,85 @@ folder. I can manage my whole project from here.</p>
   alt="Add a new variable; var hello." />
 </p>
 
-Perhaps I have another file in here. I'm going to have styles.css. Maybe that's going to have some styles for my webpage, and it's going to go into that file. 
+Perhaps I have another file in here. I'm going to have styles.css. Maybe that's going 
+to have some styles for my webpage, and it's going to go into that file. 
  
-Now that file is now in the folder over here. In this way, I can control and keep track of all the files for myproject and they're all in one place. Remember I said earlier, you have to get really good at file management and you have to make sure that all the files for a project stay in the folder. You might have other folders in the folder. 
+Now that file is now in the folder over here. In this way, I can control and keep track 
+of all the files for myproject and they're all in one place. Remember I said earlier, 
+you have to get really good at file management and you have to make sure that all the 
+files for a project stay in the folder. You might have other folders in the folder. 
  
-If I come back here, I might make a folder for images. Now this is a folder, and currently there's nothing in the folder, but if I look in this folder over here, you can see that the folder images is here, and I can put images in there. Be careful when you're creating files, not to accidentally put the file inside the folder if you don't mean to. If I click "New File" here, it's going to create this file inside of Images, oops.html. This file is actually inside the Images folder here, and I can see it over here as well, as being inside the Images folder. If I decide I don't want that file, I can right-click here and choose "Delete". It will ask me, do I really want to move it to the trash? and sure enough, from over here, that file is now not inside that folder and folder is empty again. By working with this Explorer, we can create files and manage files for our projects and make sure that the files are in the correct places at all times. 
+If I come back here, I might make a folder for images. Now this is a folder, and currently 
+there's nothing in the folder, but if I look in this folder over here, you can see that the 
+folder images is here, and I can put images in there. Be careful when you're creating files, 
+not to accidentally put the file inside the folder if you don't mean to. If I click "New File" 
+here, it's going to create this file inside of Images, oops.html. This file is actually inside 
+the Images folder here, and I can see it over here as well, as being inside the Images folder. 
+If I decide I don't want that file, I can right-click here and choose "Delete". It will ask me, 
+do I really want to move it to the trash? and sure enough, from over here, that file is now not 
+inside that folder and folder is empty again. By working with this Explorer, we can create 
+files and manage files for our projects and make sure that the files are in the correct 
+places at all times. 
  
-The last new thing that I have for this lesson is I just want to show you that Visual Studio Code is very customizable. You can add all extensions to it. If I click on this Gear icon down here, I can get into the Settings. I can do all things in here with extensions and other things. 
+The last new thing that I have for this lesson is I just want to show you that Visual 
+Studio Code is very customizable. You can add all extensions to it. If I click on this 
+Gear icon down here, I can get into the Settings. I can do all things in here with 
+extensions and other things. 
  
-For example, you can search for Settings or Extensions. You can do all fun things to make Visual Studio Code more personalized. Maybe you like this black look for your code editor, or perhaps you prefer a lighter theme. 
+For example, you can search for Settings or Extensions. You can do all fun things 
+to make Visual Studio Code more personalized. Maybe you like this black look for 
+your code editor, or perhaps you prefer a lighter theme. 
    
-I installed this Extension here called Atom One Light Theme. You can click on that, and currently it's disabled, but I can enable this theme. 
+I installed this Extension here called Atom One Light Theme. You can click on that, 
+and currently it's disabled, but I can enable this theme. 
  
-Select Color Theme. There we go. Here I've got the Color Themes and I can select that, [inaudible]. Sometimes you have to mess around with this Extensions in the Theme Editor, in the Settings to really figure it out. There's all themes that you can get for Visual Studio Code to customize it and make it look the way you want it to look. I go back to my files and here I am. 
+Select Color Theme. There we go. Here I've got the Color Themes and I can select 
+that, [inaudible]. Sometimes you have to mess around with this Extensions in the 
+Theme Editor, in the Settings to really figure it out. There's all themes that you 
+can get for Visual Studio Code to customize it and make it look the way you want it 
+to look. I go back to my files and here I am. 
  
-Now you'll notice that my files will look a little bit different because I'm using the Atom one light theme. Just to remember here, we've done quite a lot to make this page. You can see here I am in myproject again for my Index file. I come over here and click. 
+Now you'll notice that my files will look a little bit different because I'm using 
+the Atom one light theme. Just to remember here, we've done quite a lot to make this 
+page. You can see here I am in myproject again for my Index file. I come over here 
+and click. 
  
-Just to review what we did in this lesson, I can type an exclamation point press tab (![tab]) to get the basic structure of a page. I can add a title for my document that will show up on my page. I can add some HTML. I'm just going to add an h1. Here is a heading. Then I can add some script tags, and I can add a script to my page. I could do something like var myVariable and set it to "hello". Then I could cancel logout console.log myVariable. Notice it pops up here. I can even just press carriage return, don't even have to type the whole thing. I can just press return to get it to pop that in place so I make sure I don't spell it wrong. Then a semicolon. Semicolons are used in JavaScript at the ends of statements. I can save that file, and then I can come back to the browser and test it. 
+Just to review what we did in this lesson, I can type an exclamation point press 
+tab (![tab]) to get the basic structure of a page. I can add a title for my document 
+that will show up on my page. I can add some HTML. I'm just going to add an h1. Here 
+is a heading. Then I can add some script tags, and I can add a script to my page. I 
+could do something like var myVariable and set it to "hello". Then I could cancel 
+logout console.log myVariable. Notice it pops up here. I can even just press carriage 
+return, don't even have to type the whole thing. I can just press return to get it to 
+pop that in place so I make sure I don't spell it wrong. Then a semicolon. Semicolons 
+are used in JavaScript at the ends of statements. I can save that file, and then I 
+can come back to the browser and test it. 
  
-Let's do that real quick. Comeback here to Chrome. This is the other file. I'm going to open this file. I could do Command All, there we go myproject index, and there it is. It's doing Hello there. The Hello came up in the Console lock there. That's a review of everything we learned in this lesson. Your now able to work with files and get those files to output content into the console that you can then test in your browser. That's a great way of working. 
-Another way of opening your file is to right-click on the file and choose "Open With" and I want to open with the browser, you could even try a different browser. Brave is a great browser to try. Brave is using the same rendering engine as Chrome. It actually works the same way as Chrome generally. What's interesting about Brave is that the CEO of Brave is actually that Brendan Eich guy who invented JavaScript. It's interesting to note that the guy invented Java Script is now in the business of creating a browser. That's interesting. Great. This will get you started and I look forward to seeing you in the next lesson where we can start writing some interesting scripts.
+Let's do that real quick. Comeback here to Chrome. This is the other file. I'm going 
+to open this file. I could do Command All, there we go myproject index, and there it 
+is. It's doing Hello there. The Hello came up in the Console lock there. That's a 
+review of everything we learned in this lesson. Your now able to work with files 
+and get those files to output content into the console that you can then test in 
+your browser. That's a great way of working. 
+Another way of opening your file is to right-click on the file and choose "Open 
+With" and I want to open with the browser, you could even try a different browser. 
+Brave is a great browser to try. Brave is using the same rendering engine as Chrome. 
+It actually works the same way as Chrome generally. What's interesting about Brave is 
+that the CEO of Brave is actually that Brendan Eich guy who invented JavaScript. It's 
+interesting to note that the guy invented Java Script is now in the business of 
+creating a browser. That's interesting. Great. This will get you started and I look 
+forward to seeing you in the next lesson where we can start writing some interesting 
+scripts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-2.04 Operators, Booleans & Selection in JavaScript (8:11)
+<h2 id="ch2-04">2.04 Operators, Booleans & Selection in JavaScript (8:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Operators Booleans and selection in JavaScript. 
  
-Operators in JavaScript are the symbols that will allow us to create different expressions in JavaScript. And here are just a few of them. We've already seen the plus sign and the equal sign, which remember, equals is an assignment operator. There's also minus and the asterisk is used to multiply and forward slashes used to divide and the percent is a modules operator. 
+Operators in JavaScript are the symbols that will allow us to create different 
+expressions in JavaScript. And here are just a few of them. We've already seen the 
+plus sign and the equal sign, which remember, equals is an assignment operator. 
+There's also minus and the asterisk is used to multiply and forward slashes used 
+to divide and the percent is a modules operator. 
   
 If you want to find out more about operators you can come over to the W3schools.com website and look at the different operators though. Get all listed here comparison operators, logical operators, all kinds of stuff here. So you can come through and find all the details about all of the different operators if you want to there. But we're just going to start with a few of them so it's not too overwhelming and most of the operators are very similar to what you would find in other C-based programming languages. C, C++, C sharp, Objective C, and so forth. 
  
