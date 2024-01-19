@@ -29,7 +29,7 @@ output:
 
 <h2 id="#about">About this Course</h2>
 
-This course introduces the programming language JavaScript and shows the
+<p>This course introduces the programming language JavaScript and shows the
 websites that include the type of interactions students will eventually
 be able to develop. Learners will understand the importance of how
 JavaScript was developed and why such history impacts the way JavaScript
@@ -38,7 +38,7 @@ first scripts, have their HTML and CSS skills assessed, create variables
 and arrays and assign values to them. If student's skills are lacking,
 resources and recommendations are provided to improve these skills.
 There is ample opportunity for students to practice these first, core
-skills.
+skills.</p>
 
 <!--~~ Hoverable Dropdown Menu ~~-->
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
@@ -114,19 +114,16 @@ skills.
 <h3>Week 1</h3>
 <h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
 
-In this module, you will be introduced to JavaScript and what it can do.
-You will be able to identify websites that include the types of
-interactions you will be able to produce at the end of the entire
-Specialization. You will also be able to discuss the history of
-JavaScript and explore why this history impacts how we write JavaScript.
-On the web, JavaScript is used to manipulate the HTML and CSS of a
-webpage, after it has loaded from the server. You will be able to assess
-your understanding of HTML and CSS and have the opportunity through
-resources and recommendations for improving your skills in this area, if
-necessary. You will write simple JavaScript statements in the web
-browser console and be able to create variables and arrays. You will be
-able to assign values to these variables and arrays and be able to read
-values from them.
+<p>In this module, you will be introduced to JavaScript and what it can do. You will be 
+able to identify websites that include the types of interactions you will be able to 
+produce at the end of the entire Specialization. You will also be able to discuss the 
+history of JavaScript and explore why this history impacts how we write JavaScript.
+On the web, JavaScript is used to manipulate the HTML and CSS of a webpage, after it 
+has loaded from the server. You will be able to assess your understanding of HTML and 
+CSS and have the opportunity through resources and recommendations for improving your 
+skills in this area, if necessary. You will write simple JavaScript statements in the 
+web browser console and be able to create variables and arrays. You will be able to assign 
+values to these variables and arrays and be able to read values from them.</p>
 
 <h4>12 videos, 5 readings</h4>
 
@@ -168,19 +165,19 @@ values from them.
 
 <h3>Controlling Logical Flow in JavaScript</h3>
 
-In this module, you will be able to download, install and use of a code editor as 
+<p>In this module, you will be able to download, install and use of a code editor as 
 a tool for writing code, and properly save and manage their files. You will be introduced 
 to the selection control structure. This basic control structure allows programs to follow 
 a path based on conditions, and is one of the three major logic and flow control structures 
-found in any modern programming language.
+found in any modern programming language.</p>
 
-You will be able to identify, write, and trouble shoot scripts using this basic 
+<p>You will be able to identify, write, and trouble shoot scripts using this basic 
 control structure. You will be able to correctly identify loop structures and
 practice using some of the syntax available in JavaScript to create loops. You 
 will then be able to put all three logical flow control structures (sequence, selection, 
 and loop) together to create basic JavaScript programs that can be tested. Finally you 
 will be able to combine sets of program instructions into named functions and create
-custom functions that can be called to complete the instructions they contain.
+custom functions that can be called to complete the instructions they contain.</p>
 
 <h4>25 lessons, 5 readings</h4>
 
@@ -248,7 +245,7 @@ custom functions that can be called to complete the instructions they contain.
 
 <h3>Using JavaScript in the Web Browser</h3>
 
-In this module, you will be introduced to the methods built into
+<p>In this module, you will be introduced to the methods built into
 JavaScript for accessing and manipulating DOM elements in the web
 browser. You will be able to capture user events with JavaScript and use
 those events to trigger changes to the DOM using the document methods
@@ -256,7 +253,7 @@ and element properties. You will be able to identify how scope works in
 JavaScript and be introduced to best practices for working with
 variables in JavaScript so that scope does not become a problem. You
 will be able to practice all the skills and techniques learned so far in
-the course by putting together a simple slideshow on a web page.
+the course by putting together a simple slideshow on a web page.</p>
 
 <h4>37 videos, 7 readings</h4>
 
@@ -344,11 +341,11 @@ the course by putting together a simple slideshow on a web page.
 
 <h3>Basic JavaScript Application Projects</h3>
 
-In this module, you will be able to apply and practice the skills and
+<p>In this module, you will be able to apply and practice the skills and
 techniques you have learned in the course by building a basic and a more
 advanced distance converter. You will be able to further apply and
 practice to extend your skills and techniques by building a simple
-vacation destination list application.
+vacation destination list application.</p>
 
 <h4>26 videos, 4 readings</h4>
 
@@ -426,29 +423,29 @@ vacation destination list application.
   <li>4.25.Self-Reflection</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~ week 1 - getting started, introduction to javascript, variables, and arrays (09) ~~~~~-->
-<!-- start course here -->
+<!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 name="ch1">Week 1</h1>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch1-00-note">1.00. A Note From UC Davis</h2>
 
 <h3>Welcome to this course!</h3>
 
-We are delighted to be a part of your continuing education. This course will provide you 
+<p>We are delighted to be a part of your continuing education. This course will provide you 
 with a variety of tools and learning opportunities, to include video lectures, readings, 
 assessments, peer reviews, and an opportunity to contribute to the Coursera learning 
-community in the discussion forums.
+community in the discussion forums.</p>
 
-In each of the lesson sections, you'll find learning objectives, lecture videos, readings, 
+<p>In each of the lesson sections, you'll find learning objectives, lecture videos, readings, 
 activities, and an opportunity to test your knowledge in quiz format. In some of the module 
 sections you'll also work on assignments and grade the work of your peers. A peer-review 
 assignment, is one where you and your fellow learners have an opportunity to review and 
-grade each other's work. We'll dive more into peer reviews later on in this course.
+grade each other's work. We'll dive more into peer reviews later on in this course.</p>
 
-When navigating the course, you can find available <b>course resources</b> under each of 
+<p>When navigating the course, you can find available <b>course resources</b> under each of 
 the lecture videos in a section labeled "[Downloads]" -- here you can download the lecture 
 video, view transcripts, PDFs of the lecture slides, and <b>find additional readings or 
-files</b>.
+files</b>.</p>
 
 <p>If you run into any issues during this course, <b>learner support</b> is available to all 
 Coursera students. The link for Coursera's Learner support is included below. The 
@@ -492,13 +489,13 @@ Coursera Honor Code</a>.</p>
 <h3>Additional Links:</h3>
 
 <ul>
-  <li><a href="https://learner.coursera.help/hc/en-us">Coursera's Learner Support/Help Center:</a></li>
+  <li><a href="https://learner.coursera.help/hc/en-us">1.00.Coursera's Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-obj">1.00 Learning Objectives</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Identify interactions on web pages created with JavaScript.</li>
   <li>Articulate, in general terms, the importance of how JavaScript was developed and how that impacts the way JavaScript is written.</li>
@@ -511,12 +508,12 @@ Coursera Honor Code</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-welcome">1.00 Welcome to JavaScript Basics (1:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 1 introduction (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 1 welcome to js basics (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.png?raw=true"
   width="40%"
-  alt="." />
+  alt="1.00. Welcome to JavaScript Basics." />
 </p>
 
 <p>Hello, and welcome to our course on JavaScript. My name is Bill Mead,
@@ -534,9 +531,9 @@ you&apos;ll start to understand why it&apos;s satisfying and easy to get started
 with and if you&apos;re new to programming, don&apos;t worry, we&apos;re going to
 start at the very beginning and get you going all on the right track.
 Buckle in and let&apos;s get started learning JavaScript.</p>
-
-<h2 id="ch1-00-intro">1.00. Week 1 Introduction (0:57)</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-00-intro">1.00. Week 1 - Getting Started, Intro to JS, Variables &amp; Arrays (0:57)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to the first module on JavaScript. In this module we&apos;ll get
 into the basics of the language. We&apos;ll talk about variables and arrays
 and these kinds of things that you see in a lot of programming
@@ -552,7 +549,7 @@ learning about JavaScript in the basics of the language.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01. Intro to JavaScript -- Part 1 (3:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. intro to javascript - part 1 (10) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 04. intro to javascript - part 1 (3:13) (10) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image004.png?raw=true"
@@ -577,7 +574,6 @@ anything into an array in JavaScript.</p>
 with even smaller divisions in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. inspect console arrays (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image006.png?raw=true"
   width="50%"
@@ -591,7 +587,6 @@ type it. It&apos;s a little bit hard to type and get right, but it&apos;s worth
 trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 07/08. console inspect array elements (12) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image007.png?raw=true"
   width="45%"
@@ -619,7 +614,6 @@ to understand about arrays is that they&apos;re very flexible tools that you
 can use to hold groups of data, and that&apos;s very useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 09. console inspect array elements, #3 (12) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image009.png?raw=true"
   width="50%"
@@ -638,7 +632,6 @@ in that string. That&apos;s kind of an interesting thing to understand about arr
 <h2 id="ch1-02">1.02. Intro to JavaScript -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. inro to javascript - part 2 (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image010.png?raw=true"
   width="40%"
@@ -650,7 +643,6 @@ in that string. That&apos;s kind of an interesting thing to understand about arr
 interact with the website is this Awwwards website with the extra w&apos;s in here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 11. javascript interaction: awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image011.png?raw=true"
   width="50%"
@@ -658,13 +650,11 @@ interact with the website is this Awwwards website with the extra w&apos;s in he
 </p>
 <!-- ![](./images/image011.png){width="5.0in" height="3.0544870953630796in"} -->
 
-<p>I have that website pulled up over here. You can come here and look
-through some of the different sites that have won awards on
-awwwards.com. <https://www.awwwards.com/>. They tend to be pretty
-innovative and interesting sites.</p>
+<p>I have that website pulled up over here. You can come here and look through some of 
+the different sites that have won awards on <a href="https://www.awwwards.com/">
+awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 12. taptaro example in awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image012.png?raw=true"
   width="50%"
@@ -672,13 +662,11 @@ innovative and interesting sites.</p>
 </p>
 <!-- ![](./images/image012.png){width="5.0in" height="3.0544870953630796in"} -->
 
-<p>I have this one (<https://www.awwwards.com/sites/taptaro>). Whether
-you&apos;re talking about following the mouse, or coming over here and the
-animation around the circle, or the way these images pop in, this is all
-being done with JavaScript, this kind of thing.</p>
+<p>I have <a href="https://www.awwwards.com/sites/taptaro">this one</a>. Whether you&apos;re 
+talking about following the mouse, or coming over here and the animation around the circle, 
+or the way these images pop in, this is all being done with JavaScript, this kind of thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 13. javascript example, no longer there (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image013.png?raw=true"
   width="50%"
@@ -691,7 +679,6 @@ on one of these things it will come up and show you the different pictures and g
 some other interactions including some sounds as you work around it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 14. boyntonyards.com - awwwards.com (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image014.png?raw=true"
   width="50%"
@@ -699,12 +686,10 @@ some other interactions including some sounds as you work around it.</p>
 </p>
 <!-- ![](./images/image014.png){width="5.0in" height="3.0544870953630796in"} -->
 
-Or this website (<https://boyntonyards.com/>) over here which as you scroll through 
-does some interesting interactions as you&apos;re scrolling through the website, 
-that kind of stuff.
+<p>Or <a href="https://boyntonyards.com/">this website</a> which has some interesting 
+interactions as you&apos;re scrolling through the website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont'd (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image015.png?raw=true"
   width="50%"
@@ -718,7 +703,6 @@ seen some interactions and websites and you&apos;ve probably seen plenty of othe
 websites or you&apos;ve gone off and found your own.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. why learn javascript? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image016.png?raw=true"
   width="50%"
@@ -726,26 +710,25 @@ websites or you&apos;ve gone off and found your own.</p>
 </p>
 <!-- ![](./images/image016.png){width="5.0in" height="3.0544870953630796in"} -->
 
-But let&apos;s talk about some other reasons why we should learn JavaScript.
-First of all, it&apos;s the most popular programming language in the world.
+<p>But let&apos;s talk about some other reasons why we should learn JavaScript.
+First of all, it&apos;s the most popular programming language in the world.</p>
 
-There&apos;s also a low barrier of entry to the field. Whereas if you&apos;re
+<p>There&apos;s also a low barrier of entry to the field. Whereas if you&apos;re
 learning Java, or C, or C++, you&apos;re going to need a lot of experience
 before you can get to a really good paying job. But JavaScript in the
 web is the gateway to programming into the tech industry in this way.
-It&apos;s really good to learn JavaScript for that reason.
+It&apos;s really good to learn JavaScript for that reason.</p>
 
-Then finally, it is the language of the web. Now it goes well beyond the
+<p>Then finally, it is the language of the web. Now it goes well beyond the
 web. We have Raspberry Pi and other devices that can all be programmed
 with JavaScript robots and all kinds of things where JavaScript exists.
 The Unity gaming engine uses JavaScript as well as C#. There are lots of
 places where you can use JavaScript, but it is ultimately the language
 of the web. It is the programming, the scripting language for the web
 browser, and it&apos;s native to the web browser. That&apos;s a really great
-place to start with programming.
+place to start with programming.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 17. 1995 - beginnings of javascript (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image017.png?raw=true"
   width="50%"
@@ -753,7 +736,7 @@ place to start with programming.
 </p>
 <!-- ![](./images/image017.png){width="5.0in" height="3.0544870953630796in"} -->
 
-The story of JavaScript is really interesting. It really is the story of
+<p>The story of JavaScript is really interesting. It really is the story of
 an underdog who became king. JavaScript didn&apos;t start off as the most
 popular programming language. It&apos;s really important to understand this
 path that JavaScript has taken through history because it has a big
@@ -763,17 +746,16 @@ he was working at Netscape. I&apos;m not going to go into great detail on
 the history here, but it&apos;s a really good thing to look up. It&apos;s a very
 interesting story in and of itself. But he wrote the language in a very
 short amount of time and that&apos;s an important thing to understand about
-this language.
+this language.</p>
 
-Another important thing to understand about the JavaScript programming
+<p>Another important thing to understand about the JavaScript programming
 language is it&apos;s not the same language as Java. It was originally a
 language called Mocha and they changed the name to JavaScript, really as
 a marketing ploy. But it&apos;s not actually the same language as Java,
 they&apos;re two completely different languages. It&apos;s easy as a beginner to
-get confused between Java and JavaScript.
+get confused between Java and JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. javascript rough beginnings (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image018.png?raw=true"
   width="50%"
@@ -789,7 +771,6 @@ did a lot to help people understand the incredible value of JavaScript
 as a language and its strengths as well as its weaknesses.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 19. javascript - the good and the bad  (19) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image019.png?raw=true"
   width="50%"
@@ -819,7 +800,6 @@ it was different.</p>
 <h2 id="ch1-03">1.03. Intro to JavaScript -- Part 3 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. intro to javascript - part 3 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image020.png?raw=true"
   width="40%"
@@ -832,7 +812,6 @@ the years, and this is because the way JavaScript is developed has
 really impacted the way that we write JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. javascript versions (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image021.png?raw=true"
   width="50%"
@@ -840,64 +819,55 @@ really impacted the way that we write JavaScript.</p>
 </p>
 <!-- ![](./images/image021.png){width="5.0in" height="2.823183508311461in"} -->
 
-So having a little bit of understanding of this history is really
-important as you learn the language. Again, I&apos;m just going to cover
-just the very basics, but there&apos;s a lot of this history. It&apos;s a
-fascinating history and worth looking into if you&apos;re interested in that
-kind of thing and you can find out about it by looking it up on the web
-where there&apos;s plenty of books about it and that kind of stuff.
+<p>So having a little bit of understanding of this history is really important as you 
+learn the language. Again, I&apos;m just going to cover just the very basics, but 
+there&apos;s a lot of this history. It&apos;s a fascinating history and worth looking 
+into if you&apos;re interested in that kind of thing and you can find out about it by 
+looking it up on the web where there&apos;s plenty of books about it and that kind of 
+stuff.</p>
 
-We know that JavaScript was originally written in 1995 in 10 days by
-Brendan Eich and his team at Netscape. Then in 1997, the first version
-of the standard was released, and the standard is created by the
-European Computer Manufacturers Association. Essentially the people in
-California went to Europe to this association to get this language
-rubber-stamped. It didn&apos;t turn out to be quite that easy, but that&apos;s a
-longer story. But in 1997, the first version, <b>ECMAScript 1,</b> was
-standardized and released, and then a third version.
+<p>We know that JavaScript was originally written in 1995 in 10 days by Brendan Eich and 
+his team at Netscape. Then in 1997, the first version of the standard was released, and 
+the standard is created by the European Computer Manufacturers Association. Essentially 
+the people in California went to Europe to this association to get this language rubber-
+stamped. It didn&apos;t turn out to be quite that easy, but that&apos;s a longer story. 
+But in 1997, the first version, <b>ECMAScript 1,</b> was standardized and released, and 
+then a third version.</p>
 
-The second version never really quite happened, but the third version
-came out in 1999 with some minor changes and fixes. The fourth version
-is an interesting story and one that I won&apos;t go into great depth on,
-but again, you can look it up for yourself. But essentially, if you&apos;ll
-recall, I had said earlier that there was a lot of arguing about the
-direction of JavaScript and there were a lot of developers that didn&apos;t
-really understand it. There was some push to make JavaScript more like
-other programming languages that we&apos;re already familiar with and
-comfortable with. Douglas Crockford really stepped in and said,&quot; Wait,
-look, JavaScript is its own language and it has its own powerful
-features in its own right and if you understand it and make use of that
-power then it really is valuable to keep it the way it is&quot;. It took a
-while for him to convince people of that.
+<p>The second version never really quite happened, but the third version came out in 1999 
+with some minor changes and fixes. The fourth version is an interesting story and one 
+that I won&apos;t go into great depth on, but again, you can look it up for yourself. But 
+essentially, if you&apos;ll recall, I had said earlier that there was a lot of arguing 
+about the direction of JavaScript and there were a lot of developers that didn&apos;t
+really understand it. There was some push to make JavaScript more like other programming 
+languages that we&apos;re already familiar with and comfortable with. Douglas Crockford 
+really stepped in and said,&quot; Wait, look, JavaScript is its own language and it has 
+its own powerful features in its own right and if you understand it and make use of that
+power then it really is valuable to keep it the way it is&quot;. It took a while for him 
+to convince people of that.</p>
 
-But in 2009, they released <b>ECMAScript 5</b>, and <b>ECMAScript 4</b> was
-scrapped. They started to go a different direction entirely and then
-they scrapped that direction entirely. They released <b>ECMAScript 5</b> in
-2009. This is the version that when it was released, everybody had kind
-of come together around the table and said, &quot;JavaScript is going to be
-the scripting language for the web&quot;. Because everybody had agreed with
-that, this is when JavaScript really took off and made it past its
-troubled beginnings and its difficult beginnings was here in 2009. In
-2009 is when JavaScript became King of the web because all of the major
-players agreed that this is going to be the scripting language, the
-programming language of the web. They built in a lot of features.
-There&apos;s a lot that&apos;s built into <b>ECMAScript 5</b> that we&apos;ll be using
-throughout this course.
+<p>But in 2009, they released <b>ECMAScript 5</b>, and <b>ECMAScript 4</b> was scrapped. 
+They started to go a different direction entirely and then they scrapped that direction 
+entirely. They released <b>ECMAScript 5</b> in 2009. This is the version that when it was 
+released, everybody had kind of come together around the table and said, &quot;JavaScript 
+is going to be the scripting language for the web&quot;. Because everybody had agreed with
+that, this is when JavaScript really took off and made it past its troubled beginnings and 
+its difficult beginnings was here in 2009. In 2009 is when JavaScript became King of the 
+web because all of the major players agreed that this is going to be the scripting language, 
+the programming language of the web. They built in a lot of features. There&apos;s a lot 
+that&apos;s built into <b>ECMAScript 5</b> that we&apos;ll be using throughout this course.</p>
 
-Over the next 10 years, there was a lot of work on JavaScript. They
-really wanted to move it from being a scripting language to a general
-all-purpose language, something that was very powerful. In 2015,
-<b>ES6</b>, what is commonly referred to as <b>ES6</b>, was released,
-sometimes it&apos;s called <b>ECMAScript 2015</b>. These two terms are
-interchangeable, but <b>ES6</b> was released and it&apos;s a big release, a lot
-changed and a lot was added, and a lot of JavaScript has been made more
-powerful and turned into a more general all purpose programming
-language. A lot of what you&apos;ll be learning in this course are pieces
-from the <b>2009 ECMAScript 5</b> standard and pieces from the <b>ECMAScript
-2015 ES6</b> standard together, which really make up the major part of
-JavaScript.
+<p>Over the next 10 years, there was a lot of work on JavaScript. They really wanted to move 
+it from being a scripting language to a general all-purpose language, something that was very 
+powerful. In 2015, <b>ES6</b>, what is commonly referred to as <b>ES6</b>, was released,
+sometimes it&apos;s called <b>ECMAScript 2015</b>. These two terms are interchangeable, but 
+<b>ES6</b> was released and it&apos;s a big release, a lot changed and a lot was added, and a 
+lot of JavaScript has been made more powerful and turned into a more general all purpose 
+programming language. A lot of what you&apos;ll be learning in this course are pieces from 
+the <b>2009 ECMAScript 5</b> standard and pieces from the <b>ECMAScript 2015 ES6</b> standard 
+together, which really make up the major part of JavaScript.</p>
 
-Since 2015, the standardizing body has been in a nice cadence of
+<p>Since 2015, the standardizing body has been in a nice cadence of
 releasing new versions each year. From then on, instead of calling it
 <b>ES7</b> and <b>ES8</b> and that kind of stuff, they stuck with the year.
 They came out with <b>ECMAScript 2016, ECMAScript 2017</b>, and so on and
@@ -906,7 +876,7 @@ whole, these additions are fairly small and they are being more advanced
 pieces that we won&apos;t see nearly as much of in this course because this
 is a beginner&apos;s course, but we will be doing a lot with <b>ECMAScript
 5</b> and <b>ES6</b> or <b>ECMAScript 2015</b>. Dive in and I hope you enjoy
-learning about JavaScript as we go along here.
+learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-04">1.04 Tools Needed for Success</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -980,8 +950,8 @@ height="2.435042650918635in"}![](./images/image028.png){width="3.5in"
 height="2.435042650918635in"}
 -->
 
-<p>You could use Atom, you could use Sublime Text, even if you have Dreamweaver, you 
-could use that as a code editor.</p>
+<p>You could use Atom, you could use Sublime Text, even if you have Dreamweaver, you could 
+use that as a code editor.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. adobe dreamweaver (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -991,9 +961,8 @@ could use that as a code editor.</p>
   alt="Adobe's Dreamweaver Web Editor." />
 <!-- ![](./images/image029.png){width="5.0in" height="3.073718285214348in"} -->
 
-Dreamweaver has a lot of other stuff built into it that you don&apos;t need,
-but it works perfectly fine as code editor if you want to use that as
-well.
+<p>Dreamweaver has a lot of other stuff built into it that you don&apos;t need, but it works 
+perfectly fine as code editor if you want to use that as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. web browser (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1002,7 +971,7 @@ well.
   width="40%"
   alt="Web Browser; Chrome Preferred. Also, Brave, Safari and Firefox." />
 
-The second thing you&apos;re going to need is a web browser, and I&apos;m going
+<p>The second thing you&apos;re going to need is a web browser, and I&apos;m going
 to recommend that you use <b>Chrome</b>. <b>Chrome</b> has a lot of the
 developer tools that developers use. They&apos;re built right into
 <b>Chrome</b> and they&apos;re easy to access. You can also use <b>Safari</b> or
@@ -1011,7 +980,7 @@ out there as well and many of them also have developer tools, but most
 developers use <b>Chrome</b> and get comfortable with the <b>Chrome</b>
 developer tools. So I recommend that you download <b>Chrome</b> and use
 that browser. Do NOT use <b>IE</b> or <b>Edge</b> developed by Microsoft.
-Unless you LOVE advertisements and poor coding techniques.
+Unless you LOVE advertisements and poor coding techniques.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. image editor - nice to have (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1021,10 +990,10 @@ Unless you LOVE advertisements and poor coding techniques.
   alt="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView." />
 <!-- ![](./images/image031.png){width="4.0in" height="2.259401793525809in"} -->
 
-You&apos;re also going to need an image editor. If you have access to
+<p>You&apos;re also going to need an image editor. If you have access to
 Photoshop, that&apos;s great. Photoshop is fantastic for this kind of thing,
 but if you don&apos;t have access to Photoshop, there&apos;s another one called
-GIMP, which is free.
+GIMP, which is free.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. gimp (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1034,15 +1003,13 @@ GIMP, which is free.
   alt="GIMP (GNU Image Manipulation Program) image editor." />
 <!-- ![](./images/image032.png){width="5.0in" height="2.824251968503937in"} -->
 
-You can go download <b>GIMP</b> and I have that pulled up here. You can
-actually download <b>GIMP</b> for Mac or for Windows and that kind of
-stuff. <b>IrfanView</b> is even better & easier. There are also online
-tools, webpages that will allow you to upload your image and optimize it
-for the web and do some different kinds of image editing right through
-your browser. You might find some of those types of tools as well, but
-you will need some image editor to help you working with images. That&apos;s
-a nice to have. It&apos;s not absolutely necessary, but it&apos;s really nice to
-have.
+<p>You can go download <b>GIMP</b> and I have that pulled up here. You can actually download 
+<b>GIMP</b> for Mac or for Windows and that kind of stuff. <b>IrfanView</b> is even better 
+&amp; easier. There are also online tools, webpages that will allow you to upload your image 
+and optimize it for the web and do some different kinds of image editing right through your 
+browser. You might find some of those types of tools as well, but you will need some image 
+editor to help you working with images. That&apos;s a nice to have. It&apos;s not absolutely 
+necessary, but it&apos;s really nice to have.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. computer and internet access (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1051,17 +1018,17 @@ have.
   alt="A Computer and Internet Access." />
 <!-- ![](./images/image033.png){width="4.0in" height="2.06965769903762in"} -->
 
-Next, you&apos;re going to need a computer and internet access. It may sound
+<p>Next, you&apos;re going to need a computer and internet access. It may sound
 obvious that you&apos;re going to need internet access to do an internet
 class, but you are going to need that and you will need a computer,
-whether it&apos;s a laptop or desktop.
+whether it&apos;s a laptop or desktop.</p>
 
-What&apos;s not going to work very well is either a Chromebook or a tablet
+<p>What&apos;s not going to work very well is either a Chromebook or a tablet
 or a phone. You&apos;re really going to need something that you can write
 code on and save files to. iOS you can make it work, but it&apos;s not
 really up to the task. You&apos;ll be fighting it every step along the way.
 You want to be working with <b>Mac OS X</b> or <b>Windows 10</b> on a computer
-in order to really make this work.
+in order to really make this work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-05">1.05 Skills Needed for Success (5:38)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1072,8 +1039,8 @@ in order to really make this work.
   alt="Skills needed for success with JavaScript." />
 </p>
 
-Let&apos;s talk about some of the skills you need in order to be successful
-learning JavaScript.
+<p>Let&apos;s talk about some of the skills you need in order to be successful learning 
+JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. keyboarding skills (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1082,29 +1049,26 @@ learning JavaScript.
   alt="Keyboarding Skills." />
 <!-- ![](./images/image035.png){width="4.0in" height="2.06965769903762in"} -->
 
-<b>First and foremost</b>, you need to be able to type. I mean typing with
-10 fingers without looking at your fingers, touch typing. And it will
-really help you to be able to do this. If you&apos;re somebody who hunts in
-packs with one finger or two fingers, you may be pretty fast at it. But
-it really will slow you down for programming. And so I recommend that
-you do some online typing programs. There&apos;s plenty of places online
-where you can learn how to type. You don&apos;t have to be terribly fast at
-typing. But you do need to be accurate. Or if you&apos;re not accurate with
-typing, you have to at least stop and go back and fix every single
-error. And I have known a lot of students over the years that struggle a
-lot with typing. And it really impedes their ability to learn something
-like JavaScript. So I recommend that you get those keyboarding skills if
-you don&apos;t have them already.
+<p><b>First and foremost</b>, you need to be able to type. I mean typing with 10 fingers 
+without looking at your fingers, touch typing. And it will really help you to be able to 
+do this. If you&apos;re somebody who hunts in packs with one finger or two fingers, you 
+may be pretty fast at it. But it really will slow you down for programming. And so I 
+recommend that you do some online typing programs. There&apos;s plenty of places online
+where you can learn how to type. You don&apos;t have to be terribly fast at typing. But 
+you do need to be accurate. Or if you&apos;re not accurate with typing, you have to at 
+least stop and go back and fix every single error. And I have known a lot of students 
+over the years that struggle a lot with typing. And it really impedes their ability to 
+learn something like JavaScript. So I recommend that you get those keyboarding skills 
+if you don&apos;t have them already.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. file management (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image036.png?raw=true"
   width="40%"
   alt="File Management." />
 <!-- ![](./images/image036.png){width="4.0in" height="2.06965769903762in"} -->
 
-The <b>second</b> thing that you need is you need to be able to manage your
+<p>The <b>second</b> thing that you need is you need to be able to manage your
 files. That means when you save a file on your computer, you know where
 it is. Not just going into the file menu and choosing the most recent
 files thing. If that&apos;s what you do to find your files, then you need to
@@ -1116,10 +1080,9 @@ be found, if a file is not in the right place, then your project will
 break. And we don&apos;t want that to happen. So make sure you clean up all
 of your files. And work with a clean desktop. And for every project, you
 should have a folder and all the files you need for that project should
-be in that folder.
+be in that folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. persistence (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image037.png?raw=true"
   width="40%"
@@ -1781,7 +1744,6 @@ and on websites.
 <h2 id="ch1-10">1.10. JavaScript Arrays -- Part 1 (5:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 73. javascript arrays - part 1 (1.10) (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image073.png?raw=true"
   width="40%"
@@ -1791,7 +1753,6 @@ and on websites.
 JavaScript arrays.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 74. an array is a container with sub-containers (51) ~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image074.png?raw=true"
   width="40%"
@@ -1809,7 +1770,6 @@ different containers that are going to hold different pills for the
 week. Frequently in JavaScript, we have to deal with groups of things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. working with groups (52) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image075.png?raw=true"
   width="40%"
@@ -1826,7 +1786,6 @@ group. The analogy that works best for that is thinking about groups of
 things with arrays.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 76. creating an array in javascript (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image076.png?raw=true"
   width="40%"
@@ -1841,7 +1800,6 @@ Let&apos;s actually do this over the console. I think it&apos;s helpful to
 actually see us create these elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 77. inspect, console.log new array example (53) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image077.png?raw=true"
   width="50%"
@@ -1873,7 +1831,6 @@ to be aware of.
 <h2 id="ch1-11">1.11. JavaScript Arrays -- Part 2 (3:17)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 78. javascript arrays - part 2 (1.11) (54) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image078.png?raw=true"
   width="40%"
@@ -1884,7 +1841,6 @@ Unlike a pill box, which really can&apos;t hold much more than just pills,
 you can put anything into an array in JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 79. you can put anything in an array (55) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image079.png?raw=true"
   width="50%"
@@ -1896,7 +1852,6 @@ a sub container with even smaller divisions in it. So let&apos;s take a look
 at what that looks like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 80. example array; vehicles, make and model (55) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image080.png?raw=true"
   width="50%"
@@ -1921,7 +1876,6 @@ they&apos;re very flexible tools for you can use to hold groups of data, and
 that&apos;s very useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 81. example string variable as an array (56) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image081.png?raw=true"
   width="50%"
@@ -1941,7 +1895,6 @@ arrays as well.
 <h2 id="ch1-12">1.12. JavaScript Arrays Practice (6:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 82. javascript arrays practice (1.12) (57) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image082.png?raw=true"
   width="40%"
@@ -1952,7 +1905,6 @@ Let&apos;s do a little bit of practice with arrays, so I can make a new
 variable bar Animals and assign an array.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 83. define var animals = ['cat', 'dog', 'chicken']; (57) ~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image083.png?raw=true"
   width="50%"
@@ -1965,7 +1917,6 @@ elements, cat, dog and chicken. Now, arrays come with certain array
 methods that you can do to arrays specifically, so if I do animals.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push('llama'); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image084.png?raw=true"
   width="50%"
@@ -1977,7 +1928,6 @@ cat, dog, chicken and the llama are all in the array.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. push array method (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image085.png?raw=true"
   width="50%"
@@ -1996,7 +1946,6 @@ remembering that you can do that.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 86. splice array method to remove (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image086.png?raw=true"
   width="50%"
@@ -2009,7 +1958,6 @@ So now, if I do animals, you can see it&apos;s got the cat, chicken, and the
 lama,but not the dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 87. push and sort array methods (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.png?raw=true"
   width="50%"
@@ -2024,7 +1972,6 @@ is in the third position based on alphabetical order. So there are a lot
 of array methods that you can use.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 88. w3schools javascript arrays methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image088.png?raw=true"
   width="50%"
@@ -2032,25 +1979,20 @@ of array methods that you can use.
 <!-- ![](./images/media/image88.png){width="5.0in" height="3.053418635170604in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.png?raw=true"
   width="50%"
   alt="List of Basic Array Methods; length, toString, at, join, pop & push." />
 
-And a really good place to go look at them would be the
-<b>W3schools.com</b> website or the MDN JavaScript arrays. And here it is
-here and then they&apos;ll have array methods here. There are all kinds of
-examples of array methods that you can use. You can join, we can do all
-kinds of things. And it&apos;s worth exploring some of the different methods
-and trying them out on your own with just messing around with arrays.
-And just working in the console and getting used to how this works,
-because that&apos;s a really great way of learning sort of the basics of
-JavaScript.
-
+<p>And a really good place to go look at them would be the <b>W3schools.com</b> website or the 
+MDN JavaScript arrays. And here it is here and then they&apos;ll have array methods here. 
+There are all kinds of examples of array methods that you can use. You can join, we can 
+do all kinds of things. And it&apos;s worth exploring some of the different methods and 
+trying them out on your own with just messing around with arrays. And just working in the 
+console and getting used to how this works, because that&apos;s a really great way of 
+learning sort of the basics of JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. array of four animals (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090.png?raw=true"
   width="50%"
@@ -2083,11 +2025,140 @@ ways of getting elements out of arrays.</p>
 <ul>
   <li id="ch1-12-add"><a href="https://www.coursera.org/learn/javascript-basics/supplement/vzVsq/additional-resources">
     1.12.Additional Resources</a></li>
-  <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp">1.12.Reserved Words</a></li>
+  <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp">
+    1.12.Reserved Words</a></li>
   <li id="ch1-12-array"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
     1.12.Array Methods</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch2">Week Two:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<h2 id="ch2-00-obj">2.00 Learning Objectives</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <ul>
+    <li>Download and install a code editor.</li>
+    <li>Use the code editor to create HTML files.</li>
+    <li>Manage files and folders.</li>
+    <li>Use the explorer in Visual Studio Code to organize and link to files.</li>
+    <li>Identify selection structures within programs.</li>
+    <li>Identify expressions that evaluate to true or false in JavaScript.</li>
+    <li>Write the syntax necessary for creating selection structures in JavaScript.</li>
+    <li>Troubleshoot scripts when they have errors.</li>
+    <li>Use a code editor to write scripts.</li>
+    <li>Correctly identify loop structures in programming.</li>
+    <li>Use correct syntax to write loops in JavaScript.</li>
+    <li>Identify and fix errors in the program when they occur.</li>
+    <li>Write basic JavaScript programs in a code editor and run them in the browser.</li>
+    <li>Combine logic flow control structures within simple programs.</li>
+    <li>Output program results to the console window.</li>
+    <li>Create custom functions that can be called to complete the instructions they contain.</li>
+    <li>Practice working with combining control structures (sequence, selection and loop) and creating functions to create
+	  basic programs that output to the browser console.</li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-00-welcome">2.00 Module 2 - Controlling Logical Flow in JS (0:51)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 2 introduction (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image091.png?raw=true"
+  width="40%"
+  alt="2.00. Module 2 introduction." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+2.00 Module 2 Introduction Controlling Logical Flow in JavaScript (0:51)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+ 
+Welcome to the second module. In this module, we'll get further into the basics of the JavaScript language. There are certain things that you'll find in many modern programming languages, such as control structures, such as being able to figure out if something is true or how to handle something in a loop and these kinds of things. We'll be doing that sort of work in this second module. There's a lot of practice and there's a lot of opportunities along the way to get used to the JavaScript syntax. I encourage you to do as much of that as you possibly can. 
+2.01 Visual Studio – Part 1 (4:39)
+ 
+In this lesson, we're going to be talking about working with the code editor and I'm going to be specifically looking at Visual Studio Code, which I have pictured here on this slide (see below). But I also have it open over here in this tab and you can go down the download Visual Studio Code for Mac or Windows for free and it's a great code editor if you prefer to use a different code editor such as Atom or Sublime Text or something else. That's fine too. As long as it's got great features for editing code and it's not a word processor like Microsoft Word. But I'll be using Visual Studio Code throughout this course, so it might be helpful for you to use that as well.
+ 
+Sometimes when you open Visual Studio Code, you'll get these tabs open with the Welcome or with new release notes if they've come out with a new version and you can just close those tabs by clicking on the "X". You'll notice I have Visual Studio Code open in running here, but I don't have any of those editors open and I can make a new file by just going and choosing a new file, and that creates a new file here. 
+ 
+It's important with Visual Studio Code that before you do anything else, you save your file. That way it knows what type of file you're working with. I'm going to choose file save as, and I'm going to just save this as "myfile.hml". I'm going to save an HTML file, to begin with on my desktop. Once I have an HTML file, then I can get the basic HTML structure by holding down "Shift", pressing an exclamation point, and then pressing "Tab" and that will give me the basic structure for my page. 
+ 
+If you take an HTML class, you'll learn to type the doctype and to type all these tags, we can use the shortcut. Again, what you did to get it, I'll just type exclamation point and then press "Tab" and then you can come in here and give your document a name, "My File". The title shows up in the tab in the browser. That's important. Great. I can save that. 
+ 
+Now, one thing to notice really quickly while we're here, see this dot up here., that means this file has changed and it has not yet been saved. One of the frequent mistakes I see at the beginning with users getting started with, working with HTML and CSS and JavaScript is they'll add things to the file and then they'll forget to save them, and then they're going to run the file and they realize their changes aren't showing up, so watch out for that little dot. You can get that to go away by doing "File", "Save" over here or "Command S", "Control S" in windows, and then it'll go back to just the X, which you would use to close that tab and close that window app, and then I can open this back up again by dropping it here and that will open that file back up again. That gets me some basics of getting files opened and working here in Visual Studio Code. 
+ 
+A important note, if you're on Windows is, open up any Explorer Window. Click on the "View" tab and then go over and verify box is checked in "File name extensions". That way when you save your files, you'll see the ".html" file extension, and that's important. But here I have a screenshot of it so please make sure you do that. Also. Make sure that when you save files, make sure that the filename is always lowercase and never has a space in it so I have "myfile" all as one word here. Do not put spaces in filenames, they cannot be more explicit about that.
+2.02 Visual Studio – Part 2 (5:48)
+ 
+I'm back in my code editor. And now, I'm ready to add a script. So let's add a script to this file. And we can see some JavaScript actually happened here. 
+ 
+First, I'm going to put some HTML on the page, My First Script, nice, if I spell that right. And then you can actually put scripts really anywhere inside this file. Sometimes they go in the head of the page here inside the head tag. Frequently, you'll see them down here just before the closing body tag. So I'm going to make a script tag. And then it puts the cursor between the two, and I can move that down. 
+ 
+And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order to get it to do something currently what we have to work with is the console. because that's what I've shown you so far in the other videos, we'll get to other things later. And really pretty soon, but for right now we just have the console. So I can use console.log, remember, we talked about this method before. (hello) to put that variable or really the string associated with that variable into the console. So I can save this file and there's the data up here, I have to save it. I can save the file and then I can go over to Chrome over here. 
+ 
+And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my desktop and I can open this file. And it comes up and it doesn't really look like much, it's just a webpage and we're not even seeing the script run. 
+ 
+But if we go and choose Inspect and then click on the Console, you'll see that it comes up here. And my JavaScript is actually running. We've gotten our first script to run. 
+The next thing to talk about is how we can make some comments in JavaScript in case we want to remind ourselves exactly what we're doing. It's always good practice to add comments to your scripts so that when you come back to them later, you know what's going on. 
+ 
+There are two ways of making comments in JavaScript. I can use the slash twice, two slashes, and I can type the variable is below, something like that, or the variable below, I don't know we could say something else about it. But putting two slashes //, two forward slashes here, will keep JavaScript from trying to do anything with this line here. If you want to have a longer comment, you can use the slash and a star /* and then end comment with a star and a slash */. And then I can put a longer comment about anything that I want and it can go multiple lines. See example in image.
+ 
+While we're here, another thing that's important is I can actually make the code in the browser larger or smaller by pressing the Cmd plus or Ctrl plus in Windows on my keyboard here, let's click on that. And that will make the code larger or smaller. And I can make this window over here smaller too if the code is getting squished in there, you can close it all together. This thing opens and closes that Explorer. But I can make the code larger or smaller. And depending on how good your eyes are, you might want the code to be larger or smaller, Cmd+0 will put it at its default size, but command minus will make it smaller. So make sure you're setting your code to a size that's comfortable for you to read.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+2.03 Visual Studio – Part 3 (9:48)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+ 
+The next thing to talk about is folders and working with folders for projects. 
+ 
+This file, myfile.html, this file here is just sitting on my desktop. That's fine for a single file, but usually, if I'm working on a project, I'm going to have a folder with a bunch of related files. I might have an HTML file. I might have a CSS file, I might have multiple JavaScript files as we get going here. But for right now this is just a single file. That's not really very useful by itself. 
+   
+Over here I'm going to make a folder, and I'm going to give the folder a name, myproject. Notice there are no spaces in that folder name. Also all the letters or lowercase. It doesn't have to be, so myproject. Then over here, close this file, and open up the sidebar here, and no folder opened. I can actually open that folder, myproject. 
+ 
+Now you can see I've got my welcome screen again and I've got MYPROJECT here. There's no files in this folder currently. I just made a folder and it's empty, but I can put a file in that folder and close that welcome screen.
+If I make a new file, suppose I make a file and call it index.html. That's going to be an HTML file. I can put that in my folder. 
+ 
+Now you'll notice it's created the index file. Not only that, but if I look in myproject folder over here, you can see that index.html has been created in that folder. I can manage my whole project from here. 
+ 
+Perhaps I have another file in here. I'm going to have styles.css. Maybe that's going to have some styles for my webpage, and it's going to go into that file. 
+ 
+Now that file is now in the folder over here. In this way, I can control and keep track of all the files for myproject and they're all in one place. Remember I said earlier, you have to get really good at file management and you have to make sure that all the files for a project stay in the folder. You might have other folders in the folder. 
+ 
+If I come back here, I might make a folder for images. Now this is a folder, and currently there's nothing in the folder, but if I look in this folder over here, you can see that the folder images is here, and I can put images in there. Be careful when you're creating files, not to accidentally put the file inside the folder if you don't mean to. If I click "New File" here, it's going to create this file inside of Images, oops.html. This file is actually inside the Images folder here, and I can see it over here as well, as being inside the Images folder. If I decide I don't want that file, I can right-click here and choose "Delete". It will ask me, do I really want to move it to the trash? and sure enough, from over here, that file is now not inside that folder and folder is empty again. By working with this Explorer, we can create files and manage files for our projects and make sure that the files are in the correct places at all times. 
+ 
+The last new thing that I have for this lesson is I just want to show you that Visual Studio Code is very customizable. You can add all extensions to it. If I click on this Gear icon down here, I can get into the Settings. I can do all things in here with extensions and other things. 
+ 
+For example, you can search for Settings or Extensions. You can do all fun things to make Visual Studio Code more personalized. Maybe you like this black look for your code editor, or perhaps you prefer a lighter theme. 
+   
+I installed this Extension here called Atom One Light Theme. You can click on that, and currently it's disabled, but I can enable this theme. 
+ 
+Select Color Theme. There we go. Here I've got the Color Themes and I can select that, [inaudible]. Sometimes you have to mess around with this Extensions in the Theme Editor, in the Settings to really figure it out. There's all themes that you can get for Visual Studio Code to customize it and make it look the way you want it to look. I go back to my files and here I am. 
+ 
+Now you'll notice that my files will look a little bit different because I'm using the Atom one light theme. Just to remember here, we've done quite a lot to make this page. You can see here I am in myproject again for my Index file. I come over here and click. 
+ 
+Just to review what we did in this lesson, I can type an exclamation point press tab (![tab]) to get the basic structure of a page. I can add a title for my document that will show up on my page. I can add some HTML. I'm just going to add an h1. Here is a heading. Then I can add some script tags, and I can add a script to my page. I could do something like var myVariable and set it to "hello". Then I could cancel logout console.log myVariable. Notice it pops up here. I can even just press carriage return, don't even have to type the whole thing. I can just press return to get it to pop that in place so I make sure I don't spell it wrong. Then a semicolon. Semicolons are used in JavaScript at the ends of statements. I can save that file, and then I can come back to the browser and test it. 
+ 
+Let's do that real quick. Comeback here to Chrome. This is the other file. I'm going to open this file. I could do Command All, there we go myproject index, and there it is. It's doing Hello there. The Hello came up in the Console lock there. That's a review of everything we learned in this lesson. Your now able to work with files and get those files to output content into the console that you can then test in your browser. That's a great way of working. 
+Another way of opening your file is to right-click on the file and choose "Open With" and I want to open with the browser, you could even try a different browser. Brave is a great browser to try. Brave is using the same rendering engine as Chrome. It actually works the same way as Chrome generally. What's interesting about Brave is that the CEO of Brave is actually that Brendan Eich guy who invented JavaScript. It's interesting to note that the guy invented Java Script is now in the business of creating a browser. That's interesting. Great. This will get you started and I look forward to seeing you in the next lesson where we can start writing some interesting scripts.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+2.04 Operators, Booleans & Selection in JavaScript (8:11)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Operators Booleans and selection in JavaScript. 
+ 
+Operators in JavaScript are the symbols that will allow us to create different expressions in JavaScript. And here are just a few of them. We've already seen the plus sign and the equal sign, which remember, equals is an assignment operator. There's also minus and the asterisk is used to multiply and forward slashes used to divide and the percent is a modules operator. 
+  
+If you want to find out more about operators you can come over to the W3schools.com website and look at the different operators though. Get all listed here comparison operators, logical operators, all kinds of stuff here. So you can come through and find all the details about all of the different operators if you want to there. But we're just going to start with a few of them so it's not too overwhelming and most of the operators are very similar to what you would find in other C-based programming languages. C, C++, C sharp, Objective C, and so forth. 
+ 
+Okay, so there's also Booleans in JavaScript. And it's very nice to know that a Boolean can have two values true or false. And that's it. So here I'm making a variable called happy. And I've set I've assigned it the value of true. Notice that true is not inside quotes. JavaScript knows what true means true is a key word that means that something is true. And false is a key word that means that something is false. 
+So I have a variable here sad, that's false. I can use an if statement to check to see if something is true. So if happy, now happy has assigned true to it, so it's going to do something here. If I were to replace happy with sad. Then the else would fire it instead of they have and we would do something down here if happy was false. Or if I change the value here from true to false, then happy would be false. And it would do this down here. So that gets us started with a little bit of that. 
+ 
+So next we're going to move to our code editor and make a file and try working with some selections and Booleans and that kind of fun stuff. 
+ 
+Here I am in my code editor, and I'm going to make a new file. And I'm going to make a file and before I do anything, I'm going to save the file. Save an image, just save it on the desktop, and I'm going to call it selections.html. Notice all lowercase no spaces in the dot html extension. I'm going to save that on the desktop. 
+ 
+Exclamation point will allow me to press tab, which gives me kind of my basic structure for an HTML page. And then I'm going to type in here. Testing selections And there we go. And then in here I'm just going to add an h1 testing selections. 
+ 
+Now, I'm going to add a script tag. So we'll go ahead and add a script in here. And then what are we going to put in the script? Well, let's make some bullets I'm going to have Var red and I'm going to set that to value true. Then we have var blue and I'm going to set that to value of false. There we go. So I've got two values here. One is set to true and the other one is set to false.
+ 
+Now if I were to make an if statement if parentheses, and I were to check the value of those red. I'm going to check the value of red. If red is true, which is it is, then something's going to happen here. Red is going to evaluate to true because I have true assigned to the red variable here. If I were to put blue in here, then this would not be true, in which case something else would happen. 
+ 
+So I'm going to come down here and add else.Now this else statement, sometimes you'll see it up on the same line. Like the This and sometimes you'll see it on the next line like that, that doesn't really matter. That's a styling choice. Some people like to keep their code a little bit more compact and put it like this. Some people find it's a little bit easier to read if it's like that. So that's up to you and then something else would happen here. Console.log, the statement is false. The statement is true. 
+ 
+Now we can try this out and come over here to our browser. I'm going to make a new tab here and open this file selections. Open, and I've got my testing selections. If I right click and choose inspect, I can go to the console and sure enough, the statement is true. 
+ 
+Now I can come back to my code editor, and if I change this to blue which is false. This else statement will run. So if I come back and then click refresh, now the statement is false. Or alternatively, I could to change the value here to false, change that back to red. Save that and then come back and you'll see that in fact It's still coming up false. 
+  
+Usually you'll see more like this, I just add the extra space in there just to make it a little bit easier to read and a little bit easier to evaluate. So red is either blue false or true. And blue is either false or true because I've used these Boolean 's here. 
