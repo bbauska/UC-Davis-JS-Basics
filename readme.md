@@ -2032,7 +2032,7 @@ of array methods that you can use.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image088b.png?raw=true"
+<img src="./images/image089.png?raw=true"
   width="50%"
   alt="List of Basic Array Methods; length, toString, at, join, pop & push." />
 
@@ -2050,7 +2050,7 @@ JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. array of four animals (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image089.png?raw=true"
+<img src="./images/image090.png?raw=true"
   width="50%"
   alt="Array of four animals." />
 <!-- ![](./images/media/image089.png){width="5.0in" height="3.053418635170604in"} -->
