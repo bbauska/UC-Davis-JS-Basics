@@ -425,8 +425,10 @@ vacation destination list application.
 <ul>
   <li>4.25.Self-Reflection</li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~ week 1 - getting started, introduction to javascript, variables, and arrays (09) ~~~~~-->
 <!-- start course here -->
+<h1 name="ch1">Week 1</h1>
 
 <h2 name="ch1-00-note">1.00. A Note From UC Davis</h2>
 
