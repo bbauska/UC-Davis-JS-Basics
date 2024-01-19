@@ -2681,8 +2681,266 @@ console.log states false.</p>
   alt="2.05. Try This!" />
 </p>
 
+<p>This is interesting. Let&apos;s try this.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 138/139. types of boolean = false (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image138.png?raw=true"
+  width="45%"
+  alt="Test, null is false, undefined is false, zero & false are also false." />
+<img src="./images/image139.png?raw=true"
+  width="45%"
+  alt="Undefined, zero, null, and false are all false." />
+</p>
+
+<p>I&apos;m going to make a variable called green and then see what happens if
+I pass green in here. Notice green doesn&apos;t have a value here. So let&apos;s
+take a look at that. I&apos;m going to make a variable green, and just put a
+semicolon. And then down here, I&apos;m going to test green. Is green true
+or false? What do you think? This can happen here.</p>
+
+<p>Let&apos;s test that. The statement is <b>false</b>. This is an important thing to 
+understand about JavaScript. Green is essentially undefined. It&apos;s an undefined 
+variable. Undefined resolves to false in JavaScript. JavaScript has a concept of truthy 
+and falsy. So things are either true ish or false ish. And they could be explicitly true 
+or false like red and blue out here, but they could false ish. And JavaScript treats 
+variables that are undefined as false.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 140/141. green = null, green = 0 are both false (87) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image140.png?raw=true"
+  width="45%"
+  alt="var green = null, equates to false. " />
+<img src="./images/image141.png?raw=true"
+  width="45%"
+  alt="var green = 0, equates to false." />
+</p>
+
+<p>Also, green equals null, that would be false. So that comes up false.
+Green equals 0, 0 is false. But if I put any other number in there
+except 0, any other real number like a 1. 1 is true. What about 100?
+That&apos;ll be true too. What about minus 100? That&apos;s true as well.</p>
+
+<p>So, numbers are true except for zero, zero is **falsy**. It&apos;s false
+ish. So, zero comes up as false, which is kind of an interesting thing.
+So things that we know are false or **undefined** is false, **null** is
+false, **zero** is false. **False** is false. Other things are true.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142/143. green = "cheese" is true (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image142.png?raw=true"
+  width="45%"
+  alt="var green = 'cheese' is true. " />
+<img src="./images/image143.png?raw=true"
+  width="45%"
+  alt="Test, var green = 'cheese' is true." />
+</p>
+
+<p>But if I put Cheese Cheese is true. So that&apos;s an interesting thing
+about JavaScript.</p>
+
+<h2 id="ch2-06">2.06 Comparing Values (8:16)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. comparing values (2.06) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image144.png?raw=true"
+  width="40%"
+  alt="2.06. Comparing Values." />
+</p>
+
+<p>Let&apos;s look at comparing values.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. double equal comparison (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image145.png?raw=true"
+  width="50%"
+  alt="Comparison with double equal sign." />
+</p>
+
+<p>This is something we&apos;ll do a lot in JavaScript. We often want to find
+out if the value here is the same as the value somewhere else.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. test, mynum to othernum (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image146.png?raw=true"
+  width="50%"
+  alt="Test, myNum == otherNum." />
+</p>
+
+<p>I&apos;m going to go back and leave green here is undefined, like so. Then
+I&apos;m going to make a new variable, var myNum and assign it the value
+five and var otherNum and assign it value of five. Then down here I can
+check to see if myNum is the same as equals otherNum. It&apos;s really
+important to read this as the same as. This is assigns, five is assigned
+to otherNum and five is assigned to myNum. But here what I&apos;m checking
+to see is myNum the same as the otherNum. In this case it is.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 147. does mynum equal othernum? true (90) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image147.png?raw=true"
+  width="50%"
+  alt="Test, myNum == otherNum is true." />
+</p>
+
+<p>So if I save this and test this, you&apos;ll see the statement is true
+because myNum is the same as the otherNum.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 148/149. change number, now statement is false (90) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image148.png?raw=true"
+  width="45%"
+  alt="Change to 6.  Now one is 5, other is 6." />
+<img src="./images/image149.png?raw=true"
+  width="45%"
+  alt="Test, statement is now false." />
+</p>
+
+<p>If I change this to a different number, then I&apos;m obviously going to get
+false. That&apos;s not true. So the statement is false, they&apos;re not the
+same as.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 150/151. test, exclamation equal for false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image150.png?raw=true"
+  width="45%"
+  alt="Use exclamation and equal for NOT." />
+<img src="./images/image151.png?raw=true"
+  width="45%"
+  alt="Test, not equal with exclamation + equal sign." />
+</p>
+
+<p>Instead of equals equals, I could use exclamation point equals. That
+will be not the same answer. Is that true? Is **myNum** not the same as
+**otherNum**? Yes, that&apos;s true. We can also check for greater than or
+less than so we could say, is **myNum** less than my **otherNum**? That
+should be true because **myNum** is less than the **otherNum**, let&apos;s
+see, and that statement is true. I could try is it greater than. Is
+**myNum** greater than the **otherNum**. Is that true? That&apos;s not going
+to be true because five is not greater than six. But we can test for
+these different kinds of scenarios, **myNum** and **otherNum**. We can
+use less than and greater than and check to see if that&apos;s true.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 152/153. more testing of not equal & false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image152.png?raw=true"
+  width="45%"
+  alt="More test of not equal and false." />
+<img src="./images/image153.png?raw=true"
+  width="45%"
+  alt="Test, not equal as false." />
+</p>
+
+<p>We're going to try a little mix. var **notNum** equals five. So this
+five is a string with the number five in it. Now can I check to see if
+**myNum** is the same as **notNum**? Do you think I&apos;m going to get
+there if I save that and try that? The statement is true. Well, that&apos;s
+interesting. How can a five be the same as five inside quotes?</p>
+
+<p>Remember, JavaScript is loosely typed and it allows for something called type
+**coercion**. What&apos;s going on here is that JavaScript is saying we&apos;ve
+got a five here and we&apos;ve got a five in a string and they&apos;re basically
+the same, so I&apos;m going to call that true. So that&apos;s **truthy**. It&apos;s
+truish. You can think of it that way, which is very interesting. Now,
+again, this is the kind of thing that can drive programmers crazy
+because you could end up making a mistake in your programming or having
+something unexpected happening. You don&apos;t want unexpected things to
+happen in your programs, that&apos;s never a good thing.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154/155. triple equal testing (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image154.png?raw=true"
+  width="45%"
+  alt="Triple equal testing." />
+<img src="./images/image155.png?raw=true"
+  width="45%"
+  alt="Must be exactly the same to match as true." />
+</p>
+
+<p>I believe it was ES5 in 2009, they introduced the triple equals
+operator, which is exactly the same as and that won&apos;t do type
+**coercion**. Remember, this is the kind of thing that we&apos;re working
+with in JavaScript. They don&apos;t want to just get rid of the
+double-equals or change what it does because that would break other
+programs. That will break programs that have been happening in the past.
+But they can add another operator which is the triple equals and that
+one will not do type coercion. So you&apos;ll notice this one will come up
+false. That statement is false because it won&apos;t do the type
+**coercion**.</p>
+
+<p>There is also the same thing with the exclamation point so you can say
+that&apos;s not exactly the same as. You can read this as is **myNum**
+exactly the same as **notNum** and the answer is no. Generally, it&apos;s
+considered better programming to use the triple equals sign everywhere.
+Often in our shorter scripts, it doesn&apos;t really matter and you&apos;ll see
+me equals equals over time. But really if you want to get into really
+good habits, always use the triple equals sign so that you don&apos;t ever
+have any type **coercion** unless you really want it for some reason.
+Again, this is an odd thing about JavaScript that you can do this.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. explain undefined variables (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image156.png?raw=true"
+  width="50%"
+  alt="Explain undefined or null variables as false." />
+</p>
+
+<p>One more thing I want to check out here really quickly while we&apos;re
+here, I&apos;m going to change this five to something like chicken and then
+I&apos;m going to make a new variable, var **myValue** equals **notNum**
+minus **myNum**. I&apos;m going to take chicken and subtract five. That
+doesn&apos;t make any sense. What happens if I put my value in here? You
+probably won&apos;t be surprised to see that that comes up **false**.
+That&apos;s **false**.</p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 157/158. test, not a number is false (93) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image157.png?raw=true"
+  width="45%"
+  alt="Test, if not a number then statement is false." />
+<img src="./images/image158.png?raw=true"
+  width="45%"
+  alt="Test, not a number (NaN) is false." />
+</p>
+
+<p>More than, if I come down here and just console.log my value, just to
+see what&apos;s actually in that my value when I try to take a chicken and
+subtract five from it, what do I get over here? Num not a number,
+**NaN**. Num is another thing in JavaScript that is falsy. So in our
+list of things that are false are zero, false, undefined, null and not a
+number (**NaN**). Those things all come up false in JavaScript and
+that&apos;s an important thing to keep in mind as we move forward with
+working with JavaScript and working with Booleans, and when we&apos;re
+testing values.</p>
 
 
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (##) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
