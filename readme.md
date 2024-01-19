@@ -2191,10 +2191,10 @@ to this file. And we can see some JavaScript actually happened here.</p>
   alt="Add 'My First Script' as an h1." />
 </p>
  
-<p>First, I'm going to put some HTML on the page, My First Script, nice, if I spell that 
-right. And then you can actually put scripts really anywhere inside this file. Sometimes 
-they go in the head of the page here inside the head tag. Frequently, you'll see them down 
-here just before the closing body tag. So I'm going to make a script tag. And then it puts 
+<p>First, I'm going to put some HTML on the page, My First Script. And then you can 
+actually put scripts really anywhere inside this file. Sometimes they go in the head 
+of the page here inside the head tag. Frequently, you'll see them down here just 
+before the closing body tag. So I'm going to make a script tag. And then it puts 
 the cursor between the two, and I can move that down.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2205,47 +2205,47 @@ the cursor between the two, and I can move that down.</p>
   alt="Add a new variable; var hello." />
 </p>
 
-And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order 
+<p>And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order 
 to get it to do something currently what we have to work with is the console. because 
 that's what I've shown you so far in the other videos, we'll get to other things later. 
 And really pretty soon, but for right now we just have the console. So I can use 
 console.log, remember, we talked about this method before. (hello) to put that variable 
 or really the string associated with that variable into the console. So I can save this 
 file and there's the data up here, I have to save it. I can save the file and then I can 
-go over to Chrome over here. 
+go over to Chrome over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. file open, my first script (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image101.png?raw=true"
   width="50%"
-  alt="Add a new variable; var hello." />
+  alt="File open, My First Script." />
 </p>
  
-And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my 
+<p>And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my 
 desktop and I can open this file. And it comes up and it doesn't really look like much, 
-it's just a webpage and we're not even seeing the script run. 
+it's just a webpage and we're not even seeing the script run.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. add new variable var hello (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 102. test, inspect, my first script (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image102.png?raw=true"
   width="50%"
-  alt="Add a new variable; var hello." />
+  alt="Test, inspect, My First Script." />
 </p>
 
-But if we go and choose Inspect and then click on the Console, you'll see that it comes 
+<p>But if we go and choose Inspect and then click on the Console, you'll see that it comes 
 up here. And my JavaScript is actually running. We've gotten our first script to run. 
 The next thing to talk about is how we can make some comments in JavaScript in case we 
 want to remind ourselves exactly what we're doing. It's always good practice to add 
-comments to your scripts so that when you come back to them later, you know what's going on. 
+comments to your scripts so that when you come back to them later, you know what's going on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. add new variable var hello (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 103. comments with slash slash or slash, asterisk (70) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image103.png?raw=true"
   width="50%"
-  alt="Add a new variable; var hello." />
+  alt="Make Comments with two slashes or with slash, asterisk." />
 </p>
 
 <p>There are two ways of making comments in JavaScript. I can use the slash twice, two 
@@ -2256,12 +2256,12 @@ line here. If you want to have a longer comment, you can use the slash and a sta
 and then end comment with a star and a slash */. And then I can put a longer comment 
 about anything that I want and it can go multiple lines. See example in image.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 104. add new variable var hello (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104. make code larger with shift + (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image104.png?raw=true"
   width="50%"
-  alt="Add a new variable; var hello." />
+  alt="Make code larger with shift +." />
 </p>
 
 <p>While we're here, another thing that's important is I can actually make the code in the 
@@ -2342,7 +2342,7 @@ an HTML file. I can put that in my folder.</p>
 myproject folder over here, you can see that index.html has been created in that 
 folder. I can manage my whole project from here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111. index.html (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111. blank index.html (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image111.png?raw=true"
