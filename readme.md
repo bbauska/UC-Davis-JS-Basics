@@ -2056,63 +2056,289 @@ ways of getting elements out of arrays.</p>
 	  basic programs that output to the browser console.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-00-welcome">2.00 Module 2 - Controlling Logical Flow in JS (0:51)</h2>
+<h2 id="ch2-00-intro">2.00 Module 2 - Controlling Logical Flow in JS (0:51)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 2 introduction (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 91. module 2 introduction (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image091.png?raw=true"
   width="40%"
   alt="2.00. Module 2 introduction." />
 </p>
+
+<p>Welcome to the second module. In this module, we'll get further into the basics of the 
+JavaScript language. There are certain things that you'll find in many modern programming 
+languages, such as control structures, such as being able to figure out if something is 
+true or how to handle something in a loop and these kinds of things. We'll be doing that 
+sort of work in this second module. There's a lot of practice and there's a lot of 
+opportunities along the way to get used to the JavaScript syntax. I encourage you to do 
+as much of that as you possibly can.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-2.00 Module 2 Introduction Controlling Logical Flow in JavaScript (0:51)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 92. visual studio - part 1 (2.01) (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-01">2.01 Visual Studio – Part 1 (4:39)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image092.png?raw=true"
+  width="40%"
+  alt="2.01. Visual Studio - Part 1." />
+</p>
  
-Welcome to the second module. In this module, we'll get further into the basics of the JavaScript language. There are certain things that you'll find in many modern programming languages, such as control structures, such as being able to figure out if something is true or how to handle something in a loop and these kinds of things. We'll be doing that sort of work in this second module. There's a lot of practice and there's a lot of opportunities along the way to get used to the JavaScript syntax. I encourage you to do as much of that as you possibly can. 
-2.01 Visual Studio – Part 1 (4:39)
+<p>In this lesson, we're going to be talking about working with the code editor and I'm 
+going to be specifically looking at Visual Studio Code, which I have pictured here 
+on this slide (see below). But I also have it open over here in this tab and you 
+can go down the download Visual Studio Code for Mac or Windows for free and it's a 
+great code editor if you prefer to use a different code editor such as Atom or Sublime 
+Text or something else. That's fine too. As long as it's got great features for editing 
+code and it's not a word processor like Microsoft Word. But I'll be using Visual Studio 
+Code throughout this course, so it might be helpful for you to use that as well.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 93. visual studio editor on startup (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image093.png?raw=true"
+  width="50%"
+  alt="VS Editor on startup." />
+</p>
  
-In this lesson, we're going to be talking about working with the code editor and I'm going to be specifically looking at Visual Studio Code, which I have pictured here on this slide (see below). But I also have it open over here in this tab and you can go down the download Visual Studio Code for Mac or Windows for free and it's a great code editor if you prefer to use a different code editor such as Atom or Sublime Text or something else. That's fine too. As long as it's got great features for editing code and it's not a word processor like Microsoft Word. But I'll be using Visual Studio Code throughout this course, so it might be helpful for you to use that as well.
+<p>Sometimes when you open Visual Studio Code, you'll get these tabs open with the Welcome 
+or with new release notes if they've come out with a new version and you can just close 
+those tabs by clicking on the "X". You'll notice I have Visual Studio Code open in running 
+here, but I don't have any of those editors open and I can make a new file by just going 
+and choosing a new file, and that creates a new file here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image094.png?raw=true"
+  width="50%"
+  alt="Visual Studio startup screen." />
+</p>
  
-Sometimes when you open Visual Studio Code, you'll get these tabs open with the Welcome or with new release notes if they've come out with a new version and you can just close those tabs by clicking on the "X". You'll notice I have Visual Studio Code open in running here, but I don't have any of those editors open and I can make a new file by just going and choosing a new file, and that creates a new file here. 
+<p>It's important with Visual Studio Code that before you do anything else, you save your 
+file. That way it knows what type of file you're working with. I'm going to choose file 
+save as, and I'm going to just save this as "myfile.hml". I'm going to save an HTML file, 
+to begin with on my desktop. Once I have an HTML file, then I can get the basic HTML 
+structure by holding down "Shift", pressing an exclamation point, and then pressing "Tab" 
+and that will give me the basic structure for my page.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image095.png?raw=true"
+  width="50%"
+  alt="Visual Studio startup screen." />
+</p>
+
+<p>If you take an HTML class, you'll learn to type the doctype and to type all these tags, 
+we can use the shortcut. Again, what you did to get it, I'll just type exclamation point 
+and then press "Tab" and then you can come in here and give your document a name, "My File". 
+The title shows up in the tab in the browser. That's important. Great. I can save that.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. visual studio startup screen (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image096.png?raw=true"
+  width="50%"
+  alt="Visual Studio startup screen." />
+</p>
+
+<p>Now, one thing to notice really quickly while we're here, see this dot up here, 
+that means this file has changed and it has not yet been saved. One of the frequent 
+mistakes I see at the beginning with users getting started with, working with HTML 
+and CSS and JavaScript is they'll add things to the file and then they'll forget to 
+save them, and then they're going to run the file and they realize their changes 
+aren't showing up, so watch out for that little dot. You can get that to go away by 
+doing "File", "Save" over here or "Command S", "Control S" in windows, and then it'll 
+go back to just the X, which you would use to close that tab and close that window app, 
+and then I can open this back up again by dropping it here and that will open that file 
+back up again. That gets me some basics of getting files opened and working here in 
+Visual Studio Code.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 97. windows users: show file extensions (67) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image097.png?raw=true"
+  width="50%"
+  alt="Windows users: Show file extensions." />
+</p>
+
+<p>A important note, if you're on Windows is, open up any Explorer Window. Click on the 
+"View" tab and then go over and verify box is checked in "File name extensions". That 
+way when you save your files, you'll see the ".html" file extension, and that's important. 
+But here I have a screenshot of it so please make sure you do that. Also. Make sure that 
+when you save files, make sure that the filename is always lowercase and never has a 
+space in it so I have "myfile" all as one word here. Do not put spaces in filenames, 
+they cannot be more explicit about that.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-02">2.02 Visual Studio – Part 2 (5:48)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 98. visual studio - part 2 (2.02) (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image098.png?raw=true"
+  width="50%"
+  alt="2.02. Visual Studio - Part 2." />
+</p>
+
+<p>I'm back in my code editor. And now, I'm ready to add a script. So let's add a script 
+to this file. And we can see some JavaScript actually happened here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image099.png?raw=true"
+  width="50%"
+  alt="Add 'My First Script' as an h1." />
+</p>
  
-It's important with Visual Studio Code that before you do anything else, you save your file. That way it knows what type of file you're working with. I'm going to choose file save as, and I'm going to just save this as "myfile.hml". I'm going to save an HTML file, to begin with on my desktop. Once I have an HTML file, then I can get the basic HTML structure by holding down "Shift", pressing an exclamation point, and then pressing "Tab" and that will give me the basic structure for my page. 
- 
-If you take an HTML class, you'll learn to type the doctype and to type all these tags, we can use the shortcut. Again, what you did to get it, I'll just type exclamation point and then press "Tab" and then you can come in here and give your document a name, "My File". The title shows up in the tab in the browser. That's important. Great. I can save that. 
- 
-Now, one thing to notice really quickly while we're here, see this dot up here., that means this file has changed and it has not yet been saved. One of the frequent mistakes I see at the beginning with users getting started with, working with HTML and CSS and JavaScript is they'll add things to the file and then they'll forget to save them, and then they're going to run the file and they realize their changes aren't showing up, so watch out for that little dot. You can get that to go away by doing "File", "Save" over here or "Command S", "Control S" in windows, and then it'll go back to just the X, which you would use to close that tab and close that window app, and then I can open this back up again by dropping it here and that will open that file back up again. That gets me some basics of getting files opened and working here in Visual Studio Code. 
- 
-A important note, if you're on Windows is, open up any Explorer Window. Click on the "View" tab and then go over and verify box is checked in "File name extensions". That way when you save your files, you'll see the ".html" file extension, and that's important. But here I have a screenshot of it so please make sure you do that. Also. Make sure that when you save files, make sure that the filename is always lowercase and never has a space in it so I have "myfile" all as one word here. Do not put spaces in filenames, they cannot be more explicit about that.
-2.02 Visual Studio – Part 2 (5:48)
- 
-I'm back in my code editor. And now, I'm ready to add a script. So let's add a script to this file. And we can see some JavaScript actually happened here. 
- 
-First, I'm going to put some HTML on the page, My First Script, nice, if I spell that right. And then you can actually put scripts really anywhere inside this file. Sometimes they go in the head of the page here inside the head tag. Frequently, you'll see them down here just before the closing body tag. So I'm going to make a script tag. And then it puts the cursor between the two, and I can move that down. 
- 
+<p>First, I'm going to put some HTML on the page, My First Script, nice, if I spell that 
+right. And then you can actually put scripts really anywhere inside this file. Sometimes 
+they go in the head of the page here inside the head tag. Frequently, you'll see them down 
+here just before the closing body tag. So I'm going to make a script tag. And then it puts 
+the cursor between the two, and I can move that down.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image100.png?raw=true"
+  width="50%"
+  alt="Add a new variable; var hello." />
+</p>
+
 And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order to get it to do something currently what we have to work with is the console. because that's what I've shown you so far in the other videos, we'll get to other things later. And really pretty soon, but for right now we just have the console. So I can use console.log, remember, we talked about this method before. (hello) to put that variable or really the string associated with that variable into the console. So I can save this file and there's the data up here, I have to save it. I can save the file and then I can go over to Chrome over here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image101.png?raw=true"
+  width="50%"
+  alt="Add a new variable; var hello." />
+</p>
  
 And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my desktop and I can open this file. And it comes up and it doesn't really look like much, it's just a webpage and we're not even seeing the script run. 
- 
-But if we go and choose Inspect and then click on the Console, you'll see that it comes up here. And my JavaScript is actually running. We've gotten our first script to run. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102. add new variable var hello (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image102.png?raw=true"
+  width="50%"
+  alt="Add a new variable; var hello." />
+</p>
+
+But if we go and choose Inspect and then click on the Console, you'll see that it comes 
+up here. And my JavaScript is actually running. We've gotten our first script to run. 
 The next thing to talk about is how we can make some comments in JavaScript in case we want to remind ourselves exactly what we're doing. It's always good practice to add comments to your scripts so that when you come back to them later, you know what's going on. 
- 
-There are two ways of making comments in JavaScript. I can use the slash twice, two slashes, and I can type the variable is below, something like that, or the variable below, I don't know we could say something else about it. But putting two slashes //, two forward slashes here, will keep JavaScript from trying to do anything with this line here. If you want to have a longer comment, you can use the slash and a star /* and then end comment with a star and a slash */. And then I can put a longer comment about anything that I want and it can go multiple lines. See example in image.
- 
-While we're here, another thing that's important is I can actually make the code in the browser larger or smaller by pressing the Cmd plus or Ctrl plus in Windows on my keyboard here, let's click on that. And that will make the code larger or smaller. And I can make this window over here smaller too if the code is getting squished in there, you can close it all together. This thing opens and closes that Explorer. But I can make the code larger or smaller. And depending on how good your eyes are, you might want the code to be larger or smaller, Cmd+0 will put it at its default size, but command minus will make it smaller. So make sure you're setting your code to a size that's comfortable for you to read.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-2.03 Visual Studio – Part 3 (9:48)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. add new variable var hello (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image103.png?raw=true"
+  width="50%"
+  alt="Add a new variable; var hello." />
+</p>
+
+<p>There are two ways of making comments in JavaScript. I can use the slash twice, two 
+slashes, and I can type the variable is below, something like that, or the variable 
+below, I don't know we could say something else about it. But putting two slashes //, 
+two forward slashes here, will keep JavaScript from trying to do anything with this 
+line here. If you want to have a longer comment, you can use the slash and a star /* 
+and then end comment with a star and a slash */. And then I can put a longer comment 
+about anything that I want and it can go multiple lines. See example in image.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 104. add new variable var hello (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image104.png?raw=true"
+  width="50%"
+  alt="Add a new variable; var hello." />
+</p>
+
+<p>While we're here, another thing that's important is I can actually make the code in the 
+browser larger or smaller by pressing the Cmd plus or Ctrl plus in Windows on my keyboard 
+here, let's click on that. And that will make the code larger or smaller. And I can make 
+this window over here smaller too if the code is getting squished in there, you can close 
+it all together. This thing opens and closes that Explorer. But I can make the code 
+larger or smaller. And depending on how good your eyes are, you might want the code to be 
+larger or smaller, Cmd+0 will put it at its default size, but command minus will make it 
+smaller. So make sure you're setting your code to a size that's comfortable for you to read.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-03">2.03 Visual Studio – Part 3 (9:48)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 105. visual studio - part 3 (2.03) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image105.png?raw=true"
+  width="50%"
+  alt="2.03. Visual Studio - Part 3." />
+</p>
+
+<p>The next thing to talk about is folders and working with folders for projects.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. myfile.html (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image106.png?raw=true"
+  width="50%"
+  alt="myfile.html." />
+</p>
+
+<p>This file, myfile.html, this file here is just sitting on my desktop. That's fine for a 
+single file, but usually, if I'm working on a project, I'm going to have a folder with a 
+bunch of related files. I might have an HTML file. I might have a CSS file, I might have 
+multiple JavaScript files as we get going here. But for right now this is just a single 
+file. That's not really very useful by itself.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107/108. make folder and file (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image107.png?raw=true"
+  width="45%"
+  alt="Make a folder." />
+<img src="./images/image108.png?raw=true"
+  width="45%"
+  alt="Make a file." />
+</p>
+
+<p>Over here I'm going to make a folder, and I'm going to give the folder a name, myproject. 
+Notice there are no spaces in that folder name. Also all the letters or lowercase. It doesn't 
+have to be, so myproject. Then over here, close this file, and open up the sidebar here, 
+and no folder opened. I can actually open that folder, myproject.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. visual studio welcome menu (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image109.png?raw=true"
+  width="50%"
+  alt="Visual Studio welcome menu." />
+</p>
+
+<p>Now you can see I've got my welcome screen again and I've got MYPROJECT here. There's 
+no files in this folder currently. I just made a folder and it's empty, but I can put 
+a file in that folder and close that welcome screen.</p>
+
+<p>If I make a new file, suppose I make a file and call it index.html. That's going to be 
+an HTML file. I can put that in my folder.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. myfolder and index.hmtl (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image110.png?raw=true"
+  width="50%"
+  alt="Myfolder and index.html." />
+</p>
  
-The next thing to talk about is folders and working with folders for projects. 
- 
-This file, myfile.html, this file here is just sitting on my desktop. That's fine for a single file, but usually, if I'm working on a project, I'm going to have a folder with a bunch of related files. I might have an HTML file. I might have a CSS file, I might have multiple JavaScript files as we get going here. But for right now this is just a single file. That's not really very useful by itself. 
-   
-Over here I'm going to make a folder, and I'm going to give the folder a name, myproject. Notice there are no spaces in that folder name. Also all the letters or lowercase. It doesn't have to be, so myproject. Then over here, close this file, and open up the sidebar here, and no folder opened. I can actually open that folder, myproject. 
- 
-Now you can see I've got my welcome screen again and I've got MYPROJECT here. There's no files in this folder currently. I just made a folder and it's empty, but I can put a file in that folder and close that welcome screen.
-If I make a new file, suppose I make a file and call it index.html. That's going to be an HTML file. I can put that in my folder. 
- 
-Now you'll notice it's created the index file. Not only that, but if I look in myproject folder over here, you can see that index.html has been created in that folder. I can manage my whole project from here. 
- 
+<p>Now you'll notice it's created the index file. Not only that, but if I look in 
+myproject folder over here, you can see that index.html has been created in that 
+folder. I can manage my whole project from here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111. index.html (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image111.png?raw=true"
+  width="50%"
+  alt="Add a new variable; var hello." />
+</p>
+
 Perhaps I have another file in here. I'm going to have styles.css. Maybe that's going to have some styles for my webpage, and it's going to go into that file. 
  
 Now that file is now in the folder over here. In this way, I can control and keep track of all the files for myproject and they're all in one place. Remember I said earlier, you have to get really good at file management and you have to make sure that all the files for a project stay in the folder. You might have other folders in the folder. 
