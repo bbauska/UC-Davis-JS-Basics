@@ -513,7 +513,7 @@ Coursera Honor Code</a>.</p>
 <p align="center" width="100%">
 <img src="./images/image003.png?raw=true"
 <!--  style="display: inline-block; margin: 0 auto; max-width: 40%;" -->
-  style="width:40%;"
+  width="40%"
   alt="1.00. Welcome to JavaScript Basics." />
 </p>
 
