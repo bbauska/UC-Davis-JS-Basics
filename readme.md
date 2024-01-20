@@ -2966,8 +2966,8 @@ what happens when you get in here. Let's type this in.</p>
 height="1.896207349081365in"}![](./images2/media/image162.png){width="3.5in"
 height="1.896207349081365in"}
 
-<p>I&apos;m going to come back here and I&apos;m going to add, **Windows Alt Shift
-A**. And that will comment that. It&apos;ll put a comment around something
+<p>I&apos;m going to come back here and I&apos;m going to add, <b>Windows Alt Shift
+A</b>. And that will comment that. It&apos;ll put a comment around something
 that I&apos;ve selected. Down here I&apos;m going to make a variable for colors
 equals square bracket, quote, red. Green Blue Yellow I&apos;m going to make
 a variable var selected color Equals colors, square bracket and we&apos;ll
@@ -3074,7 +3074,7 @@ three, I should get 0,1, 2, 3, I should get yellow. Let&apos;s see if I get
 that if I come over here and test this. Ensure enough the color is
 yellow, that&apos;s coming up great.</p>
 
-<p>I could change the **selectedColor&lbrack;0&rbrack;** to zero, which will get me the
+<p>I could change the <b>selectedColor&lbrack;0&rbrack;</b> to zero, which will get me the
 first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. test, there was an error (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3187,7 +3187,7 @@ them is false, then something else is going to have to happen.</p>
 <p>Now, we can also use the double pipe. The pipe is the key on the
 American keyboard above the Return key, Shift, and that key up there.
 It&apos;s also got the backslash on it. The pipe is an OR statement. So
-here, **gotBreakfast** is true, **gotLunch** is true, but **gotDinner**
+here, <b>gotBreakfast</b> is true, <b>gotLunch</b> is true, but <b>gotDinner</b>
 is false. But if any one of these is true, then the if statement rings
 as true. So they would all have to be false for me to be starving.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3199,11 +3199,11 @@ as true. So they would all have to be false for me to be starving.</p>
   alt="Add boolean and double pipe example." />
 </p>
 
-<p>var **gotBreakfast** =
-true, var **gotLunch** = true, var **gotDinner** = false.
-**If(gotBreakfast &vert;&vert; gotLunch &vert;&vert; gotDinner)**, if any of those is
-true, then **console.log(&quot;things are ok!&quot;**). Then down here, else
-**console.log(&quot;I am STARVING&quot;)**.</p>
+<p>var <b>gotBreakfast</b> =
+true, var <b>gotLunch</b> = true, var <b>gotDinner</b> = false.
+<b>If(gotBreakfast &vert;&vert; gotLunch &vert;&vert; gotDinner)</b>, if any of those is
+true, then <b>console.log(&quot;things are ok!&quot;</b>). Then down here, else
+<b>console.log(&quot;I am STARVING&quot;)</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 176. 1 or more false, therefore things are ok (102) ~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3218,9 +3218,9 @@ are ok, even though one of those would be false. I would have to make
 all of these false, to be starving, and there we go.</p>
 
 <p>You&apos;ve learned about Booleans in this lesson, what&apos;s true and what&apos;s
-false. And that some things are **true-ish**, and some things are
-**false-ish**, or **falsy** and **truthy**. **0** is considered false in
-JavaScript, or **undefined**, or **null**, or **not a number** (**NaN**)
+false. And that some things are <b>true-ish</b>, and some things are
+<b>false-ish</b>, or <b>falsy</b> and <b>truthy</b>. <b>0</b> is considered false in
+JavaScript, or <b>undefined</b>, or <b>null</b>, or <b>not a number</b> (<b>NaN</b>)
 is false. These are all considered false in JavaScript.</p>
 <p>And you&apos;ve already learned a lot of the basics of JavaScript, and we&apos;re going to
 keep going with these basics.</p>
@@ -3289,7 +3289,7 @@ I&apos;m going to add a loop in this script down here. There we go, and I&apos;m
 going to add a for loop. I&apos;m going to make a variable var i. And i can
 be anything. It could be X, it could be Y, it could be J, it could be
 the word counter. It&apos;s just a variable. i is fairly common to use
-because it can stand for **incrementer**. I don&apos;t know, it&apos;s a fairly
+because it can stand for <b>incrementer</b>. I don&apos;t know, it&apos;s a fairly
 common one to use but it doesn&apos;t have to be that it could be something
 else if you want. But I&apos;m going to start i at 0. And then I&apos;m going to
 check while i is less than, say 10. And then each time through the loop,
@@ -3299,14 +3299,14 @@ i starts at 0, the next time to the loop will take 0, add one to it,
 which gives us 1 and assign it back to i. So now i is 1 and then the
 next into the loop will take 1, add 1 to it, assign it back to i so now
 it&apos;s 2, so on and so forth. But a shortcut for that is i++. That&apos;s
-called an **incrementer**. And then here we have, let&apos;s just do
-**console.log(i).**</p>
+called an <b>incrementer</b>. And then here we have, let&apos;s just do
+<b>console.log(i).</b></p>
 
 <p>And so what this is going to do is we&apos;re going to set i to 0. The
 console log will run. And it will say, it&apos;ll give us a 0. And then we
 come back and we increment i. So that we take 0 and we add 1 to it. So
 now it&apos;s 1. Is 1 less than 10? Yes, it is. Since 1 is less than 10, it
-will **console.log(i)** again, which is now 1, and then it&apos;ll increment
+will <b>console.log(i)</b> again, which is now 1, and then it&apos;ll increment
 1 again. So i will go from 1 to 2 and then is 2 less than 10? Yes it is.
 So we&apos;ll console log out a 2. And then we&apos;ll increment i again, we&apos;ll
 take 2 and we&apos;ll increment it to 3. Is 3 less than 10? Yes it is.
@@ -3365,7 +3365,7 @@ iterate over that group of items to do something to them.</p>
 </p>
 
 <p>Let&apos;s take a look at what that looks like. Here I have a variable
-called **colors**, which is an array. It&apos;s got red, blue, yellow, and
+called <b>colors</b>, which is an array. It&apos;s got red, blue, yellow, and
 green in it. I&apos;m going to loop through each of the colors in the array.
 If you&apos;re wondering with this + &apos;/n&apos; is that&apos;s to create a new line
 in the console. Actually I don&apos;t really need to do that because in fact
@@ -3419,7 +3419,7 @@ works.</p>
 
 <p>But generally we don&apos;t want to have to put in a number here. What&apos;s
 better is to keep this more general. If I do colors.length, that&apos;s also
-a four, **colors.length** is four. Now I could add more colors into my
+a four, <b>colors.length</b> is four. Now I could add more colors into my
 array, and this code will still run. No matter how many colors I have in
 my array. I could add in here orange and purple into the array. This
 will continue to work because now the length of my array is six. I
@@ -3469,7 +3469,7 @@ height="2.578525809273841in"}
 
 <p>The basic for loop is a good place to start with loops. There&apos;s also a
 loop that is specifically for working with arrays and it&apos;s called the
-**for of loop**. Here I have an array of food. You can see there are
+<b>for of loop</b>. Here I have an array of food. You can see there are
 four items in here, four foods. I can use for, and I can create a
 temporary variable, and I&apos;m calling it each item, but you could call it
 X, you could call it Y you call it I, you call it whatever you want.
@@ -3498,9 +3498,9 @@ our code over here.</p>
 loop, I&apos;m going to do for var each color of colors. It knows what
 colors is because that&apos;s been defined here. Each color is putting var
 here because I&apos;m creating a new variable there. Then down here I can do
-**console.log** each color. You&apos;ll see that when this runs over here, I
+<b>console.log</b> each color. You&apos;ll see that when this runs over here, I
 get each color. There are other methods used for looping that we'll talk
-about later. Basically, there is; **for of, for in**, and **for Each**
+about later. Basically, there is; <b>for of, for in</b>, and <b>for Each</b>
 methods of looping in JavaScript.</p>
 
 <p>Right now, I just want to get you started with the basics so you can see
@@ -3521,7 +3521,7 @@ height="3.3520833333333333in"}
 <p>We can also do something with strings. Remember strings can be treated
 like an array. I can actually make a string and then loop through the
 length of this thing and actually alert out each letter one at a time in
-my **console.log** there. I can do that thing.</p>
+my <b>console.log</b> there. I can do that thing.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 192/193.  (##) ~~~~~~~~~~~~~~~~~~~-->
@@ -3539,7 +3539,7 @@ my **console.log** there. I can do that thing.</p>
 <p>In fact, let&apos;s give this a try really quickly here and change this to
 myString equals here is a text. There we go. I could do it. I can do it
 this way, for var i equals 0, log i is less than myString.length i plus,
-plus **console.log** **myString** square bracket i. I can do it this
+plus <b>console.log</b> <b>myString</b> square bracket i. I can do it this
 way. Let&apos;s see if I did it right. Sure enough, each line has a letter.
 I could do it that way, or I could even use the for of loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3555,7 +3555,7 @@ I could do it that way, or I could even use the for of loop.</p>
 height="2.578525809273841in"}
 
 Here&apos;s an example, like above, but using the "for of" loop as well.
-This will give the **myString** twice.
+This will give the <b>myString</b> twice.
 
 <h2 id="ch2-13">2.13 While Loops (13:08)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3570,7 +3570,7 @@ This will give the **myString** twice.
 ![](./images2/media/image195.png){width="4.0in"
 height="2.2508552055993003in"}
 
-<p>JavaScript also has a **while loop** and we don&apos;t see them as often
+<p>JavaScript also has a <b>while loop</b> and we don&apos;t see them as often
 while we&apos;re programming with JavaScript, but they are worth knowing
 about.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3586,29 +3586,29 @@ about.</p>
 height="2.800748031496063in"}
 
 <p>Let&apos;s take a look at them really quickly. Here we can see the way the
-**while loop** works is we start off, we have an **incrementor**, and
+<b>while loop</b> works is we start off, we have an <b>incrementor</b>, and
 then I&apos;m making a variable that starts as an empty string. That&apos;s
-maybe not quite as necessary but you have to have the **incrementor**
-outside of the **while loop** when you&apos;re using a **while loop**. Then
-while the **while loop** is less than 10, I&apos;m going to do this stuff
-and then **increment** the **incrementor** at the bottom of the **while
-loop.** This is going to run, **incrementor** gets set to one, one is
-less than 10, so this runs again. **Incrementor** gets set to two, two
+maybe not quite as necessary but you have to have the <b>incrementor</b>
+outside of the <b>while loop</b> when you&apos;re using a <b>while loop</b>. Then
+while the <b>while loop</b> is less than 10, I&apos;m going to do this stuff
+and then <b>increment</b> the <b>incrementor</b> at the bottom of the <b>while
+loop.</b> This is going to run, <b>incrementor</b> gets set to one, one is
+less than 10, so this runs again. <b>Incrementor</b> gets set to two, two
 is less than 10, so this runs again, so on and so forth. Then notice
 when the loop is done, once this increments up to 10, 10 is no longer
 less than 10, so I&apos;ll bump out of the while loop. This console log is
 going to run text.</p>
 
-<p>What I&apos;d like you to notice here is this **plus equals**, this text is
-starting out as empty and **plus equals** is saying each time this thing
+<p>What I&apos;d like you to notice here is this <b>plus equals</b>, this text is
+starting out as empty and <b>plus equals</b> is saying each time this thing
 runs, add to what was there before. The first time through the loop,
-there&apos;s nothing in there. It&apos;s going to add the **incrementor** has
-gone up to plus **incrementor**, so that&apos;s going to be a zero, and then
-a new line, and then the **incrementor** gets incremented to one, and
+there&apos;s nothing in there. It&apos;s going to add the <b>incrementor</b> has
+gone up to plus <b>incrementor</b>, so that&apos;s going to be a zero, and then
+a new line, and then the <b>incrementor</b> gets incremented to one, and
 then the next time through the loop, we&apos;re going to add to that. It&apos;s
-going to add a new line that says the **incrementor** has gone up to
+going to add a new line that says the <b>incrementor</b> has gone up to
 one. Then it&apos;s getting increment again then we&apos;ll say the
-**incrementor** has gone up to two, so on and so forth.</p>
+<b>incrementor</b> has gone up to two, so on and so forth.</p>
 
 <p>Let&apos;s do this one in the code editor because I think it&apos;s really worth
 seeing this. I&apos;ve got my for loop so I&apos;m just going to comment that
