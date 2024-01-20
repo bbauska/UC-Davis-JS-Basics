@@ -3625,7 +3625,7 @@ not going to get printed out. It&apos;s only going to get printed out once
 after the loop is done. Incrementor plus. Then down here I&apos;m going to
 print the console log once with all the text in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (115) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (116) ~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image199.png?raw=true"
@@ -3643,23 +3643,42 @@ if this does, but I think it&apos;ll do. There we go. I don&apos;t get the new
 lines. The slash n is adding new lines over here after each one of
 these, because this is just getting printed out once. That&apos;s really
 important to understand about the way this incremented and the way the
-while loop works here. When we look at this image here, we&apos;re using the
-plus sign to concatenate the string together with the variable. We
-talked about this before.</p>
+while loop works here.</p>p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. same example, while loops (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image201.png?raw=true"
+  width="50%"
+  alt="Same example, while loops." />
+</p>
 
-<p>The plus sign in JavaScript does double duty.
-It&apos;s used to add numbers together the way you would normally expect the
-plus sign to work, but it&apos;s also used to concatenate strings and things
-together. Here we&apos;ve got a string of text and then we&apos;re concatenating
-in the variable and then another string of text concatenated onto the
+<p>When we look at this image here, we&apos;re using the plus sign to concatenate 
+the string together with the variable. We talked about this before. The plus sign 
+in JavaScript does double duty. It&apos;s used to add numbers together the way 
+you would normally expect the plus sign to work, but it&apos;s also used to 
+concatenate strings and things together. Here we&apos;ve got a string of text 
+and then we&apos;re concatenating in the variable and then another string of 
+text concatenated onto the
 end of that. It gets complicated to work this way. It&apos;s not very
 intuitive. We can&apos;t just leave incrementor inside the quotes because
 then the string would just say the incrementor is gone up to
 incrementor. JavaScript would know that this is a variable if we just
-put this inside the quotes. With ES6, which you&apos;ll remember is the
+put this inside the quotes.</p>
+<p>With ES6, which you&apos;ll remember is the
 version of JavaScript that was released in 2015. They introduced
 something called template literals that will allow us to work with
-variables inside strings a little bit more easily. Let&apos;s take a look at
+variables inside strings a little bit more easily.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. example, template literals (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image202.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>Let&apos;s take a look at
 how to do that. Here we have the template literal, and what the template
 literal the way it works is we put a tick mark on either end. The tick
 mark is not a quote. The tick mark is a separate character on your
@@ -3667,55 +3686,104 @@ keyboard. On the American keyboard, it is the character with the tilde
 just above the Tab key. That&apos;s a tick mark there and a tick mark there.
 Then we can just put the variable inside curly braces with a dollar sign
 and JavaScript will know to treat that as a variable. This is a much
-more readable way of working with strings, with variables in them. This
-particular string is not terribly complicated or complex in any way. But
+more readable way of working with strings, with variables in them.</p>
+<p>This particular string is not terribly complicated or complex in any way. But
 sometimes if you&apos;re constructing a piece of HTML and you&apos;ve got tags
 and tags have their attributes in them, which have quotes and equals
 signs it can get really confusing really quickly. This will really help
 you out and we&apos;ll be using the template literals throughout the rest of
-this course quite a lot. Let&apos;s switch our codes that we&apos;re using this
-over here. The way we do this is, I&apos;m going to put in a tick mark there
+this course quite a lot.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, template literals (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image203.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>Let&apos;s switch our codes that we&apos;re using this
+over here.</p>
+<p>The way we do this is, I&apos;m going to put in a tick mark there
 and at the end I&apos;m going to put in a tick mark and then I can get rid
 of these quotes and pluses. Then because this is a variable, I&apos;m going
-to put a dollar sign, a curly brace, and another curly brace. By the
-way, if you&apos;re constructing a string that has variables, this is how I
+to put a dollar sign, a curly brace, and another curly brace.</p>
+<p>By the way, if you&apos;re constructing a string that has variables, this is how I
 recommend that you do it, rather than just typing from left to right,
 type it like this. The incrementor has gone up to incrementor and then
 go in and add the dollar sign and the curly braces. You&apos;ll find it
 easier to understand what you&apos;re doing and to not make mistakes and do
-all that stuff if you do it this way. But you&apos;ll notice if I do this
+all that stuff if you do it this way.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image204.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>But you&apos;ll notice if I do this
 and save it and then go back and run the page over here. I mean, I just
 ran it, but it looks exactly the same and I am getting my variables over
-here. That is actually working. If you wanted to see if it was actually
+here. That is actually working.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image205.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image206.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
+
+<p>If you wanted to see if it was actually
 doing something different, we could start here with 1 and go to 11. See
 what that looks like. There we go, 1-10, very nice. That&apos;s great.
-We&apos;ve got the template literals that&apos;s really useful and we&apos;re going
-to take a look at one more example. What&apos;s interesting here is we can
-actually do expressions inside our curly braces here. Rather than just
-sticking a variable in there, we can actually perform JavaScript
-operations right in line with our string. Let&apos;s give this a try. I set
+We&apos;ve got the template literals.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image207.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>We&apos;re going to take a look at one more example. What&apos;s interesting 
+here is we can actually do expressions inside our curly braces here. Rather 
+than just sticking a variable in there, we can actually perform JavaScript
+operations right in line with our string.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image208.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image209.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
+
+<p>Let&apos;s give this a try. I set
 the incrementor to i to keep it shorter here. Let&apos;s do that. Over here
 I&apos;m going to set this to just i, i is one word, we&apos;ll start it at 0.
 I&apos;m sure we&apos;ll leave it at one. Do it like this. The incrementor is i
 and the incrementor squared is i times i. But this is going to be a
 variable and so is this. This is going to be an expression. Maybe I want
-some spaces in there make that a little bit more readable. There we go.
-Let&apos;s go see what that does. We go over here and run that. Incrementor
-is not defined. Line 25, down here that needs to be changed to i.
-That&apos;s very typical mistake. It&apos;s great that these things come up
-while I&apos;m doing this because you can see how I fix them. I could see
-right here that was on line 25 and knew immediately that I had forgotten
-to change the incrementor to is. I just wasn&apos;t exactly sure where it
-was and that I did not save it over there. This one here also. There we
-go. I&apos;m getting my squares over here as well. That&apos;s working great.
-Loops are one of the fundamental building blocks in JavaScript. It&apos;s
+some spaces in there make that a little bit more readable. Let&apos;s go see 
+what that does. I&apos;m getting my squares over here as well.</p>
+<p>Loops are one of the fundamental building blocks in JavaScript. It&apos;s
 important to get comfortable with the syntax needed to create them. I
 recommend just sitting down and getting to the point where you can type
 out a for loop. I know that it looks a little weird at first, but you
 have to just keep working at it so you can get to the point where you
 could sit down and say, I&apos;m just going to write out a for loop and when
 you get there, then you&apos;ll know that you have the loops really down
-pat. Great, we&apos;re going to a move on to the next thing.
+pat. Great, we&apos;re going to a move on to the next thing.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Additional Resource</h3>
