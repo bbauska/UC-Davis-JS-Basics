@@ -3624,6 +3624,17 @@ the new line. In this case, I actually need the new line because this is
 not going to get printed out. It&apos;s only going to get printed out once
 after the loop is done. Incrementor plus. Then down here I&apos;m going to
 print the console log once with all the text in it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (115) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image199.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image200.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
 
 <p>There&apos;s one print to the console log. Let&apos;s give that a try. If I
 didn&apos;t mess anything up here, let&apos;s see. There we go; 0, 1, 2, 3, 4,
