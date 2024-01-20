@@ -3411,10 +3411,9 @@ just to make it a little bit easier to read and a little bit easier to
 evaluate. So red is either blue false or true. And blue is either false
 or true because I’ve used these Boolean ’s here.
 </p>
+<p>Usually you&#39;ll see more like this, I just add the extra space in there just to make it a little bit easier to read and a little bit easier to evaluate. So red is either blue false or true. And blue is either false or true because I&#39;ve used these Boolean &#39;s here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-05">
-2.05 Try This! (3:10)
-</h2>
+<h2 id="ch2-05">2.05 Try This! (3:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. try this! (2.05) (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3422,6 +3421,1133 @@ or true because I’ve used these Boolean ’s here.
 <img src="./images/image137.png?raw=true"
   width="40%"
   alt="2.05. Try This!" />
+</p>
+
+<p>This is interesting. Let&apos;s try this.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 138/139. types of boolean = false (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image138.png?raw=true"
+  width="45%"
+  alt="Test, null is false, undefined is false, zero & false are also false." />
+<img src="./images/image139.png?raw=true"
+  width="45%"
+  alt="Undefined, zero, null, and false are all false." />
+</p>
+
+<p>I&apos;m going to make a variable called green and then see what happens if
+I pass green in here. Notice green doesn&apos;t have a value here. So let&apos;s
+take a look at that. I&apos;m going to make a variable green, and just put a
+semicolon. And then down here, I&apos;m going to test green. Is green true
+or false? What do you think? This can happen here.</p>
+
+<p>Let&apos;s test that. The statement is <b>false</b>. This is an important thing to 
+understand about JavaScript. Green is essentially undefined. It&apos;s an undefined 
+variable. Undefined resolves to false in JavaScript. JavaScript has a concept of truthy 
+and falsy. So things are either true ish or false ish. And they could be explicitly true 
+or false like red and blue out here, but they could false ish. And JavaScript treats 
+variables that are undefined as false.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 140/141. green = null, green = 0 are both false (87) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image140.png?raw=true"
+  width="45%"
+  alt="var green = null, equates to false. " />
+<img src="./images/image141.png?raw=true"
+  width="45%"
+  alt="var green = 0, equates to false." />
+</p>
+
+<p>Also, green equals null, that would be false. So that comes up false.
+Green equals 0, 0 is false. But if I put any other number in there
+except 0, any other real number like a 1. 1 is true. What about 100?
+That&apos;ll be true too. What about minus 100? That&apos;s true as well.</p>
+
+<p>So, numbers are true except for zero, zero is <b>falsy</b>. It&apos;s false
+ish. So, zero comes up as false, which is kind of an interesting thing.
+So things that we know are false or <b>undefined</b> is false, <b>null</b> is
+false, <b>zero</b> is false. <b>False</b> is false. Other things are true.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142/143. green = "cheese" is true (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image142.png?raw=true"
+  width="45%"
+  alt="var green = 'cheese' is true. " />
+<img src="./images/image143.png?raw=true"
+  width="45%"
+  alt="Test, var green = 'cheese' is true." />
+</p>
+
+<p>But if I put Cheese Cheese is true. So that&apos;s an interesting thing
+about JavaScript.</p>
+
+<p><h2 id="ch2-06">2.06 Comparing Values (8:16)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. comparing values (2.06) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<p align="center" width="100%">
+<img src="./images/image144.png?raw=true"
+  width="40%"
+  alt="2.06. Comparing Values." />
+</p>
+
+<p>Let&apos;s look at comparing values.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. double equal comparison (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image145.png?raw=true"
+  width="50%"
+  alt="Comparison with double equal sign." />
+</p>
+
+<p>This is something we&apos;ll do a lot in JavaScript. We often want to find
+out if the value here is the same as the value somewhere else.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. test, mynum to othernum (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image146.png?raw=true"
+  width="50%"
+  alt="Test, myNum == otherNum." />
+</p>
+
+<p>I&apos;m going to go back and leave green here is undefined, like so. Then
+I&apos;m going to make a new variable, var myNum and assign it the value
+five and var otherNum and assign it value of five. Then down here I can
+check to see if myNum is the same as equals otherNum. It&apos;s really
+important to read this as the same as. This is assigns, five is assigned
+to otherNum and five is assigned to myNum. But here what I&apos;m checking
+to see is myNum the same as the otherNum. In this case it is.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 147. does mynum equal othernum? true (90) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image147.png?raw=true"
+  width="50%"
+  alt="Test, myNum == otherNum is true." />
+</p>
+
+<p>So if I save this and test this, you&apos;ll see the statement is true
+because myNum is the same as the otherNum.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 148/149. change number, now statement is false (90) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image148.png?raw=true"
+  width="45%"
+  alt="Change to 6.  Now one is 5, other is 6." />
+<img src="./images/image149.png?raw=true"
+  width="45%"
+  alt="Test, statement is now false." />
+</p>
+
+<p>If I change this to a different number, then I&apos;m obviously going to get
+false. That&apos;s not true. So the statement is false, they&apos;re not the
+same as.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 150/151. test, exclamation equal for false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image150.png?raw=true"
+  width="45%"
+  alt="Use exclamation and equal for NOT." />
+<img src="./images/image151.png?raw=true"
+  width="45%"
+  alt="Test, not equal with exclamation + equal sign." />
+</p>
+
+<p>Instead of equals equals, I could use exclamation point equals. That
+will be not the same answer. Is that true? Is <b>myNum</b> not the same as
+<b>otherNum</b>? Yes, that&apos;s true. We can also check for greater than or
+less than so we could say, is <b>myNum</b> less than my <b>otherNum</b>? That
+should be true because <b>myNum</b> is less than the <b>otherNum</b>, let&apos;s
+see, and that statement is true. I could try is it greater than. Is
+<b>myNum</b> greater than the <b>otherNum</b>. Is that true? That&apos;s not going
+to be true because five is not greater than six. But we can test for
+these different kinds of scenarios, <b>myNum</b> and <b>otherNum</b>. We can
+use less than and greater than and check to see if that&apos;s true.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 152/153. more testing of not equal & false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image152.png?raw=true"
+  width="45%"
+  alt="More test of not equal and false." />
+<img src="./images/image153.png?raw=true"
+  width="45%"
+  alt="Test, not equal as false." />
+</p>
+
+<p>We&#39;re going to try a little mix. var <b>notNum</b> equals five. So this
+five is a string with the number five in it. Now can I check to see if
+<b>myNum</b> is the same as <b>notNum</b>? Do you think I&apos;m going to get
+there if I save that and try that? The statement is true. Well, that&apos;s
+interesting. How can a five be the same as five inside quotes?</p>
+
+<p>Remember, JavaScript is loosely typed and it allows for something called type
+<b>coercion</b>. What&apos;s going on here is that JavaScript is saying we&apos;ve
+got a five here and we&apos;ve got a five in a string and they&apos;re basically
+the same, so I&apos;m going to call that true. So that&apos;s <b>truthy</b>. It&apos;s
+truish. You can think of it that way, which is very interesting. Now,
+again, this is the kind of thing that can drive programmers crazy
+because you could end up making a mistake in your programming or having
+something unexpected happening. You don&apos;t want unexpected things to
+happen in your programs, that&apos;s never a good thing.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154/155. triple equal testing (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image154.png?raw=true"
+  width="45%"
+  alt="Triple equal testing." />
+<img src="./images/image155.png?raw=true"
+  width="45%"
+  alt="Must be exactly the same to match as true." />
+</p>
+
+<p>I believe it was ES5 in 2009, they introduced the triple equals
+operator, which is exactly the same as and that won&apos;t do type
+<b>coercion</b>. Remember, this is the kind of thing that we&apos;re working
+with in JavaScript. They don&apos;t want to just get rid of the
+double-equals or change what it does because that would break other
+programs. That will break programs that have been happening in the past.
+But they can add another operator which is the triple equals and that
+one will not do type coercion. So you&apos;ll notice this one will come up
+false. That statement is false because it won&apos;t do the type
+<b>coercion</b>.</p>
+
+<p>There is also the same thing with the exclamation point so you can say
+that&apos;s not exactly the same as. You can read this as is <b>myNum</b>
+exactly the same as <b>notNum</b> and the answer is no. Generally, it&apos;s
+considered better programming to use the triple equals sign everywhere.
+Often in our shorter scripts, it doesn&apos;t really matter and you&apos;ll see
+me equals equals over time. But really if you want to get into really
+good habits, always use the triple equals sign so that you don&apos;t ever
+have any type <b>coercion</b> unless you really want it for some reason.
+Again, this is an odd thing about JavaScript that you can do this.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. explain undefined variables (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image156.png?raw=true"
+  width="50%"
+  alt="Explain undefined or null variables as false." />
+</p>
+
+<p>One more thing I want to check out here really quickly while we&apos;re
+here, I&apos;m going to change this five to something like chicken and then
+I&apos;m going to make a new variable, var <b>myValue</b> equals <b>notNum</b>
+minus <b>myNum</b>. I&apos;m going to take chicken and subtract five. That
+doesn&apos;t make any sense. What happens if I put my value in here? You
+probably won&apos;t be surprised to see that that comes up <b>false</b>.
+That&apos;s <b>false</b>.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 157/158. test, not a number is false (93) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image157.png?raw=true"
+  width="45%"
+  alt="Test, if not a number then statement is false." />
+<img src="./images/image158.png?raw=true"
+  width="45%"
+  alt="Test, not a number (NaN) is false." />
+</p>
+
+<p>More than, if I come down here and just console.log my value, just to
+see what&apos;s actually in that my value when I try to take a chicken and
+subtract five from it, what do I get over here? Num not a number,
+<b>NaN</b>. Num is another thing in JavaScript that is falsy. So in our
+list of things that are false are zero, false, undefined, null and not a
+number (<b>NaN</b>). Those things all come up false in JavaScript and
+that&apos;s an important thing to keep in mind as we move forward with
+working with JavaScript and working with Booleans, and when we&apos;re
+testing values.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-07">2.07 Else If (5:56)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. else if (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image159.png?raw=true"
+  width="40%"
+  alt="2.07. Else If." />
+</p>
+
+<p>JavaScript has an Else If.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. else if examples (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image160.png?raw=true"
+  width="50%"
+  alt="Examples of Else If." />
+</p>
+
+<p>We can run through a series of selection checkers to see which one is
+true. Practice this stuff as much as you can and get used to the syntax.
+By just writing the stuff and making mistakes and forgetting to put in
+the semicolon and the curly braces or the square brackets and seeing
+what happens when you get in here. Let&#39;s type this in.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 161/162. example of else if with test (95) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image161.png?raw=true"
+  width="45%"
+  alt="Example else if." />
+<img src="./images/image162.png?raw=true"
+  width="45%"
+  alt="Test, example else if." />
+</p>
+
+<p><img src="./images2/media/image161.png" alt="">{width=&quot;3.5in&quot;
+height=&quot;1.896207349081365in&quot;}<img src="./images2/media/image162.png" alt="">{width=&quot;3.5in&quot;
+height=&quot;1.896207349081365in&quot;}</p>
+<p>I&apos;m going to come back here and I&apos;m going to add, <b>Windows Alt Shift
+A</b>. And that will comment that. It&apos;ll put a comment around something
+that I&apos;ve selected. Down here I&apos;m going to make a variable for colors
+equals square bracket, quote, red. Green Blue Yellow I&apos;m going to make
+a variable var selected color Equals colors, square bracket and we&apos;ll
+do three. Red is zero, one, two, three. Now, over here, so I&apos;ve got
+that, and that&apos;s great. Now I can do an if else statement. So I could
+do if, selected color is the same as equals red or yeah, let&apos;s do red.
+Red in quotes, red. If it&apos;s the same as red, then I can console log
+something out console dot log. The color is red.</p>
+<p>Now I can do an else
+if. And again I can put else if on this line here like so. I think it&apos;s
+a little bit easier to read if you move it down like this else if
+selected colour in here I&apos;m going to cheat by copying and pasting. Else
+if selected colour is blue. And again, I&apos;m just adding these extra
+spaces because I think it&apos;s a little bit easier to read. But it&apos;s not
+really common practice but that&apos;s okay. If the selected colour is blue,
+then I&apos;m going to console log out. Blue actually should do green, green
+snacks, it doesn&apos;t matter. I can go whichever order I want. In this
+I&apos;m just going to go to read because that sort of makes sense and then
+I can copy and paste the else if. Select the colour is change this one
+to blue, and if it&apos;s not red, green or blue, then it must be yellow.
+Okay, great. So with this script in place, we can test this.</p>
+
+<p>We come over here and refresh this and you can see the color is yellow
+it went through that list of items and chose the correct color. Whereas,
+if I come up here and change this to a one to zero one and this. You can
+see I get the color is green. Now, what happens if I make a mistake?
+Suppose I put four, zero, one, two, three, oops, there&apos;s no four.
+Let&apos;s see what I get over here. You&apos;re going to get mistakes. You&apos;re
+going to have errors and this said, the color is yellow because the else
+ran. Which is not really what I wanted. But it is sort of doing that
+kind of thing or let&apos;s see what happens if we do what happens if I make
+a mistake and I forget to put commas in here.</p>
+
+<p>This is a common mistake
+that I see from students is they&apos;ll forget to put the commas in the
+array, what happens if I do that? Uncaught Syntax Error: Unexpected
+string on line 29. So that gives you a notion that you should come back
+and take a look at line 29 and see what&apos;s going on in there. And
+hopefully, with this stuff in here this little red underline stuff going
+on here. You&apos;ll see that something&apos;s wrong there, and you&apos;ll put the
+comments back in very common mistake. When we&apos;re starting with this
+thing, okay, so you can try these different, try these different scripts
+and see how they work and what they do. It&apos;s really helpful to do that.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-08">2.08 Switch Statements (5:06)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. switch statements (2.08) (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image163.png?raw=true"
+  width="40%"
+  alt="2.08. Switch Statements." />
+</p>
+
+<p>JavaScript also has a switch statement which will take a value like
+selected color and run it through a bunch of cases.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 164. switch statement with examples (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image164.png?raw=true"
+  width="50%"
+  alt="Switch statement Examples." />
+</p>
+
+<p>In case it&apos;s red, it&apos;ll do this, in case it&apos;s blue, it&apos;ll do that,
+in case it&apos;s green, it&apos;ll do that, and then at the bottom there&apos;s a
+default, you can add a default and it&apos;ll do this if none of these other
+ones are true. It&apos;s important with selection that you add this break in
+here as well. The break will bump out of this switch when one of these
+true statements comes up.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 165/166. example, switch and case statement (97) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image165.png?raw=true"
+  width="45%"
+  alt="Example, switch/case statements." />
+<img src="./images/image166.png?raw=true"
+  width="45%"
+  alt="Example, switch/case statements." />
+</p>
+
+<p>Let&apos;s take a look at this really quickly and see what we get over here.
+I&apos;m going to go in here, I&apos;m going to comment out these if-else
+statements. Again, I&apos;m going to &quot;Select&quot; them and then do &quot;Option&quot;
+or &quot;Alt Shift&quot; A in Visual Studio Code to quickly just comment this
+out, so I&apos;m not running that anymore. Then down here, we can run a
+switch statement, switch parentheses and I&apos;m going to put in here the
+value in checking its selected color. Then the switch statement, I&apos;m
+just going to paste it in here because it&apos;s a little bit tedious to
+watch me type it all. But I&apos;m going to paste it in here, but I
+recommend that you type it.</p>
+<p>Type out, case, red:console.log. The color
+is red and then a semicolon, so that&apos;s the statement that is going to
+run and then break and it can be on the same line on the slide I have it
+on the next line, but you can put it on the same line here, rather than
+watch me type all of these, I&apos;m going to just paste them in here. But
+you should type it in because learning the syntax, you&apos;ll learn it by
+typing it, not by watching me do it. Go ahead and make these files and
+type these in here so we can test it out. Then notice I&apos;ve got red,
+green, blue, and yellow, and up here, if I set select the color to
+three, I should get 0,1, 2, 3, I should get yellow. Let&apos;s see if I get
+that if I come over here and test this. Ensure enough the color is
+yellow, that&apos;s coming up great.</p>
+
+<p>I could change the <b>selectedColor&lbrack;0&rbrack;</b> to zero, which will get me the
+first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. test, there was an error (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image167.png?raw=true"
+  width="50%"
+  alt="Test, there was an error.  If outside of array, then gives error." />
+</p>
+
+<p>But if I were to set it to something past the end of my array, so 0, 1,
+2, 3, if I set it to have four, the default will run and I get there was
+an error because I&apos;m outside of my array, so the default option ran
+down here.</p>
+
+<p>Sometimes say &quot;I&apos;m forgetting a semi-colon, &quot; will really set it off
+as well. Unexpected token break and line 47. These syntax error,
+unexpected token, what does that mean? It&apos;s really expecting a
+semicolon token here and it seemed break instead, so it&apos;s confused by
+that. But these syntax errors, these error messages are sometimes a
+little bit cryptic and they take a little time to get used to them. But
+the switch statement is a great alternative for the else, if and it
+takes up less space and it can help you be very concise and specific
+with your code in a way that&apos;s helpful and useful.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-09">2.09 Using &amp;&amp; (6:24)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. using &amp; &amp; (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image168.png?raw=true"
+  width="40%"
+  alt="2.09. Using &amp;&amp;." />
+</p>
+
+<p>In JavaScript, we can check to see if multiple things are true by using
+the ampersand operator, or the pipe operator.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. examples, using &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image169.png?raw=true"
+  width="50%"
+  alt="Examples, using &amp;&amp;." />
+</p>
+
+<p>We&apos;ll look at the pipe operator next, but here we&apos;re using the
+ampersand operator, and we use two of them together here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 170. example, booleans with &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image170.png?raw=true"
+  width="50%"
+  alt="Example, boolean with &amp;&amp;." />
+</p>
+
+<p>And what we do is, we check to see if this statement is true, and if
+this statement is true. And for this whole thing to be true, when you
+use the AND operator, both of these must be true in order for this to
+run. So I have to be in a good mood and have gotten sleep, in order for
+today to be a good day. If either one of these is false, then I&apos;m going
+to be grumpy.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 171. test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image171.png?raw=true"
+  width="50%"
+  alt="Test, booleans with &amp;&amp;." />
+</p>
+
+<p>Let&apos;s just test this one really quickly, because I think it&apos;s just a
+good idea to practice typing these.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 172/173. more test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image172.png?raw=true"
+  width="45%"
+  alt="More test, booleans with &amp;&amp;." />
+<img src="./images/image173.png?raw=true"
+  width="45%"
+  alt="More test, booleans with &amp;&amp;." />
+</p>
+
+<p>Next, I&apos;m going to come in here, I&apos;m going to turn this one off.
+Again, Option or Alt+Shift+A comments it out. And then I&apos;m going to do
+var goodMood, and set that to true, var gotSleep, and set that to true.
+And then I&apos;m going to say if, whoops, if(goodMood &amp;&amp; gotSleep), if both
+of those are true, then I can console.log, Today is a good day, else,
+console.log(&quot;I am grumpy!&quot;).</p>
+<p>Now, we can test this, and we can see that
+because both of these are set to true, the if statement is going to run.
+Today is a good day. However, if I were to go in and change it so that
+one of these was false, it doesn&apos;t matter which one, then this whole
+statement will come back false. And I&apos;m grumpy, so that&apos;s kind of an
+important tool in our tool kit, is we can check to see if two things are
+true. If two things are true, then we can do something. If either one of
+them is false, then something else is going to have to happen.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 174. booleans with double pipe (or) (101) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image174.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+<p>Now, we can also use the double pipe. The pipe is the key on the
+American keyboard above the Return key, Shift, and that key up there.
+It&apos;s also got the backslash on it. The pipe is an OR statement. So
+here, <b>gotBreakfast</b> is true, <b>gotLunch</b> is true, but <b>gotDinner</b>
+is false. But if any one of these is true, then the if statement rings
+as true. So they would all have to be false for me to be starving.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 175. add boolean and double pipe example (101) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image175.png?raw=true"
+  width="50%"
+  alt="Add boolean and double pipe example." />
+</p>
+
+<p>var <b>gotBreakfast</b> =
+true, var <b>gotLunch</b> = true, var <b>gotDinner</b> = false.
+<b>If(gotBreakfast &vert;&vert; gotLunch &vert;&vert; gotDinner)</b>, if any of those is
+true, then <b>console.log(&quot;things are ok!&quot;</b>). Then down here, else
+<b>console.log(&quot;I am STARVING&quot;)</b>.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 176. 1 or more false, therefore things are ok (102) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image176.png?raw=true"
+  width="50%"
+  alt="One or more variables are false, therefore things are ok." />
+</p>
+
+<p>And there we go, so I can test this over here. And you could see, things
+are ok, even though one of those would be false. I would have to make
+all of these false, to be starving, and there we go.</p>
+
+<p>You&apos;ve learned about Booleans in this lesson, what&apos;s true and what&apos;s
+false. And that some things are <b>true-ish</b>, and some things are
+<b>false-ish</b>, or <b>falsy</b> and <b>truthy</b>. <b>0</b> is considered false in
+JavaScript, or <b>undefined</b>, or <b>null</b>, or <b>not a number</b> (<b>NaN</b>)
+is false. These are all considered false in JavaScript.</p>
+<p>And you&apos;ve already learned a lot of the basics of JavaScript, and we&apos;re going to
+keep going with these basics.</p>
+
+<p>And I know that these scripts don&apos;t seem
+particularly interesting yet. But I promise, if you hang in there and
+keep working on this, then we will start making some interesting things
+pretty quickly. And we&apos;ll start manipulating content on web pages,
+doing all kinds of interesting stuff, so hang in there, keep going. And
+if you haven&apos;t had breakfast, lunch, or dinner, you&apos;re probably
+starving, so you should go eat something.</p>
+
+<p><ul>
+  <li>2.09.Additional Resources: Reading-Materials.pdf</li>
+  <li>2.09.JavaScript-Operators <a href="https://www.w3schools.com/js/js_operators.asp">https://www.w3schools.com/js/js_operators.asp</a></li>
+  <li>2.09.JavaScript-Booleans <a href="https://www.w3schools.com/js/js_booleans.asp">https://www.w3schools.com/js/js_booleans.asp</a></li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<p><h2 id="ch2-10">2.10 Loops (6:23)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. loops (2.10) (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<p align="center" width="100%">
+<img src="./images/image177.png?raw=true"
+  width="40%"
+  alt="2.10. Loops." />
+
+<p>Loops in JavaScript.</p>
+
+<p>We&apos;ve already done quite a bit of JavaScript already. We&apos;ve looked at
+variables and we&apos;ve looked at arrays, and we&apos;ve looked at how to use
+selections to choose if something is true or not, Booleans. The next
+piece of the puzzle is loops. Frequently, you need to iterate through a
+number of values and do something with them when you&apos;re programming.
+And JavaScript, like many programming languages, will allow you to do
+loops.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. for loop (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image178.png?raw=true"
+  width="50%"
+  alt="For loop." />
+</p>
+
+<p>The most basic loop is a for loop. And you&apos;ll see here that in the for
+loop, we start out with an initialized value. And then we check if the
+value is less than some number. And then each time through the loop, we
+increment that value. The best way to explore this is to actually try it
+out. So I recommend opening up your code editor and following along with
+me.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 179/180. loops.html - add incrementor to loop (105) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image179.png?raw=true"
+  width="45%"
+  alt="Create loops.html and add incrementor." />
+<img src="./images/image180.png?raw=true"
+  width="45%"
+  alt="Create a loop with incrementor." />
+</p>
+
+<p>Here, I have just a file called loop study HTML saved on my desktop, and
+I&apos;m going to add a loop in this script down here. There we go, and I&apos;m
+going to add a for loop. I&apos;m going to make a variable var i. And i can
+be anything. It could be X, it could be Y, it could be J, it could be
+the word counter. It&apos;s just a variable. i is fairly common to use
+because it can stand for <b>incrementer</b>. I don&apos;t know, it&apos;s a fairly
+common one to use but it doesn&apos;t have to be that it could be something
+else if you want. But I&apos;m going to start i at 0. And then I&apos;m going to
+check while i is less than, say 10. And then each time through the loop,
+I&apos;m going to increment i, i++. i++ is a shortcut for i = i+1 one, like
+so. So we could take i, add 1 to it and then assign it back to i. So if
+i starts at 0, the next time to the loop will take 0, add one to it,
+which gives us 1 and assign it back to i. So now i is 1 and then the
+next into the loop will take 1, add 1 to it, assign it back to i so now
+it&apos;s 2, so on and so forth. But a shortcut for that is i++. That&apos;s
+called an <b>incrementer</b>. And then here we have, let&apos;s just do
+<b>console.log(i).</b></p>
+
+<p>And so what this is going to do is we&apos;re going to set i to 0. The
+console log will run. And it will say, it&apos;ll give us a 0. And then we
+come back and we increment i. So that we take 0 and we add 1 to it. So
+now it&apos;s 1. Is 1 less than 10? Yes, it is. Since 1 is less than 10, it
+will <b>console.log(i)</b> again, which is now 1, and then it&apos;ll increment
+1 again. So i will go from 1 to 2 and then is 2 less than 10? Yes it is.
+So we&apos;ll console log out a 2. And then we&apos;ll increment i again, we&apos;ll
+take 2 and we&apos;ll increment it to 3. Is 3 less than 10? Yes it is.
+We&apos;ll console log out a 3, and so on and so forth until we get to 9. We
+get to 9, we&apos;ll console log out the 9 and then i gets incremented to
+10. Is 10 less than 10? No, it&apos;s not. So then the loop will stop and
+we&apos;ll bust out of the loop at that point. But let&apos;s give this a try.
+I&apos;m going to save this. And then I&apos;m going to go to the browser, okay,
+I have over here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. test, incrementor loop (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image181.png?raw=true"
+  width="50%"
+  alt="Test, incrementor loop." />
+</p>
+
+<p>And I have this file loaded here. And I can just run it and you&apos;ll see
+that my loop ran. Line 13 ran ten times starting with 0, 0 through 9.</p>
+
+<p>Now, I don&apos;t have to start with 0. If I wanted to go from if I wanted
+to count from 1 to 10, I could start with 1. I could even say, well, I
+want it to be less than or equal to 10. So then that&apos;ll actually work
+as well.</p>
+
+<p>You also don&apos;t have to start i at 1 or 0, you can start out anywhere.
+If I wanted to, I could start at 37 and go till I&apos;m at 63. I want to
+i++. And then if I go back and do that, you&apos;ll see that the loop we&apos;ll
+do those numbers. So, there are a lot of different ways of creating
+loops in JavaScript and we&apos;ll be looking at a few different methods
+throughout this course. But the for loop with these three expressions is
+really your most basic loop. And as we go through the loop, we evaluate
+these expressions and that determines whether the loop runs or not.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-11">2.11 Working with Arrays (4:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. working with arrays (2.11) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image182.png?raw=true"
+  width="40%"
+  alt="2.11. Working with Arrays." />
+</p>
+
+<p>One of the places you&apos;re very likely to come across using loops is if
+you have an array of items, you have a group of items and you need to
+iterate over that group of items to do something to them.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 183. example, working with arrays (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image183.png?raw=true"
+  width="50%"
+  alt="Examples, working with arrays." />
+</p>
+
+<p>Let&apos;s take a look at what that looks like. Here I have a variable
+called <b>colors</b>, which is an array. It&apos;s got red, blue, yellow, and
+green in it. I&apos;m going to loop through each of the colors in the array.
+If you&apos;re wondering with this + &apos;/n&apos; is that&apos;s to create a new line
+in the console. Actually I don&apos;t really need to do that because in fact
+the console creates new line for each call anyway. I shouldn&apos;t have put
+this on my slide here, but I forgot to take it off but you can just
+ignore it. We can just do it without that, and it&apos;ll work just fine.
+Remember, arrays are zero-indexed.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. add array with colors (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image184.png?raw=true"
+  width="50%"
+  alt="Create an array of colors." />
+</p>
+
+<p>Here I am in the same file I had before. I didn&apos;t update my loop, but I
+added the array with the colors in here. What we would do down here is
+we would set i to 0 first, so we get red. While i is less than four,
+we&apos;re going to increment i cause we&apos;re going to do it for red, blue,
+yellow, and green. Down here, I&apos;m just going to console log out,
+colors, square bracket i. The first time through the loop i is 0. Colors
+square bracket 0 gives me a red and then i gets incremented to one. The
+second time through the loop, i is a one. I go to my colors array here.
+Colors square bracket one gives me a blue, i gets incremented to two. I
+go up to colors here and I go 0,1, 2. Now colors, square brackets two is
+going to give me yellow. I get incremented to three. Colors three is 0,
+1, 2, 3, it&apos;s going to be a green. I get incremented to four. Four is
+no longer less than four and my loop breaks out.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. test, looping array (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image185.png?raw=true"
+  width="50%"
+  alt="Test, looping array." />
+</p>
+
+<p>Let&apos;s give this a try and see if it works. Sure enough, I get my four
+colors out in the array. It&apos;s looping through and doing line 15 four
+times there. That&apos;s really useful. Now, generally, this is fine, this
+works.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. looping using length (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image186.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+<p>But generally we don&apos;t want to have to put in a number here. What&apos;s
+better is to keep this more general. If I do colors.length, that&apos;s also
+a four, <b>colors.length</b> is four. Now I could add more colors into my
+array, and this code will still run. No matter how many colors I have in
+my array. I could add in here orange and purple into the array. This
+will continue to work because now the length of my array is six. I
+don&apos;t have to update this number every time. Colors.length will help me
+make my code more general and allow me to do that thing more easily.
+Okay, so we can do that really nicely and loop through all the colors in
+the array that way.</p>
+
+<p>Another example;</p>
+
+<p><pre><code>
+  const fruits = &lbrack;&apos;apple&apos;, &apos;banana&apos;, &apos;orange&apos;&rbrack;;</p>
+<p>  for (const fruit of fruits) {</p>
+<pre><code>console.log(fruit)<span class="hljs-comment">;</span>
+</code></pre><p>}
+</code></pre>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<p><h2 id="ch2-12">2.12 The For..Of Loop (6:06)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<p align="center" width="100%">
+<img src="./images/image187.png?raw=true"
+  width="40%"
+  alt="2.12. The For..Of Loop." />
+</p>
+
+<p>It&apos;s important to note that the for&hellip;of loop cannot be used with
+objects directly, as objects are not iterable by default. However, you
+can iterate over the keys or values of an object using Object.keys(),
+Object.values(), or Object.entries() in combination with the for&hellip;of
+loop.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 188. example of the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image188.png?raw=true"
+  width="50%"
+  alt="Example, for..of loop." />
+</p>
+
+<p>The basic for loop is a good place to start with loops. There&apos;s also a
+loop that is specifically for working with arrays and it&apos;s called the
+<b>for of loop</b>. Here I have an array of food. You can see there are
+four items in here, four foods. I can use for, and I can create a
+temporary variable, and I&apos;m calling it each item, but you could call it
+X, you could call it Y you call it I, you call it whatever you want.
+Each item of food. Each item with this loop is going to do is it&apos;s
+going to go through this array until the end of the array. Each item the
+first time to the loop is going to be grapes. I&apos;ll cancel out the
+grapes, and then since the array is not reached the end yet, it&apos;ll run
+again and each item will become cheese, and then it&apos;ll become bread,
+and then it&apos;ll become olives. Let&apos;s give this a try really quickly in
+our code over here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 189/190. example/test of for..of looping (111) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image189.png?raw=true"
+  width="45%"
+  alt="Example for..of loop colors." />
+<img src="./images/image190.png?raw=true"
+  width="45%"
+  alt="Test, output of for ..of loop colors." />
+</p>
+
+<p>I&apos;m going to just leave the array with colors, but instead of this for
+loop, I&apos;m going to do for var each color of colors. It knows what
+colors is because that&apos;s been defined here. Each color is putting var
+here because I&apos;m creating a new variable there. Then down here I can do
+<b>console.log</b> each color. You&apos;ll see that when this runs over here, I
+get each color. There are other methods used for looping that we&#39;ll talk
+about later. Basically, there is; <b>for of, for in</b>, and <b>for Each</b>
+methods of looping in JavaScript.</p>
+
+<p>Right now, I just want to get you started with the basics so you can see
+how to do this. The basic for-loop is a good place to start for working
+with arrays.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. example, strings as arrays (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image191.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+<p>We can also do something with strings. Remember strings can be treated
+like an array. I can actually make a string and then loop through the
+length of this thing and actually alert out each letter one at a time in
+my <b>console.log</b> there. I can do that thing.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 192/193. example, test for using length (112) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image192.png?raw=true"
+  width="45%"
+  alt="Example for loop with string length." />
+<img src="./images/image193.png?raw=true"
+  width="45%"
+  alt="Test, output of example loop." />
+</p>
+
+<p>In fact, let&apos;s give this a try really quickly here and change this to
+myString equals here is a text. There we go. I could do it. I can do it
+this way, for var i equals 0, log i is less than myString.length i plus,
+plus <b>console.log</b> <b>myString</b> square bracket i. I can do it this
+way. Let&apos;s see if I did it right. Sure enough, each line has a letter.
+I could do it that way, or I could even use the for of loop.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 194. another example of for..of loop (113) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image194.png?raw=true"
+  width="50%"
+  alt="Another example of for..of loop." />
+</p>
+
+<p>Here&apos;s an example, like above, but using the &quot;for of&quot; loop as well.
+This will give the <b>myString</b> twice.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-13">2.13 While Loops (13:08)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. while loops (2.13) (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image195.png?raw=true"
+  width="40%"
+  alt="2.13. While Loops." />
+</p>
+
+<p>JavaScript also has a <b>while loop</b> and we don&apos;t see them as often
+while we&apos;re programming with JavaScript, but they are worth knowing
+about.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. example, while loops (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image196.png?raw=true"
+  width="50%"
+  alt="Example, while loops." />
+</p>
+
+<p>Let&apos;s take a look at them really quickly. Here we can see the way the
+<b>while loop</b> works is we start off, we have an <b>incrementor</b>, and
+then I&apos;m making a variable that starts as an empty string. That&apos;s
+maybe not quite as necessary but you have to have the <b>incrementor</b>
+outside of the <b>while loop</b> when you&apos;re using a <b>while loop</b>. Then
+while the <b>while loop</b> is less than 10, I&apos;m going to do this stuff
+and then <b>increment</b> the <b>incrementor</b> at the bottom of the <b>while
+loop.</b> This is going to run, <b>incrementor</b> gets set to one, one is
+less than 10, so this runs again. <b>Incrementor</b> gets set to two, two
+is less than 10, so this runs again, so on and so forth. Then notice
+when the loop is done, once this increments up to 10, 10 is no longer
+less than 10, so I&apos;ll bump out of the while loop. This console log is
+going to run text.</p>
+
+<p>What I&apos;d like you to notice here is this <b>plus equals</b>, this text is
+starting out as empty and <b>plus equals</b> is saying each time this thing
+runs, add to what was there before. The first time through the loop,
+there&apos;s nothing in there. It&apos;s going to add the <b>incrementor</b> has
+gone up to plus <b>incrementor</b>, so that&apos;s going to be a zero, and then
+a new line, and then the <b>incrementor</b> gets incremented to one, and
+then the next time through the loop, we&apos;re going to add to that. It&apos;s
+going to add a new line that says the <b>incrementor</b> has gone up to
+one. Then it&apos;s getting increment again then we&apos;ll say the
+<b>incrementor</b> has gone up to two, so on and so forth.</p>
+
+<p>Let&apos;s do this one in the code editor because I think it&apos;s really worth
+seeing this. I&apos;ve got my for loop so I&apos;m just going to comment that
+stuff out. I don&apos;t really need that now.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 197/198. example/test while loops in js (115) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image197.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image198.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
+
+<p>Come down here. I&apos;m going to make a variable var incrementor equals
+zero. Again, it doesn&apos;t have to be incrementor. You could leave it out
+if you wanted to, that would be fine. Then I&apos;m going to make var text
+equals quote, quote. That&apos;s an empty string. Notice I&apos;m using just the
+single quotes here, but you could do the double-quotes if you want on my
+image there. But you could use single quotes or double quotes. I&apos;ll put
+it in double-quotes right now. There we go. It&apos;s just an empty string
+there. Then while incrementor is less than 10, I&apos;m going to do
+something. What I&apos;m going to do is I&apos;m going to say text plus equals,
+add to what was already there, quote, the incrementor. What did I put
+over here? I forget now, has gone up to, that&apos;s right. Then I need to
+have a space there. I&apos;m going to use a plus to concatenate in the
+incrementor variable. It&apos;s gone up to whatever that number is and then
+I&apos;m going to add a plus and another set of quotes. Now I need to add
+the new line. In this case, I actually need the new line because this is
+not going to get printed out. It&apos;s only going to get printed out once
+after the loop is done. Incrementor plus. Then down here I&apos;m going to
+print the console log once with all the text in it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (116) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image199.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image200.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
+
+<p>There&apos;s one print to the console log. Let&apos;s give that a try. If I
+didn&apos;t mess anything up here, let&apos;s see. There we go; 0, 1, 2, 3, 4,
+5, 6, 7, 8, 9. If I didn&apos;t put the slash n on the end here, let&apos;s see
+if this does, but I think it&apos;ll do. There we go. I don&apos;t get the new
+lines. The slash n is adding new lines over here after each one of
+these, because this is just getting printed out once. That&apos;s really
+important to understand about the way this incremented and the way the
+while loop works here.</p>p&gt;
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. same example, while loops (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image201.png?raw=true"
+  width="50%"
+  alt="Same example, while loops." />
+</p>
+
+<p>When we look at this image here, we&apos;re using the plus sign to concatenate 
+the string together with the variable. We talked about this before. The plus sign 
+in JavaScript does double duty. It&apos;s used to add numbers together the way 
+you would normally expect the plus sign to work, but it&apos;s also used to 
+concatenate strings and things together. Here we&apos;ve got a string of text 
+and then we&apos;re concatenating in the variable and then another string of 
+text concatenated onto the
+end of that. It gets complicated to work this way. It&apos;s not very
+intuitive. We can&apos;t just leave incrementor inside the quotes because
+then the string would just say the incrementor is gone up to
+incrementor. JavaScript would know that this is a variable if we just
+put this inside the quotes.</p>
+<p>With ES6, which you&apos;ll remember is the
+version of JavaScript that was released in 2015. They introduced
+something called template literals that will allow us to work with
+variables inside strings a little bit more easily.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. example, template literals (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image202.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>Let&apos;s take a look at
+how to do that. Here we have the template literal, and what the template
+literal the way it works is we put a tick mark on either end. The tick
+mark is not a quote. The tick mark is a separate character on your
+keyboard. On the American keyboard, it is the character with the tilde
+just above the Tab key. That&apos;s a tick mark there and a tick mark there.
+Then we can just put the variable inside curly braces with a dollar sign
+and JavaScript will know to treat that as a variable. This is a much
+more readable way of working with strings, with variables in them.</p>
+<p>This particular string is not terribly complicated or complex in any way. But
+sometimes if you&apos;re constructing a piece of HTML and you&apos;ve got tags
+and tags have their attributes in them, which have quotes and equals
+signs it can get really confusing really quickly. This will really help
+you out and we&apos;ll be using the template literals throughout the rest of
+this course quite a lot.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, template literals (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image203.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>Let&apos;s switch our codes that we&apos;re using this
+over here.</p>
+<p>The way we do this is, I&apos;m going to put in a tick mark there
+and at the end I&apos;m going to put in a tick mark and then I can get rid
+of these quotes and pluses. Then because this is a variable, I&apos;m going
+to put a dollar sign, a curly brace, and another curly brace.</p>
+<p>By the way, if you&apos;re constructing a string that has variables, this is how I
+recommend that you do it, rather than just typing from left to right,
+type it like this. The incrementor has gone up to incrementor and then
+go in and add the dollar sign and the curly braces. You&apos;ll find it
+easier to understand what you&apos;re doing and to not make mistakes and do
+all that stuff if you do it this way.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image204.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>But you&apos;ll notice if I do this
+and save it and then go back and run the page over here. I mean, I just
+ran it, but it looks exactly the same and I am getting my variables over
+here. That is actually working.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image205.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image206.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
+
+<p>If you wanted to see if it was actually
+doing something different, we could start here with 1 and go to 11. See
+what that looks like. There we go, 1-10, very nice. That&apos;s great.
+We&apos;ve got the template literals.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image207.png?raw=true"
+  width="50%"
+  alt="Example, template literals." />
+</p>
+
+<p>We&apos;re going to take a look at one more example. What&apos;s interesting 
+here is we can actually do expressions inside our curly braces here. Rather 
+than just sticking a variable in there, we can actually perform JavaScript
+operations right in line with our string.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image208.png?raw=true"
+  width="45%"
+  alt="Example while loop." />
+<img src="./images/image209.png?raw=true"
+  width="45%"
+  alt="Test, inspect incrementor." />
+</p>
+
+<p>Let&apos;s give this a try. I set
+the incrementor to i to keep it shorter here. Let&apos;s do that. Over here
+I&apos;m going to set this to just i, i is one word, we&apos;ll start it at 0.
+I&apos;m sure we&apos;ll leave it at one. Do it like this. The incrementor is i
+and the incrementor squared is i times i. But this is going to be a
+variable and so is this. This is going to be an expression. Maybe I want
+some spaces in there make that a little bit more readable. Let&apos;s go see 
+what that does. I&apos;m getting my squares over here as well.</p>
+<p>Loops are one of the fundamental building blocks in JavaScript. It&apos;s
+important to get comfortable with the syntax needed to create them. I
+recommend just sitting down and getting to the point where you can type
+out a for loop. I know that it looks a little weird at first, but you
+have to just keep working at it so you can get to the point where you
+could sit down and say, I&apos;m just going to write out a for loop and when
+you get there, then you&apos;ll know that you have the loops really down
+pat. Great, we&apos;re going to a move on to the next thing.</p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><h3>Additional Resource</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<p>Here is a resource related to these lessons:</p>
+<h3 id="2-13-javascript-loops-https-www-w3schools-com-js-js_loop_for-asp-shortcut-">2.13.<a href="https://www.w3schools.com/js/js_loop_for.asp">JavaScript Loops</a> (shortcut)</h3>
+<p><a href="https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource">https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource</a></p>
+<p><a href="https://www.w3schools.com/js/js_loop_for.asp">https://www.w3schools.com/js/js_loop_for.asp</a></p>
+
+
+</head>
+</html>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p><h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (##) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3433,5 +4559,3 @@ or true because I’ve used these Boolean ’s here.
   alt="." />
 </p>
 -->
-  </body>
-</html>
