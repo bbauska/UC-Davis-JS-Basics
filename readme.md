@@ -3,7 +3,7 @@ title: |
   University of California @Davis JavaScript Basics
   by William Mead, Lecturer - UC-Davis
 author: "bbauska"
-date last editted: "1/19/2024 11+am"
+date last editted: "1/20/2024 2+pm"
 output: 
   markdown:
     with some style
@@ -3694,7 +3694,7 @@ signs it can get really confusing really quickly. This will really help
 you out and we&apos;ll be using the template literals throughout the rest of
 this course quite a lot.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, template literals (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, while incrementor (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image203.png?raw=true"
@@ -3715,7 +3715,7 @@ go in and add the dollar sign and the curly braces. You&apos;ll find it
 easier to understand what you&apos;re doing and to not make mistakes and do
 all that stuff if you do it this way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. test, while incrementor (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image204.png?raw=true"
@@ -3728,7 +3728,7 @@ and save it and then go back and run the page over here. I mean, I just
 ran it, but it looks exactly the same and I am getting my variables over
 here. That is actually working.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image205.png?raw=true"
@@ -3744,12 +3744,12 @@ doing something different, we could start here with 1 and go to 11. See
 what that looks like. There we go, 1-10, very nice. That&apos;s great.
 We&apos;ve got the template literals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. another example, while loop (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image207.png?raw=true"
   width="50%"
-  alt="Example, template literals." />
+  alt="Example, another while loop." />
 </p>
 
 <p>We&apos;re going to take a look at one more example. What&apos;s interesting 
@@ -3757,7 +3757,7 @@ here is we can actually do expressions inside our curly braces here. Rather
 than just sticking a variable in there, we can actually perform JavaScript
 operations right in line with our string.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (120) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image208.png?raw=true"
@@ -3800,10 +3800,39 @@ https://www.w3schools.com/js/js_loop_for.asp
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image210.png?raw=true"
+  width="40%"
+  alt="2.14. Structured Programming, Sequence - Part 1." />
+</p>
 
+<p>Sequence selection and loop.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 211. definition: structured programming (122) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image211.png?raw=true"
+  width="40%"
+  alt="Definition Structured Programming." />
+</p>
 
+<p>In this lesson, we're going to put together some of what you've already learned and 
+what you've already been doing and see if we can make some sense out of it. In 
+Structured Programming, we make use of these three structures we've already started 
+working with. Sequence, 1st, you do this, then you do that, finally, you do this 
+over here. With JavaScript, you start at the top of the script and you work your 
+way down the script and JavaScript does everything in the script one thing at a 
+time in a sequence.</p>
 
-
+<p>With selections, we're checking to see if some condition is met. If this is 
+true, do this, otherwise, do that. Then with loops, while a condition is true, 
+we're going to continue to do something. With the scripts that we have next, 
+we're going to learn a little bit about JavaScript string methods, while also 
+practicing some of these techniques you've already learned a little bit about 
+with loops and selections and these kinds of things. Hopefully, you'll start 
+to see the expressive power of JavaScript. </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (##) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
