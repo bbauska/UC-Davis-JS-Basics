@@ -53,7 +53,7 @@ skills.</p>
 >#### [**1.03 Intro to JavaScript - Part 3**](#ch1-03)
 >#### [**1.04 Tools Needed for Success**](#ch1-04)
 >#### [**1.05 Skills Needed for Success**](#ch1-05)
->	- #### [**1.05.Assessing Your Skills**](#ch1-05-assess)
+>	- #### [**1.05.Assessing Your Skills in HTML &amp; CSS**](#ch1-05-assess)
 >	- #### [**1.05.Additional Resources**](#ch1-05-add)
 >#### [**1.06 JavaScript Variables**](#ch1-06)
 >#### [**1.07 JavaScript Variables Practice - Part 1**](#ch1-07)
@@ -62,7 +62,6 @@ skills.</p>
 >#### [**1.10 JavaScript Arrays - Part 1**](#ch1-10)
 >#### [**1.11 JavaScript Arrays - Part 2**](#ch1-11)
 >#### [**1.12 JavaScript Arrays Practice**](#ch1-12)
->	- #### [**1.12.Additional Resources**](#ch1-12-add)
 >	- #### [**1.12.Reserved Words**](#ch1-12-res)
 >	- #### [**1.12.Array Methods**](#ch1-12-array)
 
@@ -97,7 +96,7 @@ skills.</p>
 >#### [**2.22 Useful Example - Steps 2-4**](#ch2-22)
 >#### [**2.23 Useful Example - Step 5**](#ch2-23)
 >#### [**2.24 More on Functions**](#ch2-24)
->	- #### [**2.24.Additional Resources**](#ch2-24-add)
+>	- #### [**2.24.JavaScript Functions**](#ch2-24-func)
 >	- #### [**2.24.JavaScript Function Challenges 10-16**](#ch2-24-10thru16)
 
 ### [**Week 3: Using JavaScript in the Web Browser**](#ch3)
@@ -113,7 +112,7 @@ skills.</p>
 >#### [**3.08 className**](#ch3-08)
 >#### [**3.09 Creating Elements and Text Nodes**](#ch3-09)
 >#### [**3.10 Removing Elements**](#ch3-10)
->	- #### [**3.10.Additional Resources**](#ch3-10-add)
+>	- #### [**3.10.JavaScript and the DOM**](#ch3-10-dom)
 >	- #### [**3.10.JavaScript DOM Challenges 17-21**](#ch3-10-17thru21)
 >#### [**3.12 Event Listeners**](#ch3-12)
 >#### [**3.13 The Event Object**](#ch3-13)
@@ -130,14 +129,14 @@ skills.</p>
 >#### [**3.22 Strategy 2: 'use strict;'**](#ch3-22)
 >#### [**3.23 Strategy 3: const and let**](#ch3-23)
 >#### [**3.24 Scope in JavaScript Summary**](#ch3-24)
->	- #3## [**3.24.Additional Resources**](ch3-24-add)
->	- #### [**3.24.Simple Slide Show START Files**](ch3-24-start)
+>	- #3## [**3.24.Additional Resources**](ch#3-24-add)
+>	- #### [**3.24.Simple Slide Show START Files**](#ch3-24-start)
 >#### [**3.25 Simple JS Slideshow - Part 1**](#ch3-25)
 >#### [**3.26 Simple JS Slideshow - Part 2**](#ch3-26)
 >#### [**3.27 Simple JS Slideshow - Part 3**](#ch3-27)
 >#### [**3.28 Simple JS Slideshow - Part 4**](#ch3-28)
 >#### [**3.29 Simple JS Slideshow - Part 5**](#ch3-29)
->	- #### [**3.29.Advanced Slide Show START Files**](ch3-29-start)
+>	- #### [**3.29.Advanced Slide Show START Files**](#ch3-29-start)
 >#### [**3.30 Slideshow with Cross Fade Effect - Part 1**](#ch3-30)
 >#### [**3.31 Slideshow with Cross Fade Effect - Part 2**](#ch3-31)
 >#### [**3.32 Slideshow with Cross Fade Effect - Part 3**](#ch3-32)
@@ -180,8 +179,9 @@ skills.</p>
 >#### [**4.25 Course Summary - JavaScript Basics**](#ch4-25)
 >	- #### [**4.25 Self-Reflection - What Next?**](#ch4-25-refl)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ syllabus for javascript basics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2><a href="#syllabus">Syllabus - what's in store?</a></h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Week 1</h3>
 <h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
 
@@ -215,7 +215,7 @@ values to these variables and arrays and be able to read values from them.</p>
 
 <ul>
   <li>1.05.Assessing Your Skills</li>
-  <li>1.05.Additional Resources</li>
+  <li>1.05.Additional Resources (awwwards.com &amp; software)</li>
 </ul>
 
 <ol type="1" start="6">
@@ -229,8 +229,8 @@ values to these variables and arrays and be able to read values from them.</p>
 </ol>
 
 <ul>
-  <li>1.12.Additional Resources</li>
-  <li>1.12.Module 1 Reflection</li>
+  <li>1.12.Reserved Words</li>
+  <li>1.12.Array Methods</li>
 </ul>
 
 <h3>Week 2</h3>
@@ -307,7 +307,7 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.24.Additional Resources</li>
+  <li>2.24.JavaScript Functions</li>
   <li>2.24.JavaScript Function Challengs 10-16</li>
 </ul>
 
@@ -347,7 +347,7 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.10.Additional Resources</li>
+  <li>3.10.JavaScript and the DOM</li>
   <li>3.10.JavaScript DOM Challenges 17-21</li>
 </ul>
 
@@ -1240,21 +1240,22 @@ there. But it really is worth it if you keep working at it. And I hope
 that you continue with us and see all the cool things that you can do
 with JavaScript.</p>
 
-<h3 name="ch1-00-assess"><a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
-Assessing your Skills in HTML & CSS</a></h3>
-
-<h3>Additional Resources</h3>
-
-<h4>Here are resources related to these lessons:</h4>
-
+<!-- <h4>Here are resources related to these lessons:</h4> -->
 <ul>
-  <li><a href="https://www.awwwards.com/">Awwwards website</a></li>
-  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-  <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
-  <li><a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a></li>
-  <li><a href="https://www.gimp.org/) https://www.gimp.org/">GNU Gimp</a></li>
+  <li><h3 id="ch1-05-assess">
+  <a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
+  1.05.Assessing your Skills in HTML & CSS</a></h3></li>
+  <li><h3 id="ch1-05-add">1.05.Additional Resources;</a></h3>
+    <ul>
+      <li><a href="https://www.awwwards.com/">Awwwards website</a></li>
+      <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+      <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
+      <li><a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a></li>
+      <li><a href="https://www.gimp.org/) https://www.gimp.org/">GNU Gimp</a></li>
+    </ul>
+  </li>
 </ul>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-06">1.06 JavaScript Variables (6:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2084,8 +2085,6 @@ ways of getting elements out of arrays.</p>
 <p>Here are resources related to these lessons:</p>
 
 <ul>
-  <li id="ch1-12-add"><a href="https://www.coursera.org/learn/javascript-basics/supplement/vzVsq/additional-resources">
-    1.12.Additional Resources</a></li>
   <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp">
     1.12.Reserved Words</a></li>
   <li id="ch1-12-array"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
