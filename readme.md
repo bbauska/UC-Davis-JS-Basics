@@ -127,8 +127,8 @@ skills.</p>
 >### [**3.20 **](#ch3-20)
 >### [**3.21 **](#ch3-21)
 >### [**3.22 **](#ch3-22)
->### [**3.21 **](#ch3-21)
->### [**3.22 **](#ch3-22)
+>### [**3.23 **](#ch3-23)
+>### [**3.24 **](#ch3-24)
 >	- ### [**3.24.Additional Resources**](ch3-24-add)
 >	- ### [**3.24.Simple Slide Show START Files**](ch3-24-start)
 >### [**3.25 Simple JS Slideshow - Part 1**](#ch3-25)
@@ -137,10 +137,49 @@ skills.</p>
 >### [**3.28 Simple JS Slideshow - Part 4**](#ch3-28)
 >### [**3.29 Simple JS Slideshow - Part 5**](#ch3-29)
 >	- ### [**3.29.Advanced Slide Show START Files**](ch3-29-start)
+>### [**3.30 Slideshow with Cross Fade Effect - Part 1**](#ch3-30)
+>### [**3.31 Slideshow with Cross Fade Effect - Part 2**](#ch3-31)
+>### [**3.32 Slideshow with Cross Fade Effect - Part 3**](#ch3-32)
+>### [**3.33 Slideshow with Cross Fade Effect - Part 4**](#ch3-33)
+>### [**3.34 Slideshow with Cross Fade Effect - Part 5**](#ch3-34)
+>### [**3.35 Slideshow with Cross Fade Effect - Part 6**](#ch3-35)
+>### [**3.36 Slideshow with Cross Fade Effect - Part 7**](#ch3-36)
+>	- ### [**3.36.Prompt: Module 3 Reflection**](ch3-36-reflect)
 
-
-
-<h3>thru 4.25...</h3>
+## [**Week 4: Basic JavaScript Application Projects**](#ch4)
+>	- ### [**4.00 Learning Objectives**](#ch4-00-obj)
+>	- ### [**4.00 Module 4 - Intro to Basic JS Application Projects**](#ch4-00-intro)
+>	- ### [**4.00 Basic Distance Converter START Files**](#ch4-00-start)
+>### [**4.01 Basic Distance Converter Project - Part 1**](#ch4-01)
+>### [**4.02 Basic Distance Converter Project - Part 2**](#ch4-02)
+>### [**4.03 Basic Distance Converter Project - Part 3**](#ch4-03)
+>### [**4.04 Basic Distance Converter Project - Part 4**](#ch4-04)
+>### [**4.05 Basic Distance Converter Project - Part 5**](#ch4-05)
+>	- ### [**4.05 Advanced Distance Converter START Files**](#ch4-05-start)
+>### [**4.06 Advanced Distance Converter Project - Part 1**](#ch4-06)
+>### [**4.07 Advanced Distance Converter Project - Part 2**](#ch4-07)
+>### [**4.08 Advanced Distance Converter Project - Part 3**](#ch4-08)
+>### [**4.09 Advanced Distance Converter Project - Part 4**](#ch4-09)
+>### [**4.10 Advanced Distance Converter Project - Part 5**](#ch4-10)
+>	- ### [**4.10 Vacation Destination Project - Part 1 START Files**](#ch4-10-start)
+>### [**4.11 Vacation Destination Project: HTML & CSS - Part 1**](#ch4-11)
+>### [**4.12 Vacation Destination Project: HTML & CSS - Part 2**](#ch4-12)
+>### [**4.13 Vacation Destination Project: HTML & CSS - Part 3**](#ch4-13)
+>### [**4.14 Vacation Destination Project: HTML & CSS - Part 4**](#ch4-14)
+>### [**4.15 Vacation Destination Project: HTML & CSS - Part 5**](#ch4-15)
+>### [**4.16 Vacation Destination Project: HTML & CSS - Part 6**](#ch4-16)
+>	- ### [**4.16 Vacation Destination Project - Part 2 START Files**](#ch4-16-start)
+>### [**4.17 Vacation Destination Project: JavaScript - Part 1**](#ch4-17)
+>### [**4.18 Vacation Destination Project: JavaScript - Part 2**](#ch4-18)
+>### [**4.19 Vacation Destination Project: JavaScript - Part 3**](#ch4-19)
+>### [**4.20 Vacation Destination Project: JavaScript - Part 4**](#ch4-20)
+>### [**4.21 Vacation Destination Project: JavaScript - Part 5**](#ch4-21)
+>### [**4.22 Vacation Destination Project: JavaScript - Part 6**](#ch4-22)
+>### [**4.23 Vacation Destination Project: JavaScript - Part 7**](#ch4-23)
+>### [**4.24 Vacation Destination Project: JavaScript - Part 8**](#ch4-24)
+>	- ### [**4.24 Module 4 Reflection**](#ch4-24-reflect)
+>### [**4.25 Course Summary - JavaScript Basics**](#ch4-25)
+>	- ### [**4.25 Self-Reflection**](#ch4-25-reflect)
 
 <h2 id="syllabus">Syllabus - what's in store?</h2>
 
@@ -366,7 +405,6 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.36.Slideshow With Cross Fade Effect Open Discussion</li>
   <li>3.36.Prompt: Module 3 Reflection</li>
 </ul>
 
@@ -383,8 +421,8 @@ vacation destination list application.</p>
 <h4>25 lessons/videos, 4 readings, 4 zip uploadable files</h4>
 
 <ul>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">4.00.Module 4 - Basic JS Application Projects</a></li>
   <li>4.00.Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">4.00.Module 4 - Intro to Basic JS Application Projects</a></li>
   <li>4.00.Basic Distance Converter START Files</li>
 </ul>
 
@@ -397,7 +435,6 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.05.Basic Distance Converter Project Open Discussion</li>
   <li>4.05.Advanced Distance Converter START Files</li>
 </ul>
 
@@ -410,7 +447,6 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.10.Advanced Distance Converter Project Open Discussion</li>
   <li>4.10.Vacation Destination Project - Part 1 START Files</li>
 </ul>
 
@@ -424,7 +460,6 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.16.Vacation Destination Project - Part 1 Open Discussion</li>
   <li>4.16.Vacation Destination Project - Part 2 START Files</li>
 </ul>
 
@@ -440,8 +475,7 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.24.Vacation Destination Project: Part 2 Open Discussion</li>
-  <li>4.24.Module 4 Reflection</li>
+  <li>4.24.Module 4 Reflection - Basic Application Projects</li>
 </ul>
 
 <ol type="1" start="25">
@@ -449,7 +483,7 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.25.Self-Reflection</li>
+  <li>4.25.Self-Reflection - What Next?</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
