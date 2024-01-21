@@ -3,7 +3,7 @@ title: |
   University of California @Davis JavaScript Basics
   by William Mead, Lecturer - UC-Davis
 author: "bbauska"
-date last editted: "1/20/2024 2+pm"
+date last editted: "1/21/2024 10+am"
 output: 
   markdown:
     with some style
@@ -124,11 +124,11 @@ skills.</p>
 >### [**3.18 Key Down Event**](#ch3-18)
 >	- ### [**3.18.Additional Resources**](ch3-18-add)
 >### [**3.19 JavaScript Event Challenges 22-30**](#ch3-19)
->### [**3.20 **](#ch3-20)
->### [**3.21 **](#ch3-21)
->### [**3.22 **](#ch3-22)
->### [**3.23 **](#ch3-23)
->### [**3.24 **](#ch3-24)
+>### [**3.20 Scope in JavaScript**](#ch3-20)
+>### [**3.21 Strategy 1: Never Use Global Scope**](#ch3-21)
+>### [**3.22 Strategy 2: 'use strict;'**](#ch3-22)
+>### [**3.23 Strategy 3: const and let**](#ch3-23)
+>### [**3.24 Scope in JavaScript Summary**](#ch3-24)
 >	- ### [**3.24.Additional Resources**](ch3-24-add)
 >	- ### [**3.24.Simple Slide Show START Files**](ch3-24-start)
 >### [**3.25 Simple JS Slideshow - Part 1**](#ch3-25)
@@ -479,7 +479,7 @@ vacation destination list application.</p>
 </ul>
 
 <ol type="1" start="25">
-  <li>Course Summary</li>
+  <li>Course Summary: JavaScript Basics</li>
 </ol>
 
 <ul>
