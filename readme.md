@@ -27,8 +27,9 @@ output:
 </p>
 <!-- {width="2.0in" height="1.773685476815398in"}![](./images/image002.png){width="2.0995866141732282in" height="1.77in"} -->
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ about javascript basics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="#about">About this Course</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>This course introduces the programming language JavaScript and shows the
 websites that include the type of interactions students will eventually
 be able to develop. Learners will understand the importance of how
@@ -40,7 +41,7 @@ resources and recommendations are provided to improve these skills.
 There is ample opportunity for students to practice these first, core
 skills.</p>
 
-<!--~~ Hoverable Dropdown Menu ~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ table of contents ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ### [**Week 1: Getting Started; Intro to JavaScript Variables and Arrays**](#ch1)
@@ -129,7 +130,7 @@ skills.</p>
 >#### [**3.21 Strategy 2: 'use strict;'**](#ch3-21)
 >#### [**3.22 Strategy 3: const and let**](#ch3-22)
 >#### [**3.23 Scope in JavaScript Summary**](#ch3-23)
->	- #3## [**3.23.Additional Resources**](ch#3-23-add)
+>	- #### [**3.23.Additional Resources**](ch#3-23-add)
 >	- #### [**3.23.Simple Slide Show START Files**](#ch3-23-start)
 >#### [**3.24 Simple JS Slideshow - Part 1**](#ch3-24)
 >#### [**3.25 Simple JS Slideshow - Part 2**](#ch3-25)
@@ -485,13 +486,13 @@ vacation destination list application.</p>
 <ul>
   <li>4.25.Self-Reflection - What Next?</li>
 </ul>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ uc-davis - javascript basics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ start of course: uc-davis - javascript basics ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 name="ch1">Week 1</h1>
+<h1 id="ch1">Week 1</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-00-note">1.00. A Note From UC Davis</h2>
+<h2 id="ch1-00-note">1.00. A Note From UC Davis</h2>
 
 <h3>Welcome to this course!</h3>
 
@@ -556,9 +557,9 @@ Coursera Honor Code</a>.</p>
   <li><a href="https://learner.coursera.help/hc/en-us">1.00.Coursera's Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 name="ch1">Week One:</h1>
+<h1 id="ch1">Week One:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-00-obj">1.00 Learning Objectives</h2>
+<h2 id="ch1-00-obj">1.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Identify interactions on web pages created with JavaScript.</li>
@@ -2113,7 +2114,7 @@ ways of getting elements out of arrays.</p>
     <li>Combine logic flow control structures within simple programs.</li>
     <li>Output program results to the console window.</li>
     <li>Create custom functions that can be called to complete the instructions they contain.</li>
-    <li>Practice working with combining control structures (sequence, selection and loop) and creating functions to create
+    <li>Practice working with combining control structures (<b><i>sequence, selection</i></b> and <b><i>loop</i></b>) and creating functions to create
 	  basic programs that output to the browser console.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2129,7 +2130,7 @@ ways of getting elements out of arrays.</p>
 <p>Welcome to the second module. In this module, we'll get further into the basics of the 
 JavaScript language. There are certain things that you'll find in many modern programming 
 languages, such as control structures, such as being able to figure out if something is 
-true or how to handle something in a loop and these kinds of things. We'll be doing that 
+true or how to handle something in a <b><i>loop</i></b> and these kinds of things. We'll be doing that 
 sort of work in this second module. There's a lot of practice and there's a lot of 
 opportunities along the way to get used to the JavaScript syntax. I encourage you to do 
 as much of that as you possibly can.</p>
@@ -3317,10 +3318,10 @@ starving, so you should go eat something.</p>
 <p>We&apos;ve already done quite a bit of JavaScript already. We&apos;ve looked at
 variables and we&apos;ve looked at arrays, and we&apos;ve looked at how to use
 selections to choose if something is true or not, Booleans. The next
-piece of the puzzle is loops. Frequently, you need to iterate through a
+piece of the puzzle is <b><i>loops</i></b>. Frequently, you need to iterate through a
 number of values and do something with them when you&apos;re programming.
 And JavaScript, like many programming languages, will allow you to do
-loops.</p>
+<b><i>loops</i></b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. for loop (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3330,9 +3331,9 @@ loops.</p>
   alt="For loop." />
 </p>
 
-<p>The most basic loop is a for loop. And you&apos;ll see here that in the for
-loop, we start out with an initialized value. And then we check if the
-value is less than some number. And then each time through the loop, we
+<p>The most basic <b><i>loop</i></b> is a <b><i>for loop</i></b>. And you&apos;ll see here 
+that in the for <b><i>loop</i></b>, we start out with an initialized value. And then we check if the
+value is less than some number. And then each time through the <b><i>loop</i></b>, we
 increment that value. The best way to explore this is to actually try it
 out. So I recommend opening up your code editor and following along with
 me.</p>
@@ -3871,31 +3872,137 @@ Here is a resource related to these lessons:
   alt="2.14. Structured Programming, Sequence - Part 1." />
 </p>
 
-<p>Sequence selection and loop.</p>
+<p>Sequence, selection and loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 211. definition: structured programming (122) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image211.png?raw=true"
   width="40%"
-  alt="Definition Structured Programming." />
+  alt="Definition Structured Programming; Sequence, selection &amp; loop." />
 </p>
 
 <p>In this lesson, we're going to put together some of what you've already learned and 
 what you've already been doing and see if we can make some sense out of it. In 
 Structured Programming, we make use of these three structures we've already started 
-working with. Sequence, 1st, you do this, then you do that, finally, you do this 
+working with. <b><i>Sequence</i></b>, 1st, you do this, then you do that, finally, you do this 
 over here. With JavaScript, you start at the top of the script and you work your 
 way down the script and JavaScript does everything in the script one thing at a 
-time in a sequence.</p>
+time in a <b><i>sequence</i></b>.</p>
 
-<p>With selections, we're checking to see if some condition is met. If this is 
-true, do this, otherwise, do that. Then with loops, while a condition is true, 
+<p>With <b><i>selections</i></b>, we're checking to see if some condition is met. If this is 
+true, do this, otherwise, do that. Then with <b><i>loops</i></b>, while a condition is true, 
 we're going to continue to do something. With the scripts that we have next, 
 we're going to learn a little bit about JavaScript string methods, while also 
 practicing some of these techniques you've already learned a little bit about 
-with loops and selections and these kinds of things. Hopefully, you'll start 
+with <b><i>loops</i></b> and <b><i>selections</i></b> and these kinds of things. Hopefully, you'll start 
 to see the expressive power of JavaScript. </p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 212. methods of text/string manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image212.png?raw=true"
+  width="50%"
+  alt="Converting to Upper or Lower case and other text manipulations." />
+</p>
+
+Over here I have some of the different string methods you can do. To
+start with, we&apos;re going to work with the <b>toUpperCase()</b> method here.
+We can actually take a string of text, assign it to a variable, and then
+take that variable and do.<b>toUpperCase</b>, and that&apos;s a method that
+will take that string and convert it into an uppercase string. Or you
+can convert it to lowercase.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 213. example substr() text manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image213.png?raw=true"
+  width="50%"
+  alt="Example substr() text manipulation." />
+</p>
+
+<p>If you come to this page, you&apos;ll notice and further down the page here,
+but there&apos;s all different things we can do with strings; to replace
+content, to find content, to do all kinds of things with strings. We can
+take pieces of strings out of strings, we can perform string surgery.
+This page is very useful to explain some of the different things that we
+can do with strings of text. You might be wondering, well, why would I
+want to do anything with a string of text? Why would I want to do this
+stuff?</p>
+
+<h5><a href="W3schools.com/js/js_string_methods.asp">JS String Methods</a></h5>
+
+But if you think about it, a web page from the very first character of
+the web page to the very last character of a web page is nothing but a
+string of text. If I were to right-click on this page and do the page
+source, you can see it starts with a character, and down at the bottom,
+way, way down at the bottom, it ends with a character. This is one long
+string of text. From that perspective, every web page is really just a
+string. If we can do things with strings, we can affect web pages. Not
+that we&apos;re going to do it that way very often, but you actually can do
+it that way, which is pretty cool.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. example, sequence part 1 (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image214.png?raw=true"
+  width="50%"
+  alt="Sequence Part 1, example." />
+</p>
+
+Let&apos;s go forward with this and see what we&apos;re doing here. The first
+thing we&apos;re going to do is create a variable called <b>myString</b> and
+assign it the following string, &quot;I&apos;m really hungry for some&quot; and then
+use the <b>console.log</b> to print out that string. Then make a new
+variable called <b>myUpperString</b> and use the string method to
+capitalize all the text in the first string and then print out the
+capitalized version in the console. Can you do that on your own? Try to
+do it using this <b>toUpperCase</b> string method here. You can pause the
+video and come back and see how I did it. When you&apos;re ready, unpause
+the video, and let&apos;s see if you got the same thing I got.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. sequence part 1, result (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image215.png?raw=true"
+  width="50%"
+  alt="Sequence Part 1, result." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 216. sequence part 1, result in script (125) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image216.png?raw=true"
+  width="50%"
+  alt="Sequence Part 1, result in script." />
+</p>
+
+<p>Did you get something like this? I have the same thing over here in my
+Visual Studio Code. I left out the spaces, but this is the same thing
+here. Created a variable myString, assigned some text to it, I&apos;m
+console logging that out, then make a new variable called myUpperString,
+which is my string toUpperCase with the parenthesis. This is a string
+method. We&apos;re going to talk about <b>methods</b> and <b>functions</b> and all
+that in a little bit, but for right now, understand that <b>method</b> has
+these parenthesis at the end. It&apos;ll take <b>myString</b> and convert it
+into uppercase, and then I can <b>console.log</b> that out and assign it to
+this and <b>console.log</b> that out. That works really great.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. test, sequence part 1 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image217.png?raw=true"
+  width="50%"
+  alt="Test, Sequence Part 1." />
+</p>
+
+I can come over here and see that that actually runs, and I&apos;ve got both
+of my strings. One of them is lowercase, and one of them is uppercase.
+That works great. Let&apos;s see, what should we do next.
+
+<h2 id="ch2-15">2.15 Sequence -- Part 2 (5:42)</h2>
+
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (##) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
