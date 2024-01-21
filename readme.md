@@ -54,7 +54,7 @@ skills.</p>
 >#### [**1.04 Tools Needed for Success**](#ch1-04)
 >#### [**1.05 Skills Needed for Success**](#ch1-05)
 >	- #### [**1.05.Assessing Your Skills in HTML &amp; CSS**](#ch1-05-assess)
->	- #### [**1.05.Additional Resources**](#ch1-05-add)
+>	- #### [**1.05.Additional Resources (awwwards.com &amp; software)**](#ch1-05-add)
 >#### [**1.06 JavaScript Variables**](#ch1-06)
 >#### [**1.07 JavaScript Variables Practice - Part 1**](#ch1-07)
 >#### [**1.08 JavaScript Variables Practice - Part 2**](#ch1-08)
@@ -123,27 +123,27 @@ skills.</p>
 >#### [**3.18 Key Down Event**](#ch3-18)
 >	- #### [**3.18.Intro to Events in JS**](#ch3-18-ev1)
 >	- #### [**3.18.Event Reference**](#ch3-18-ev2)
->#### [**3.19 JavaScript Event Challenges 22-30**](#ch3-19)
->#### [**3.20 Scope in JavaScript**](#ch3-20)
->#### [**3.21 Strategy 1: Never Use Global Scope**](#ch3-21)
->#### [**3.22 Strategy 2: 'use strict;'**](#ch3-22)
->#### [**3.23 Strategy 3: const and let**](#ch3-23)
->#### [**3.24 Scope in JavaScript Summary**](#ch3-24)
->	- #3## [**3.24.Additional Resources**](ch#3-24-add)
->	- #### [**3.24.Simple Slide Show START Files**](#ch3-24-start)
->#### [**3.25 Simple JS Slideshow - Part 1**](#ch3-25)
->#### [**3.26 Simple JS Slideshow - Part 2**](#ch3-26)
->#### [**3.27 Simple JS Slideshow - Part 3**](#ch3-27)
->#### [**3.28 Simple JS Slideshow - Part 4**](#ch3-28)
->#### [**3.29 Simple JS Slideshow - Part 5**](#ch3-29)
->	- #### [**3.29.Advanced Slide Show START Files**](#ch3-29-start)
->#### [**3.30 Slideshow with Cross Fade Effect - Part 1**](#ch3-30)
->#### [**3.31 Slideshow with Cross Fade Effect - Part 2**](#ch3-31)
->#### [**3.32 Slideshow with Cross Fade Effect - Part 3**](#ch3-32)
->#### [**3.33 Slideshow with Cross Fade Effect - Part 4**](#ch3-33)
->#### [**3.34 Slideshow with Cross Fade Effect - Part 5**](#ch3-34)
->#### [**3.35 Slideshow with Cross Fade Effect - Part 6**](#ch3-35)
->#### [**3.36 Slideshow with Cross Fade Effect - Part 7**](#ch3-36)
+>	- #### [**3.18.JavaScript Event Challenges 22-30**](#ch3-18-22thru30)
+>#### [**3.19 Scope in JavaScript**](#ch3-19)
+>#### [**3.20 Strategy 1: Never Use Global Scope**](#ch3-20)
+>#### [**3.21 Strategy 2: 'use strict;'**](#ch3-21)
+>#### [**3.22 Strategy 3: const and let**](#ch3-22)
+>#### [**3.23 Scope in JavaScript Summary**](#ch3-23)
+>	- #3## [**3.23.Additional Resources**](ch#3-23-add)
+>	- #### [**3.23.Simple Slide Show START Files**](#ch3-23-start)
+>#### [**3.24 Simple JS Slideshow - Part 1**](#ch3-24)
+>#### [**3.25 Simple JS Slideshow - Part 2**](#ch3-25)
+>#### [**3.26 Simple JS Slideshow - Part 3**](#ch3-26)
+>#### [**3.27 Simple JS Slideshow - Part 4**](#ch3-27)
+>#### [**3.28 Simple JS Slideshow - Part 5**](#ch3-28)
+>	- #### [**3.28.Advanced Slide Show START Files**](#ch3-28-start)
+>#### [**3.29 Slideshow with Cross Fade Effect - Part 1**](#ch3-29)
+>#### [**3.30 Slideshow with Cross Fade Effect - Part 2**](#ch3-30)
+>#### [**3.31 Slideshow with Cross Fade Effect - Part 3**](#ch3-31)
+>#### [**3.32 Slideshow with Cross Fade Effect - Part 4**](#ch3-32)
+>#### [**3.33 Slideshow with Cross Fade Effect - Part 5**](#ch3-33)
+>#### [**3.34 Slideshow with Cross Fade Effect - Part 6**](#ch3-34)
+>#### [**3.35 Slideshow with Cross Fade Effect - Part 7**](#ch3-35)
 
 ### [**Week 4: Basic JavaScript Application Projects**](#ch4)
 >	- #### [**4.00 Learning Objectives**](#ch4-00-obj)
@@ -272,7 +272,8 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.09.Additional Resources</li>
+  <li>2.09.Operators</li>
+  <li>2.09.Booleans</li>
 </ul>
 
 <ol type="1" start="11">
@@ -283,7 +284,7 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.13.JavaScript-LoopsAdditional-Resources</li>
+  <li>2.13.JavaScript Loops</li>
 </ul>
 
 <ol type="1" start="15">
@@ -365,10 +366,10 @@ the course by putting together a simple slideshow on a web page.</p>
 <ul>
   <li>3.18.Intro to Events in JavaScript</li>
   <li>3.18.Event Reference</li>
+  <li>3.18.JavaScript Event Challenges 22-30</li>
 </ul>
 
 <ol type="1" start="19">
-  <li>JavaScript Event Challenges 22-30</li>
   <li>Scope in JavaScript</li>
   <li>Strategy 1: Never Use Global Scope</li>
   <li>Strategy 2: &ldquo;use strict;&rdquo;</li>
