@@ -108,8 +108,41 @@ skills.</p>
 >### [**3.04 DOM; getElementsByClassName();**](#ch3-04)
 >### [**3.05 DOM; querySelector()**](#ch3-05)
 >### [**3.06 DOM; querySelectorAll();**](#ch3-06)
+>### [**3.07 innerHTML**](#ch3-07)
+>### [**3.08 className**](#ch3-08)
+>### [**3.09 Creating Elements and Text Nodes**](#ch3-09)
+>### [**3.10 Removing Elements**](#ch3-10)
+>	- ### [**3.10.Additional Resources**](ch3-10-add)
+>	- ### [**3.10.JavaScript DOM Challenges 17-21**](ch3-10-func)
+>### [**3.11 Capturing Events with JavaScript**](#ch3-11)
+>### [**3.12 Event Listeners**](#ch3-12)
+>### [**3.13 The Event Object**](#ch3-13)
+>### [**3.14 More On Events**](#ch3-14)
+>### [**3.15 Mouseover, Mouseover Events: HTML**](#ch3-15)
+>### [**3.16 Scroll Events: HTML**](#ch3-10)
+>### [**3.17 deo: Window Resizing**](#ch3-17)
+>### [**3.18 Key Down Event**](#ch3-18)
+>	- ### [**3.18.Additional Resources**](ch3-18-add)
+>### [**3.19 JavaScript Event Challenges 22-30**](#ch3-19)
+>### [**3.20 **](#ch3-20)
+>### [**3.21 **](#ch3-21)
+>### [**3.22 **](#ch3-22)
+>### [**3.21 **](#ch3-21)
+>### [**3.22 **](#ch3-22)
+>	- ### [**3.24.Additional Resources**](ch3-24-add)
+>	- ### [**3.24.Simple Slide Show START Files**](ch3-24-start)
+>### [**3.25 Simple JS Slideshow - Part 1**](#ch3-25)
+>### [**3.26 Simple JS Slideshow - Part 2**](#ch3-26)
+>### [**3.27 Simple JS Slideshow - Part 3**](#ch3-27)
+>### [**3.28 Simple JS Slideshow - Part 4**](#ch3-28)
+>### [**3.29 Simple JS Slideshow - Part 5**](#ch3-29)
+>	- ### [**3.29.Advanced Slide Show START Files**](ch3-29-start)
 
-<h2>Syllabus</h2>
+
+
+<h3>thru 4.25...</h3>
+
+<h2 id="syllabus">Syllabus - what's in store?</h2>
 
 <h3>Week 1</h3>
 <h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
@@ -117,8 +150,9 @@ skills.</p>
 <p>In this module, you will be introduced to JavaScript and what it can do. You will be 
 able to identify websites that include the types of interactions you will be able to 
 produce at the end of the entire Specialization. You will also be able to discuss the 
-history of JavaScript and explore why this history impacts how we write JavaScript.
-On the web, JavaScript is used to manipulate the HTML and CSS of a webpage, after it 
+history of JavaScript and explore why this history impacts how we write JavaScript.</p>
+
+<p>On the web, JavaScript is used to manipulate the HTML and CSS of a webpage, after it 
 has loaded from the server. You will be able to assess your understanding of HTML and 
 CSS and have the opportunity through resources and recommendations for improving your 
 skills in this area, if necessary. You will write simple JavaScript statements in the 
@@ -171,15 +205,16 @@ to the selection control structure. This basic control structure allows programs
 a path based on conditions, and is one of the three major logic and flow control structures 
 found in any modern programming language.</p>
 
-<p>You will be able to identify, write, and trouble shoot scripts using this basic 
-control structure. You will be able to correctly identify loop structures and
-practice using some of the syntax available in JavaScript to create loops. You 
-will then be able to put all three logical flow control structures (sequence, selection, 
-and loop) together to create basic JavaScript programs that can be tested. Finally you 
-will be able to combine sets of program instructions into named functions and create
-custom functions that can be called to complete the instructions they contain.</p>
+<p>You will be able to identify, write, and troubleshoot scripts using this basic control 
+structure. You will be able to correctly identify loop structures and practice using some 
+of the syntax available in JavaScript to create loops. You will then be able to put all 
+three logical flow control structures (<b><i>sequence, selection, and loop</i></b>) together 
+to create basic JavaScript programs that can be tested.</p>
 
-<h4>25 lessons, 5 readings</h4>
+<p>Finally you will be able to combine sets of program instructions into named functions 
+and create custom functions that can be called to complete the instructions they contain.</p>
+
+<h4>24 lessons/videos, 8 readings</h4>
 
 <ul>
   <li>2.00.Learning Objectives</li>
@@ -187,7 +222,6 @@ custom functions that can be called to complete the instructions they contain.</
 </ul>
 
 <ol>
-  <li>Visual Studio - Part 1</li>
   <li>Visual Studio - Part 1</li>
   <li>Visual Studio - Part 2</li>
   <li>Visual Studio - Part 3</li>
@@ -255,7 +289,7 @@ variables in JavaScript so that scope does not become a problem. You
 will be able to practice all the skills and techniques learned so far in
 the course by putting together a simple slideshow on a web page.</p>
 
-<h4>37 videos, 7 readings</h4>
+<h4>36 lessons/videos, 10+ readings</h4>
 
 <ul>
   <li>3.00.Learning Objectives</li>
@@ -277,7 +311,7 @@ the course by putting together a simple slideshow on a web page.</p>
 
 <ul>
   <li>3.10.Additional Resources</li>
-  <li>3.10.JavaScript DOM Challengs 17-21</li>
+  <li>3.10.JavaScript DOM Challenges 17-21</li>
 </ul>
 
 <ol type="1" start="11">
@@ -318,7 +352,6 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.29.Simple JS Slideshow Open Discussion</li>
   <li>3.29.Advanced Slide Show START Files</li>
 </ul>
 
@@ -347,15 +380,11 @@ advanced distance converter. You will be able to further apply and
 practice to extend your skills and techniques by building a simple
 vacation destination list application.</p>
 
-<h4>26 videos, 4 readings</h4>
-
-<ol type="1" start="1">
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">Module 4 Introduction</a></li>
-</ol>
+<h4>25 lessons/videos, 4 readings, 4 zip uploadable files</h4>
 
 <ul>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">4.00.Module 4 - Basic JS Application Projects</a></li>
   <li>4.00.Learning Objectives</li>
-  <li>4.00.Module 4 Introduction</li>
   <li>4.00.Basic Distance Converter START Files</li>
 </ul>
 
