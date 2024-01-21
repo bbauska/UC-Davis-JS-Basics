@@ -3,7 +3,7 @@ title: |
   University of California @Davis JavaScript Basics
   by William Mead, Lecturer - UC-Davis
 author: "bbauska"
-date last editted: "1/21/2024 10+am"
+date last editted: "1/21/2024 11+am"
 output: 
   markdown:
     with some style
@@ -43,10 +43,11 @@ skills.</p>
 <!--~~ Hoverable Dropdown Menu ~~-->
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
-## [**Week 1: Getting Started, Intro to JS, Variables, and Arrays**](#ch1)
+## [**Week 1: Getting Started; Intro to JavaScript Variables and Arrays**](#ch1)
 >	- ### [**1.00 A Note from UC Davis**](#ch1-00-note)
 >	- ### [**1.00 Learning Objectives**](#ch1-00-obj)
->	- ### [**1.00 Welcome/Intro to this Course!**](#ch1-00-intro)
+>	- ### [**1.00 Welcome to JavaScript Basics**](#ch1-00-welcome)
+>	- ### [**1.00 Module 1 Introduction; JavaScript Variables &amp; Arrays**](#ch1-00-intro)
 >### [**1.01 Intro to JavaScript - Part 1**](#ch1-01)
 >### [**1.02 Intro to JavaScript - Part 2**](#ch1-02)
 >### [**1.03 Intro to JavaScript - Part 3**](#ch1-03)
@@ -67,7 +68,7 @@ skills.</p>
 
 ## [**Week 2: Controlling Logical Flow in JavaScript**](#ch2)
 >	- ### [**2.00 Learning Objectives**](#ch2-00-obj)
->	- ### [**2.00 Module 2 Introduction**](#ch2-00-intro)
+>	- ### [**2.00 Module 2 Introduction; Controlling Logical Flow in JavaScript**](#ch2-00-intro)
 >### [**2.01 Visual Studio - Part 1**](#ch2-01)
 >### [**2.02 Visual Studio - Part 2**](#ch2-02)
 >### [**2.03 Visual Studio - Part 3**](#ch2-03)
@@ -101,7 +102,7 @@ skills.</p>
 
 ## [**Week 3: Using JavaScript in the Web Browser**](#ch3)
 >	- ### [**3.00 Learning Objectives**](#ch3-00-obj)
->	- ### [**3.00 Module 3 Introduction**](#ch3-00-intro)
+>	- ### [**3.00 Module 3 Introduction; Using JavaSCript in the Web Browser**](#ch3-00-intro)
 >### [**3.01 JavaScript and the DOM**](#ch3-01)
 >### [**3.02 Dot Syntax and Methods**](#ch3-02)
 >### [**3.03 DOM; getElementsByTagName();**](#ch3-03)
@@ -148,7 +149,7 @@ skills.</p>
 
 ## [**Week 4: Basic JavaScript Application Projects**](#ch4)
 >	- ### [**4.00 Learning Objectives**](#ch4-00-obj)
->	- ### [**4.00 Module 4 - Intro to Basic JS Application Projects**](#ch4-00-intro)
+>	- ### [**4.00 Module 4 Introduction; Basic JavaScript Application Projects**](#ch4-00-intro)
 >	- ### [**4.00 Basic Distance Converter START Files**](#ch4-00-start)
 >### [**4.01 Basic Distance Converter Project - Part 1**](#ch4-01)
 >### [**4.02 Basic Distance Converter Project - Part 2**](#ch4-02)
@@ -181,7 +182,7 @@ skills.</p>
 >### [**4.25 Course Summary - JavaScript Basics**](#ch4-25)
 >	- ### [**4.25 Self-Reflection - What Next?**](#ch4-25-reflect)
 
-<h2 id="syllabus">Syllabus - what's in store?</h2>
+<h2><a href="#syllabus">Syllabus - what's in store?</a></h2>
 
 <h3>Week 1</h3>
 <h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
@@ -485,6 +486,7 @@ vacation destination list application.</p>
 <ul>
   <li>4.25.Self-Reflection - What Next?</li>
 </ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ uc-davis - javascript basics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -555,9 +557,9 @@ Coursera Honor Code</a>.</p>
   <li><a href="https://learner.coursera.help/hc/en-us">1.00.Coursera's Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch1">Week One:</h1>
+<h1 name="ch1">Week One:</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-00-obj">1.00 Learning Objectives</h2>
+<h2 name="ch1-00-obj">1.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Identify interactions on web pages created with JavaScript.</li>
@@ -595,7 +597,7 @@ with and if you&apos;re new to programming, don&apos;t worry, we&apos;re going t
 start at the very beginning and get you going all on the right track.
 Buckle in and let&apos;s get started learning JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-00-intro">1.00. Week 1 - Getting Started, Intro to JS, Variables &amp; Arrays (0:57)</h2>
+<h2 id="ch1-00-intro">1.00. Introduction to JavaScript Variables &amp; Arrays (0:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to the first module on JavaScript. In this module we&apos;ll get
 into the basics of the language. We&apos;ll talk about variables and arrays
@@ -1240,7 +1242,7 @@ there. But it really is worth it if you keep working at it. And I hope
 that you continue with us and see all the cool things that you can do
 with JavaScript.</p>
 
-<h3><a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
+<h3 name="ch1-00-assess"><a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
 Assessing your Skills in HTML & CSS</a></h3>
 
 <h3>Additional Resources</h3>
@@ -3917,4 +3919,15 @@ to see the expressive power of JavaScript. </p>
   width="50%"
   alt="." />
 </p>
+-->
+<!-- 1-21-2024 11:45am -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- TO ADD A VIDEO LINK WITH HEIGHT, WIDTH & BORDER
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+-->
+<!-- GITHUB MARKDOWN - CHEATSHEET
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 -->
