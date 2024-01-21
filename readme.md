@@ -177,9 +177,9 @@ skills.</p>
 >### [**4.22 Vacation Destination Project: JavaScript - Part 6**](#ch4-22)
 >### [**4.23 Vacation Destination Project: JavaScript - Part 7**](#ch4-23)
 >### [**4.24 Vacation Destination Project: JavaScript - Part 8**](#ch4-24)
->	- ### [**4.24 Module 4 Reflection**](#ch4-24-reflect)
+>	- ### [**4.24 Module 4 Reflection - Basic Application Projects**](#ch4-24-reflect)
 >### [**4.25 Course Summary - JavaScript Basics**](#ch4-25)
->	- ### [**4.25 Self-Reflection**](#ch4-25-reflect)
+>	- ### [**4.25 Self-Reflection - What Next?**](#ch4-25-reflect)
 
 <h2 id="syllabus">Syllabus - what's in store?</h2>
 
