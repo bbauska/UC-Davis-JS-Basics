@@ -4000,11 +4000,72 @@ I can come over here and see that that actually runs, and I&apos;ve got both
 of my strings. One of them is lowercase, and one of them is uppercase.
 That works great. Let&apos;s see, what should we do next.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-15">2.15 Sequence -- Part 2 (5:42)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence - part 2 (2.15) (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image218.png?raw=true"
+  width="50%"
+  alt="2.15. Sequence - Part 2." />
+</p>
+
+ 
+<p>Next, we'll do some more surgery on our strengths.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+What, we're going to do first here is we're going to pull out the word ''really''. So I'm going to make a variable called reallyLocation, and I'm going to use the search method to find out where this word ''really'' in my string starts. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="Answer test, sequence part 2." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="Output test, sequence part 2." />
+</p>
+
+<p>What this is going to return is a number of that location. So let's do that first. Var 
+reallyLocation equals myString.search really. Then I'm just going to console log out 
+reallyLocation just so you see you can see exactly what that's getting. Assuming I 
+did that right and I did. That's getting a five. What that means is that if I count 
+from here 0, 1, 2, 3, 4, 5, this is character Number 5. It starting at a five. How 
+many characters do I want to get? I'm going to get six characters.</p>
+
+<p>So I'm going to use the substring function or method here, and I'm going to pass in 
+reallyLocation which is location five, and I'm going to get six characters. What that's 
+going to do is it's going to pull out into this variable, special word, the word 
+''really''. It's going to start at five from myString and get six characters.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+
+
+
 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (##) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
@@ -4016,7 +4077,7 @@ That works great. Let&apos;s see, what should we do next.
   alt="." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
