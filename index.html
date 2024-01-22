@@ -4351,7 +4351,8 @@ equals quote, quote. That&apos;s an empty string. Notice I&apos;m using just the
 single quotes here, but you could do the double-quotes if you want on my
 image there. But you could use single quotes or double quotes. I&apos;ll put
 it in double-quotes right now. There we go. It&apos;s just an empty string
-there. Then while incrementor is less than 10, I&apos;m going to do
+there.</p>
+<p>Then while incrementor is less than 10, I&apos;m going to do
 something. What I&apos;m going to do is I&apos;m going to say text plus equals,
 add to what was already there, quote, the incrementor. What did I put
 over here? I forget now, has gone up to, that&apos;s right. Then I need to
@@ -4381,7 +4382,7 @@ if this does, but I think it&apos;ll do. There we go. I don&apos;t get the new
 lines. The slash n is adding new lines over here after each one of
 these, because this is just getting printed out once. That&apos;s really
 important to understand about the way this incremented and the way the
-while loop works here.</p>p&gt;
+while loop works here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. same example, while loops (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4416,23 +4417,21 @@ variables inside strings a little bit more easily.</p>
   alt="Example, template literals." />
 </p>
 
-<p>Let&apos;s take a look at
-how to do that. Here we have the template literal, and what the template
-literal the way it works is we put a tick mark on either end. The tick
-mark is not a quote. The tick mark is a separate character on your
-keyboard. On the American keyboard, it is the character with the tilde
-just above the Tab key. That&apos;s a tick mark there and a tick mark there.
-Then we can just put the variable inside curly braces with a dollar sign
-and JavaScript will know to treat that as a variable. This is a much
+<p>Let&apos;s take a look at how to do that. Here we have the template literal, and what 
+the template literal the way it works is we put a tick mark on either end. The tick mark 
+is not a quote. The tick mark is a separate character on your keyboard. On the American 
+keyboard, it is the character with the tilde just above the Tab key. That&apos;s a tick 
+mark there and a tick mark there. Then we can just put the variable inside curly braces 
+with a dollar sign and JavaScript will know to treat that as a variable. This is a much
 more readable way of working with strings, with variables in them.</p>
-<p>This particular string is not terribly complicated or complex in any way. But
-sometimes if you&apos;re constructing a piece of HTML and you&apos;ve got tags
-and tags have their attributes in them, which have quotes and equals
-signs it can get really confusing really quickly. This will really help
-you out and we&apos;ll be using the template literals throughout the rest of
-this course quite a lot.</p>
+
+<p>This particular string is not terribly complicated or complex in any way. But sometimes 
+if you&apos;re constructing a piece of HTML and you&apos;ve got tags and tags have their 
+attributes in them, which have quotes and equals signs, it can get confusing quite 
+quickly. This will help you out and we&apos;ll be using the template literals 
+throughout the rest of this course.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, template literals (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, template literals (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image203.png?raw=true"
@@ -4441,11 +4440,11 @@ this course quite a lot.</p>
 </p>
 
 <p>Let&apos;s switch our codes that we&apos;re using this
-over here.</p>
-<p>The way we do this is, I&apos;m going to put in a tick mark there
+over here. The way we do this is, I&apos;m going to put in a tick mark there
 and at the end I&apos;m going to put in a tick mark and then I can get rid
 of these quotes and pluses. Then because this is a variable, I&apos;m going
 to put a dollar sign, a curly brace, and another curly brace.</p>
+
 <p>By the way, if you&apos;re constructing a string that has variables, this is how I
 recommend that you do it, rather than just typing from left to right,
 type it like this. The incrementor has gone up to incrementor and then
@@ -4453,41 +4452,39 @@ go in and add the dollar sign and the curly braces. You&apos;ll find it
 easier to understand what you&apos;re doing and to not make mistakes and do
 all that stuff if you do it this way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 204. test output, template literal (119) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image204.png?raw=true"
   width="50%"
-  alt="Example, template literals." />
+  alt="Test output, template literal." />
 </p>
 
-<p>But you&apos;ll notice if I do this
-and save it and then go back and run the page over here. I mean, I just
-ran it, but it looks exactly the same and I am getting my variables over
-here. That is actually working.</p>
+<p>But you&apos;ll notice if I do this and save it and then go back and run the page over 
+here. I mean, I just ran it, but it looks exactly the same and I am getting my variables 
+over here. That is actually working.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 205/206. same as before but 1-10, not 0-9 (119) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image205.png?raw=true"
   width="45%"
-  alt="Example while loop." />
+  alt="Same as last example except incrementor is 1-10, not 0-9." />
 <img src="./images/image206.png?raw=true"
   width="45%"
   alt="Test, inspect incrementor." />
 </p>
 
-<p>If you wanted to see if it was actually
-doing something different, we could start here with 1 and go to 11. See
-what that looks like. There we go, 1-10, very nice. That&apos;s great.
-We&apos;ve got the template literals.</p>
+<p>If you wanted to see if it was actually doing something different, we could start here 
+with 1 and go to 11. See what that looks like. There we go, 1-10, very nice. We&apos;ve 
+got the template literals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 207. another example, template literals (119) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image207.png?raw=true"
   width="50%"
-  alt="Example, template literals." />
+  alt="Another Example, template literals." />
 </p>
 
 <p>We&apos;re going to take a look at one more example. What&apos;s interesting 
@@ -4495,15 +4492,15 @@ here is we can actually do expressions inside our curly braces here. Rather
 than just sticking a variable in there, we can actually perform JavaScript
 operations right in line with our string.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 208/209. example/test output while incrementor using text (119) ~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image208.png?raw=true"
   width="45%"
-  alt="Example while loop." />
+  alt="Another Example using while loop." />
 <img src="./images/image209.png?raw=true"
   width="45%"
-  alt="Test, inspect incrementor." />
+  alt="Test Output, inspect incrementor." />
 </p>
 
 <p>Let&apos;s give this a try. I set
@@ -4514,6 +4511,7 @@ and the incrementor squared is i times i. But this is going to be a
 variable and so is this. This is going to be an expression. Maybe I want
 some spaces in there make that a little bit more readable. Let&apos;s go see 
 what that does. I&apos;m getting my squares over here as well.</p>
+
 <p>Loops are one of the fundamental building blocks in JavaScript. It&apos;s
 important to get comfortable with the syntax needed to create them. I
 recommend just sitting down and getting to the point where you can type
@@ -4522,7 +4520,6 @@ have to just keep working at it so you can get to the point where you
 could sit down and say, I&apos;m just going to write out a for loop and when
 you get there, then you&apos;ll know that you have the loops really down
 pat. Great, we&apos;re going to a move on to the next thing.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><h3>Additional Resource</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
@@ -4531,14 +4528,153 @@ pat. Great, we&apos;re going to a move on to the next thing.</p>
 <p><a href="https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource">https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource</a></p>
 <p><a href="https://www.w3schools.com/js/js_loop_for.asp">https://www.w3schools.com/js/js_loop_for.asp</a></p>
 
-
-</head>
-</html>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (##) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image210.png?raw=true"
+  width="50%"
+  alt="2.14. Structured Programming - Sequence - Part 1." />
+</p>
+
+
+<p>Sequence selection and loop.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 211. structured programming - sequence, selection & loop (122) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image211.png?raw=true"
+  width="50%"
+  alt="Structured Programming - sequence, selection & loop." />
+</p>
+
+<p>In this lesson, we're going to put together some of what you've already learned 
+and what you've already been doing and see if we can make some sense out of it. In 
+Structured Programming, we make use of these three structures we've already started 
+working with. Sequence, 1st, you do this, then you do that, finally, you do this 
+over here. With JavaScript, you start at the top of the script and you work your 
+way down the script and JavaScript does everything in the script one thing at a 
+time in a sequence.</p>
+
+<p>With selections, we're checking to see if some condition is met. If this is true, 
+do this, otherwise, do that. Then with loops, while a condition is true, we're going 
+to continue to do something. With the scripts that we have next, we're going to learn 
+a little bit about JavaScript string methods, while also practicing some of these 
+techniques you've already learned a little bit about with loops and selections and 
+these kinds of things. Hopefully, you'll start to see the expressive power of JavaScript.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 212. converting string to upper & lower case (123) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image212.png?raw=true"
+  width="50%"
+  alt="Converting string to upper & lower case." />
+</p>
+
+<p>Over here I have some of the different string methods you can do. To start with, 
+we're going to work with the toUpperCase() method here. We can actually take a 
+string of text, assign it to a variable, and then take that variable and do.toUpperCase, 
+and that's a method that will take that string and convert it into an uppercase string. 
+Or you can convert it to lowercase.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213. string parsing commands (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image213.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+<p>If you come to this page, you'll notice and further down the page here, but there's all 
+different things we can do with strings; to replace content, to find content, to do all 
+kinds of things with strings. We can take pieces of strings out of strings, we can perform 
+string surgery. This page is very useful to explain some of the different things that we 
+can do with strings of text. You might be wondering, well, why would I want to do anything 
+with a string of text? Why would I want to do this stuff?</p>
+
+<h4>W3schools.com/js/js_string_methods.asp</h4>
+
+<p>But if you think about it, a web page from the very first character of the web page to 
+the very last character of a web page is nothing but a string of text. If I were to right-
+click on this page and do the page source, you can see it starts with a character, and 
+down at the bottom, way, way down at the bottom, it ends with a character. This is one 
+long string of text. From that perspective, every web page is really just a string. If 
+we can do things with strings, we can affect web pages. Not that we're going to do it 
+that way very often, but you actually can do it that way, which is pretty cool.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. sequence part 1 question (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image214.png?raw=true"
+  width="50%"
+  alt="Sequence Part 1, question." />
+</p>
+
+<p>Let's go forward with this and see what we're doing here. The first thing we're going 
+to do is create a variable called myString and assign it the following string, "I'm 
+really hungry for some" and then use the console.log to print out that string. Then 
+make a new variable called myUpperString and use the string method to capitalize all 
+the text in the first string and then print out the capitalized version in the console. 
+Can you do that on your own? Try to do it using this toUpperCase string method here. 
+You can pause the video and come back and see how I did it. When you're ready, 
+unpause the video, and let's see if you got the same thing I got.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. sequence part 1, result (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image214.png?raw=true"
+  width="50%"
+  alt="Sequence Part 1, result." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216. sequence part 1, result (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image216.png?raw=true"
+  width="50%"
+  alt="Sequence Part 1, result." />
+</p>
+
+<p>Did you get something like this? I have the same thing over here in my Visual Studio 
+Code. I left out the spaces, but this is the same thing here. Created a variable 
+myString, assigned some text to it, I'm console logging that out, then make a new 
+variable called myUpperString, which is my string toUpperCase with the parenthesis. 
+This is a string method. We're going to talk about methods and functions and all 
+that in a little bit, but for right now, understand that method has these parenthesis 
+at the end. It'll take myString and convert it into uppercase, and then I can console.log 
+that out and assign it to this and console.log that out.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 217. output test, sequence part 1, result (126) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image217.png?raw=true"
+  width="50%"
+  alt="Output test, sequence part 1 result." />
+</p>
+
+<p>I can come over here and see that that actually runs, and I've got both of my strings. 
+One of them is lowercase, and one of them is uppercase. That works great. Let's see, 
+what should we do next.</p>
+
+<h2 id="ch2-15">2.15 Sequence – Part 2 (5:42)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+
+
+
+
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
@@ -4551,7 +4687,7 @@ pat. Great, we&apos;re going to a move on to the next thing.</p>
 </p>
 -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
