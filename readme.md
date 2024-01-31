@@ -574,7 +574,6 @@ Coursera Honor Code</a>.</p>
 <h2 id="ch1-00-welcome">1.00 Welcome to JavaScript Basics (1:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 1 welcome to js basics (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.png?raw=true"
   width="40%"
@@ -621,7 +620,6 @@ learning about JavaScript in the basics of the language.</p>
   width="40%"
   alt="Introduction to JavaScript - Part 1." />
 </p>
-<!-- ![](./images/image004.png){width="4.0in" height="2.261538713910761in"} -->
 
 <p>Unlike a pillbox which really can&apos;t hold much more than just pills, you can put 
 anything into an array in JavaScript.</p>
@@ -633,7 +631,6 @@ anything into an array in JavaScript.</p>
   width="50%"
   alt="Arrays in JavaScript." />
 </p>
-<!-- ![](./images/image005.png){width="5.0in" height="2.8269225721784776in"} -->
 
 <p>You can even put in an array and an array. You think about a pillbox with a sub-container 
 with even smaller divisions in it.</p>
@@ -644,7 +641,6 @@ with even smaller divisions in it.</p>
   width="50%"
   alt="Inspect console and arrays." />
 </p>
-<!-- ![](./images/image006.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>Let&apos;s take a look at what that looks like. Let me switch back over to
 my tab here. I&apos;m just going to paste this in, but you might want to
@@ -660,9 +656,6 @@ trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.</p
   width="45%"
   alt="Inspect console with array elements, #2." />
 </p>
-<!-- ![](./images/image007.png){width="3.5in" height="2.138140857392826in"}
-![](./images/image008.png){width="3.5in" height="2.138140857392826in"}
--->
 
 <p>Now if I do, if I want to access an element from this array, I could do
 vehicles, square bracket one. That&apos;s going to go and get the line that
@@ -684,7 +677,6 @@ can use to hold groups of data, and that&apos;s very useful.</p>
   width="50%"
   alt="Inspect console array element, #3." />
 </p>
-<!-- ![](./images/image009.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>Another thing that&apos;s interesting is that a regular variable holding a string can 
 be treated as an array in JavaScript. If I make a variable var joke equals the chicken 
@@ -702,7 +694,6 @@ in that string. That&apos;s kind of an interesting thing to understand about arr
   width="40%"
   alt="1.02. Introduction to JavaScript - Part 2." />
 </p>
-<!-- ![](./images/image010.png){width="4.0in" height="2.261538713910761in"} -->
 
 <p>A great place to go to find some websites that will show you the way JavaScript can 
 interact with the website is this Awwwards website with the extra w&apos;s in here.</p>
@@ -713,7 +704,6 @@ interact with the website is this Awwwards website with the extra w&apos;s in he
   width="50%"
   alt="JavaScript Interaction: awwwards.com website." />
 </p>
-<!-- ![](./images/image011.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>I have that website pulled up over here. You can come here and look through some of 
 the different sites that have won awards on <a href="https://www.awwwards.com/">
@@ -725,7 +715,6 @@ awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
   width="50%"
   alt="TapTaro example from awwwards.com website." />
 </p>
-<!-- ![](./images/image012.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>I have <a href="https://www.awwwards.com/sites/taptaro">this one</a>. Whether you&apos;re 
 talking about following the mouse, or coming over here and the animation around the circle, 
@@ -737,7 +726,6 @@ or the way these images pop in, this is all being done with JavaScript, this kin
   width="50%"
   alt="NASA example from awwwards.com website.  No longer active." />
 </p>
-<!-- ![](./images/image013.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>Then here we are in one of the NASA spacecraft website here (no longer active). Click 
 on one of these things it will come up and show you the different pictures and give you 
@@ -749,7 +737,6 @@ some other interactions including some sounds as you work around it.</p>
   width="50%"
   alt="Boyntonyards.com website from awwwards.com." />
 </p>
-<!-- ![](./images/image014.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>Or <a href="https://boyntonyards.com/">this website</a> which has some interesting 
 interactions as you&apos;re scrolling through the website.</p>
@@ -760,7 +747,6 @@ interactions as you&apos;re scrolling through the website.</p>
   width="50%"
   alt="Boyntonyards website from awwwards.com, cont'd." />
 </p>
-<!-- ![](./images/image015.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>Yeah, look around on the web and wherever you see interactions happening, whether it&apos;s 
 a map like this or all kinds of interactions are being created by JavaScript. You&apos;ve 
@@ -773,7 +759,6 @@ websites or you&apos;ve gone off and found your own.</p>
   width="50%"
   alt="Why Learn JavaScript?" />
 </p>
-<!-- ![](./images/image016.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>But let&apos;s talk about some other reasons why we should learn JavaScript.
 First of all, it&apos;s the most popular programming language in the world.</p>
@@ -799,7 +784,6 @@ place to start with programming.</p>
   width="50%"
   alt="1995 - The Beginnings of JavaScript." />
 </p>
-<!-- ![](./images/image017.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>The story of JavaScript is really interesting. It really is the story of
 an underdog who became king. JavaScript didn&apos;t start off as the most
@@ -826,7 +810,6 @@ get confused between Java and JavaScript.</p>
   width="50%"
   alt="JavaScript's rough beginnings." />
 </p>
-<!-- ![](./images/image018.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>As I said before, JavaScript had some rough beginnings. The early years
 of JavaScript were plagued by bad implementations, developers who just
@@ -841,7 +824,6 @@ as a language and its strengths as well as its weaknesses.</p>
   width="50%"
   alt="JavaScript - The Good and the Bad." />
 </p>
-<!-- ![](./images/image019.png){width="5.0in" height="3.0544870953630796in"} -->
 
 <p>He wrote a book called JavaScript: The Good Parts. It&apos;s a legendary
 book because in this book he really talks about how JavaScript has some
@@ -870,7 +852,6 @@ it was different.</p>
   width="40%"
   alt="Intro to JavaScript - Part 3." />
 </p>
-<!-- ![](./images/image020.png){width="4.0in" height="2.261538713910761in"} -->
 
 <p>It&apos;s really important to understand the development of JavaScript over
 the years, and this is because the way JavaScript is developed has
@@ -882,7 +863,6 @@ really impacted the way that we write JavaScript.</p>
   width="50%"
   alt="JavaScript Versions." />
 </p>
-<!-- ![](./images/image021.png){width="5.0in" height="2.823183508311461in"} -->
 
 <p>So having a little bit of understanding of this history is really important as you 
 learn the language. Again, I&apos;m just going to cover just the very basics, but 
@@ -946,30 +926,25 @@ learning about JavaScript as we go along here.</p>
 <h2 id="ch1-04">1.04 Tools Needed for Success</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 22. tools needed for success in learning javascript (23) ~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image022.png?raw=true"
   width="40%"
   alt="Tools needed for success in learning JavaScript." />
 </p>
-<!-- ![](./images/image022.png){width="4.0in" height="2.261538713910761in"} -->
 
 <p>Tools and skills needed for success for learning JavaScript.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 23. tools and skills needed for success (23) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image023.png?raw=true"
   width="40%"
   alt="Tools and Skills Needed for Success." />
 </p>
-<!-- ![](./images/image023.png){width="4.0in" height="2.258546587926509in"} -->
 
 <p>First, we&apos;ll talk about software and then we&apos;ll talk a little bit about hardware.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24/25. code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image024.png?raw=true"
   width="40%"
@@ -980,18 +955,11 @@ learning about JavaScript as we go along here.</p>
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. visual studio code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image026.png?raw=true"
   width="50%"
   alt="Visual Studio Code." />
 </p>
-<!--
-![](./images/image024.png){width="3.5in"
-height="1.8064632545931758in"}![](./images/image025.png){width="3.5in"
-height="1.8064632545931758in"}![](./images/image026.png){width="5.0in"
-height="2.9594017935258092in"}
--->
 
 <p>The first thing you&apos;re going to need in order to work with JavaScript and write 
 JavaScript is a good code editor, and I recommend using Visual Studio Code. Not to be 
@@ -1001,7 +969,6 @@ Linux you can get Visual Studio Code. It&apos;s a really good code editor. It&ap
 very popular these days. There are plenty of other code editors out there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27/28. atom and sublime (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image027.png?raw=true"
   width="45%"
@@ -1010,27 +977,20 @@ very popular these days. There are plenty of other code editors out there.</p>
   width="45%"
   alt="Sublime web text editor." />
 </p>
-<!-- ![](./images/image027.png){width="3.5in"
-height="2.435042650918635in"}![](./images/image028.png){width="3.5in"
-height="2.435042650918635in"}
--->
 
 <p>You could use Atom, you could use Sublime Text, even if you have Dreamweaver, you could 
 use that as a code editor.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. adobe dreamweaver (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image029.png?raw=true"
   width="50%"
   alt="Adobe's Dreamweaver Web Editor." />
-<!-- ![](./images/image029.png){width="5.0in" height="3.073718285214348in"} -->
 
 <p>Dreamweaver has a lot of other stuff built into it that you don&apos;t need, but it works 
 perfectly fine as code editor if you want to use that as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. web browser (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image030.png?raw=true"
   width="40%"
@@ -1048,12 +1008,10 @@ that browser. Do NOT use <b>IE</b> or <b>Edge</b> developed by Microsoft.
 Unless you LOVE advertisements and poor coding techniques.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. image editor - nice to have (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image031.png?raw=true"
   width="40%"
   alt="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView." />
-<!-- ![](./images/image031.png){width="4.0in" height="2.259401793525809in"} -->
 
 <p>You&apos;re also going to need an image editor. If you have access to
 Photoshop, that&apos;s great. Photoshop is fantastic for this kind of thing,
@@ -1061,12 +1019,10 @@ but if you don&apos;t have access to Photoshop, there&apos;s another one called
 GIMP, which is free.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. gimp (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image032.png?raw=true"
   width="50%"
   alt="GIMP (GNU Image Manipulation Program) image editor." />
-<!-- ![](./images/image032.png){width="5.0in" height="2.824251968503937in"} -->
 
 <p>You can go download <b>GIMP</b> and I have that pulled up here. You can actually download 
 <b>GIMP</b> for Mac or for Windows and that kind of stuff. <b>IrfanView</b> is even better 
@@ -1081,7 +1037,6 @@ necessary, but it&apos;s really nice to have.</p>
 <img src="./images/image033.png?raw=true"
   width="40%"
   alt="A Computer and Internet Access." />
-<!-- ![](./images/image033.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p>Next, you&apos;re going to need a computer and internet access. It may sound
 obvious that you&apos;re going to need internet access to do an internet
@@ -1112,7 +1067,6 @@ JavaScript.</p>
 <img src="./images/image035.png?raw=true"
   width="40%"
   alt="Keyboarding Skills." />
-<!-- ![](./images/image035.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p><b>First and foremost</b>, you need to be able to type. I mean typing with 10 fingers 
 without looking at your fingers, touch typing. And it will really help you to be able to 
@@ -1131,7 +1085,6 @@ if you don&apos;t have them already.</p>
 <img src="./images/image036.png?raw=true"
   width="40%"
   alt="File Management." />
-<!-- ![](./images/image036.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p>The <b>second</b> thing that you need is you need to be able to manage your
 files. That means when you save a file on your computer, you know where
@@ -1153,7 +1106,6 @@ be in that folder.</p>
 <img src="./images/image037.png?raw=true"
   width="40%"
   alt="Persistence." />
-<!-- ![](./images/image037.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p>The <b>third</b> thing that you need is persistence. Learning JavaScript is
 not easy. It&apos;s challenging and maybe that&apos;s true for every programming
@@ -1179,7 +1131,6 @@ progress with it, I promise.</p>
 <img src="./images/image038.png?raw=true"
   width="40%"
   alt="Logic (not math)." />
-<!-- ![](./images/image038.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p>The <b>fourth</b> skill that you need is to be good with logic. And logic
 is a learned skill. Some people are naturally very logical but it&apos;s
@@ -1195,12 +1146,10 @@ that in order to get good at JavaScript. But you do need to be good with
 logic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. html and css (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image039.png?raw=true"
   width="40%"
   alt="HTML and CSS." />
-<!-- ![](./images/image039.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p>The next thing is, you really should know HTML and CSS as well as you
 can. JavaScript manipulates the HTML and CSS that makes up the page.
@@ -1210,12 +1159,10 @@ recommend building some skills with HTML and CSS if you don&apos;t already
 have them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 40. interneting is hard: great place for learning (31) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image040.png?raw=true"
   width="40%"
   alt="Interneting is hard: a Great Place for Learning HTML &amp; CSS." />
-<!-- ![](./images/image040.png){width="4.0in" height="2.06965769903762in"} -->
 
 <p>And a good place to go is this <a href="https://internetishard.com">
 Interneting Is Hard website</a>. This is a really great tutorial. They&apos;ve got 
@@ -1227,12 +1174,10 @@ know in CSS. Well, if you&apos;ve never done any HTML and CSS at all, then maybe
 take a course in HTML and CSS before diving into JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 41. summary: learn javascript for free (32) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image041.png?raw=true"
   width="40%"
   alt="Summary: Learning JavaScript for Free." />
-<!-- ![](./images/media/image41.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>In summary, there&apos;s a low barrier for entry to this class. The software
 is free. You don&apos;t need a super fast, or super fancy computer. And
@@ -1261,22 +1206,18 @@ with JavaScript.</p>
 <h2 id="ch1-06">1.06 JavaScript Variables (6:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image042.png?raw=true"
   width="40%"
   alt="1.06. JavaScript Variables." />
-<!-- ![](./images/image042.png){width="4.0in" height="2.261538713910761in"} -->
 
 <p>JavaScript variables.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image043.png?raw=true"
   width="40%"
   alt="JavaScript variables." />
-<!-- ![](./images/media/image43.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>It&apos;s good practice when programming to write code that is as
 generalizable as possible. It allows the code to be reused and helps
@@ -1285,12 +1226,10 @@ somebody gave you a robot as a gift to do chores around your house. You
 have to teach it how to do your chores.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. washing the dishes (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image044.png?raw=true"
   width="40%"
   alt="Washing the dishes." />
-<!-- ![](./images/media/image44.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>What if you wanted to teach it to wash the dishes? That would be great.
 It will be really helpful to have a robot wash the dishes for you. But
@@ -1299,12 +1238,10 @@ house? That would be a lot of dishes and perhaps a lot of instructions.
 That wouldn&apos;t be so great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. using a variable (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image045.png?raw=true"
   width="40%"
-  alt="." />
-<!-- ![](./images/media/image45.png){width="4.0in" height="2.2508552055993003in"} -->
+  alt="Using a Variable." />
 
 <p>What we can do with a variable is that we can treat it as like a
 container, and then we can write a set of directions and pass each item
@@ -1318,12 +1255,10 @@ the items one at a time using this container. That will make your
 instructions more modular and more reusable and that&apos;s really helpful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 46. declaring a variable in javascript (35) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image046.png?raw=true"
   width="40%"
   alt="Declaring a variable in JavaScript." />
-<!-- ![](./images/media/image46.png){width="4.0in" height="2.2508552055993003in"}-->
 
 <p>There are many ways of declaring a variable in JavaScript. We&apos;ll start
 with one of the most basic ways which is using the <b>var</b> keyword
@@ -1345,12 +1280,10 @@ assigned a value of 25. Twenty-five is a number. It doesn&apos;t need to go
 inside quotes because JavaScript knows what a 25 is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. variables are case sensitive (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image047.png?raw=true"
   width="40%"
   alt="Variables are case sensitive." />
-<!-- ![](./images/media/image47.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>In JavaScript, variables are case-sensitive. They have to follow certain
 rules. For example, a variable has to start with a letter, you can&apos;t
@@ -1370,12 +1303,10 @@ because it sees that as a separate thing because there&apos;s a space in
 there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 48. reserved keywords in javascript (36) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image048.png?raw=true"
   width="50%"
   alt="Keywords in JavaScript." />
-<!-- ![](./images/media/image48.png){width="5.0in" height="2.8135684601924758in"} -->
 
 <p>Finally, there are certain keywords in JavaScript that you can use as
 names of variables like <b>new</b> is a keyword. Up here I have some of the
@@ -1396,12 +1327,10 @@ version that was released in 2015. These are all keywords that you can
 use as names for variables in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. variable rules and examples (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image049.png?raw=true"
   width="40%"
   alt="Variable rules and examples." />
-<!-- ![](./images/media/image49.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>Over on the right in this image here you&apos;ll see we have variable cat
 with lowercase c, variable cat all in uppercase letters, and variable
@@ -1418,12 +1347,10 @@ see variables that are using camel casing.</p>
 <h2 id="ch1-07">1.07. JavaScript Variables Practice -- Part 1 (7:12)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 50. javascript variables practice - part 1 (38) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image050.png?raw=true"
   width="40%"
   alt="1.07. JavaScript Variables Practice - Part 1." />
-<!-- ![](./images/media/image50.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>We&apos;ve been talking long enough about JavaScript. So now it&apos;s time to
 actually get down and write some. And I hope you&apos;re ready to do that
@@ -1433,12 +1360,10 @@ interesting things, but we&apos;ll be working with the basics now. So let&apos;s
 get started with that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 51. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image051.png?raw=true"
   width="50%"
   alt="Practice chrome inspect console." />
-<!-- ![](./images/media/image51.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>And what we can do with our browser is we can actually open just a new
 browser tab and use the console to write some JavaScript. Because
@@ -1448,23 +1373,19 @@ over here and you can create a new tab for yourself. And I&apos;m just going
 to right click and choose <b>inspect</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52. google chrome inspect console (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image052.png?raw=true"
   width="50%"
   alt="Google chrome inspect console." />
-<!-- [](./images/media/image52.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>And you have to right click on the white area, you can&apos;t right click on
 an element.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 53. inspect console right side (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image053.png?raw=true"
   width="50%"
   alt="Inspect console right side of screen." />
-<!-- ![](./images/media/image53.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>Right click on the white area and choose inspect. And that&apos;ll bring up
 the inspector in Chrome. And again, I&apos;m in Chrome. And when I do that,
@@ -1476,23 +1397,19 @@ around. So this button here will allow me to choose where I want it to
 display.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 54. inspect console docking button (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image054.png?raw=true"
   width="50%"
   alt="Inspect console docking button to bottom of screen." />
-<!-- ![](./images/media/image54.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>Right now, it&apos;s on the right but I could put it on the left or I could
 put it on the bottom. I want it on the bottom in this case.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 55. inspect console dock to bottom (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image055.png?raw=true"
   width="50%"
   alt="Inspect console dock to bottom." />
-<!-- ![](./images/media/image55.png){width="5.0in" height="3.0673075240594927in"} -->
 
 <p>Sometimes, it&apos;s helpful to tear it off entirely into a different
 window, which is this icon, but I&apos;m going to leave it down here on the
@@ -1501,24 +1418,20 @@ just giving me some information. And I&apos;m going to make this come up
 here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 56. select elements tab to highlight (41) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image056.png?raw=true"
   width="50%"
   alt="Select elements tab for HTML and CSS highlight." />
-<!-- ![](./images/media/image56.png){width="5.0in" height="3.0673075240594927in"} -->
 
 <p>And right now and on the elements tab, and I can see the HTML that is
 making up this page. And you can actually drag around on here and
 you&apos;ll see different elements of the page will get highlighted.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 57. select console tab to write js (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image057.png?raw=true"
   width="50%"
   alt="Select console tab to write JavaScript." />
-<!-- ![](./images/media/image57.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>But what I really want to do to write some JavaScript is the console. So
 click on the console. And click the garbage can to clear console screen.
@@ -1527,12 +1440,10 @@ And again, yummy is assigned to cheese, the variable cheese here, put a
 semi colon and press Enter.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. var cheese = "yummy"; (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image058.png?raw=true"
   width="50%"
   alt="var cheese = 'yummy';." />
-<!-- ![](./images/media/image58.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>Now before I do this, another thing that&apos;s useful is if this is seeming
 very small in your screen, you can use Ctrl on Windows or Cmd at Mac and
@@ -1549,12 +1460,10 @@ yummy. That comes back. That&apos;s the return value for that variable, for
 that variable name.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 59. practice chrome inspect console (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image059.png?raw=true"
   width="50%"
   alt="myNum = 5; (no var)." />
-<!-- ![](./images/media/image59.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>I&apos;m going to make a new variable. Line and assign it a value of 5. And
 I get a 5 back. That returns the value of 5. So I could make another
@@ -1565,7 +1474,6 @@ keyword. But in this case, it&apos;s fine. It actually created a variable
 called <b>myNum</b> and assigned it 5.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 60/61. without var, value is undefined (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060.png?raw=true"
   width="45%"
@@ -1574,12 +1482,6 @@ called <b>myNum</b> and assigned it 5.</p>
   width="45%"
   alt="Without the var command, value is undefined." />
 </p>
-<!--
-![](./images/media/image60.png){width="3.5in"
-height="2.150107174103237in"}
-![](./images/media/image61.png){width="3.5in"
-height="2.150107174103237in"}
--->
 
 <p>But it would be better to use the var keyword for <b>myOtherNum</b> = 6,
 that comes back undefined. And this came back with 5 because of the fact
@@ -1593,12 +1495,10 @@ if I do sum, you&apos;ll notice I get an 11 because it&apos;s doing basic
 arithmetic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 62. examples utilizing console.log (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image062.png?raw=true"
   width="50%"
   alt="Example variables utilizing console.log." />
-<!-- ![](./images/media/image62.png){width="5.0in" height="3.071581364829396in"} -->
 
 <p>I can also use a method called <b>console.log</b>. <b>Console.log</b>, and I
 could do <b>myNum, Times, MyOtherNum</b>. Semi colon, and you&apos;ll notice
@@ -1613,12 +1513,10 @@ in the console, I don&apos;t actually need to use it.</p>
 <h2 id="ch1-08">1.08 JavaScript Variables Practice -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 63. javascript variables practice - part 2 (1.08) (45) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image063.png?raw=true"
   width="40%"
   alt="1.08. JavaScript Variables Practice - Part 2." />
-<!-- ![](./images/media/image63.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>Here you can see a cleared out the console by clicking this clear thing here.</p>
 
@@ -1636,12 +1534,10 @@ in the console, I don&apos;t actually need to use it.</p>
 Refresh button up here that will actually forget everything.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 65. add number to string = string (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image065.png?raw=true"
   width="50%"
   alt="newNum + notNum = concatinated string." />
-<!-- ![](./images/media/image65.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Now I&apos;m getting the error that came back just with the Google page, but
 I can clear that here. I can actually create variables fresh that way.
@@ -1671,12 +1567,10 @@ distinction and something important to understand about the way
 JavaScript works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 66. plus operator to add or concatinate (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image066.png?raw=true"
   width="50%"
   alt="." />
-<!-- [](./images/media/image66.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Another thing to know is that the plus operator in JavaScript does
 double duty. It will add numbers together, so we can make another
@@ -1705,24 +1599,20 @@ We&apos;ll get into more detail about that as we go along.</p>
 <h2 id="ch1-09">1.09. JavaScript Variables Practice -- Part 3 (5:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 67. javascript variables practice - part 3 (1.09) (48) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image067.png?raw=true"
   width="40%"
   alt="1.09. JavaScript Variables Practice - Part 3." />
-<!-- ![](./images/media/image67.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>I&apos;m going to clear out my console here, press the clear button there,
 and then I&apos;m going to create a new variable, var myNum equals 10,
 We&apos;ll put that in there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 68. differentiating between num and string (48) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image068.png?raw=true"
   width="50%"
   alt="Differentiating between numbers and string characters." />
-<!-- ![](./images/media/image68.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Then I&apos;m going to make another variable, var, myNumAsString. I&apos;m going
 to make a variable there and we&apos;ll call it five. But that variable
@@ -1741,12 +1631,10 @@ different variables with different values. That&apos;s an important thing to
 understand about JavaScript, but they do have type associated with them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69. var empty string (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image069.png?raw=true"
   width="50%"
   alt="var empty string." />
-<!-- ![](./images/media/image69.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Let&apos;s try one more. I&apos;m going to make another variable var
 emptyString. I&apos;m going to assign it a couple of quotes, and if I do
@@ -1757,7 +1645,6 @@ of important to note that I could use single quotes or double quotes in
 JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70/71. mdn & w3schools.com (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image070.png?raw=true"
   width="45%"
@@ -1766,11 +1653,6 @@ JavaScript.</p>
   width="45%"
   alt="W3Schools.com - for learning HTML and CSS." />
 </p>
-<!--
-![](./images/media/image70.png){width="3.5in"
-height="2.1373928258967627in"}![](./images/media/image71.png){width="3.5in"
-height="2.1373928258967627in"}
--->
 
 <p>Now if you want to find out more about the type of method, you could
 come over here and just Google JavaScript typeof. The MDN will come up
@@ -1780,13 +1662,11 @@ for web technologies such as HTML and CSS and will give you a lot of
 information about different methods and different things you can use.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. console.log(typeof x) (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image072.png?raw=true"
   width="50%"
   alt="console.log(typeof x); where x is string, number, bigint, boolean, 
     undefined, null, symbol or object.  Object is object, array or date." />
-<!-- ![](./images/media/image72.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>We&apos;ll be referring a lot to the MDN throughout this course, sometimes
 the W3Schools website as well, but the MDN really is sort of the
@@ -1813,7 +1693,6 @@ and on websites.</p>
 <img src="./images/image073.png?raw=true"
   width="40%"
   alt="1.10. JavaScript Arrays - Part 1." />
-<!-- ![](./images/media/image73.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>JavaScript arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1822,7 +1701,6 @@ and on websites.</p>
 <img src="./images/image074.png?raw=true"
   width="40%"
   alt="An Array is a Container with Sub-containers." />
-<!-- ![](./images/media/image74.png){width="4.0in" height="2.4427351268591426in"} -->
 
 <p>An array is really just a container with sub-containers and it&apos;s the
 next piece of the puzzle that we need to talk about in terms of
@@ -1839,7 +1717,6 @@ week. Frequently in JavaScript, we have to deal with groups of things.</p>
 <img src="./images/image075.png?raw=true"
   width="40%"
   alt="Working with Groups." />
-<!-- ![](./images/media/image75.png){width="4.0in" height="2.4427351268591426in"} -->
 
 <p>If we go back to our robot analogy, if we&apos;re teaching our robot how to
 wash the dishes, perhaps glasses need to be handled in a certain way or
@@ -1855,7 +1732,6 @@ things with arrays.</p>
 <img src="./images/image076.png?raw=true"
   width="40%"
   alt="Creating an array in JavaScript." />
-<!-- ![](./images/media/image76.png){width="4.0in" height="2.4427351268591426in"} -->
 
 <p>Let&apos;s take a look at what that looks like. In JavaScript, we can create
 a new array in a couple of different ways. We can use the new keyword
@@ -1869,7 +1745,6 @@ actually see us create these elements.</p>
 <img src="./images/image077.png?raw=true"
   width="50%"
   alt="Example variable array in console.log." />
-<!-- ![](./images/media/image77.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>I&apos;m going to come over here and make a new tab, and choose Inspect,
 right-click and choose Inspect. Then I&apos;m going to run the console here,
@@ -1900,7 +1775,6 @@ to be aware of.</p>
 <img src="./images/image078.png?raw=true"
   width="40%"
   alt="1.11. JavaScript Arrays - Part 2." />
-<!-- ![](./images/media/image78.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>Unlike a pill box, which really can&apos;t hold much more than just pills,
 you can put anything into an array in JavaScript.</p>
@@ -1910,7 +1784,6 @@ you can put anything into an array in JavaScript.</p>
 <img src="./images/image079.png?raw=true"
   width="50%"
   alt="You can put an array within an array." />
-<!-- ![](./images/media/image79.png){width="5.0in" height="3.053419728783902in"} -->
 
 <p>You can even put in an array in array. So you think about a pillbox with
 a sub container with even smaller divisions in it. So let&apos;s take a look
@@ -1921,7 +1794,6 @@ at what that looks like.</p>
 <img src="./images/image080.png?raw=true"
   width="50%"
   alt="Example array of vehicles by make and model." />
-<!-- ![](./images/media/image80.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Let me switch back over to my tab here. And I&apos;m going to clear out this
 tab by clicking the clear button there. And I&apos;m just going to paste
@@ -1945,7 +1817,6 @@ that&apos;s very useful.</p>
 <img src="./images/image081.png?raw=true"
   width="50%"
   alt="A string variable can be treated like an array." />
-<!-- ![](./images/media/image81.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Another thing that&apos;s interesting is that a regular variable holding a
 string can be treated like an array in JavaScript. So if I make a
@@ -1964,7 +1835,6 @@ arrays as well.</p>
 <img src="./images/image082.png?raw=true"
   width="40%"
   alt="1.12. JavaScript Arrays Practice." />
-<!-- ![](./images/media/image82.png){width="4.0in" height="2.2508552055993003in"} -->
 
 <p>Let&apos;s do a little bit of practice with arrays, so I can make a new
 variable bar Animals and assign an array.</p>
@@ -1974,7 +1844,6 @@ variable bar Animals and assign an array.</p>
 <img src="./images/image083.png?raw=true"
   width="50%"
   alt="Define array; var animals = ['cat', 'dog', 'chicken'];." />
-<!-- ![](./images/media/image83.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Cat, dog, chicken and all of those animals will be in the array. So if I
 just do animals. You&apos;ll see that I get back an array with three
@@ -1986,7 +1855,6 @@ methods that you can do to arrays specifically, so if I do animals.</p>
 <img src="./images/image084.png?raw=true"
   width="50%"
   alt="Add llama with animals.push('llama');." />
-<!-- ![](./images/media/image84.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>That push llama, now there are four elements in the animals array. The
 cat, dog, chicken and the llama are all in the array.</p>
@@ -1996,7 +1864,6 @@ cat, dog, chicken and the llama are all in the array.</p>
 <img src="./images/image085.png?raw=true"
   width="50%"
   alt="Example push array method." />
-<!-- ![](./images/media/image85.png){width="5.0in" height="3.053418635170604in"} -->
 
 Remember, we can use the console log method we don&apos;t really need to
 hear in the console, but we will when we go to using file shortly. So
@@ -2014,7 +1881,6 @@ remembering that you can do that.
 <img src="./images/image086.png?raw=true"
   width="50%"
   alt="Example splice array method." />
-<!-- ![](./images/media/image86.png){width="5.0in" height="3.053418635170604in"} -->
 
 Now, what if I wanted to remove an element from the array or we could do
 animals that splice (1, 1) and that will take the dog out of the array.
@@ -2026,7 +1892,6 @@ lama,but not the dog.
 <img src="./images/image087.png?raw=true"
   width="50%"
   alt="Example push and sort array methods." />
-<!-- ![](./images/media/image87.png){width="5.0in" height="3.053418635170604in"} -->
 
 And I could do push and push the dog back into the array. Let&apos;s do
 that, animals don&apos;t push, dog and now the dog is back in the array.
@@ -2040,7 +1905,6 @@ of array methods that you can use.
 <img src="./images/image088.png?raw=true"
   width="50%"
   alt="W3schools JS array methods; toString." />
-<!-- ![](./images/media/image88.png){width="5.0in" height="3.053418635170604in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2061,7 +1925,6 @@ learning sort of the basics of JavaScript.</p>
 <img src="./images/image090.png?raw=true"
   width="50%"
   alt="Array of four animals." />
-<!-- ![](./images/media/image089.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>Here&apos;s a challenge for you, we have an array for animals here, and we
 can see that the length of the array is four but you could also find out
@@ -2155,7 +2018,6 @@ code and it's not a word processor like Microsoft Word. But I'll be using Visual
 Code throughout this course, so it might be helpful for you to use that as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 93. visual studio editor on startup (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image093.png?raw=true"
   width="50%"
@@ -2169,7 +2031,6 @@ here, but I don't have any of those editors open and I can make a new file by ju
 and choosing a new file, and that creates a new file here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image094.png?raw=true"
   width="50%"
@@ -2184,7 +2045,6 @@ structure by holding down "Shift", pressing an exclamation point, and then press
 and that will give me the basic structure for my page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image095.png?raw=true"
   width="50%"
@@ -2197,8 +2057,7 @@ and then press "Tab" and then you can come in here and give your document a name
 The title shows up in the tab in the browser. That's important. Great. I can save that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. visual studio startup screen (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
+
 <img src="./images/image096.png?raw=true"
   width="50%"
   alt="Visual Studio startup screen." />
@@ -2217,7 +2076,6 @@ back up again. That gets me some basics of getting files opened and working here
 Visual Studio Code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 97. windows users: show file extensions (67) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image097.png?raw=true"
   width="50%"
@@ -2235,7 +2093,6 @@ they cannot be more explicit about that.</p>
 <h2 id="ch2-02">2.02 Visual Studio – Part 2 (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 98. visual studio - part 2 (2.02) (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image098.png?raw=true"
   width="50%"
@@ -2246,7 +2103,6 @@ they cannot be more explicit about that.</p>
 to this file. And we can see some JavaScript actually happened here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image099.png?raw=true"
   width="50%"
@@ -2260,7 +2116,6 @@ before the closing body tag. So I'm going to make a script tag. And then it puts
 the cursor between the two, and I can move that down.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image100.png?raw=true"
   width="50%"
@@ -2277,7 +2132,6 @@ file and there's the data up here, I have to save it. I can save the file and th
 go over to Chrome over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. file open, my first script (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image101.png?raw=true"
   width="50%"
@@ -2289,7 +2143,6 @@ desktop and I can open this file. And it comes up and it doesn't really look lik
 it's just a webpage and we're not even seeing the script run.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 102. test, inspect, my first script (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image102.png?raw=true"
   width="50%"
@@ -2303,7 +2156,6 @@ want to remind ourselves exactly what we're doing. It's always good practice to 
 comments to your scripts so that when you come back to them later, you know what's going on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 103. comments with slash slash or slash, asterisk (70) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image103.png?raw=true"
   width="50%"
@@ -2319,7 +2171,6 @@ and then end comment with a star and a slash */. And then I can put a longer com
 about anything that I want and it can go multiple lines. See example in image.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104. make code larger with shift + (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image104.png?raw=true"
   width="50%"
@@ -2338,7 +2189,6 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <h2 id="ch2-03">2.03 Visual Studio – Part 3 (9:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 105. visual studio - part 3 (2.03) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image105.png?raw=true"
   width="40%"
@@ -2348,7 +2198,6 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <p>The next thing to talk about is folders and working with folders for projects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. myfile.html (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image106.png?raw=true"
   width="50%"
@@ -2362,7 +2211,6 @@ multiple JavaScript files as we get going here. But for right now this is just a
 file. That's not really very useful by itself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107/108. make folder and file (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image107.png?raw=true"
   width="45%"
@@ -2378,7 +2226,6 @@ have to be, so myProject. Then over here, close this file, and open up the sideb
 and no folder opened. I can actually open that folder, myProject.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. visual studio welcome menu (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image109.png?raw=true"
   width="50%"
@@ -2393,7 +2240,6 @@ a file in that folder and close that welcome screen.</p>
 an HTML file. I can put that in my folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. myfolder and index.hmtl (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image110.png?raw=true"
   width="50%"
@@ -2405,7 +2251,6 @@ myProject folder over here, you can see that index.html has been created in that
 folder. I can manage my whole project from here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111. blank index.html (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image111.png?raw=true"
   width="50%"
@@ -2416,7 +2261,6 @@ folder. I can manage my whole project from here.</p>
 to have some styles for my webpage, and it's going to go into that file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 112. files in myproject (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image112.png?raw=true"
   width="50%"
@@ -2447,7 +2291,6 @@ empty again. By working with this Explorer, we can create files and manage files
 projects and make sure that the files are in the correct places at all times.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 114. empty visual studio menu screen, again (76) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image114.png?raw=true"
   width="50%"
@@ -2460,7 +2303,6 @@ Gear icon down here, I can get into the Settings. I can do all things in here wi
 extensions and other things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 115. visual studio extensions and settings (76) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image115.png?raw=true"
   width="50%"
@@ -2472,7 +2314,6 @@ to make Visual Studio Code more personalized. Maybe you like this black look for
 your code editor, or perhaps you prefer a lighter theme.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116/117. atom one light theme (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image116.png?raw=true"
   width="45%"
@@ -2484,10 +2325,8 @@ your code editor, or perhaps you prefer a lighter theme.</p>
 
 <p>I installed this Extension here called Atom One Light Theme. You can click on that, 
 and currently it's disabled, but I can enable this theme.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. color theme editor (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image118.png?raw=true"
   width="50%"
@@ -2500,7 +2339,6 @@ Studio Code to customize it and make it look the way you want it to look. I go b
 to my files and here I am.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. new menu screen theme (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image119.png?raw=true"
   width="50%"
@@ -2513,7 +2351,6 @@ page. You can see here I am in myProject again for my Index file. I come over he
 and click.</p>
  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. type exclamation, then tab (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image120.png?raw=true"
   width="50%"
@@ -2532,7 +2369,6 @@ are used in JavaScript at the ends of statements. I can save that file, and then
 can come back to the browser and test it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. test, here is a heading (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image121.png?raw=true"
   width="50%"
@@ -2559,7 +2395,6 @@ scripts.</p>
 <h2 id="ch2-04">2.04 Operators, Booleans & Selection in JavaScript (8:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 122. operators, booleans & selection in javascript (2.04) (80) ~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image122.png?raw=true"
   width="40%"
@@ -2569,7 +2404,6 @@ scripts.</p>
 <p>Operators, Booleans and Selection in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. javascript operators (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image123.png?raw=true"
   width="50%"
@@ -2583,7 +2417,6 @@ There's also minus and the asterisk is used to multiply and forward slashes used
 to divide and the percent is a modules operator.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 124/125. comparison operators/bitwise operators (81) ~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image124.png?raw=true"
   width="45%"
@@ -2602,7 +2435,6 @@ of the operators are very similar to what you would find in other C-based progra
 languages. C, C++, C sharp, Objective C, and so forth.<p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. booleans in javascript (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image126.png?raw=true"
   width="50%"
@@ -2624,7 +2456,6 @@ false. Or if I change the value here from true to false, then happy would be fal
 And it would do this down here. So that gets us started with a little bit of that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. vs code editor customize (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image127.png?raw=true"
   width="50%"
@@ -2635,7 +2466,6 @@ And it would do this down here. So that gets us started with a little bit of tha
 some selections and Booleans and that kind of fun stuff.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. vs code editor, make file (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image128.png?raw=true"
   width="50%"
@@ -2648,7 +2478,6 @@ it on the desktop, and I'm going to call it selections.html. Notice all lowercas
 spaces in the dot html extension. I'm going to save that on the desktop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 129. exclamation/tab for basic structure (83) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image129.png?raw=true"
   width="50%"
@@ -2660,7 +2489,6 @@ structure for an HTML page. And then I'm going to type in here. Testing selectio
 and there we go. And then in here I'm just going to add an h1 testing selections.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. add script & two variables (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image130.png?raw=true"
   width="50%"
@@ -2674,7 +2502,6 @@ I'm going to set that to value of false. There we go. So I've got two values her
 One is set to true and the other one is set to false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. if red, then do something (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image131.png?raw=true"
   width="50%"
@@ -2688,7 +2515,6 @@ have true assigned to the red variable here. If I were to put blue in here, then
 this would not be true, in which case something else would happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 132. add else statement for false (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image132.png?raw=true"
   width="50%"
@@ -2699,7 +2525,6 @@ this would not be true, in which case something else would happen.</p>
 console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 133. test, inspect console boolean (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image133.png?raw=true"
   width="50%"
@@ -2712,7 +2537,6 @@ right click and choose inspect, I can go to the console and sure enough, the sta
 is true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 134. if blue (false) else statement (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image134.png?raw=true"
   width="50%"
@@ -2723,7 +2547,6 @@ is true.</p>
 console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 135/136. testing selections; red=true, blue=false (86) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image135.png?raw=true"
   width="45%"
@@ -2738,7 +2561,6 @@ console.log states false.</p>
 <h2 id="ch2-05">2.05 Try This! (3:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. try this! (2.05) (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image137.png?raw=true"
   width="40%"
@@ -2748,7 +2570,6 @@ console.log states false.</p>
 <p>This is interesting. Let&apos;s try this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 138/139. types of boolean = false (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image138.png?raw=true"
   width="45%"
@@ -2772,7 +2593,6 @@ or false like red and blue out here, but they could false ish. And JavaScript tr
 variables that are undefined as false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 140/141. green = null, green = 0 are both false (87) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image140.png?raw=true"
   width="45%"
@@ -2793,7 +2613,6 @@ So things that we know are false or <b>undefined</b> is false, <b>null</b> is
 false, <b>zero</b> is false. <b>False</b> is false. Other things are true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142/143. green = "cheese" is true (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image142.png?raw=true"
   width="45%"
@@ -2809,7 +2628,6 @@ about JavaScript.</p>
 <h2 id="ch2-06">2.06 Comparing Values (8:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. comparing values (2.06) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image144.png?raw=true"
   width="40%"
@@ -2819,7 +2637,6 @@ about JavaScript.</p>
 <p>Let&apos;s look at comparing values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. double equal comparison (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image145.png?raw=true"
   width="50%"
@@ -2830,7 +2647,6 @@ about JavaScript.</p>
 out if the value here is the same as the value somewhere else.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. test, mynum to othernum (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image146.png?raw=true"
   width="50%"
@@ -2846,7 +2662,6 @@ to otherNum and five is assigned to myNum. But here what I&apos;m checking
 to see is myNum the same as the otherNum. In this case it is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 147. does mynum equal othernum? true (90) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image147.png?raw=true"
   width="50%"
@@ -2857,7 +2672,6 @@ to see is myNum the same as the otherNum. In this case it is.</p>
 because myNum is the same as the otherNum.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 148/149. change number, now statement is false (90) ~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image148.png?raw=true"
   width="45%"
@@ -2872,7 +2686,6 @@ false. That&apos;s not true. So the statement is false, they&apos;re not the
 same as.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 150/151. test, exclamation equal for false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image150.png?raw=true"
   width="45%"
@@ -2894,7 +2707,6 @@ these different kinds of scenarios, <b>myNum</b> and <b>otherNum</b>. We can
 use less than and greater than and check to see if that&apos;s true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 152/153. more testing of not equal & false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image152.png?raw=true"
   width="45%"
@@ -2921,7 +2733,6 @@ something unexpected happening. You don&apos;t want unexpected things to
 happen in your programs, that&apos;s never a good thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154/155. triple equal testing (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image154.png?raw=true"
   width="45%"
@@ -2953,7 +2764,6 @@ have any type <b>coercion</b> unless you really want it for some reason.
 Again, this is an odd thing about JavaScript that you can do this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. explain undefined variables (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image156.png?raw=true"
   width="50%"
@@ -2969,7 +2779,6 @@ probably won&apos;t be surprised to see that that comes up <b>false</b>.
 That&apos;s <b>false</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 157/158. test, not a number is false (93) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image157.png?raw=true"
   width="45%"
@@ -2992,7 +2801,6 @@ testing values.</p>
 <h2 id="ch2-07">2.07 Else If (5:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. else if (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image159.png?raw=true"
   width="40%"
@@ -3002,7 +2810,6 @@ testing values.</p>
 <p>JavaScript has an Else If.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. else if examples (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image160.png?raw=true"
   width="50%"
@@ -3016,7 +2823,6 @@ the semicolon and the curly braces or the square brackets and seeing
 what happens when you get in here. Let's type this in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 161/162. example of else if with test (95) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image161.png?raw=true"
   width="45%"
@@ -3025,10 +2831,6 @@ what happens when you get in here. Let's type this in.</p>
   width="45%"
   alt="Test, example else if." />
 </p>
-
-![](./images2/media/image161.png){width="3.5in"
-height="1.896207349081365in"}![](./images2/media/image162.png){width="3.5in"
-height="1.896207349081365in"}
 
 <p>I&apos;m going to come back here and I&apos;m going to add, <b>Windows Alt Shift
 A</b>. And that will comment that. It&apos;ll put a comment around something
@@ -3079,7 +2881,6 @@ and see how they work and what they do. It&apos;s really helpful to do that.</p>
 <h2 id="ch2-08">2.08 Switch Statements (5:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. switch statements (2.08) (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image163.png?raw=true"
   width="40%"
@@ -3090,7 +2891,6 @@ and see how they work and what they do. It&apos;s really helpful to do that.</p>
 selected color and run it through a bunch of cases.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 164. switch statement with examples (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image164.png?raw=true"
   width="50%"
@@ -3105,7 +2905,6 @@ here as well. The break will bump out of this switch when one of these
 true statements comes up.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 165/166. example, switch and case statement (97) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image165.png?raw=true"
   width="45%"
@@ -3142,7 +2941,6 @@ yellow, that&apos;s coming up great.</p>
 first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. test, there was an error (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image167.png?raw=true"
   width="50%"
@@ -3167,7 +2965,6 @@ with your code in a way that&apos;s helpful and useful.</p>
 <h2 id="ch2-09">2.09 Using &amp;&amp; (6:24)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. using &amp; &amp; (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image168.png?raw=true"
   width="40%"
@@ -3178,7 +2975,6 @@ with your code in a way that&apos;s helpful and useful.</p>
 the ampersand operator, or the pipe operator.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. examples, using &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image169.png?raw=true"
   width="50%"
@@ -3189,7 +2985,6 @@ the ampersand operator, or the pipe operator.</p>
 ampersand operator, and we use two of them together here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 170. example, booleans with &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image170.png?raw=true"
   width="50%"
@@ -3204,7 +2999,6 @@ today to be a good day. If either one of these is false, then I&apos;m going
 to be grumpy.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 171. test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image171.png?raw=true"
   width="50%"
@@ -3215,7 +3009,6 @@ to be grumpy.</p>
 good idea to practice typing these.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 172/173. more test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image172.png?raw=true"
   width="45%"
@@ -3241,7 +3034,6 @@ true. If two things are true, then we can do something. If either one of
 them is false, then something else is going to have to happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 174. booleans with double pipe (or) (101) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image174.png?raw=true"
   width="50%"
@@ -3256,7 +3048,6 @@ is false. But if any one of these is true, then the if statement rings
 as true. So they would all have to be false for me to be starving.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 175. add boolean and double pipe example (101) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image175.png?raw=true"
   width="50%"
@@ -3270,7 +3061,6 @@ true, then <b>console.log(&quot;things are ok!&quot;</b>). Then down here, else
 <b>console.log(&quot;I am STARVING&quot;)</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 176. 1 or more false, therefore things are ok (102) ~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image176.png?raw=true"
   width="50%"
@@ -3307,7 +3097,6 @@ starving, so you should go eat something.</p>
 <h2 id="ch2-10">2.10 Loops (6:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. loops (2.10) (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image177.png?raw=true"
   width="40%"
@@ -3324,7 +3113,6 @@ And JavaScript, like many programming languages, will allow you to do
 <b><i>loops</i></b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. for loop (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image178.png?raw=true"
   width="50%"
@@ -3339,7 +3127,6 @@ out. So I recommend opening up your code editor and following along with
 me.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 179/180. loops.html - add incrementor to loop (105) ~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image179.png?raw=true"
   width="45%"
@@ -3383,7 +3170,6 @@ I&apos;m going to save this. And then I&apos;m going to go to the browser, okay,
 I have over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. test, incrementor loop (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image181.png?raw=true"
   width="50%"
@@ -3410,7 +3196,6 @@ these expressions and that determines whether the loop runs or not.</p>
 <h2 id="ch2-11">2.11 Working with Arrays (4:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. working with arrays (2.11) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image182.png?raw=true"
   width="40%"
@@ -3422,7 +3207,6 @@ you have an array of items, you have a group of items and you need to
 iterate over that group of items to do something to them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 183. example, working with arrays (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image183.png?raw=true"
   width="50%"
@@ -3440,7 +3224,6 @@ ignore it. We can just do it without that, and it&apos;ll work just fine.
 Remember, arrays are zero-indexed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. add array with colors (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image184.png?raw=true"
   width="50%"
@@ -3462,7 +3245,6 @@ going to give me yellow. I get incremented to three. Colors three is 0,
 no longer less than four and my loop breaks out.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. test, looping array (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image185.png?raw=true"
   width="50%"
@@ -3475,7 +3257,6 @@ times there. That&apos;s really useful. Now, generally, this is fine, this
 works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. looping using length (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image186.png?raw=true"
   width="50%"
@@ -3508,7 +3289,6 @@ the array that way.</p>
 <h2 id="ch2-12">2.12 The For..Of Loop (6:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image187.png?raw=true"
   width="40%"
@@ -3522,7 +3302,6 @@ Object.values(), or Object.entries() in combination with the for&hellip;of
 loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 188. example of the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image188.png?raw=true"
   width="50%"
@@ -3544,7 +3323,6 @@ and then it&apos;ll become olives. Let&apos;s give this a try really quickly in
 our code over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 189/190. example/test of for..of looping (111) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image189.png?raw=true"
   width="45%"
@@ -3590,7 +3368,6 @@ my <b>console.log</b> there. I can do that thing.</p>
   width="45%"
   alt="Test, output of example loop." />
 </p>
-
 <p>In fact, let&apos;s give this a try really quickly here and change this to
 myString equals here is a text. There we go. I could do it. I can do it
 this way, for var i equals 0, log i is less than myString.length i plus,
@@ -3599,7 +3376,6 @@ way. Let&apos;s see if I did it right. Sure enough, each line has a letter.
 I could do it that way, or I could even use the for of loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 194. another example of for..of loop (113) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image194.png?raw=true"
   width="50%"
@@ -3612,7 +3388,6 @@ This will give the <b>myString</b> twice.</p>
 <h2 id="ch2-13">2.13 While Loops (13:08)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. while loops (2.13) (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image195.png?raw=true"
   width="40%"
@@ -3624,7 +3399,6 @@ while we&apos;re programming with JavaScript, but they are worth knowing
 about.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. example, while loops (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image196.png?raw=true"
   width="50%"
@@ -3661,7 +3435,6 @@ seeing this. I&apos;ve got my for loop so I&apos;m just going to comment that
 stuff out. I don&apos;t really need that now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 197/198. example/test while loops in js (115) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image197.png?raw=true"
   width="45%"
@@ -3691,7 +3464,6 @@ after the loop is done. Incrementor plus. Then down here I&apos;m going to
 print the console log once with all the text in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (116) ~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image199.png?raw=true"
   width="45%"
@@ -3711,7 +3483,6 @@ important to understand about the way this incremented and the way the
 while loop works here.</p>p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. same example, while loops (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image201.png?raw=true"
   width="50%"
@@ -3736,7 +3507,6 @@ something called template literals that will allow us to work with
 variables inside strings a little bit more easily.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. example, template literals (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image202.png?raw=true"
   width="50%"
@@ -3760,7 +3530,6 @@ you out and we&apos;ll be using the template literals throughout the rest of
 this course quite a lot.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, while incrementor (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image203.png?raw=true"
   width="50%"
@@ -3781,7 +3550,6 @@ easier to understand what you&apos;re doing and to not make mistakes and do
 all that stuff if you do it this way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. test, while incrementor (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image204.png?raw=true"
   width="50%"
@@ -3794,7 +3562,6 @@ ran it, but it looks exactly the same and I am getting my variables over
 here. That is actually working.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image205.png?raw=true"
   width="45%"
@@ -3810,7 +3577,6 @@ what that looks like. There we go, 1-10, very nice. That&apos;s great.
 We&apos;ve got the template literals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. another example, while loop (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image207.png?raw=true"
   width="50%"
@@ -3823,7 +3589,6 @@ than just sticking a variable in there, we can actually perform JavaScript
 operations right in line with our string.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (120) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image208.png?raw=true"
   width="45%"
@@ -3849,23 +3614,19 @@ have to just keep working at it so you can get to the point where you
 could sit down and say, I&apos;m just going to write out a for loop and when
 you get there, then you&apos;ll know that you have the loops really down
 pat. Great, we&apos;re going to a move on to the next thing.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Additional Resource</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 Here is a resource related to these lessons:
 
 <ul id="ch2-13-loop">
   <li><a href="https://www.w3schools.com/js/js_loop_for.asp">
     2.13.JavaScript Loops (shortcut)</a></li>
 </ul>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image210.png?raw=true"
   width="40%"
@@ -3875,7 +3636,6 @@ Here is a resource related to these lessons:
 <p>Sequence, selection and loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 211. definition: structured programming (122) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image211.png?raw=true"
   width="40%"
@@ -3899,7 +3659,6 @@ with <b><i>loops</i></b> and <b><i>selections</i></b> and these kinds of things.
 to see the expressive power of JavaScript. </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 212. methods of text/string manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image212.png?raw=true"
   width="50%"
@@ -3914,7 +3673,6 @@ will take that string and convert it into an uppercase string. Or you
 can convert it to lowercase.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 213. example substr() text manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image213.png?raw=true"
   width="50%"
@@ -3943,7 +3701,6 @@ that we&apos;re going to do it that way very often, but you actually can do
 it that way, which is pretty cool.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. example, sequence part 1 (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image214.png?raw=true"
   width="50%"
@@ -3962,7 +3719,6 @@ video and come back and see how I did it. When you&apos;re ready, unpause
 the video, and let&apos;s see if you got the same thing I got.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. sequence part 1, result (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image215.png?raw=true"
   width="50%"
@@ -3970,7 +3726,6 @@ the video, and let&apos;s see if you got the same thing I got.
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 216. sequence part 1, result in script (125) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image216.png?raw=true"
   width="50%"
@@ -3999,24 +3754,19 @@ this and <b>console.log</b> that out. That works really great.</p>
 I can come over here and see that that actually runs, and I&apos;ve got both
 of my strings. One of them is lowercase, and one of them is uppercase.
 That works great. Let&apos;s see, what should we do next.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-15">2.15 Sequence -- Part 2 (5:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence - part 2 (2.15) (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image218.png?raw=true"
   width="50%"
   alt="2.15. Sequence - Part 2." />
 </p>
-
  
 <p>Next, we'll do some more surgery on our strengths.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.png?raw=true"
   width="50%"
@@ -4026,7 +3776,6 @@ That works great. Let&apos;s see, what should we do next.
 What, we're going to do first here is we're going to pull out the word ''really''. So I'm going to make a variable called reallyLocation, and I'm going to use the search method to find out where this word ''really'' in my string starts. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.png?raw=true"
   width="45%"
