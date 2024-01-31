@@ -3967,7 +3967,7 @@ the loop it's going to be pie and then it's going to be breakfast, and then it's
 lunch. We should get exactly the same results so let's go test it out to be sure. Sure enough, 
 I get the same results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-17">2.17 Loop + Selection (8:20)<?h2>
+<h2 id="ch2-17">2.17 Loop + Selection (8:20)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4223,7 +4223,7 @@ I recommend you sit down and write JavaScript because it's a little bit differen
 and it takes practice. Great. Keep working on these and get really good at the challenges 
 and I promise, you'll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-2.19 Functions in JavaScript (5:29)
+<h2 id="ch2-19">2.19 Functions in JavaScript (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 251. functions in javascript (2.19) (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4329,7 +4329,7 @@ Over here when I run my script, it says enter a whole number, 54, and then you e
 a really big number. My function is running, it's functioning, it's doing what it's 
 supposed to do, and all that code is now inside of a function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-2.20 Passing In and Returning Data (8:01)
+<h2 id="ch2-20">2.20 Passing In and Returning Data (8:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 259. passing in and returning data (2.20) (149) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4418,7 +4418,7 @@ that we can then work with within our function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. example, returning data (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image264.png?raw=true"
   width="50%"
   alt="Example, Returning Data." />
 </p>
@@ -4439,7 +4439,7 @@ these two things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265.  (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image265.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4453,10 +4453,10 @@ to the console log because that's all I've got access to at the moment.
 <!--~~~~~~~~~~~~~~~~~ 266/267.  (153) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image266.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image267.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4481,12 +4481,12 @@ something, doing something to it, and then returning the result to you so that y
 then turn it over to another machine that has its special features and does what it 
 needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-2.21 Useful Example – Step 1 (6:21)
+<h2 id="ch2-21">2.21 Useful Example – Step 1 (6:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 268. useful example - step 1 (2.21) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image268.png?raw=true"
   width="50%"
   alt="2.21. Useful Example - Step 1." />
 </p>
@@ -4496,7 +4496,7 @@ Let's take a look at a useful example.
 <!--~~~~~~~~~~~~~~~~~ 269. a useful example - generating random numbers (155) ~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image269.png?raw=true"
   width="50%"
   alt="A Useful Example - Generating Random Numbers." />
 </p>
@@ -4509,54 +4509,101 @@ a try over here on my file.
 <!--~~~~~~~~~~~~~~~~~ 270/271.  (155) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image270.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image271.png?raw=true"
   width="45%"
   alt="." />
 </p>
 
-I'm just going to console.log math with a capital M dot random (Math.random). We'll talk more about what that means in a little bit. But math random is going to generate a random number. If I go over to my browser and run it, you see that I get a number, I can keep refreshing my screen and I'll keep getting numbers. 
+I'm just going to console.log math with a capital M dot random (Math.random). We'll talk 
+more about what that means in a little bit. But math random is going to generate a random 
+number. If I go over to my browser and run it, you see that I get a number, I can keep 
+refreshing my screen and I'll keep getting numbers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image272.png?raw=true"
   width="50%"
   alt="." />
 </p>
-The numbers that I get will be from zero all the way down to 0.00000000, all the way up to almost one. You saw a minute ago I got a 9.9 something or other. It won't go all the way to one. It'll go to up to 0.999999999. But it won't go all the way to one. It could go all the way to zero, but it won't go all the way to one. But it's somewhere in there. What if I wanted random integers? What if I wanted to get a random number between say, 10 and 52 or something like that, how would I do that? I need to write a function to do that in JavaScript because the random number generator in JavaScript generates random numbers between zero and almost one. Zero inclusive, one exclusive. But if I was playing a game of cards and I had numbered my cards one through 52, and I wanted to make sure I could pick a random card, I would need to be able to pull out a 26, not as 0.35979558399127143. That's not very helpful. I need to figure that out. 
-Before we go forward with this, I should mention that the random number generator in JavaScript is not truly random. It's using an algorithm to generate the random number and it's random enough for our purposes, but it's not a truly random number. And if you're making a game that was making a program that really needed to be random, like a lottery generator or something like that, you would want to use something other than the built-in random number generator. But for our purposes is random enough. That's worth mentioning as well. 
+
+The numbers that I get will be from zero all the way down to 0.00000000, all the way up 
+to almost one. You saw a minute ago I got a 9.9 something or other. It won't go all the 
+way to one. It'll go to up to 0.999999999. But it won't go all the way to one. It could 
+go all the way to zero, but it won't go all the way to one. But it's somewhere in there. 
+What if I wanted random integers? What if I wanted to get a random number between say, 
+10 and 52 or something like that, how would I do that? I need to write a function to do 
+that in JavaScript because the random number generator in JavaScript generates random 
+numbers between zero and almost one. Zero inclusive, one exclusive. But if I was 
+playing a game of cards and I had numbered my cards one through 52, and I wanted to make 
+sure I could pick a random card, I would need to be able to pull out a 26, not as 
+0.35979558399127143. That's not very helpful. I need to figure that out. 
+
+Before we go forward with this, I should mention that the random number generator in 
+JavaScript is not truly random. It's using an algorithm to generate the random number 
+and it's random enough for our purposes, but it's not a truly random number. And if 
+you're making a game that was making a program that really needed to be random, like 
+a lottery generator or something like that, you would want to use something other 
+than the built-in random number generator. But for our purposes is random enough. 
+That's worth mentioning as well. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 273. example, useful example - step 1 (157) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image273.png?raw=true"
   width="50%"
   alt="Example, Useful Example - Step 1." />
 </p>
-Here's our first step in creating our random integer generator, is we're going to make a function called randomInt, and we're going to pass in a minimum number that we want to get, and a maximum number that we want to get in our random integer generator. 
-To start with, we need to know how many values we think we should be able to get. I'm going to make a variable called number of values (numOfValues) and it's going to take max and it's going to subtract min, and it's going to add 1 to it. Think of it like this; if I were to run this function with five and 10, if I wanted to get a random number that was between five and 10 and included five and 10, the numbers I could get are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10, and subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how this actually works. 
+
+Here's our first step in creating our random integer generator, is we're going to make 
+a function called randomInt, and we're going to pass in a minimum number that we want 
+to get, and a maximum number that we want to get in our random integer generator. 
+
+To start with, we need to know how many values we think we should be able to get. I'm 
+going to make a variable called number of values (numOfValues) and it's going to take 
+max and it's going to subtract min, and it's going to add 1 to it. Think of it like 
+this; if I were to run this function with five and 10, if I wanted to get a random 
+number that was between five and 10 and included five and 10, the numbers I could get 
+are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10, and 
+subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how 
+this actually works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 274/275.  (157) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image274.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image275.png?raw=true"
   width="45%"
   alt="." />
 </p>
-Let's go ahead and go over to our code editor and start writing this function. I'm going to make a function called randomInt, and it's going to take a min and a max. I'm going to have a variable here, var numOfValues. That's going to be the max minus the min plus 1. Then I can just console.log out this number of values just to make sure it's working right. console.log. 
-When you're working with programming, you want to do this. You want to just check everything as many places as you possibly can just to make sure you're getting what you think you're getting. NumOfValues. I'm going to console.log that out. Then down here I'm going to run this function, randomInt. Then put in a five. I'm going to put in 10. We'll see, we should get a six. That's what we should get. Let's go over and check that. Sure enough, I'm getting a six because the possible values, if I'm going to include, I'm going to say I want random numbers from 5-10. I want to include five and 10, so I could get a 5, a 6, a 7, an 8, a 9 or 10, that's six possible values. Step 1 of this is correct. Then, we'll go on from there to the next step.
-2.22 Useful Example – Steps 2-4 (6:05)
+
+Let's go ahead and go over to our code editor and start writing this function. I'm going 
+to make a function called randomInt, and it's going to take a min and a max. I'm going 
+to have a variable here, var numOfValues. That's going to be the max minus the min plus 
+1. Then I can just console.log out this number of values just to make sure it's working 
+right. console.log. 
+
+When you're working with programming, you want to do this. You want to just check 
+everything as many places as you possibly can just to make sure you're getting what you 
+think you're getting. NumOfValues. I'm going to console.log that out. Then down here I'm 
+going to run this function, randomInt. Then put in a five. I'm going to put in 10. We'll 
+see, we should get a six. That's what we should get. Let's go over and check that. Sure 
+enough, I'm getting a six because the possible values, if I'm going to include, I'm 
+going to say I want random numbers from 5-10. I want to include five and 10, so I could 
+get a 5, a 6, a 7, an 8, a 9 or 10, that's six possible values. Step 1 of this is 
+correct. Then, we'll go on from there to the next step.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-22">2.22 Useful Example – Steps 2-4 (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 276. useful example - steps 2-4 (2.22) (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image276.png?raw=true"
   width="50%"
   alt="2.22. Useful Example 2-4." />
 </p>
