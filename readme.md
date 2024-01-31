@@ -3966,7 +3966,7 @@ The first time through the loop, eachFood is going to be cheese. Then the second
 the loop it's going to be pie and then it's going to be breakfast, and then it's going to be 
 lunch. We should get exactly the same results so let's go test it out to be sure. Sure enough, 
 I get the same results.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-17">2.17 Loop + Selection (8:20)<?h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4037,6 +4037,7 @@ just do this. Save that.
   width="40%"
   alt="Test, loop + selection." />
 </p>
+
 Did I do it right? Let's see. Refresh my page here and look at that it's working. 
 That's great. Did you get something like that? That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4066,6 +4067,7 @@ variable here.
   width="50%"
   alt="Example test, Sequence, Selection & Loop." />
 </p>
+
 Let's do that really quickly over here. Frequently, students will tell me when 
 they're working through my examples they'll say, "Oh, wow, I tried it and I 
 ended up with way more code than you did. Yours is much more concise." Well, 
@@ -4077,144 +4079,223 @@ to just make sure that it still runs exactly the same way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 243. test, sequence, selection & loop (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image243.png?raw=true"
   width="50%"
   alt="Test, Sequence, Selection and Loop." />
 </p>
 
-
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
 Make sure I did that right, and I did, so that's fine. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. example, make comments (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image243.png?raw=true"
+  width="50%"
+  alt="Example, Make Comments." />
+</p>
  
-Another thing you can do that's really helpful is make comments. If you're not really sure that you can refactor something down, but then it can become less readable and it can be helpful to put comments in there to help you make sure when you come back to it later that you know what you did and that it will make sense to your future self. You can go ahead and come in here and add comments. I'll put it up here. Checking to see if the incrementor is even. Something like that will be helpful later perhaps and you could add more comments in here. As you refactoring, be sure to do that as well. 
-Once you've added your comments and refactored your code, you've done a great job at working with sequence selection and loops. We're going to get more practice with those as pretty much every script that we write will have some combination of them as we go along. Great, see you in the next lesson.
-•	2.17.JS-BasicChallenges-01thru09.pdf (download)
-https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09
+Another thing you can do that's really helpful is make comments. If you're not really 
+sure that you can refactor something down, but then it can become less readable and it 
+can be helpful to put comments in there to help you make sure when you come back to it 
+later that you know what you did and that it will make sense to your future self. You 
+can go ahead and come in here and add comments. I'll put it up here. Checking to see 
+if the incrementor is even. Something like that will be helpful later perhaps and you 
+could add more comments in here. As you refactoring, be sure to do that as well. 
+Once you've added your comments and refactored your code, you've done a great job at 
+working with sequence selection and loops. We're going to get more practice with those 
+as pretty much every script that we write will have some combination of them as we go 
+along. Great, see you in the next lesson.
 
-2.18 JavaScript Basic Challenges Introduction (5:02)
+<ul>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09">
+    2.17.JS-BasicChallenges-01thru09.pdf (download)</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-18">2.18 JavaScript Basic Challenges Introduction (5:02)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~ 245. javascript basic challenges introduction (140) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="2.18. JavaScript Basic Challenges Introduction." />
+</p>
+
+JavaScript basic challenges. This course includes a number of challenges, and these 
+challenges will help you become better at writing JavaScript and becoming a JavaScript 
+programmer. I encourage you to take the time you need to, to get good at working 
+through these challenges and to be able to do the challenges and get the correct 
+results. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. example, challenge 1 (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, Challenge 1." />
+</p>
+
+The way the challenges work is, I'll give you a challenge. This first one is fairly 
+simple. Write a script that prints out your first name on one line, your last name 
+on the next line. Very basic challenge. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
-JavaScript basic challenges. This course includes a number of challenges, and these challenges will help you become better at writing JavaScript and becoming a JavaScript programmer. I encourage you to take the time you need to, to get good at working through these challenges and to be able to do the challenges and get the correct results. 
+
+But what you should do is set up your file. I have a file set up here, and then you'll 
+come in here, and it's very normal to be, "Okay, what do I do first?" I don't even know 
+what the first thing is to do, and that's fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 248. example, challenge 1 answer (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example, Challenge 1 Answer." />
 </p>
-The way the challenges work is, I'll give you a challenge. This first one is fairly simple. Write a script that prints out your first name on one line, your last name on the next line. Very basic challenge. 
+
+You can always come over and look at the answer for the challenge will be on the next 
+slide, and you can look at that and go, "Okay, yeah, that makes sense. We did that in 
+the other lesson, I know how to do that." Then, come back and actually write that, var 
+firstName equals, "Bill", and I've forgotten what to do next, and that's normal. Go and 
+look again, if you have to. Look again and see what you need to do next, and then go 
+back and actually type it without looking at the slide. What this will do, this will 
+do a few things to really help you get good at JavaScript. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. camel with 2 humps (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Camel with 2 humps." />
 </p>
-But what you should do is set up your file. I have a file set up here, and then you'll come in here, and it's very normal to be, "Okay, what do I do first?" I don't even know what the first thing is to do, and that's fine. 
+
+First, what it'll do is it'll help you with the syntax of the language. Remember we need 
+to get over this first hump of the camel. We need to get over that first hump, which is 
+learning the syntax of the language. The way to learn the syntax of the language is to 
+type it. When you're working on this, even if you're looking at the answer and then 
+having to come in here and just remember it for a few seconds, that will help you learn 
+the syntax and get better at it over time, and I promise it will help. Over time, you'll 
+really start to be able to do these without having to look at the slides if you keep 
+working at it. Look at the answers if you have to, they're here, and then type it 
+without looking at the answer. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. example, challenge 2 (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example, Challenge 2." />
 </p>
-You can always come over and look at the answer for the challenge will be on the next slide, and you can look at that and go, "Okay, yeah, that makes sense. We did that in the other lesson, I know how to do that." Then, come back and actually write that, var firstName equals, "Bill", and I've forgotten what to do next, and that's normal. Go and look again, if you have to. Look again and see what you need to do next, and then go back and actually type it without looking at the slide. What this will do, this will do a few things to really help you get good at JavaScript. 
+
+The second thing that I'll do for you is these challenges build on each other. The second 
+challenge is a little bit of a baby step beyond the first challenge. I've designed these 
+challenges such that they build up in small baby steps like this so that over time, 
+you're taking an idea and expanding it into a larger, more complex script as you go 
+along, and that will help you with this second hump on the camel. Learning how to solve 
+problems with JavaScript. You get good at learning how to solve problems first by 
+solving very small problems in making baby steps, and these challenges, we'll help 
+you do that. 
+
+I recommend you do these challenges to the point where you can do them without looking 
+at the answers because that will really help you with the syntax and meanwhile, you're 
+building up some skill for how to take a small thing and then build on it. Now, there's 
+nothing magical about these challenges. I also recommend you come up with your own 
+challenges. Try things out. See if you can make a small thing work. If you can make that 
+small thing work, then build on it and see what other ideas you have and see if you can 
+build on those. That is a great way to learn JavaScript, and it's fun. It's fun to see 
+if you can do that kind of thing. By doing these challenges, by working through these 
+examples and by getting really good at them, you will build your skills with JavaScript.
+ 
+If you don't, you don't have to. You can continue to watch the videos and do the quizzes 
+in the videos, and you'll learn about JavaScript. But in order to actually become a 
+JavaScript programmer, you have to write JavaScript. You have to take the time to really 
+sit down and write it. Even if you're coming to JavaScript from another language like C 
+plus plus or Java, or Python or some other language and you might be thinking, oh yeah, 
+I know what loops are, and I know what if statements are, and those kinds of things. 
+I recommend you sit down and write JavaScript because it's a little bit different 
+and it takes practice. Great. Keep working on these and get really good at the challenges 
+and I promise, you'll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-First, what it'll do is it'll help you with the syntax of the language. Remember we need to get over this first hump of the camel. We need to get over that first hump, which is learning the syntax of the language. The way to learn the syntax of the language is to type it. When you're working on this, even if you're looking at the answer and then having to come in here and just remember it for a few seconds, that will help you learn the syntax and get better at it over time, and I promise it will help. Over time, you'll really start to be able to do these without having to look at the slides if you keep working at it. Look at the answers if you have to, they're here, and then type it without looking at the answer. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-The second thing that I'll do for you is these challenges build on each other. The second challenge is a little bit of a baby step beyond the first challenge. I've designed these challenges such that they build up in small baby steps like this so that over time, you're taking an idea and expanding it into a larger, more complex script as you go along, and that will help you with this second hump on the camel. Learning how to solve problems with JavaScript. You get good at learning how to solve problems first by solving very small problems in making baby steps, and these challenges, we'll help you do that. 
-I recommend you do these challenges to the point where you can do them without looking at the answers because that will really help you with the syntax and meanwhile, you're building up some skill for how to take a small thing and then build on it. Now, there's nothing magical about these challenges. I also recommend you come up with your own challenges. Try things out. See if you can make a small thing work. If you can make that small thing work, then build on it and see what other ideas you have and see if you can build on those. That is a great way to learn JavaScript, and it's fun. It's fun to see if you can do that kind of thing. By doing these challenges, by working through these examples and by getting really good at them, you will build your skills with JavaScript. If you don't, you don't have to. 
-You can continue to watch the videos and do the quizzes in the videos, and you'll learn about JavaScript. But in order to actually become a JavaScript programmer, you have to write JavaScript. You have to take the time to really sit down and write it. Even if you're coming to JavaScript from another language like C plus plus or Java, or Python or some other language and you might be thinking, oh yeah, I know what loops are, and I know what if statements are, and those kinds of things. 
-I really recommend you sit down and write JavaScript because it's a little bit different and it takes practice. Great. Keep working on these and get really good at the challenges and I promise, you'll be on the road to becoming a good JavaScript developer.
 2.19 Functions in JavaScript (5:29)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 251. functions in javascript (2.19) (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
-  alt="." />
+  alt="2.19. Functions in JavaScript." />
 </p>
+
 Functions in JavaScript. Functions are reusable sets of instructions. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 252. example reusable sets of instructions (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, Reusable Sets of Instructions." />
+</p>
+
+For example, in the sequence selection and loop exercise, you're adding a bunch of script 
+to the page and it was getting messy. There's a lot of single lines of code all piling up 
+without a lot of order, organization to them. What we can do with functions is we can 
+take that stuff, stick it inside of something that has a name, and then run that function 
+when we want to run that set of instructions. We can make functions so that they're 
+reusable, so that you can use them in multiple places within your programs, and that's 
+where functions can become very powerful. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
-For example, in the sequence selection and loop exercise, you're adding a bunch of script to the page and it was getting messy. There's a lot of single lines of code all piling up without a lot of order, organization to them. What we can do with functions is we can take that stuff, stick it inside of something that has a name, and then run that function when we want to run that set of instructions. We can make functions so that they're reusable, so that you can use them in multiple places within your programs, and that's where functions can become very powerful. 
+
+Here, I have a function called doStuff, which is going to run something similar to what 
+we did in the sequence selection and loop exercise. Let's give this a try real quick. 
+I'm going to switch over to my code editor over here. You can see, I've already set up a 
+file and I recommend you do the same. It just needs to notify within each one, and I've 
+got a script here, and I've got some of the script from our sequence selection and loop 
+exercise. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
-Here, I have a function called doStuff, which is going to run something similar to what we did in the sequence selection and loop exercise. Let's give this a try real quick. I'm going to switch over to my code editor over here. You can see, I've already set up a file and I recommend you do the same. It just needs to notify within each one, and I've got a script here, and I've got some of the script from our sequence selection and loop exercise. 
+
+Now, I'm going to add a function. To do that, I would just define a function here. 
+Function is the function keyword doStuff, parentheses and curly braces. Now, this stuff 
+can just go inside the curly braces, like that. Then you have to run the function 
+doStuff. We define the function which tells it what it does, then we invoke or call or 
+run the function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
-Now, I'm going to add a function. To do that, I would just define a function here. Function is the function keyword doStuff, parentheses and curly braces. Now, this stuff can just go inside the curly braces, like that. Then you have to run the function doStuff. We define the function which tells it what it does, then we invoke or call or run the function. 
+
+Any of those verbs will do: invoke, call or run. I can save that and I can come over to 
+my pagers, and this is that same page, and I can run this, and you can see that the 
+function runs and it does its thing. It's very normal when you start doing this, and 
+sometimes I still do it to forget to call the function, which will mean that you'll get 
+nothing, because it'll be defined but it won't actually run. I have to run doStuff. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 256/257.  (147) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-Any of those verbs will do: invoke, call or run. I can save that and I can come over to my pagers, and this is that same page, and I can run this, and you can see that the function runs and it does its thing. It's very normal when you start doing this, and sometimes I still do it to forget to call the function, which will mean that you'll get nothing, because it'll be defined but it won't actually run. I have to run doStuff. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="45%"
@@ -4224,63 +4305,153 @@ Any of those verbs will do: invoke, call or run. I can save that and I can come 
   alt="." />
 </p>
 
-We'll run that function. I went and got challenge number 7 and I have it over here, so here's challenge number 7. How would I take that and turn it into a function? Well, I could do it like this; I could take all of this stuff and I can come over here, and I can go ahead and just paste it right on my page here, right in my file down here at the bottom. I'm going to just paste it on in there. 
+We'll run that function. I went and got challenge number 7 and I have it over here, so 
+here's challenge number 7. How would I take that and turn it into a function? Well, I 
+could do it like this; I could take all of this stuff and I can come over here, and I 
+can go ahead and just paste it right on my page here, right in my file down here at the 
+bottom. I'm going to just paste it on in there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258.  (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
-But I'm going to make a new function. What is this thing doing? Well, it's checking a number. I'm going to make a function called checkNum, parentheses, curly braces, like so. Then I'm going to take this stuff, I'm going to stick it inside of checkNum, tab that in. It's clear that this curly brace is ending that curly brace and everything is inside. It's always good to be clear about your indenting if you possibly can, it really does help. Then down here, I'm going to run checkNum, and let's see what happens. Over here when I run my script, it says enter a whole number, 54, and then you entered a really big number. My function is running, it's functioning, it's doing what it's supposed to do, and all that code is now inside of a function.
+
+But I'm going to make a new function. What is this thing doing? Well, it's checking a 
+number. I'm going to make a function called checkNum, parentheses, curly braces, like 
+so. Then I'm going to take this stuff, I'm going to stick it inside of checkNum, tab 
+that in. It's clear that this curly brace is ending that curly brace and everything 
+is inside. It's always good to be clear about your indenting if you possibly can, it 
+really does help. Then down here, I'm going to run checkNum, and let's see what happens. 
+Over here when I run my script, it says enter a whole number, 54, and then you entered 
+a really big number. My function is running, it's functioning, it's doing what it's 
+supposed to do, and all that code is now inside of a function.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 2.20 Passing In and Returning Data (8:01)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 259. passing in and returning data (2.20) (149) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="2.20. Passing In and Returning Data." />
+</p>
+
+Functions are even more useful if you can pass data into them, so they can do something 
+with that data. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. example, passing in data (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, Passing in Data." />
+</p>
+
+So for example, our first do something message, the first do something function wasn't 
+really useful because it was just taking that string, and making it uppercase, and then 
+spitting it back out again. But we could make it more useful by passing in a message 
+variable, a parameter, this function has a parameter called message. We could pass in 
+a messages and argument to this function, and it will take any message, and make it 
+uppercase, and console log it out. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. function uppermessage (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="function upperMessage()." />
+</p>
+So let's give that a try and see what that does. I'm going to make a function, function 
+upperMessage, let's do that then, upperMessage, that doesn't matter really what you 
+call it. And then I'm going to take message and I'm going to say, var upperMessage = 
+message.toUpperCase. And then I'm just going to console log out, upperMessage. 	
+
+Now when I run this, I run upperMessage, but I pass in, here is a message. I can pass 
+any message in that I want and it will make it uppercase. Still not super interesting, 
+but it's something that shows us how this actually works.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. test, here  is a message (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Test, HERE IS A MESSAGE." />
+</p>
+
+So over here when I run this, my message is turned into uppercase because that's what 
+that function does. It takes some data and does something to it. And beyond that, we 
+could do something like add numbers together. Again, not super exciting, but we could 
+pass in two parameters here. On number one and on number two, we could add them together 
+and then console log them out. And you would run this by using addNums, and you would 
+pass in whatever two numbers you want to add there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 263/264. function addnums, test addnums (151) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="Function addNums." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="Test, addNums." />
+</p>
+
+Let's give it a try real quick. Function addNums. We're going to pass in num1 and num2. 
+I like putting these extra spaces in here even though that's kind of not the standard, 
+but I think it makes it easier to read for me. All right, so I'm going to make var sum = 
+num1 + num2. In here, we're using the plus sign to actually do addition, that's what we 
+want it to do. And then I'm going to console.log sum. 
+
+Meanwhile, I'm going to comment that out so we don't get that running as well. And then 
+down here, I just need to run it with whatever numbers I want to add, addNums, 329, 419. 
+Sure, you could  probably do that in your head fairly quickly. But why bother? We can 
+have JavaScript do it for us, right? So, if we're going to learn how to do this 
+
+JavaScript stuff, it might as well do something useful, like add those numbers together 
+to get 728. Maybe not super useful, but you get the idea. And that's a really powerful 
+thing about JavaScript is we can pass in the passing data through these variables here, 
+that we can then work with within our function. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. example, returning data (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, Returning Data." />
+</p>
+
+The next thing to talk about is returning data. So far our functions have just done one 
+thing, they've printed out to the console log, because that's really all we have for 
+right now. We will be doing more interesting things, I promise. But for right now, what 
+we have is to print out to the console log. 
+
+But we can make functions that return something. And that in this case, it looks subtle. 
+The difference is subtle because in the end, what we have is the console. So we're 
+printing to the console. But here I've updated my function, I'm calling it return sum. 
+And instead of just printing to the console, and returning the sum of these two numbers, 
+and then I can console log that out. Again, it's just going to the console, so the end 
+result isn't all that different. But there is a subtle but important difference between 
+these two things. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265.  (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
-Functions are even more useful if you can pass data into them, so they can do something with that data. 
+
+Let's do this quickly. I'm going to come over here and I'm going to copy my addNumbs 
+function, and paste it, comment that previous code out for a moment. And instead call 
+this, returnSum, num1, num2. But instead of console logging it out, I'm going to return 
+it as a variable, sum. So its going to return the value here. And then it's just going 
+to the console log because that's all I've got access to at the moment. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 266/267.  (153) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-So for example, our first do something message, the first do something function wasn't really useful because it was just taking that string, and making it uppercase, and then spitting it back out again. But we could make it more useful by passing in a message variable, a parameter, this function has a parameter called message. We could pass in a messages and argument to this function, and it will take any message, and make it uppercase, and console log it out. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-So let's give that a try and see what that does. I'm going to make a function, function upperMessage, let's do that then, upperMessage, that doesn't matter really what you call it. And then I'm going to take message and I'm going to say, var upperMessage = message.toUpperCase. And then I'm just going to console log out, upperMessage. 	
-Now when I run this, I run upperMessage, but I pass in, here is a message. I can pass any message in that I want and it will make it uppercase. Still not super interesting, but it's something that shows us how this actually works.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-So over here when I run this, my message is turned into uppercase because that's what that function does. It takes some data and does something to it. And beyond that, we could do something like add numbers together. Again, not super exciting, but we could pass in two parameters here. On number one and on number two, we could add them together and then console log them out. And you would run this by using addNums, and you would pass in whatever two numbers you want to add there. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="45%"
@@ -4290,57 +4461,206 @@ So over here when I run this, my message is turned into uppercase because that's
   alt="." />
 </p>
 
-Let's give it a try real quick. Function addNums. We're going to pass in num1 and num2. I like putting these extra spaces in here even though that's kind of not the standard, but I think it makes it easier to read for me. All right, so I'm going to make var sum = num1 + num2. In here, we're using the plus sign to actually do addition, that's what we want it to do. And then I'm going to console.log sum. 
-Meanwhile, I'm going to comment that out so we don't get that running as well. And then down here, I just need to run it with whatever numbers I want to add, addNums, 329, 419. Sure, you could  probably do that in your head fairly quickly. But why bother? We can have JavaScript do it for us, right? So, if we're going to learn how to do this JavaScript stuff, it might as well do something useful, like add those numbers together to get 728. Maybe not super useful, but you get the idea. And that's a really powerful thing about JavaScript is we can pass in the passing data through these variables here, that we can then work with within our function. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-The next thing to talk about is returning data. So far our functions have just done one thing, they've printed out to the console log, because that's really all we have for right now. We will be doing more interesting things, I promise. But for right now, what we have is to print out to the console log. 
-But we can make functions that return something. And that in this case, it looks subtle. The difference is subtle because in the end, what we have is the console. So we're printing to the console. But here I've updated my function, I'm calling it return sum. And instead of just printing to the console, and returning the sum of these two numbers, and then I can console log that out. Again, it's just going to the console, so the end result isn't all that different. But there is a subtle but important difference between these two things. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="50%"
-  alt="." />
-</p>
-Let's do this quickly. I'm going to come over here and I'm going to copy my addNumbs function, and paste it, comment that previous code out for a moment. And instead call this, returnSum, num1, num2. But instead of console logging it out, I'm going to return it as a variable, sum. So its going to return the value here. And then it's just going to the console log because that's all I've got access to at the moment. 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
-  width="45%"
-  alt="." />
-<img src="./images/imageXXX.png?raw=true"
-  width="45%"
-  alt="." />
-</p>
+We'll be doing more stuff later. And I can run inside the console.log, returnSum and I 
+can put a 3 and a, 5 in there, whatever. And you'll see, when I run this, Over here, 
+assuming I typed that all right. Then, in fact, they get an eight, and it's still going 
+to the console. 
 
-We'll be doing more stuff later. And I can run inside the console.log, returnSum and I can put a 3 and a, 5 in there, whatever. And you'll see, when I run this, Over here, assuming I typed that all right. Then, in fact, they get an eight, and it's still going to the console. 
-So you might wonder, well, what's the big deal here? What's the difference here between returning the sum and just having it print out the finished thing here? The analogy that I like to use is one, where you're washing your clothes. If you happen to have a washer and a dryer, you have two machines and those machines work together. So you put your dirty clothes in the washing machine. So you're feeding it in dirty clothes, dirty laundry, and you're putting in soap and you're putting in water in the washing machine, agitates it all, and runs it all together. And what it returns to you are clean, wet clothes, which you then put into a dryer, and the dryer will then do its function which will tumble the clothes with air, hot air maybe, and then returned to you clean, dry clothes. So you can think of returning as a machine doing something and processing something, doing something to it, and then returning the result to you so that you can then turn it over to another machine that has its special features and does what it needs to do.
+So you might wonder, well, what's the big deal here? What's the difference here between 
+returning the sum and just having it print out the finished thing here? The analogy that 
+
+I like to use is one, where you're washing your clothes. If you happen to have a washer 
+and a dryer, you have two machines and those machines work together. So you put your 
+dirty clothes in the washing machine. So you're feeding it in dirty clothes, dirty 
+laundry, and you're putting in soap and you're putting in water in the washing machine, 
+agitates it all, and runs it all together. And what it returns to you are clean, wet 
+clothes, which you then put into a dryer, and the dryer will then do its function which 
+will tumble the clothes with air, hot air maybe, and then returned to you clean, dry 
+clothes. So you can think of returning as a machine doing something and processing 
+something, doing something to it, and then returning the result to you so that you can 
+then turn it over to another machine that has its special features and does what it 
+needs to do.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 2.21 Useful Example – Step 1 (6:21)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 268. useful example - step 1 (2.21) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
-  alt="." />
+  alt="2.21. Useful Example - Step 1." />
 </p>
 
 Let's take a look at a useful example. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 269. a useful example - generating random numbers (155) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="A Useful Example - Generating Random Numbers." />
+</p>
+
+This will show us something that a function can do for us in JavaScript right now, and 
+that we could use in some programs that we write. That is for generating random numbers. 
+Try this out. JavaScript has a random number generator, and I'm going to just give this 
+a try over here on my file. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 270/271.  (155) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+
+I'm just going to console.log math with a capital M dot random (Math.random). We'll talk more about what that means in a little bit. But math random is going to generate a random number. If I go over to my browser and run it, you see that I get a number, I can keep refreshing my screen and I'll keep getting numbers. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The numbers that I get will be from zero all the way down to 0.00000000, all the way up to almost one. You saw a minute ago I got a 9.9 something or other. It won't go all the way to one. It'll go to up to 0.999999999. But it won't go all the way to one. It could go all the way to zero, but it won't go all the way to one. But it's somewhere in there. What if I wanted random integers? What if I wanted to get a random number between say, 10 and 52 or something like that, how would I do that? I need to write a function to do that in JavaScript because the random number generator in JavaScript generates random numbers between zero and almost one. Zero inclusive, one exclusive. But if I was playing a game of cards and I had numbered my cards one through 52, and I wanted to make sure I could pick a random card, I would need to be able to pull out a 26, not as 0.35979558399127143. That's not very helpful. I need to figure that out. 
+Before we go forward with this, I should mention that the random number generator in JavaScript is not truly random. It's using an algorithm to generate the random number and it's random enough for our purposes, but it's not a truly random number. And if you're making a game that was making a program that really needed to be random, like a lottery generator or something like that, you would want to use something other than the built-in random number generator. But for our purposes is random enough. That's worth mentioning as well. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 273. example, useful example - step 1 (157) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, Useful Example - Step 1." />
+</p>
+Here's our first step in creating our random integer generator, is we're going to make a function called randomInt, and we're going to pass in a minimum number that we want to get, and a maximum number that we want to get in our random integer generator. 
+To start with, we need to know how many values we think we should be able to get. I'm going to make a variable called number of values (numOfValues) and it's going to take max and it's going to subtract min, and it's going to add 1 to it. Think of it like this; if I were to run this function with five and 10, if I wanted to get a random number that was between five and 10 and included five and 10, the numbers I could get are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10, and subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how this actually works. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 274/275.  (157) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Let's go ahead and go over to our code editor and start writing this function. I'm going to make a function called randomInt, and it's going to take a min and a max. I'm going to have a variable here, var numOfValues. That's going to be the max minus the min plus 1. Then I can just console.log out this number of values just to make sure it's working right. console.log. 
+When you're working with programming, you want to do this. You want to just check everything as many places as you possibly can just to make sure you're getting what you think you're getting. NumOfValues. I'm going to console.log that out. Then down here I'm going to run this function, randomInt. Then put in a five. I'm going to put in 10. We'll see, we should get a six. That's what we should get. Let's go over and check that. Sure enough, I'm getting a six because the possible values, if I'm going to include, I'm going to say I want random numbers from 5-10. I want to include five and 10, so I could get a 5, a 6, a 7, an 8, a 9 or 10, that's six possible values. Step 1 of this is correct. Then, we'll go on from there to the next step.
+2.22 Useful Example – Steps 2-4 (6:05)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 276. useful example - steps 2-4 (2.22) (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="2.22. Useful Example 2-4." />
+</p>
+In the second step for a random integer generator, I'm going to actually generate my random number. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. useful example - step 2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Useful Example - Step 2." />
+</p>
+RandomNum here is going to be between zero and one. I'm going to take that and multiply it by the number of values and see what I get. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 278/279.  (159) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Let's go ahead and add this to our function over here. We've got that in there, we can get rid of this. We know that that's working, so we know that's all good. But now I'm going to get var randomNum and have that equal Math.random. That's going to generate my random number. Then I'm going to say randomVal. I'm going to take var randomVal and have that equal randomNum times number of values. Let's just see what that gets us. console.log (randomVal).
+Let's go over here and run that. Now, that's getting me numbers that are between zero and six. It won't go all the way up to six. It will get me to five point something other, but it won't go all the way up to six, and that's interesting. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 280/281.  (159) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Let's see what we need to do next. Next, I'm going to use the Math.floor method to round down my random number. Now, that should get me a whole number between zero and five. I'm going to use the Math.floor and pass in this random value here. This is my number with all the decimal points. 
+
+Let's give that a try over here. I'm going to get rid of this console.log, I don't really need that one anymore. But instead, I'm going to do var roundedRandomVal. A long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, will round it up, short for ceiling, if that makes sense. Then I'm going to pass in their randomVal. Once again, just to see what my progress is, I'm going to console.log (roundedRandomVal). You saw I didn't have to actually type that, I just press tab because it came up in Visual Studio code. That will prevent me from getting these long variable names wrong. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. useful example - step 4 (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Useful Example - Step 4." />
+</p>
+Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 5-10, they're between zero and 5. Now, what we can do next is we can get our final number, and we're going to take the min and add it to that randomVal. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 283/284.  (160) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+For example, if our random number gave us a zero and we add five to it, we'll get a five. If we got a one and we add five to it, we'll get a six, all the way up to 10. So that will give us our random numbers between five and 10 if we add the min value to this final number here. Let's go ahead and add that in there and see what we get. Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come back and check it, and you can see now I'm getting random numbers that can go as high as 10 and as low as five, and our random number generator is actually working, which is great.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+2.23 Useful Example – Step 5
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 285. useful example - step 5 (2.23) (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="2.23. Useful Example - Step 5." />
+</p>
+In the next step, we're going to make our random number generator, our random integer generator a little bit more useful. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+We can generate random numbers, but the only thing we can do with these random numbers is see them pop up in the console, which is really not very useful. If I wanted to actually take this generated number and do something with it, I can't. All this function does currently is print out to the console. What we could do instead, is we could return the final number. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 287/288.  (162) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Here, now we can return the final number and we could actually use this function somewhere useful. For example, if I had an array var foods equals square bracket cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine. We could add more things to the list. But if I wanted to randomly get an element from this array, because randomInt returns a number, I know this starts with zero, 0, 1, 2, 3, so I want a random number from 0-3 in this case. 
+So I could come down here and I could say console.log. Let's say foods square brackets, and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is going to be, because it returns final number, it's going to be a zero, a one, a two, or a three. So console.log foods randomInt, 0, 3 is going to go into the array and get me either a cheese, a chicken, or grapes, or hamburgers. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 289.  (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image289.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I got grapes, and then I got chicken.. I can actually use my random number generator to actually do something with another program. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
@@ -4349,56 +4669,58 @@ Let's take a look at a useful example.
   width="50%"
   alt="." />
 </p>
-
-This will show us something that a function can do for us in JavaScript right now, and that we could use in some programs that we write. That is for generating random numbers. Try this out. JavaScript has a random number generator, and I'm going to just give this a try over here on my file. 
-  
-I'm just going to console.log math with a capital M dot random (Math.random). We'll talk more about what that means in a little bit. But math random is going to generate a random number. If I go over to my browser and run it, you see that I get a number, I can keep refreshing my screen and I'll keep getting numbers. 
- 
-The numbers that I get will be from zero all the way down to 0.00000000, all the way up to almost one. You saw a minute ago I got a 9.9 something or other. It won't go all the way to one. It'll go to up to 0.999999999. But it won't go all the way to one. It could go all the way to zero, but it won't go all the way to one. But it's somewhere in there. What if I wanted random integers? What if I wanted to get a random number between say, 10 and 52 or something like that, how would I do that? I need to write a function to do that in JavaScript because the random number generator in JavaScript generates random numbers between zero and almost one. Zero inclusive, one exclusive. But if I was playing a game of cards and I had numbered my cards one through 52, and I wanted to make sure I could pick a random card, I would need to be able to pull out a 26, not as 0.35979558399127143. That's not very helpful. I need to figure that out. 
-Before we go forward with this, I should mention that the random number generator in JavaScript is not truly random. It's using an algorithm to generate the random number and it's random enough for our purposes, but it's not a truly random number. And if you're making a game that was making a program that really needed to be random, like a lottery generator or something like that, you would want to use something other than the built-in random number generator. But for our purposes is random enough. That's worth mentioning as well. 
- 
-Here's our first step in creating our random integer generator, is we're going to make a function called randomInt, and we're going to pass in a minimum number that we want to get, and a maximum number that we want to get in our random integer generator. 
-To start with, we need to know how many values we think we should be able to get. I'm going to make a variable called number of values (numOfValues) and it's going to take max and it's going to subtract min, and it's going to add 1 to it. Think of it like this; if I were to run this function with five and 10, if I wanted to get a random number that was between five and 10 and included five and 10, the numbers I could get are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10, and subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how this actually works. 
-   
-Let's go ahead and go over to our code editor and start writing this function. I'm going to make a function called randomInt, and it's going to take a min and a max. I'm going to have a variable here, var numOfValues. That's going to be the max minus the min plus 1. Then I can just console.log out this number of values just to make sure it's working right. console.log. 
-When you're working with programming, you want to do this. You want to just check everything as many places as you possibly can just to make sure you're getting what you think you're getting. NumOfValues. I'm going to console.log that out. Then down here I'm going to run this function, randomInt. Then put in a five. I'm going to put in 10. We'll see, we should get a six. That's what we should get. Let's go over and check that. Sure enough, I'm getting a six because the possible values, if I'm going to include, I'm going to say I want random numbers from 5-10. I want to include five and 10, so I could get a 5, a 6, a 7, an 8, a 9 or 10, that's six possible values. Step 1 of this is correct. Then, we'll go on from there to the next step.
-2.22 Useful Example – Steps 2-4 (6:05)
- 
-In the second step for a random integer generator, I'm going to actually generate my random number. 
- 
-RandomNum here is going to be between zero and one. I'm going to take that and multiply it by the number of values and see what I get. 
-   
-Let's go ahead and add this to our function over here. We've got that in there, we can get rid of this. We know that that's working, so we know that's all good. But now I'm going to get var randomNum and have that equal Math.random. That's going to generate my random number. Then I'm going to say randomVal. I'm going to take var randomVal and have that equal randomNum times number of values. Let's just see what that gets us. console.log (randomVal).
-Let's go over here and run that. Now, that's getting me numbers that are between zero and six. It won't go all the way up to six. It will get me to five point something other, but it won't go all the way up to six, and that's interesting. 
-   
-Let's see what we need to do next. Next, I'm going to use the Math.floor method to round down my random number. Now, that should get me a whole number between zero and five. I'm going to use the Math.floor and pass in this random value here. This is my number with all the decimal points. 
-Let's give that a try over here. I'm going to get rid of this console.log, I don't really need that one anymore. But instead, I'm going to do var roundedRandomVal. A long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, will round it up, short for ceiling, if that makes sense. Then I'm going to pass in their randomVal. Once again, just to see what my progress is, I'm going to console.log (roundedRandomVal). You saw I didn't have to actually type that, I just press tab because it came up in Visual Studio code. That will prevent me from getting these long variable names wrong. 
- 
-Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 5-10, they're between zero and 5. Now, what we can do next is we can get our final number, and we're going to take the min and add it to that randomVal. 
-   
-For example, if our random number gave us a zero and we add five to it, we'll get a five. If we got a one and we add five to it, we'll get a six, all the way up to 10. So that will give us our random numbers between five and 10 if we add the min value to this final number here. Let's go ahead and add that in there and see what we get. Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come back and check it, and you can see now I'm getting random numbers that can go as high as 10 and as low as five, and our random number generator is actually working, which is great.
-2.23 Useful Example – Step 5
- 
-In the next step, we're going to make our random number generator, our random integer generator a little bit more useful. 
- 
-We can generate random numbers, but the only thing we can do with these random numbers is see them pop up in the console, which is really not very useful. If I wanted to actually take this generated number and do something with it, I can't. All this function does currently is print out to the console. What we could do instead, is we could return the final number. 
-  
-Here, now we can return the final number and we could actually use this function somewhere useful. For example, if I had an array var foods equals square bracket cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine. We could add more things to the list. But if I wanted to randomly get an element from this array, because randomInt returns a number, I know this starts with zero, 0, 1, 2, 3, so I want a random number from 0-3 in this case. 
-So I could come down here and I could say console.log. Let's say foods square brackets, and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is going to be, because it returns final number, it's going to be a zero, a one, a two, or a three. So console.log foods randomInt, 0, 3 is going to go into the array and get me either a cheese, a chicken, or grapes, or hamburgers. 
- 
-Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I got grapes, and then I got chicken.. I can actually use my random number generator to actually do something with another program. 
- 
 You can think of this randomInt, because this thing returns a random number, I can use that within my tool here to get something out of this array. 
 Going back to the washing machine and dryer example, this is my washing machine. It's returning to me a processed number that I can then use with foods to do something. I don't know. It's not that interesting, but it's a little bit more interesting than what we've been doing so far. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
  
 One last thing to look at and think about for this is that this function is pretty long. We could refactor it. What we want to return is really this Math.floor randomVal. I'm going to take that, I'm going to stick it down here. Did I select that right? There we go. I'm going to return ran, I'm going to do that. I'm going to put that in its own set of parentheses, max-min times my Math.random. I'm going to do that, and then outside of this, I'm going to add plus min. I'm going to take Math.floor. I'm going to take my max, subtract my min, and add 1. Multiply that by Math.random. I'm going to round that down and add min. Let's see if I did that right. Over here, if I run this again, I am still getting my items here. This is a shortened version of all of this stuff. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
 Now, you might look at this and go, "Well, I don't really understand what's going on here." That's a great place for a comment. Here you could say something like, "Creating a random integer from min and max." Or you can put a more explicit statement in here. Sometimes taking a big chunk of code and reducing it down to one line can be difficult to understand exactly what it's doing later. But in this case, I like it. Because if you were to go looking around on the web for a random integer generator for JavaScript, you'll get functions that look like this. You'll find them on Stack Overflow and other places. Sometimes these one-line statements where everything is reduced down become very difficult to read and understand exactly what they're doing. That allows us to create a random integer generator that we then refactor down into one line of code. But by walking through the steps, you could see each step along the way and how that actually worked.
 2.24 More on Functions (10:00)
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
 We have a few more things to talk about in terms of functions before we're done with this lesson. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
 The next thing is, that functions in JavaScript can be anonymous. One of the important things to understand about the way functions work in JavaScript, is that, functions are first-class citizens in JavaScript. Which means, you can assign a function to a variable, the way you could assign a string to a variable or a number to a variable. In fact, you can use a function wherever you can use data in JavaScript, and it's one of the very powerful features of JavaScript. 
 If you'll recall, we talked earlier about the fact that JavaScript has some features that are really best in class features, for any programming language, and this is one of them. This is really a very powerful feature of JavaScript. You can actually assign a function to a variable, and that function doesn't have to have a name. It can be nameless, it can be anonymous. There are times when this is very useful, especially if you're making a function that's really only going to be used once or in one context. Then, there's really not a reason to create a named function if you're not going to use that name over and over and over again are in different places in your script. Function expressions are useful for that. They're useful for other things as we get into more sophisticated JavaScript. For right now, I just want you to be aware of what they are. We won't be using them much for a while, but eventually, you'll be using function expressions if you keep working with JavaScript. 
 
@@ -4413,26 +4735,820 @@ Produces this anonomous unnamed function assigned to the variable greeting.
 Let's actually see what this looks like in our code over here. I'm going to come over to my editor here and I'm going to leave that, that's all fine. I'm going to make a variable called "greeting" and I'm going to assign it a function. You'll see that this function doesn't have a name, it's just an anonymous function, and we could do whatever we want in here. I'm going to just for right now, just do console.log " hello from the function". My slide has something a little bit more sophisticated down there, but for right now, this will just do for us, just to see what this does. 
 Then, in order to call this function again, remember we have to invoke the function, we have to call it or run it. I run "greeting" as if it were a function, which seems weird, but that's the way it works in JavaScript. Greeting parentheses. We run that like a function. 
 Now, if I come over to my console over here and run this, I'm getting "hamburgers" again, then I'm getting "Hello from the function". That function is actually running. That's important to understand. Again, this is called a function expression, and it's because functions are first-class citizens in JavaScript that we're able to assign a function to a variable just as if it were data. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
 The next thing to understand about functions in JavaScript, and I'm not going to demonstrate this now, but I just want to call your attention to it, because if you're looking on stack overflow, if you're looking up scripts online and seeing other kinds of things, you will see arrow functions. This is again part of ESX or ES 2015. It brought this new syntax and we'll come to it, not in this course, but in the third course, we'll actually start working with arrow functions. I want to mention them now because you'll see them around and when you look at them, you'll look at them and go, what's this? We haven't done this in JavaScript yet. I just want you to be aware that it's just a slightly different syntax for writing functions. 
 
 Here, I have a function that should look fairly familiar. I've got a greeting, "Hello, and Good Morning". Then I've got function "capitalized" and I'm passing in a string, and then I take that string and uppercase it, and then I return in a string. This function is going to return the string upper cased. This should be fairly familiar from doing this lesson. So far we've seen this kind of thing and that's not too different from what we've seen. Whereas here, we're using the function expression, I have a variable called "Capitalized Expression". That has an anonymous function that takes a string and then it takes that string and makes it uppercase and returns it. So this variable will become the uppercase string that gets passed in when it's run. That's the function expression that we saw just a few minutes ago. 
 Now, when we use the arrow functions, the arrow functions is a different syntax for a function expression. In fact, sometimes they're officially called arrow function expressions. We can make a variable capitalize arrow in any string, and then instead of the word function, we can just put in this equal sign and the greater than sign to make an arrow. We can take anyString and uppercase and return that. This becomes one line, which is one of the reasons why these arrow functions have become popular, is they really do lead to shorter code and less syntax to have to deal with. Although when you look at them, it can be a little bit harder to understand exactly what's going on here. 
 But all three of these functions are actually doing the same thing. They will all return the exact same data. Again, we'll get to the arrow functions later in the third course, but for right now, I just want you to be aware that they exist and that really they're just a different syntax for writing functions. 
- 
-The last thing that we need to talk about in terms of our lesson today on functions is the difference between functions and methods in JavaScript. It can be a little bit confusing because these two terms are basically interchangeable in JavaScript, and you've already heard me use the term method sometimes and functions other times. It's helpful to know a little bit about what the two terms mean and why they're interchangeable. 
- 
-Essentially in JavaScript, when you have a function that belongs to an object, it's called a method. For example, we have the string object and there are functions that belong to string objects like toUpperCase or toLowerCase, and when we have a function like that that belongs to the string object, it's called the toUpperCase method, because it belongs to the string object. Or another example, with arrays we have the push method, which is a function that belongs to the array object. So when we push something into array, we're using the push method and we use the term method for that. 
-Now, in reality in JavaScript, everything is an object so in that sense, every function belongs to an object of one sort or another. In fact, earlier on in this lesson, we wrote a function called doStuff. But doStuff, since it doesn't explicitly belong to some other object, it does belong to the window, and you could actually write window.doStuff and that will actually work. 
-  
-If we go back to our code here, and I come in here and put window.doStuff, you'll see if I save that and come back and test it over here, it actually functions. Because ultimately my doStuff function belongs to the window object. 
-Now, if a function belongs to the window object, we don't often do this. Occasionally we do, but very rarely will we put window.doStuff in there, we'll just call doStuff. In that case, we'll call it a function. But when a function more explicitly is set to work with a particular object, we're more likely to call it a method. So that's where the difference in terminology comes from. But in reality, in JavaScript all functions are methods. So the two terms really are interchangeable. If you hear the term method and you're confused by that, just think, Oh yeah, that's a function, and that's fine. We've learned a lot about functions in this lesson, and you've already learned a lot of JavaScript. 
-Along with the challenges, you'll get good at the JavaScript syntax and you'll get good at being able to make simple programs function. From here we get to start doing some much more interesting things where we start working with content on web pages and manipulating web pages. So this course only gets more fun from here. So stick with it and keep working on the lessons, and I can't wait to see you in the next one.
-•	2.24.JS-Functions (shortcut)  https://www.w3schools.com/js/js_functions.asp
-•	2.24.JS-FunctionChallenges-10thru16.pdf (download)
-https://www.w3schools.com/js/js_functions.asp
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
 
-Week Three: 
+The last thing that we need to talk about in terms of our lesson today on functions is 
+the difference between functions and methods in JavaScript. It can be a little bit 
+confusing because these two terms are basically interchangeable in JavaScript, and you've 
+already heard me use the term method sometimes and functions other times. It's helpful 
+to know a little bit about what the two terms mean and why they're interchangeable.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+Essentially in JavaScript, when you have a function that belongs to an object, it's 
+called a method. For example, we have the string object and there are functions that 
+belong to string objects like toUpperCase or toLowerCase, and when we have a function 
+like that that belongs to the string object, it's called the toUpperCase method, because 
+it belongs to the string object. Or another example, with arrays we have the push method, 
+which is a function that belongs to the array object. So when we push something into 
+array, we're using the push method and we use the term method for that. 
+
+Now, in reality in JavaScript, everything is an object so in that sense, every function 
+belongs to an object of one sort or another. In fact, earlier on in this lesson, we 
+wrote a function called doStuff. But doStuff, since it doesn't explicitly belong to 
+some other object, it does belong to the window, and you could actually write 
+window.doStuff and that will actually work. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+If we go back to our code here, and I come in here and put window.doStuff, you'll see 
+if I save that and come back and test it over here, it actually functions. Because 
+ultimately my doStuff function belongs to the window object. 
+
+Now, if a function belongs to the window object, we don't often do this. Occasionally 
+we do, but very rarely will we put window.doStuff in there, we'll just call doStuff. 
+In that case, we'll call it a function. But when a function more explicitly is set to 
+work with a particular object, we're more likely to call it a method. So that's where 
+the difference in terminology comes from. But in reality, in JavaScript all functions 
+are methods. So the two terms really are interchangeable. If you hear the term method 
+and you're confused by that, just think, Oh yeah, that's a function, and that's fine. 
+We've learned a lot about functions in this lesson, and you've already learned a lot 
+of JavaScript. 
+
+Along with the challenges, you'll get good at the JavaScript syntax and you'll get good 
+at being able to make simple programs function. From here we get to start doing some 
+much more interesting things where we start working with content on web pages and 
+manipulating web pages. So this course only gets more fun from here. So stick with 
+it and keep working on the lessons, and I can't wait to see you in the next one.
+
+<ul>
+  <li>2.24.JS-Functions (shortcut)  https://www.w3schools.com/js/js_functions.asp</li>
+  <li>2.24.JS-FunctionChallenges-10thru16.pdf (download)  https://www.w3schools.com/js/js_functions.asp
+
+<h2 id="ch3">Week Three: </h2>
+
+<h2 id="ch3-00">3.00 Learning Objectives</h2>
+
+<ul>
+•	Identify the DOM and the relationships between elements on a web page.
+•	Use document methods to access and change the DOM.
+•	Use element properties to change the DOM.
+•	Use the inspector in the browser to identify changes and troubleshoot problems.
+•	Use event listeners and event properties to capture events.
+•	Modify the DOM based on events captured.
+•	Use the inspector to identify effects the program has on the web page.
+•	Recognize and identify variable scope in JavaScript.
+•	Develop coding best practices to keep score from creating programming errors.
+•	Capture user events.
+•	Change the DOM based on user events.
+•	Employ appropriate logical flow control structures necessary to make the program function properly.
+•	Use array and variables to manage program data.
+•	Apply best practices to manage variable scope.
+•	Identify and fix errors in programs, when they are not running properly.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+3.00 Module 3 Introduction
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+Welcome to the third module on JavaScript. In this module, we'll be doing some really 
+exciting stuff. We'll be digging in and learning how to actually affect elements on web 
+pages. When we do that, we'll also be looking at events, will look at what happens when 
+you want to capture a click or a scroll or the submission of a form or something like 
+that. When we capture these events, we can then make different things happen on web 
+pages. This is where the real magic is in JavaScript, and it's also the reason why 
+JavaScript exists, is because it's so tightly tied into the browser. 
+
+Now we can find JavaScript in other places other than the browser. But its main reason 
+to exist is the fact that it is so tightly connected into the browser, and we'll really 
+get into that, in this part of this course during this module. So I hope you have fun 
+with it, and by the end you'll have learned quite a lot of JavaScript.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+3.01 JavaScript and the DOM (4:34)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ xxx. javascript and the dom (3.01) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="3.01. JavaScript and the DOM." />
+</p>
+
+JavaScript and the DOM. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ xxx. example, the web page is an object (172) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, The Web Page is an Object." />
+</p>
+
+The DOM stands for Document Object Model. JavaScript sees the web doc ument as an 
+object, and it understands it from the hierarchical perspective. The root object that 
+JavaScript sees is the window itself. The window, our browser window is the root object. 
+Then that has three sub-objects. The document, the location of that document, and the 
+history. We're really concerned with the document, and the document breaks down into 
+an HTML tag. We've seen that certainly on our documents and within the HTML tag there's 
+a body tag. Then we could have whatever HTML is making up the page.
+
+Here, I'm showing an article with a header and a paragraph and a footer, and that 
+matches the HTML that's in the image here on the left. If you look at the markup on 
+the left, you can see how that matches the article here, in the diagram. JavaScript 
+sees the article as an object that has children. One child would be the header, and 
+the header itself has a child which would be the h1. Then another child of the article 
+is a paragraph. Another child of the article is the footer, which also has a child 
+which is a paragraph. We can see that represented in the diagram over here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx. example, nodes (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="Example, Nodes." />
+</p>
+These elements on the page are nodes, and JavaScript understands the relationships 
+between the nodes. And we can use methods and properties to do what's called traversing 
+the document and getting from one node to another so that we could affect it with 
+JavaScript. 
+
+For example, if NodeA was that article, and it has three children, you could say 
+NodeA.firstChild is Node-A1, and NodeA.lastChild Is Node-A3. You can look through the 
+descriptions to the left here and understand the relationships between these different 
+elements. So Node-A1.parentNode, for example, would be NodeA, or we can look at the 
+children of NodeA as an array, and we could say NodeA.childNodes[0] would be Node-A1. 
+So on and so forth, right down through this entire list. 
+
+We can actually use this relationship to work our way around HTML document using 
+JavaScript and be able to get elements and do things with them. Now, if you're coming 
+to JavaScript from another language like C++ or Java or Python or something like that, 
+this is a little weird. This is strange, but really, when you think about it, 
+JavaScript's tight integration in with the browser and with what happens on our document 
+is really JavaScript's reason for being. Certainly we're seeing JavaScript now outside 
+the browser and in other places. 
+
+But JavaScript's main reason for being is the fact that it can do this stuff, and other 
+scripting languages can't, where other programming languages can't. In 2009, when they 
+decided that JavaScript was going to be the programming language for the web, it was 
+going to be native to the browser, that's when this stuff really got solidified and 
+everybody wanted to follow the exact same specification, and even if they were doing 
+slightly different implementations of it, they were following the specification so that 
+this would work with JavaScript in whichever browser you're in. It's taken a while to 
+get to compatibility across browsers with JavaScript, but we're pretty close to there 
+these days.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+3.02 Dot Syntax and Methods (5:21)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx. dot syntax and methods (174) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="3.02. Dot Syntax and Methods." />
+</p>
+The dot syntax and methods. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Notice we use dots or periods to separate objects from their properties or their methods in JavaScript. On the right here, you can see that we have a number of methods that are related to being able to traverse the DOM or affect the DOM. insertBefore(), we can create an element and insert it before another element. We can replace a child. We could say, "Take this child out of here." Remove a child. Append a child. We can add a new paragraph to the end of a div or something like that. Clone and node. 
+We could take an entire div with all its contents and clone it and add it to the page somewhere else. We can create an element, we can create attributes, we can create a text node. These are all methods that JavaScript has built into it that will allow us to do things to the Document Object Model; to the document itself and will affect the document there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+One of the document methods you'll use most frequently and is a good one to learn first is getElementById. getElementById is a document method or a function that belongs to the document object. Remember that's how we define methods. What we can use with getElementById, is we can pass in a particular ID, and then we can do things to that element, that will go into our document, into our DOM or Document Object Model and find that particular element and do something with it. 
+We could set the style property and the color sub-property to red, for example, for this paragraph that has an ID of one. Remember, in HTML, when you have an ID, it must be unique. It must be a unique ID on the page. This is something I see as a mistake a lot of times with students learning to create webpages. They'll use an ID and the page multiple times. But the whole point of an ID is that it's unique, just like you have a student ID or a driver's license ID or some other ID with a unique ID number on it. The whole purpose of having an ID is that it is unique. Let's give this a try. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+I'm going to come over to my code editor here and you can see I've set up a page and I guarantee you it's a good idea for you to do this as well. I strongly suggest it, but I'm going to come in here and I'm going to add, I'm going to say document if I could type document.getElementById. You can see as I start typing, that it even comes right up here and I can actually select it from the list to make sure I get it right. Because you have to get the capitalization right. It's CamelCased. The get is lowercase, but E is uppercase, B is uppercase and I uppercase, but the d is lowercase. You have to get that right, otherwise, it won't work. I'm going to pass in one because it's going to match this ID here, and I can set the style.color to red. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+If I save that, and then I come back over here and you can see I have this webpage loaded up here, and it's black here. But as soon as I refresh the page, you'll see that it's turned red. Now, I don't have any code in my HTML that's doing that. It's the script that's doing that after the fact. It's really important to understand this. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+As I come down here, notice paragraph ID1 and then style color red is added here. But I didn't add that. That's not in the HTML that I added. Over here, the HTML that I have, I have the ID1, but I don't have a style attribute on here at all. When the page loaded, JavaScript loaded the paragraph the way I wrote it, and then what the scripted is it went in and found that element with the ID of one, and it added the style attribute here and set its color property to red. JavaScript is doing that on the fly after the page has been retrieved. 
+Right now we're just loading it from our desktop. But you could be getting it off of the webserver, you'd be getting it from anywhere. That page, when it gets to the browser, it gets rendered by the browser and then the script runs down at the bottom of the page and affects the page after that paragraph has already been rendered. It happens so fast, you don't even really see it. But this is a really great example of a document method, getElementById, which is allowing us to go into our document, find that ID, and then effect it on the page.
+3.03 DOM: getElementsByTagName(); (7:56)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Here's another document method that allows us to get elements on the page and do something with them. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+It's called getElementsByTagName, and I have the S and elements highlighted because a common mistake is to leave it off because it's getElementByID, but this is getElements, so this is going to get more than one element, it's going to get a collection of elements, and then we can do something with that collection of elements. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Let's give this a try. Here I have my page, I have some paragraphs on the page, and I can write a script here, document.getElementsByTagName. Then I can pass in, say, a P for paragraphs. What this is going to do is it's going to go in and get all of these elements, and I can assign that to a variable, var myParagraphs equals. Now, myParagraphs is going to hold a collection of paragraphs, and if I console log that out, console.log(my Paragraphs). 
+If I console log that out, let's see what I get. I'm going to come back over here to my page and refresh, and we don't see any difference here, but if I go to the console, you'll see I get an HTMLCollection of three things; paragraph, paragraph, and paragraph, and that's what's in here, and I could even fold this down and see what the different paragraphs are, it gives me some information about them, but it's giving me the collection of the paragraphs here. 
+That's important to understand about this particular method. Whereas getElementByID gives me always just one thing. It'll always give me one because IDs are unique. Whereas getElementsByTagName will give me an HTMLCollection of elements that I need to then do something else with. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+If I wanted to set the color of these paragraphs to red, then I would need to use a loop because I can't apply the style color to a collection of things all at once. I have to apply them to each item in that collection. I need to use a loop to loop through each of the elements in that collection, so I'm going to use a for Loop here, and let's go ahead and do this over here rather than console log this out. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+I'm going to use a shorter variable here. MyParagraphs is long, I'm guaranteed to type that wrong at some point, so I'm just going to call it ps, something like that. That's fine for paragraphs. I'm going to make a for Loop, and again, remember, if you've been doing the challenges and really getting used to the syntax, you should be able to just write a for Loop. For var i equals 0 or i is less than ps.length; i plus plus and then we've got our curly braces, and in here I'm going to take each paragraph, so I'm going to say ps [i].style.color equals red. Now, if I just do this, you'll see it'll work. It'll actually go through this entire Loop. The first time through the Loop, this thing has three paragraphs and it's going to get paragraph 0. Let's give that a try. Let's run that over here. If I refresh this, you can see all my paragraphs generate. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+I'm going to come in here and I'm going to add alert. I'm going to use my backticks here showing where I graph, and then don't forget since that's going to be variable in dollar sign, curly brace, curly brace. To show this in Firefox.  Firefox does things a little bit differently, uses the Mozilla rendering engine, and so it renders things a little bit differently. I'm going to go ahead and open our page here in Firefox, and there's my DOM HTML, and notice the difference here. 
+This one actually shows the first paragraph turns red, and then I get the alert, and then we see the second paragraph turn red and I get the alert, and then I get the third paragraph turning red, so you can actually see the Loop actually running, and usually these Loops run so fast, you don't even see them. But with the alert in there, you can actually see that that loop is running and turning the paragraphs red one at a time in the collection.
+3.04 DOM: getElementsByClassName(); (5:09)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The next document method that we're going to look at is getElementsByClassName. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+This method will do exactly what you think it will do. It will allow us to go into our document, and get elements that have a particular class name, and put them into an HTMLCollection. So that's very useful as well. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Let's give it a try real quick. Here, you can see I've added class equals special on my image over there it was blue, but whatever class you want to put is fine. It doesn't really matter as long as you set up a variable per myClass equals document.getElementsByClassName, this one here That will take all of these elements. In this case, it's just two and stick them into a collection. Then the same as before, we are going to need to use our loop to go through and change these items. For var i equals 0, while i is less than myClass.length. 
+First-time to the loop, that's going to be zero. Second time to the loop, it's going to be a one, and then it'll finish.style.color equals red and that should work just fine. Let's go test it out. It turned those two classes red. Now, one more point of interest while we're here. Even if I just had one element on the page to add this class, I could give it an ID. But if I am going to use getElementsByClassName, even if there's only one, it still is going to return a collection of elements and that collection is only going to have one element in it and I still need to use a loop or some other way of getting to the element inside that collection, even though there's only one. You'll see the loop will still work. It'll just run only one time. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+A little bit easier way of doing this, I don't really need a loop here because I know that there's only one element in this collection, so I know it's going to be element zero. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+So I don't need a loop, I can just make this zero and get rid of the loop, like so. Clean that up a little bit. Now, myClass is getting elements by class name special and myClass zero, since I know there's only one, it's going to be myClass zero. It's going to be that one in the collection. I can access it through because it's treated like an array there. It's not actually an array, it's a collection of HTML elements, but I can treat it like an array to go and get element zero out of there and you'll see that will work just as well. 
+But the important thing here to understand is that if you're using getElementsByClassName or getElementsByTagName or anything else that gives you a collection of elements, you have to go in and treat it as if it's a collection because that's what it is, and not just as an individual element. That's easy to forget, especially if you have only one. You're like, "Why can't I just change that one? Why can't I just use my class style color red?" Because there's only one element with that class in there. But JavaScript is getting a collection of elements even if the collection only has one element or even if it has zero elements in it, it'll still be a collection of elements. So that's an important thing to understand about getElementsByClassName and getElementsByTagName.
+3.05 DOM: querySelector(); (4:58)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The next document method that we're going to look at is querySelector. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Now, the history here is a little bit interesting. Because in 2009 as we said before, ES5 became the de facto standard for scripting for the web. But there was the rise of a have a library called jQuery that became popular and it remains popular to this day. Less now than it was, but it's still a popular library that made it getting elements in the DOM and doing things with them  easier. An API that allows us to use querySelector and querySelectorAll which we'll also look at to get elements from the DOM. And it's a little bit more convenient but it works a little bit differently than the older get element by ID, get element by tag name, get element by class name methods. 
+So these are newer methods, and they're very useful, but they work a little bit differently. And because of the introduction of these methods, jQuery is not nearly as necessary as it used to be. And what we'll still learn jQuery, we'll be learning that in the second course in specialization. But now we can actually get elements into our DOM a little bit easier than we could just with the older methods. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Okay, so let's take a look at querySelector and the way that works. So over here I have a document, and I have a div with an id on it, and then inside there I've got a paragraph for the class. Well, I could do something like this. var myText = document.querySelector. And then what I would pass in is actually instead of just some class, I would put either dots or I could put .someclass. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So what's different here is before we didn't use the CSS syntax. Now we have to use the CSS syntax with querySelector. Or I could even be more specific and I could say go find #special.someclass. So get to someclass inside the id="special". And what's nice about this is that query selector will always return the first element that it finds that matches what you pass in here. So even if I had another paragraph with some class on it, this will always only return one thing to my text. myText.style.color = "red". And if I go over and test this document, and again I recommend, that you give this a try yourself. You can see that it's trying that paragraph red. 
+Now if I were to go in here and add my class, “someclass” to another element, you'll see it still only affect the first paragraph. When you pass stuff in, you're passing in the CSS syntax #special instead of just special. Or .someclass, instead of just someclass, that's important with querySelector. Okay, great. Let's take a look at the querySelectorAll method in the next lesson.
+3.06 DOM: QuerySelectorAll(); (6:10)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The querySelectorAll method does what you would think it would do, is that it allows you to grab a group of elements again, but this time using the newer, more updated DOM API querySelectorAll. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Let's give that a try really quickly here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Over here, I've got my div id special and I've got some paragraphs in here, and I can do something like var myText equals document.querySelectorAll and with that querySelectorAll. I could pass in here in quotes, I could pass in pounds special p, and that's going to get me all of the paragraphs that are inside this div special. 
+So I can go into my document and find a particular group of elements somewhere in my document. But again, with this, we're going to need a for loop. For var i equals 0, where i is less than myText. Length; i++. Then I can do myText square bracket i.style.color equals red. Here we go. Save that and then we should be able to test it over here and see, when I refresh the page, it is turning all those paragraphs red. Just one more time to just drive this home, noticing here when I go look in that div, it's added style color red to each one of these paragraphs. That's what it's doing, it's going into special and finding the paragraphs and affecting the DOM after the page, after the HTML initially loaded. It's really important to understand that. 
+So querySelectorAll will allow us to get groups of elements and then we would loop through them to affect them one at a time. So far we've talked about five document methods. Three of them are older, Document getElementById we still use that quite a lot. Document getElementsByTagName and document getElementsByClassName you might use this less often now because now we have the newer methods, querySelector and querySelectorAll. But these are just some of the document elements that allow us to add elements to the page. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Next, I want to talk about working with properties. We've already seen this a little bit. We've seen element.style.color. So we're going in and we're getting that element, whatever the element is, we've got that element, whether it's paragraphs or whether it's a div; whatever it is, we're getting that element with our document methods, we're getting those elements and then we can apply the style property. 
+We can get the style property and the color sub-property and set it to whatever color name we want. There are other properties that we can use. There are a number of them. Some of the more popular ones are ones that we use more frequently are innerHTML. We'll be seeing that one quite a bit and className is really useful so that you can actually take an element and apply a class to it. This is useful in modern JavaScript because CSS has become so powerful. 
+Now, we can put animations in CSS, and then when we want to animate something, we can use JavaScript to add that class in CSS that has the innovation and the innovation will take place on the screen. That's a really great way to create interactive for animated elements on a web page. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So we have the document methods, and now we have element properties that allow us to work with the properties of certain elements. But there are also element methods or element functions and those are also useful. For example, .setAttribute, we can pass in an attribute name and then set its value. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+Back here we could set the className by using the className property. Here we could set the className by passing in class and then passing in a value. But we can pass in the value there or we could do something else; we could use an anchor tag, we could set the href attribute and set its value. Or we can remove an attribute or we could get an attribute and do things with it. Notice that methods are distinguished by the fact that they have parentheses. 
+So when you're using a method or a function, it has parentheses, whereas the properties don't have parentheses, they have an equal sign and then the value. So that's how you can tell the difference between a property and a method. Let's see what else we can do with this. This may be a little bit confusing at the moment, but I promise that as we practice this stuff, it'll start to make more sense. But it does take a little bit of getting used to, all of these methods in properties for working with our document to affect our web pages.
+3.07 innerHTML (4:56)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Next, we'll take a look at one of the element properties that we just talked about in the previous video and see how powerful it is. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+And that's innerHTML. And if you look at this image here, you can see I have a div with an id="special", and I can use any of my document methods to go in and get that div. And then I could use innerHTML to actually change the contents in that div. I can replace these contents with something else entirely, completely new, completely different. And that's something else could have HTML in it. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+So let's see what that looks like. Over here, I have my div id="special", and I have these three paragraphs in here. But down here I could say, var myDiv = document.getElementById. With this version, we're not using the pound here. We're using the older getElementById. We can switch that in a minute just to see what that looks like. But then I can say, okay, I've got that element, myDiv.innerHTML =. This is an element property, so we use the equal sign, and then inside quotes, I can create a completely new piece of content to stick in there. That's my </p> there. 
+Okay, great, so now when I run this, you'll see over here, It's still red from before, but that's okay. Those paragraphs are going to get removed and replaced with the new paragraph. Look at that. 
+And if I come down here and look inspect in my body, and look at div id="special", there's only one paragraph in here in my inspector. Whereas if I were to do View Page Source, you'd see three paragraphs in there. Because when the page loaded, it had three paragraphs, and then the script ran and it removed those three paragraphs and put this one in instead. And that's what JavaScript is doing. Now, here, I'm using getElementById('special').
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+I could also do querySelector. But if I use this one, then I would pass in #special. You see the difference there? This is the newer method, and it uses the CSS syntax to get to that element. But this will work just the same. If I go back and refresh this page, you'll see it'll do exactly the same thing. It'll get my new paragraph and put it in there. So you could use whichever document method you want. Once you get that element, then you can use your element properties to affect the element here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Now, I'm putting this all inside of this div here, but I don't need to use the variable. I could just do document.getElementById('special') and then put this, Here, it just makes for a very long line. So it's kind of helpful, and that'll work. It's kind of helpful to have the variable, but you don't have to have it. I can just go, document.querySelector('#special').innerHTML, and then set my property right there. And that'll work just as well. There's my new paragraph. So that's using the innerHTML. We could use this in lots and lots of places to get elements on our page and then replace those elements with completely new elements. And you can put more HTML in there. We could put an entire document of HTML inside this div. Not just one paragraph, but you could put articles, you can do all kinds of stuff, images. All kinds of things can go in there using innerHTML.
+3.08 className (6:13)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The next element property that I want to show you, which is extremely useful is the class name element property. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So let's take a look at how this one works. Here I have a div with some paragraphs in here, and I'm using my query selector to get the first paragraph. Because remember, instead of returning a collection, query selector returns the first one that it finds. So it's going to go in here and look for first paragraph. And then I'm going to take that first paragraph and I'm going to use the class name, element property to set the class to blue. And up here I've added style and I've added a class blue here to my document. So let's see how this works. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+I'm going to go over to my page over here and you can see I've added up here, a rule here to set for anything that has the class blue here. So let's come down here. I'm going to call this Var firstPara equals document.querySelector. And remember, we have to use the CSS syntax. In this case, it's just a " p" because it's just a tag selector, but I'm going to go get that first paragraph. Now I've got three paragraphs, but remember querrySelector just returns the first one. And then I'm going to say, okay, firstPara, Set the class name. And you can see here there's one called classList. I'm just showing you a few of the document, select the document properties that are super useful, but there are plenty of other ones that you can look up and work with as well. Class name equals blue. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+So now when I run this, come back here, click on My document here. I've got my three paragraphs, but when I refresh the page, it turns the first paragraph blue. And if I come down here and look at this, what is it actually done there, but it's added class equals blue on to that paragraph. Sure, I could have set the style color property to blue. But adding the class blue is even more powerful, because even though in both cases and just setting the color. I could have a lot more declarations in this class up here, that would do all kinds of things that could be adding an animation. I could be doing all kinds of really cool stuff, and we'll get to do some of those things in this course. So, hold on to your hat, because it's coming. 
+But first I just want to introduce the basic concepts to begin with. And this is a super useful one, using the class name property to set a class that already exists on the page. It's just really, really powerful. Back to our slides here, we've looked at a few of the element properties that we can set, the style property with its sub properties for our different CSS features. We can use that one, we can use the inner HTML property, that's extremely powerful for replacing HTML inside of any element. And then there is the class name property that allows us to put a class name on things. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The next thing I want to look at really quickly is some of the element methods. Remember these are properties because they've got the equal sign and then a value, but we also have element methods. And the first one we'll look at is setAttribute. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So here I have a form and let's just do this one really quickly here. I have a form and I'm going to say var myCheckbox equals document.get element or I can do a querySelector. QuerySelector input. And then I'll get my first input fields here. And then I could do okay, myCheckbox.setAttribute, and set attribute takes two parameters. I'm going to say what is the attribute that I want to set? In this case it's checked, and I'm going to set the value which is also checked. Checked, checked, and that's the way. What that will do is it'll come in here and it's going to set a checked attribute and set it to checked, which will make the check box checked by default. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+So if we go over and view the page, currently, without having set that checkbox, you can see I've got a checkbox here but it's not checked. When I refresh the page, it comes up as checked by default. And if I come down here and look at this, You can see checked equals check that added that attribute into my HTML here. 
+Set attribute can be used for any number of attributes. You want to set an image source on an element. You could use this you want to change the HREF on a link. You could use this any attribute can be accessed with set attribute. And you could set it to whatever value you want to set it to. And that is another very powerful tool that allows us to change content on our webpages.
+3.09 Creating Elements and Text Nodes (5:04)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+I have shown you a few of the document methods, the element methods and the element properties in this lesson and there are lots more. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+There are many more that you can use to do all kinds of interesting things to your pages. But I think it's helpful to see just a few to begin with, to see how those work and to experiment with those in a limited way and then add more features and methods and all that stuff as you go along. I do want to show you just a few more in this lesson just because I think it's helpful to just see that there are different ways of doing things in JavaScript. This one I want to show you is a way of creating elements and text nodes in JavaScript and then adding them to the page. It's an interesting process. Again, we've used innnerHTML and we can use that to also change content on the page, but this is just a different way of doing it. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Here I'm going to make a variable var myTag and I'm going to say document.createElement. What am I going to create? I'm going to create a paragraph. This makes a new paragraph and puts it into myTag. Create element is a document property that makes a new element. Then I'm going to make a new text node, var myText equals document.createTextNode, here's a new paragraph. I'm going to make the text node. JavaScript creates a text node, we create the paragraph, we create the text node and then we're going to say myTag.appendChild, myText. That takes the paragraph that we just created, the text node, this text and sticks it into the paragraph tag that we created. All of this is just happening in memory in JavaScript. Then we have to actually put it on the page. I'm going to get my div here, var myDiv equals document.querySelector div. That's going to go find the first div on the page. Then I can say myDiv.appendChild, myTag. We're doing a multi-step process here, where we're creating a paragraph, we're creating some text, putting the text in the paragraph and then going and getting our div and appending it to the end of the paragraph here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Let's see if I did this right. If I come back and do this over here and refresh, you can see that my first paragraph is here and a new paragraph has been appended inside the div. It's been added to the div here and JavaScript is doing that through this process. Could I have just used innerHTML and added and changed the contents of this div so that it had these two paragraphs? Sure, I could have done it that way. But sometimes it's useful, this seems like a convoluted, complicated way, but sometimes it's useful to actually create the elements using the document method, create element, to create content, to stick in those elements, and then to append them to the page in particular places. Sometimes it's useful, and sometimes a better way to go than using innerHTML in certain circumstances.
+3.10 Removing Elements (3:18)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+One last method that I want to show you in this lesson is how to remove an element from another element. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Again, we could use innerHTML and just replace all the contents all at once, but sometimes removing elements is useful. Let's take a look at this example really quickly. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Here I have a div with two paragraphs in it, and I'm going to go ahead and get that div and put it into a variable, var myDiv, and assign a document.querySelector('div'). So that'll go get the first div on the page, which there's only one, so that's nice and easy. Then I could do myDiv.removeChild, that method. Which child am I going to remove? Well, I'm going to say myDiv.children[1]. What that's going to do is it's going to go into myDiv, look at its children, and find child number 1. Remember, this is child number 0 here. That's zero, this is one. That will actually go and remove this second paragraph from this div. Put a semicolon there, save that, and then let's go over to our browser here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+You could see I've got the two paragraphs there, when I refresh the page, that second one is gone. Down here you'll see it's not in here anymore. It's been taken out. JavaScript removed it. Removing elements using the remove child method is a really useful tool for removing elements from the page, if you need to do that. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Here we've seen a lot of different methods that we can use on our webpages to do all kinds of things. We've talked about some of the document methods, some of the element methods, and some of the element properties that we can use to go in and affect content on our page. 
+Remember, JavaScript sees the page as this tree of objects, starting with the window, and building down from there. We can traverse that document and find elements on there, and then affect them using these different methods and properties, and that's how we're going to create all kinds of interactive elements in our webpages.
+•	3.10.JavaScript-and-the-DOM.html
+https://www.coursera.org/learn/javascript-basics/supplement/DCOHD/additional-resource
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+•	3.10.JavaScript-DOM-Challenges.pdf
+https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21
+3.11 Capturing Events with JavaScript (5:16)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Capturing Events with JavaScript. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Events happen. Users will click on something, they'll scroll the page, they'll submit a form. Events happen on webpages. And when events happen, JavaScript can capture them and then they can do something with those events. When we combine this with manipulating the document, like we saw in the previous lesson, this is where a lot of the power of JavaScript really happens. Once we've talked about how to capture events and handle them, you have all of the basic pieces of the puzzle to make interactive webpages. Because we can use our logic float structures, sequence, selection, loop, along with our document methods and our element methods and properties to change elements on the page when events happen. And that's how we can get interactive webpages. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Let's take a look at this very basic example. Here I have a webpage with a button on it. And when you click the button, it's going to pop up an alert saying that you clicked the button, something that shows that you actually clicked the button. 
+
+So let's go over and do this and try this out. Here you can see I have a webpage, I have a button on the webpage, it says Don't Press Me. And I'm going to grab that button using my document element methods. So I'm going to make a variable var btn, and I'm going to assign it document.querySelector, Button. And that'll get that button. There's only one button on the page, so it's easy to get that one button. And it's going to assign it to button, to btn there. 
+And then I'm going to make a function. Remember, we talked about functions. I'm going to make a function called ouch, And all that function's going to do is do an alert, I told you not to press me. You can put whatever you want in there, that's fine. And then I'm going to say, okay, btn.onclick run this function ouch. So that's going to actually run the function using on the button. And we're using here a special property that will capture the click event. So let's do that really quickly, let's see if this works. 
+
+If I come over here and refresh the page, if I click Don't Press Me, I get an alert that says I told you not to press me. So I'm capturing that event of the clicking of the button. And the way I'm capturing that event is with the onclick property. One thing to notice is that I define this function, and when I assign the function to that property, notice I didn't put the parentheses at the end here. If I did, then that function would run right away, it would run immediately. So if I put parentheses here, you'll notice that it's not going to wait for me to click. Instead, it's going to run right away. 
+
+So if I come over here and refresh this page, you'll see I get the alert without even clicking the button. So when I use the event property with the function that I've created this way, I do not add the parentheses for the function there. I just reference that function by name, ouch. And it will then run that function when the event runs. Now, you don't have to define a function here. We can actually just use an anonymous function here. 
+
+So I could say function, parentheses, curly braces, and just stick the alert in here, And get rid of this altogether. And frequently, when you're using something like this, you're only going to run this on this particular button in this circumstance. So there's not really a reason to create a named function that you could use over and over again in this case if you're only going to run this in this one case here. But let's see if this works. Refresh, Don't Press Me, and I'm getting the alert. So I can use the anonymous function to do that.
+3.12 Event Listeners (5:09)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
 
 
 
