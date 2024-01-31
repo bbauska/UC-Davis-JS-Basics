@@ -3849,7 +3849,7 @@ are available in JavaScript for doing string surgery.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-16">2.16 Sequence - Part 3, Loop (5:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image227.png?raw=true"
   width="50%"
@@ -3858,22 +3858,22 @@ are available in JavaScript for doing string surgery.
 For the next step in our sequence, make an array called foods and put four foods 
 in the array. Then use the string literal syntax. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. sequence, part 3 (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image228.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Sequence, Part 3." />
 </p>
 
 So we can practice that to print out a sentence that prints to the console the 
 variable myString, which we declared earlier, and follow that with a space and 
 then the first element in the foods array. See if you can do that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. sequence, part 3 results (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image229.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example, Sequence 3 Result." />
 </p>
 
 Pause the video and see if you can do that without looking at the answer that I have 
@@ -3883,27 +3883,27 @@ that because we already have that on our file but you should have an array and t
 the console.log with the template literal, takes a little getting used to the template 
 literal thing. Let's do that part together. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. array of foods in script (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image230.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Create array of foods in script." />
 </p>
 
 So over here you can see I've added the array and then here I need to add the template 
-literal. So I'm going to do, and the way to do this, the best way to do this is to just 
-type the variables myString. Then I want a space and I want foods square bracket 0. But 
-these are variables. So I'm going to come in here and add a dollar sign and a curly brace, 
-and a curly brace. Then a dollar sign and a curly brace and the curly brace around it. 
-If you do it that way, you'll understand it better if you always work from the inside 
-out or the outside in, in this case, we're working from the inside out. But if you work 
-that way, it'll make it easier for you to understand. 
+literal. And the best way to do this is to just type the variables myString. Then I 
+want a space and I want foods square bracket 0. But these are variables. So I'm going 
+to come in here and add a dollar sign and a curly brace, and a curly brace. Then a 
+dollar sign and a curly brace and the curly brace around it. If you do it that way, 
+you'll understand it better if you always work from the inside out or the outside in, 
+in this case, we're working from the inside out. But if you work that way, it'll make 
+it easier for you to understand. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. for loop (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image231.png?raw=true"
   width="50%"
-  alt="." />
+  alt="For loop." />
 </p>
 
 Then over here I can actually run that and I should be getting, "I am really hungry 
@@ -3911,11 +3911,11 @@ for some cheese". So that works perfectly well. The next thing to do is to see i
 can use a loop and loop through all of the elements in the array. I'm really hungry 
 for some cheese, for some pie, for some lunch, for some breakfast. All of these elements. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. for i=0; loop i++ (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image232.png?raw=true"
   width="50%"
-  alt="." />
+  alt="For i=0; loop i++." />
 </p>
 
 I'm going to say var i equals 0. So I'm going to start at 0. For i is less than 
@@ -3926,11 +3926,11 @@ I'm going put an i in there because i is going to get each one of these. In fact
 just so you don't get confused, I'm going to comment that line out there just so 
 I can see that this is really working. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. test, loop (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image233.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Test, loop." />
 </p>
 
 First time through the loop, i is 0, so it's going to print out, I'm really hungry for 
@@ -3942,11 +3942,11 @@ Then i gets incremented to four because it's 0, 1, 2, 3. So i is going to get in
 to four, four is not less than four. So the loop will bust out. Let's see if that works. 
 There we go. We're getting all of it there. That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. for var each loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image234.png?raw=true"
   width="50%"
-  alt="." />
+  alt="For var each loop." />
 </p>
 
 Now, what if you wanted to use the for-of loop? I'm going to just comment that out. For var, 
@@ -3955,11 +3955,11 @@ do i if you wanted to. Then in here, we're going to do the same thing. We're jus
 basically take this and stick it here, but now instead of foods, this foods i, this is going 
 to be eachFood. I'm still going to print out myString, but now this is going to be eachFood. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. test, for var each loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image235.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Test, for var each loop." />
 </p>
 
 The first time through the loop, eachFood is going to be cheese. Then the second time through 
@@ -3969,21 +3969,21 @@ I get the same results.
 
 <h2 id="ch2-17">2.17 Loop + Selection (8:20)<?h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image236.png?raw=true"
   width="50%"
-  alt="." />
+  alt="2.17. Loop + Selection." />
 </p>
 
 Next we'll bring selection into the mix. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. example, loop + selection (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image237.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example, Loop + Selection." />
 </p>
 
 Now, inside our loop, we're going to check to see if the element in the loop is 
@@ -3999,23 +3999,23 @@ operator, which is the percent sign. We can figure out when we divide something
 and use the percent sign if the remainder is zero, then it's even if you divide 
 something by two. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 238. for var i=0 length array i++ (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image238.png?raw=true"
   width="50%"
-  alt="." />
+  alt="For var i=0, length of array, i++." />
 </p>
 
 Let's do this together. Here I am with my loop and I got rid of the for of loop. 
 This one's really going to work better because we already have i working as an 
 incrementor with numbers. So we can just work with i to do this. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. example to console.log (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image239.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example to console.log." />
 </p>
 
 Initially, I'm going to add this var remainder i percent two. Now, what that's going to 
@@ -4030,22 +4030,22 @@ is there and due toUpperCase. Then I'm going to print out basically this. But in
 of foods i down there, I can print out this one here. I think that'll work. Else we'll 
 just do this. Save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. loop + selection (2.17) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. test, loop + selection (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image240.png?raw=true"
   width="40%"
-  alt="." />
+  alt="Test, loop + selection." />
 </p>
 Did I do it right? Let's see. Refresh my page here and look at that it's working. 
 That's great. Did you get something like that? That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image241.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example, Refacturing Code." />
 </p>
 
 The next thing I want to talk about is refactoring code. Often we will write code the 
@@ -4059,12 +4059,12 @@ readability when you're refactoring your code. We could take that same piece tha
 we wrote and refactor it a little bit so that we could get rid of that extra 
 variable here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 242. example, sequence, selection & loop (138) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image242.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example test, Sequence, Selection & Loop." />
 </p>
 Let's do that really quickly over here. Frequently, students will tell me when 
 they're working through my examples they'll say, "Oh, wow, I tried it and I 
@@ -4075,16 +4075,364 @@ look for ways of taking your code and saying, you know what, this could be a
 little bit simpler. I'm going to take that, I'm going to save it and I'm going 
 to just make sure that it still runs exactly the same way. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. test, sequence, selection & loop (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
 <img src="./images/image243.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Test, Sequence, Selection and Loop." />
 </p>
 
 
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+Make sure I did that right, and I did, so that's fine. 
+ 
+Another thing you can do that's really helpful is make comments. If you're not really sure that you can refactor something down, but then it can become less readable and it can be helpful to put comments in there to help you make sure when you come back to it later that you know what you did and that it will make sense to your future self. You can go ahead and come in here and add comments. I'll put it up here. Checking to see if the incrementor is even. Something like that will be helpful later perhaps and you could add more comments in here. As you refactoring, be sure to do that as well. 
+Once you've added your comments and refactored your code, you've done a great job at working with sequence selection and loops. We're going to get more practice with those as pretty much every script that we write will have some combination of them as we go along. Great, see you in the next lesson.
+•	2.17.JS-BasicChallenges-01thru09.pdf (download)
+https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09
+
+2.18 JavaScript Basic Challenges Introduction (5:02)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+JavaScript basic challenges. This course includes a number of challenges, and these challenges will help you become better at writing JavaScript and becoming a JavaScript programmer. I encourage you to take the time you need to, to get good at working through these challenges and to be able to do the challenges and get the correct results. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The way the challenges work is, I'll give you a challenge. This first one is fairly simple. Write a script that prints out your first name on one line, your last name on the next line. Very basic challenge. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+But what you should do is set up your file. I have a file set up here, and then you'll come in here, and it's very normal to be, "Okay, what do I do first?" I don't even know what the first thing is to do, and that's fine. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+You can always come over and look at the answer for the challenge will be on the next slide, and you can look at that and go, "Okay, yeah, that makes sense. We did that in the other lesson, I know how to do that." Then, come back and actually write that, var firstName equals, "Bill", and I've forgotten what to do next, and that's normal. Go and look again, if you have to. Look again and see what you need to do next, and then go back and actually type it without looking at the slide. What this will do, this will do a few things to really help you get good at JavaScript. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+First, what it'll do is it'll help you with the syntax of the language. Remember we need to get over this first hump of the camel. We need to get over that first hump, which is learning the syntax of the language. The way to learn the syntax of the language is to type it. When you're working on this, even if you're looking at the answer and then having to come in here and just remember it for a few seconds, that will help you learn the syntax and get better at it over time, and I promise it will help. Over time, you'll really start to be able to do these without having to look at the slides if you keep working at it. Look at the answers if you have to, they're here, and then type it without looking at the answer. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The second thing that I'll do for you is these challenges build on each other. The second challenge is a little bit of a baby step beyond the first challenge. I've designed these challenges such that they build up in small baby steps like this so that over time, you're taking an idea and expanding it into a larger, more complex script as you go along, and that will help you with this second hump on the camel. Learning how to solve problems with JavaScript. You get good at learning how to solve problems first by solving very small problems in making baby steps, and these challenges, we'll help you do that. 
+I recommend you do these challenges to the point where you can do them without looking at the answers because that will really help you with the syntax and meanwhile, you're building up some skill for how to take a small thing and then build on it. Now, there's nothing magical about these challenges. I also recommend you come up with your own challenges. Try things out. See if you can make a small thing work. If you can make that small thing work, then build on it and see what other ideas you have and see if you can build on those. That is a great way to learn JavaScript, and it's fun. It's fun to see if you can do that kind of thing. By doing these challenges, by working through these examples and by getting really good at them, you will build your skills with JavaScript. If you don't, you don't have to. 
+You can continue to watch the videos and do the quizzes in the videos, and you'll learn about JavaScript. But in order to actually become a JavaScript programmer, you have to write JavaScript. You have to take the time to really sit down and write it. Even if you're coming to JavaScript from another language like C plus plus or Java, or Python or some other language and you might be thinking, oh yeah, I know what loops are, and I know what if statements are, and those kinds of things. 
+I really recommend you sit down and write JavaScript because it's a little bit different and it takes practice. Great. Keep working on these and get really good at the challenges and I promise, you'll be on the road to becoming a good JavaScript developer.
+2.19 Functions in JavaScript (5:29)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Functions in JavaScript. Functions are reusable sets of instructions. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+For example, in the sequence selection and loop exercise, you're adding a bunch of script to the page and it was getting messy. There's a lot of single lines of code all piling up without a lot of order, organization to them. What we can do with functions is we can take that stuff, stick it inside of something that has a name, and then run that function when we want to run that set of instructions. We can make functions so that they're reusable, so that you can use them in multiple places within your programs, and that's where functions can become very powerful. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Here, I have a function called doStuff, which is going to run something similar to what we did in the sequence selection and loop exercise. Let's give this a try real quick. I'm going to switch over to my code editor over here. You can see, I've already set up a file and I recommend you do the same. It just needs to notify within each one, and I've got a script here, and I've got some of the script from our sequence selection and loop exercise. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Now, I'm going to add a function. To do that, I would just define a function here. Function is the function keyword doStuff, parentheses and curly braces. Now, this stuff can just go inside the curly braces, like that. Then you have to run the function doStuff. We define the function which tells it what it does, then we invoke or call or run the function. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Any of those verbs will do: invoke, call or run. I can save that and I can come over to my pagers, and this is that same page, and I can run this, and you can see that the function runs and it does its thing. It's very normal when you start doing this, and sometimes I still do it to forget to call the function, which will mean that you'll get nothing, because it'll be defined but it won't actually run. I have to run doStuff. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+
+We'll run that function. I went and got challenge number 7 and I have it over here, so here's challenge number 7. How would I take that and turn it into a function? Well, I could do it like this; I could take all of this stuff and I can come over here, and I can go ahead and just paste it right on my page here, right in my file down here at the bottom. I'm going to just paste it on in there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+But I'm going to make a new function. What is this thing doing? Well, it's checking a number. I'm going to make a function called checkNum, parentheses, curly braces, like so. Then I'm going to take this stuff, I'm going to stick it inside of checkNum, tab that in. It's clear that this curly brace is ending that curly brace and everything is inside. It's always good to be clear about your indenting if you possibly can, it really does help. Then down here, I'm going to run checkNum, and let's see what happens. Over here when I run my script, it says enter a whole number, 54, and then you entered a really big number. My function is running, it's functioning, it's doing what it's supposed to do, and all that code is now inside of a function.
+2.20 Passing In and Returning Data (8:01)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Functions are even more useful if you can pass data into them, so they can do something with that data. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So for example, our first do something message, the first do something function wasn't really useful because it was just taking that string, and making it uppercase, and then spitting it back out again. But we could make it more useful by passing in a message variable, a parameter, this function has a parameter called message. We could pass in a messages and argument to this function, and it will take any message, and make it uppercase, and console log it out. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So let's give that a try and see what that does. I'm going to make a function, function upperMessage, let's do that then, upperMessage, that doesn't matter really what you call it. And then I'm going to take message and I'm going to say, var upperMessage = message.toUpperCase. And then I'm just going to console log out, upperMessage. 	
+Now when I run this, I run upperMessage, but I pass in, here is a message. I can pass any message in that I want and it will make it uppercase. Still not super interesting, but it's something that shows us how this actually works.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+So over here when I run this, my message is turned into uppercase because that's what that function does. It takes some data and does something to it. And beyond that, we could do something like add numbers together. Again, not super exciting, but we could pass in two parameters here. On number one and on number two, we could add them together and then console log them out. And you would run this by using addNums, and you would pass in whatever two numbers you want to add there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+
+Let's give it a try real quick. Function addNums. We're going to pass in num1 and num2. I like putting these extra spaces in here even though that's kind of not the standard, but I think it makes it easier to read for me. All right, so I'm going to make var sum = num1 + num2. In here, we're using the plus sign to actually do addition, that's what we want it to do. And then I'm going to console.log sum. 
+Meanwhile, I'm going to comment that out so we don't get that running as well. And then down here, I just need to run it with whatever numbers I want to add, addNums, 329, 419. Sure, you could  probably do that in your head fairly quickly. But why bother? We can have JavaScript do it for us, right? So, if we're going to learn how to do this JavaScript stuff, it might as well do something useful, like add those numbers together to get 728. Maybe not super useful, but you get the idea. And that's a really powerful thing about JavaScript is we can pass in the passing data through these variables here, that we can then work with within our function. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+The next thing to talk about is returning data. So far our functions have just done one thing, they've printed out to the console log, because that's really all we have for right now. We will be doing more interesting things, I promise. But for right now, what we have is to print out to the console log. 
+But we can make functions that return something. And that in this case, it looks subtle. The difference is subtle because in the end, what we have is the console. So we're printing to the console. But here I've updated my function, I'm calling it return sum. And instead of just printing to the console, and returning the sum of these two numbers, and then I can console log that out. Again, it's just going to the console, so the end result isn't all that different. But there is a subtle but important difference between these two things. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+Let's do this quickly. I'm going to come over here and I'm going to copy my addNumbs function, and paste it, comment that previous code out for a moment. And instead call this, returnSum, num1, num2. But instead of console logging it out, I'm going to return it as a variable, sum. So its going to return the value here. And then it's just going to the console log because that's all I've got access to at the moment. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+<img src="./images/imageXXX.png?raw=true"
+  width="45%"
+  alt="." />
+</p>
+
+We'll be doing more stuff later. And I can run inside the console.log, returnSum and I can put a 3 and a, 5 in there, whatever. And you'll see, when I run this, Over here, assuming I typed that all right. Then, in fact, they get an eight, and it's still going to the console. 
+So you might wonder, well, what's the big deal here? What's the difference here between returning the sum and just having it print out the finished thing here? The analogy that I like to use is one, where you're washing your clothes. If you happen to have a washer and a dryer, you have two machines and those machines work together. So you put your dirty clothes in the washing machine. So you're feeding it in dirty clothes, dirty laundry, and you're putting in soap and you're putting in water in the washing machine, agitates it all, and runs it all together. And what it returns to you are clean, wet clothes, which you then put into a dryer, and the dryer will then do its function which will tumble the clothes with air, hot air maybe, and then returned to you clean, dry clothes. So you can think of returning as a machine doing something and processing something, doing something to it, and then returning the result to you so that you can then turn it over to another machine that has its special features and does what it needs to do.
+2.21 Useful Example – Step 1 (6:21)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+Let's take a look at a useful example. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  width="50%"
+  alt="." />
+</p>
+
+This will show us something that a function can do for us in JavaScript right now, and that we could use in some programs that we write. That is for generating random numbers. Try this out. JavaScript has a random number generator, and I'm going to just give this a try over here on my file. 
+  
+I'm just going to console.log math with a capital M dot random (Math.random). We'll talk more about what that means in a little bit. But math random is going to generate a random number. If I go over to my browser and run it, you see that I get a number, I can keep refreshing my screen and I'll keep getting numbers. 
+ 
+The numbers that I get will be from zero all the way down to 0.00000000, all the way up to almost one. You saw a minute ago I got a 9.9 something or other. It won't go all the way to one. It'll go to up to 0.999999999. But it won't go all the way to one. It could go all the way to zero, but it won't go all the way to one. But it's somewhere in there. What if I wanted random integers? What if I wanted to get a random number between say, 10 and 52 or something like that, how would I do that? I need to write a function to do that in JavaScript because the random number generator in JavaScript generates random numbers between zero and almost one. Zero inclusive, one exclusive. But if I was playing a game of cards and I had numbered my cards one through 52, and I wanted to make sure I could pick a random card, I would need to be able to pull out a 26, not as 0.35979558399127143. That's not very helpful. I need to figure that out. 
+Before we go forward with this, I should mention that the random number generator in JavaScript is not truly random. It's using an algorithm to generate the random number and it's random enough for our purposes, but it's not a truly random number. And if you're making a game that was making a program that really needed to be random, like a lottery generator or something like that, you would want to use something other than the built-in random number generator. But for our purposes is random enough. That's worth mentioning as well. 
+ 
+Here's our first step in creating our random integer generator, is we're going to make a function called randomInt, and we're going to pass in a minimum number that we want to get, and a maximum number that we want to get in our random integer generator. 
+To start with, we need to know how many values we think we should be able to get. I'm going to make a variable called number of values (numOfValues) and it's going to take max and it's going to subtract min, and it's going to add 1 to it. Think of it like this; if I were to run this function with five and 10, if I wanted to get a random number that was between five and 10 and included five and 10, the numbers I could get are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10, and subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how this actually works. 
+   
+Let's go ahead and go over to our code editor and start writing this function. I'm going to make a function called randomInt, and it's going to take a min and a max. I'm going to have a variable here, var numOfValues. That's going to be the max minus the min plus 1. Then I can just console.log out this number of values just to make sure it's working right. console.log. 
+When you're working with programming, you want to do this. You want to just check everything as many places as you possibly can just to make sure you're getting what you think you're getting. NumOfValues. I'm going to console.log that out. Then down here I'm going to run this function, randomInt. Then put in a five. I'm going to put in 10. We'll see, we should get a six. That's what we should get. Let's go over and check that. Sure enough, I'm getting a six because the possible values, if I'm going to include, I'm going to say I want random numbers from 5-10. I want to include five and 10, so I could get a 5, a 6, a 7, an 8, a 9 or 10, that's six possible values. Step 1 of this is correct. Then, we'll go on from there to the next step.
+2.22 Useful Example – Steps 2-4 (6:05)
+ 
+In the second step for a random integer generator, I'm going to actually generate my random number. 
+ 
+RandomNum here is going to be between zero and one. I'm going to take that and multiply it by the number of values and see what I get. 
+   
+Let's go ahead and add this to our function over here. We've got that in there, we can get rid of this. We know that that's working, so we know that's all good. But now I'm going to get var randomNum and have that equal Math.random. That's going to generate my random number. Then I'm going to say randomVal. I'm going to take var randomVal and have that equal randomNum times number of values. Let's just see what that gets us. console.log (randomVal).
+Let's go over here and run that. Now, that's getting me numbers that are between zero and six. It won't go all the way up to six. It will get me to five point something other, but it won't go all the way up to six, and that's interesting. 
+   
+Let's see what we need to do next. Next, I'm going to use the Math.floor method to round down my random number. Now, that should get me a whole number between zero and five. I'm going to use the Math.floor and pass in this random value here. This is my number with all the decimal points. 
+Let's give that a try over here. I'm going to get rid of this console.log, I don't really need that one anymore. But instead, I'm going to do var roundedRandomVal. A long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, will round it up, short for ceiling, if that makes sense. Then I'm going to pass in their randomVal. Once again, just to see what my progress is, I'm going to console.log (roundedRandomVal). You saw I didn't have to actually type that, I just press tab because it came up in Visual Studio code. That will prevent me from getting these long variable names wrong. 
+ 
+Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 5-10, they're between zero and 5. Now, what we can do next is we can get our final number, and we're going to take the min and add it to that randomVal. 
+   
+For example, if our random number gave us a zero and we add five to it, we'll get a five. If we got a one and we add five to it, we'll get a six, all the way up to 10. So that will give us our random numbers between five and 10 if we add the min value to this final number here. Let's go ahead and add that in there and see what we get. Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come back and check it, and you can see now I'm getting random numbers that can go as high as 10 and as low as five, and our random number generator is actually working, which is great.
+2.23 Useful Example – Step 5
+ 
+In the next step, we're going to make our random number generator, our random integer generator a little bit more useful. 
+ 
+We can generate random numbers, but the only thing we can do with these random numbers is see them pop up in the console, which is really not very useful. If I wanted to actually take this generated number and do something with it, I can't. All this function does currently is print out to the console. What we could do instead, is we could return the final number. 
+  
+Here, now we can return the final number and we could actually use this function somewhere useful. For example, if I had an array var foods equals square bracket cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine. We could add more things to the list. But if I wanted to randomly get an element from this array, because randomInt returns a number, I know this starts with zero, 0, 1, 2, 3, so I want a random number from 0-3 in this case. 
+So I could come down here and I could say console.log. Let's say foods square brackets, and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is going to be, because it returns final number, it's going to be a zero, a one, a two, or a three. So console.log foods randomInt, 0, 3 is going to go into the array and get me either a cheese, a chicken, or grapes, or hamburgers. 
+ 
+Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I got grapes, and then I got chicken.. I can actually use my random number generator to actually do something with another program. 
+ 
+You can think of this randomInt, because this thing returns a random number, I can use that within my tool here to get something out of this array. 
+Going back to the washing machine and dryer example, this is my washing machine. It's returning to me a processed number that I can then use with foods to do something. I don't know. It's not that interesting, but it's a little bit more interesting than what we've been doing so far. 
+ 
+ 
+One last thing to look at and think about for this is that this function is pretty long. We could refactor it. What we want to return is really this Math.floor randomVal. I'm going to take that, I'm going to stick it down here. Did I select that right? There we go. I'm going to return ran, I'm going to do that. I'm going to put that in its own set of parentheses, max-min times my Math.random. I'm going to do that, and then outside of this, I'm going to add plus min. I'm going to take Math.floor. I'm going to take my max, subtract my min, and add 1. Multiply that by Math.random. I'm going to round that down and add min. Let's see if I did that right. Over here, if I run this again, I am still getting my items here. This is a shortened version of all of this stuff. 
+ 
+Now, you might look at this and go, "Well, I don't really understand what's going on here." That's a great place for a comment. Here you could say something like, "Creating a random integer from min and max." Or you can put a more explicit statement in here. Sometimes taking a big chunk of code and reducing it down to one line can be difficult to understand exactly what it's doing later. But in this case, I like it. Because if you were to go looking around on the web for a random integer generator for JavaScript, you'll get functions that look like this. You'll find them on Stack Overflow and other places. Sometimes these one-line statements where everything is reduced down become very difficult to read and understand exactly what they're doing. That allows us to create a random integer generator that we then refactor down into one line of code. But by walking through the steps, you could see each step along the way and how that actually worked.
+2.24 More on Functions (10:00)
+ 
+We have a few more things to talk about in terms of functions before we're done with this lesson. 
+ 
+The next thing is, that functions in JavaScript can be anonymous. One of the important things to understand about the way functions work in JavaScript, is that, functions are first-class citizens in JavaScript. Which means, you can assign a function to a variable, the way you could assign a string to a variable or a number to a variable. In fact, you can use a function wherever you can use data in JavaScript, and it's one of the very powerful features of JavaScript. 
+If you'll recall, we talked earlier about the fact that JavaScript has some features that are really best in class features, for any programming language, and this is one of them. This is really a very powerful feature of JavaScript. You can actually assign a function to a variable, and that function doesn't have to have a name. It can be nameless, it can be anonymous. There are times when this is very useful, especially if you're making a function that's really only going to be used once or in one context. Then, there's really not a reason to create a named function if you're not going to use that name over and over and over again are in different places in your script. Function expressions are useful for that. They're useful for other things as we get into more sophisticated JavaScript. For right now, I just want you to be aware of what they are. We won't be using them much for a while, but eventually, you'll be using function expressions if you keep working with JavaScript. 
+
+var greetings = function(){
+console.log(“Hello from the function!”);
+}
+
+	greeting();
+
+Produces this anonomous unnamed function assigned to the variable greeting. 
+
+Let's actually see what this looks like in our code over here. I'm going to come over to my editor here and I'm going to leave that, that's all fine. I'm going to make a variable called "greeting" and I'm going to assign it a function. You'll see that this function doesn't have a name, it's just an anonymous function, and we could do whatever we want in here. I'm going to just for right now, just do console.log " hello from the function". My slide has something a little bit more sophisticated down there, but for right now, this will just do for us, just to see what this does. 
+Then, in order to call this function again, remember we have to invoke the function, we have to call it or run it. I run "greeting" as if it were a function, which seems weird, but that's the way it works in JavaScript. Greeting parentheses. We run that like a function. 
+Now, if I come over to my console over here and run this, I'm getting "hamburgers" again, then I'm getting "Hello from the function". That function is actually running. That's important to understand. Again, this is called a function expression, and it's because functions are first-class citizens in JavaScript that we're able to assign a function to a variable just as if it were data. 
+ 
+The next thing to understand about functions in JavaScript, and I'm not going to demonstrate this now, but I just want to call your attention to it, because if you're looking on stack overflow, if you're looking up scripts online and seeing other kinds of things, you will see arrow functions. This is again part of ESX or ES 2015. It brought this new syntax and we'll come to it, not in this course, but in the third course, we'll actually start working with arrow functions. I want to mention them now because you'll see them around and when you look at them, you'll look at them and go, what's this? We haven't done this in JavaScript yet. I just want you to be aware that it's just a slightly different syntax for writing functions. 
+
+Here, I have a function that should look fairly familiar. I've got a greeting, "Hello, and Good Morning". Then I've got function "capitalized" and I'm passing in a string, and then I take that string and uppercase it, and then I return in a string. This function is going to return the string upper cased. This should be fairly familiar from doing this lesson. So far we've seen this kind of thing and that's not too different from what we've seen. Whereas here, we're using the function expression, I have a variable called "Capitalized Expression". That has an anonymous function that takes a string and then it takes that string and makes it uppercase and returns it. So this variable will become the uppercase string that gets passed in when it's run. That's the function expression that we saw just a few minutes ago. 
+Now, when we use the arrow functions, the arrow functions is a different syntax for a function expression. In fact, sometimes they're officially called arrow function expressions. We can make a variable capitalize arrow in any string, and then instead of the word function, we can just put in this equal sign and the greater than sign to make an arrow. We can take anyString and uppercase and return that. This becomes one line, which is one of the reasons why these arrow functions have become popular, is they really do lead to shorter code and less syntax to have to deal with. Although when you look at them, it can be a little bit harder to understand exactly what's going on here. 
+But all three of these functions are actually doing the same thing. They will all return the exact same data. Again, we'll get to the arrow functions later in the third course, but for right now, I just want you to be aware that they exist and that really they're just a different syntax for writing functions. 
+ 
+The last thing that we need to talk about in terms of our lesson today on functions is the difference between functions and methods in JavaScript. It can be a little bit confusing because these two terms are basically interchangeable in JavaScript, and you've already heard me use the term method sometimes and functions other times. It's helpful to know a little bit about what the two terms mean and why they're interchangeable. 
+ 
+Essentially in JavaScript, when you have a function that belongs to an object, it's called a method. For example, we have the string object and there are functions that belong to string objects like toUpperCase or toLowerCase, and when we have a function like that that belongs to the string object, it's called the toUpperCase method, because it belongs to the string object. Or another example, with arrays we have the push method, which is a function that belongs to the array object. So when we push something into array, we're using the push method and we use the term method for that. 
+Now, in reality in JavaScript, everything is an object so in that sense, every function belongs to an object of one sort or another. In fact, earlier on in this lesson, we wrote a function called doStuff. But doStuff, since it doesn't explicitly belong to some other object, it does belong to the window, and you could actually write window.doStuff and that will actually work. 
+  
+If we go back to our code here, and I come in here and put window.doStuff, you'll see if I save that and come back and test it over here, it actually functions. Because ultimately my doStuff function belongs to the window object. 
+Now, if a function belongs to the window object, we don't often do this. Occasionally we do, but very rarely will we put window.doStuff in there, we'll just call doStuff. In that case, we'll call it a function. But when a function more explicitly is set to work with a particular object, we're more likely to call it a method. So that's where the difference in terminology comes from. But in reality, in JavaScript all functions are methods. So the two terms really are interchangeable. If you hear the term method and you're confused by that, just think, Oh yeah, that's a function, and that's fine. We've learned a lot about functions in this lesson, and you've already learned a lot of JavaScript. 
+Along with the challenges, you'll get good at the JavaScript syntax and you'll get good at being able to make simple programs function. From here we get to start doing some much more interesting things where we start working with content on web pages and manipulating web pages. So this course only gets more fun from here. So stick with it and keep working on the lessons, and I can't wait to see you in the next one.
+•	2.24.JS-Functions (shortcut)  https://www.w3schools.com/js/js_functions.asp
+•	2.24.JS-FunctionChallenges-10thru16.pdf (download)
+https://www.w3schools.com/js/js_functions.asp
+
+Week Three: 
 
 
 
