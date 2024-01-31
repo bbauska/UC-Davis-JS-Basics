@@ -3,7 +3,7 @@ title: |
   University of California @Davis JavaScript Basics
   by William Mead, Lecturer - UC-Davis
 author: "bbauska"
-date last editted: "1/31/2024 11+am"
+date last editted: "1/30/2024 6+pm"
 output: 
   markdown:
     with some style
@@ -4506,28 +4506,28 @@ that we could use in some programs that we write. That is for generating random 
 Try this out. JavaScript has a random number generator, and I'm going to just give this 
 a try over here on my file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 271/272.  (155) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 271/272. math.random number generator (0-.999999999) (155) ~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image271.png?raw=true"
   width="45%"
-  alt="." />
+  alt="Math.random number generator (0-.999999999)." />
 <img src="./images/image272.png?raw=true"
   width="45%"
-  alt="." />
+  alt="Math.random number generator (0-.999999999)." />
 </p>
 
-I'm just going to console.log math with a capital M dot random (Math.random). We'll talk 
+I'm just going to console.log Math with a capital M dot random (Math.random). We'll talk 
 more about what that means in a little bit. But math random is going to generate a random 
 number. If I go over to my browser and run it, you see that I get a number, I can keep 
 refreshing my screen and I'll keep getting numbers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image273.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Test, Functions in JavaScript." />
 </p>
 
 The numbers that I get will be from zero all the way down to 0.00000000, all the way up 
@@ -4616,7 +4616,8 @@ In the second step for a random integer generator, I'm going to actually generat
   width="50%"
   alt="Useful Example - Step 2." />
 </p>
-RandomNum here is going to be between zero and one. I'm going to take that and multiply it by the number of values and see what I get. 
+RandomNum here is going to be between zero and one. I'm going to take that and multiply 
+it by the number of values and see what I get. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 279/280.  (159) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4628,8 +4629,15 @@ RandomNum here is going to be between zero and one. I'm going to take that and m
   width="45%"
   alt="." />
 </p>
-Let's go ahead and add this to our function over here. We've got that in there, we can get rid of this. We know that that's working, so we know that's all good. But now I'm going to get var randomNum and have that equal Math.random. That's going to generate my random number. Then I'm going to say randomVal. I'm going to take var randomVal and have that equal randomNum times number of values. Let's just see what that gets us. console.log (randomVal).
-Let's go over here and run that. Now, that's getting me numbers that are between zero and six. It won't go all the way up to six. It will get me to five point something other, but it won't go all the way up to six, and that's interesting. 
+Let's go ahead and add this to our function over here. We've got that in there, we can 
+get rid of this. We know that that's working, so we know that's all good. But now I'm 
+going to get var randomNum and have that equal Math.random. That's going to generate my 
+random number. Then I'm going to say randomVal. I'm going to take var randomVal and have 
+that equal randomNum times number of values. Let's just see what that gets us. 
+console.log (randomVal).
+Let's go over here and run that. Now, that's getting me numbers that are between zero 
+and six. It won't go all the way up to six. It will get me to five point something other, 
+but it won't go all the way up to six, and that's interesting. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 281/282.  (159) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4641,9 +4649,20 @@ Let's go over here and run that. Now, that's getting me numbers that are between
   width="45%"
   alt="." />
 </p>
-Let's see what we need to do next. Next, I'm going to use the Math.floor method to round down my random number. Now, that should get me a whole number between zero and five. I'm going to use the Math.floor and pass in this random value here. This is my number with all the decimal points. 
+Let's see what we need to do next. Next, I'm going to use the Math.floor method to round 
+down my random number. Now, that should get me a whole number between zero and five. I'm 
+going to use the Math.floor and pass in this random value here. This is my number with 
+all the decimal points. 
 
-Let's give that a try over here. I'm going to get rid of this console.log, I don't really need that one anymore. But instead, I'm going to do var roundedRandomVal. A long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, will round it up, short for ceiling, if that makes sense. Then I'm going to pass in their randomVal. Once again, just to see what my progress is, I'm going to console.log (roundedRandomVal). You saw I didn't have to actually type that, I just press tab because it came up in Visual Studio code. That will prevent me from getting these long variable names wrong. 
+Let's give that a try over here. I'm going to get rid of this console.log, I don't 
+really need that one anymore. But instead, I'm going to do var roundedRandomVal. A 
+long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a 
+method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, 
+will round it up, short for ceiling, if that makes sense. Then I'm going to pass in 
+their randomVal. Once again, just to see what my progress is, I'm going to console.log 
+(roundedRandomVal). You saw I didn't have to actually type that, I just press tab 
+because it came up in Visual Studio code. That will prevent me from getting these 
+long variable names wrong. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. useful example - step 4 (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4652,7 +4671,9 @@ Let's give that a try over here. I'm going to get rid of this console.log, I don
   width="50%"
   alt="Useful Example - Step 4." />
 </p>
-Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 5-10, they're between zero and 5. Now, what we can do next is we can get our final number, and we're going to take the min and add it to that randomVal. 
+Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 
+5-10, they're between zero and 5. Now, what we can do next is we can get our final 
+number, and we're going to take the min and add it to that randomVal. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 284/285.  (160) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4664,7 +4685,14 @@ Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're n
   width="45%"
   alt="." />
 </p>
-For example, if our random number gave us a zero and we add five to it, we'll get a five. If we got a one and we add five to it, we'll get a six, all the way up to 10. So that will give us our random numbers between five and 10 if we add the min value to this final number here. Let's go ahead and add that in there and see what we get. Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come back and check it, and you can see now I'm getting random numbers that can go as high as 10 and as low as five, and our random number generator is actually working, which is great.
+For example, if our random number gave us a zero and we add five to it, we'll get a 
+five. If we got a one and we add five to it, we'll get a six, all the way up to 10. 
+So that will give us our random numbers between five and 10 if we add the min value 
+to this final number here. Let's go ahead and add that in there and see what we get. 
+Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come 
+back and check it, and you can see now I'm getting random numbers that can go as high 
+as 10 and as low as five, and our random number generator is actually working, which 
+is great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 2.23 Useful Example – Step 5
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4675,7 +4703,8 @@ For example, if our random number gave us a zero and we add five to it, we'll ge
   width="50%"
   alt="2.23. Useful Example - Step 5." />
 </p>
-In the next step, we're going to make our random number generator, our random integer generator a little bit more useful. 
+In the next step, we're going to make our random number generator, our random integer 
+generator a little bit more useful. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 287. useful example - step 5 (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4684,7 +4713,11 @@ In the next step, we're going to make our random number generator, our random in
   width="50%"
   alt="." />
 </p>
-We can generate random numbers, but the only thing we can do with these random numbers is see them pop up in the console, which is really not very useful. If I wanted to actually take this generated number and do something with it, I can't. All this function does currently is print out to the console. What we could do instead, is we could return the final number. 
+We can generate random numbers, but the only thing we can do with these random numbers 
+is see them pop up in the console, which is really not very useful. If I wanted to 
+actually take this generated number and do something with it, I can't. All this function 
+does currently is print out to the console. What we could do instead, is we could return 
+the final number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 288/289.  (162) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4696,75 +4729,81 @@ We can generate random numbers, but the only thing we can do with these random n
   width="45%"
   alt="." />
 </p>
-Here, now we can return the final number and we could actually use this function somewhere useful. For example, if I had an array var foods equals square bracket cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine. We could add more things to the list. But if I wanted to randomly get an element from this array, because randomInt returns a number, I know this starts with zero, 0, 1, 2, 3, so I want a random number from 0-3 in this case. 
-So I could come down here and I could say console.log. Let's say foods square brackets, and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is going to be, because it returns final number, it's going to be a zero, a one, a two, or a three. So console.log foods randomInt, 0, 3 is going to go into the array and get me either a cheese, a chicken, or grapes, or hamburgers. 
+Here, now we can return the final number and we could actually use this function 
+somewhere useful. For example, if I had an array var foods equals square bracket 
+cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine. 
+We could add more things to the list. But if I wanted to randomly get an element 
+from this array, because randomInt returns a number, I know this starts with zero, 
+0, 1, 2, 3, so I want a random number from 0-3 in this case. 
+So I could come down here and I could say console.log. Let's say foods square brackets, 
+and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is 
+going to be, because it returns final number, it's going to be a zero, a one, a two, 
+or a three. So console.log foods randomInt, 0, 3 is going to go into the array and 
+get me either a cheese, a chicken, or grapes, or hamburgers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 290.  (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image289.png?raw=true"
+<img src="./images/image290.png?raw=true"
   width="50%"
   alt="." />
 </p>
-Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I got grapes, and then I got chicken.. I can actually use my random number generator to actually do something with another program. 
+Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I 
+got grapes, and then I got chicken.. I can actually use my random number generator to 
+actually do something with another program. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 291.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image291.png?raw=true"
   width="50%"
   alt="." />
 </p>
 You can think of this randomInt, because this thing returns a random number, I can use that within my tool here to get something out of this array. 
 Going back to the washing machine and dryer example, this is my washing machine. It's returning to me a processed number that I can then use with foods to do something. I don't know. It's not that interesting, but it's a little bit more interesting than what we've been doing so far. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image292.png?raw=true"
   width="50%"
   alt="." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 293.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image293.png?raw=true"
   width="50%"
   alt="." />
 </p>
  
 One last thing to look at and think about for this is that this function is pretty long. We could refactor it. What we want to return is really this Math.floor randomVal. I'm going to take that, I'm going to stick it down here. Did I select that right? There we go. I'm going to return ran, I'm going to do that. I'm going to put that in its own set of parentheses, max-min times my Math.random. I'm going to do that, and then outside of this, I'm going to add plus min. I'm going to take Math.floor. I'm going to take my max, subtract my min, and add 1. Multiply that by Math.random. I'm going to round that down and add min. Let's see if I did that right. Over here, if I run this again, I am still getting my items here. This is a shortened version of all of this stuff. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 294.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image294.png?raw=true"
   width="50%"
   alt="." />
 </p>
 Now, you might look at this and go, "Well, I don't really understand what's going on here." That's a great place for a comment. Here you could say something like, "Creating a random integer from min and max." Or you can put a more explicit statement in here. Sometimes taking a big chunk of code and reducing it down to one line can be difficult to understand exactly what it's doing later. But in this case, I like it. Because if you were to go looking around on the web for a random integer generator for JavaScript, you'll get functions that look like this. You'll find them on Stack Overflow and other places. Sometimes these one-line statements where everything is reduced down become very difficult to read and understand exactly what they're doing. That allows us to create a random integer generator that we then refactor down into one line of code. But by walking through the steps, you could see each step along the way and how that actually worked.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 2.24 More on Functions (10:00)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 295.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image295.png?raw=true"
   width="50%"
   alt="." />
 </p>
 We have a few more things to talk about in terms of functions before we're done with this lesson. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 296.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image296.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4783,19 +4822,46 @@ Let's actually see what this looks like in our code over here. I'm going to come
 Then, in order to call this function again, remember we have to invoke the function, we have to call it or run it. I run "greeting" as if it were a function, which seems weird, but that's the way it works in JavaScript. Greeting parentheses. We run that like a function. 
 Now, if I come over to my console over here and run this, I'm getting "hamburgers" again, then I'm getting "Hello from the function". That function is actually running. That's important to understand. Again, this is called a function expression, and it's because functions are first-class citizens in JavaScript that we're able to assign a function to a variable just as if it were data. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 297.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image297.png?raw=true"
   width="50%"
   alt="." />
 </p>
-The next thing to understand about functions in JavaScript, and I'm not going to demonstrate this now, but I just want to call your attention to it, because if you're looking on stack overflow, if you're looking up scripts online and seeing other kinds of things, you will see arrow functions. This is again part of ESX or ES 2015. It brought this new syntax and we'll come to it, not in this course, but in the third course, we'll actually start working with arrow functions. I want to mention them now because you'll see them around and when you look at them, you'll look at them and go, what's this? We haven't done this in JavaScript yet. I just want you to be aware that it's just a slightly different syntax for writing functions. 
+The next thing to understand about functions in JavaScript, and I'm not going to 
+demonstrate this now, but I just want to call your attention to it, because if you're 
+looking on stack overflow, if you're looking up scripts online and seeing other kinds 
+of things, you will see arrow functions. This is again part of ESX or ES 2015. It brought 
+this new syntax and we'll come to it, not in this course, but in the third course, we'll 
+actually start working with arrow functions. I want to mention them now because you'll 
+see them around and when you look at them, you'll look at them and go, what's this? We 
+haven't done this in JavaScript yet. I just want you to be aware that it's just a 
+slightly different syntax for writing functions. 
 
-Here, I have a function that should look fairly familiar. I've got a greeting, "Hello, and Good Morning". Then I've got function "capitalized" and I'm passing in a string, and then I take that string and uppercase it, and then I return in a string. This function is going to return the string upper cased. This should be fairly familiar from doing this lesson. So far we've seen this kind of thing and that's not too different from what we've seen. Whereas here, we're using the function expression, I have a variable called "Capitalized Expression". That has an anonymous function that takes a string and then it takes that string and makes it uppercase and returns it. So this variable will become the uppercase string that gets passed in when it's run. That's the function expression that we saw just a few minutes ago. 
-Now, when we use the arrow functions, the arrow functions is a different syntax for a function expression. In fact, sometimes they're officially called arrow function expressions. We can make a variable capitalize arrow in any string, and then instead of the word function, we can just put in this equal sign and the greater than sign to make an arrow. We can take anyString and uppercase and return that. This becomes one line, which is one of the reasons why these arrow functions have become popular, is they really do lead to shorter code and less syntax to have to deal with. Although when you look at them, it can be a little bit harder to understand exactly what's going on here. 
-But all three of these functions are actually doing the same thing. They will all return the exact same data. Again, we'll get to the arrow functions later in the third course, but for right now, I just want you to be aware that they exist and that really they're just a different syntax for writing functions. 
+Here, I have a function that should look fairly familiar. I've got a greeting, "Hello, 
+and Good Morning". Then I've got function "capitalized" and I'm passing in a string, 
+and then I take that string and uppercase it, and then I return in a string. This 
+function is going to return the string upper cased. This should be fairly familiar from 
+doing this lesson. So far we've seen this kind of thing and that's not too different 
+from what we've seen. Whereas here, we're using the function expression, I have a 
+variable called "Capitalized Expression". That has an anonymous function that takes 
+a string and then it takes that string and makes it uppercase and returns it. So this 
+variable will become the uppercase string that gets passed in when it's run. That's the 
+function expression that we saw just a few minutes ago. 
+Now, when we use the arrow functions, the arrow functions is a different syntax for a 
+function expression. In fact, sometimes they're officially called arrow function 
+expressions. We can make a variable capitalize arrow in any string, and then instead 
+of the word function, we can just put in this equal sign and the greater than sign to 
+make an arrow. We can take anyString and uppercase and return that. This becomes one 
+line, which is one of the reasons why these arrow functions have become popular, is 
+they really do lead to shorter code and less syntax to have to deal with. Although 
+when you look at them, it can be a little bit harder to understand exactly what's 
+going on here. 
+But all three of these functions are actually doing the same thing. They will all 
+return the exact same data. Again, we'll get to the arrow functions later in the 
+third course, but for right now, I just want you to be aware that they exist and 
+that really they're just a different syntax for writing functions. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
