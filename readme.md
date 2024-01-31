@@ -3,7 +3,7 @@ title: |
   University of California @Davis JavaScript Basics
   by William Mead, Lecturer - UC-Davis
 author: "bbauska"
-date last editted: "1/21/2024 11+am"
+date last editted: "1/30/2024 6+pm"
 output: 
   markdown:
     with some style
@@ -16,7 +16,6 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / UC Davis log (01) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
   width="20%"
@@ -3638,7 +3637,7 @@ Here is a resource related to these lessons:
 <!--~~~~~~~~~~~~~~~~~~~~~~ 211. definition: structured programming (122) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image211.png?raw=true"
-  width="40%"
+  width="50%"
   alt="Definition Structured Programming; Sequence, selection &amp; loop." />
 </p>
 
@@ -3744,7 +3743,6 @@ into uppercase, and then I can <b>console.log</b> that out and assign it to
 this and <b>console.log</b> that out. That works really great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. test, sequence part 1 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image217.png?raw=true"
   width="50%"
@@ -3773,7 +3771,9 @@ That works great. Let&apos;s see, what should we do next.
   alt="." />
 </p>
 
-What, we're going to do first here is we're going to pull out the word ''really''. So I'm going to make a variable called reallyLocation, and I'm going to use the search method to find out where this word ''really'' in my string starts. 
+What, we're going to do first here is we're going to pull out the word ''really''. 
+So I'm going to make a variable called reallyLocation, and I'm going to use the search 
+method to find out where this word ''really'' in my string starts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3798,8 +3798,6 @@ going to do is it's going to pull out into this variable, special word, the word
 ''really''. It's going to start at five from myString and get six characters.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 222/223.  (127) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image222.png?raw=true"
   width="45%"
@@ -3809,12 +3807,11 @@ going to do is it's going to pull out into this variable, special word, the word
   alt="." />
 </p>
 
-
-So let's do that. Var specialWord equals string.substring, and I'm going to start with reallyLocation and get six characters. If I console log special word, you'll see that what that's getting for me. It's myString.
+So let's do that. Var specialWord equals string.substring, and I'm going to start 
+with reallyLocation and get six characters. If I console log special word, you'll 
+see that what that's getting for me. It's myString.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 224/225.  (127) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image224.png?raw=true"
   width="45%"
@@ -3823,197 +3820,260 @@ So let's do that. Var specialWord equals string.substring, and I'm going to star
   width="45%"
   alt="." />
 </p>
-So I've got that, now I'm going to take specialWord and assign it back to itself, but uppercased. I'm going to say specialWord, I'm going to assign it specialWord.toUpperCase. So now it's going to be uppercase, and then what I'm going to do is I'm going to make a newString and I'm going to replace ''really'' with specialWord into the original myString here, and then I'll console log out newString. So let's do that. Var newString equals myString.replace. Which order does it go in? I'm going to replace ''really'' with specialWord. SpecialWord like so and then I'll console. console.log newString. What I should get is I am really hungry for some, so I'm getting the capital word ''really'' there. 
+
+So I've got that, now I'm going to take specialWord and assign it back to itself, 
+but uppercased. I'm going to say specialWord, I'm going to assign it 
+specialWord.toUpperCase. So now it's going to be uppercase, and then what I'm 
+going to do is I'm going to make a newString and I'm going to replace ''really'' 
+with specialWord into the original myString here, and then I'll console log out 
+newString. So let's do that. Var newString equals myString.replace. Which order 
+does it go in? I'm going to replace ''really'' with specialWord. SpecialWord like 
+so and then I'll console. console.log newString. What I should get is I am really 
+hungry for some, so I'm getting the capital word ''really'' there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-But this is a sequence, JavaScript is doing a sequence of things, one thing after another, we're just doing a sequence of things here. JavaScript goes through the script one step at a time, and we're just learning about some string methods along the way. We've learned about a few of them already, uppercase and replace and search and substring, and there's a lot more here that you can go through and learn. But that'll get you started to begin with the various string methods that are available in JavaScript for doing string surgery.
+But this is a sequence, JavaScript is doing a sequence of things, one thing after 
+another, we're just doing a sequence of things here. JavaScript goes through the 
+script one step at a time, and we're just learning about some string methods along 
+the way. We've learned about a few of them already, uppercase and replace and 
+search and substring, and there's a lot more here that you can go through and 
+learn. But that'll get you started to begin with the various string methods that 
+are available in JavaScript for doing string surgery.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-16">2.16 Sequence - Part 3, Loop (5:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image227.png?raw=true"
   width="50%"
   alt="2.16. Sequence, Part 3, Loop." />
 </p>
-For the next step in our sequence, make an array called foods and put four foods in the array. Then use the string literal syntax. 
+For the next step in our sequence, make an array called foods and put four foods 
+in the array. Then use the string literal syntax. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image228.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-So we can practice that to print out a sentence that prints to the console the variable myString, which we declared earlier, and follow that with a space and then the first element in the foods array. See if you can do that. 
+So we can practice that to print out a sentence that prints to the console the 
+variable myString, which we declared earlier, and follow that with a space and 
+then the first element in the foods array. See if you can do that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image229.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-Pause the video and see if you can do that without looking at the answer that I have next and when you're done, unpause the video and come back and we'll see how I did it. Did you get something like this? I have myString in here again, but you shouldn't need that because we already have that on our file but you should have an array and then the console.log with the template literal, takes a little getting used to the template literal thing. Let's do that part together. 
+Pause the video and see if you can do that without looking at the answer that I have 
+next and when you're done, unpause the video and come back and we'll see how I did it. 
+Did you get something like this? I have myString in here again, but you shouldn't need 
+that because we already have that on our file but you should have an array and then 
+the console.log with the template literal, takes a little getting used to the template 
+literal thing. Let's do that part together. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image230.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-So over here you can see I've added the array and then here I need to add the template literal. So I'm going to do, and the way to do this, the best way to do this is to just type the variables myString. Then I want a space and I want foods square bracket 0. But these are variables. So I'm going to come in here and add a dollar sign and a curly brace, and a curly brace. Then a dollar sign and a curly brace and the curly brace around it. If you do it that way, you'll understand it better if you always work from the inside out or the outside in, in this case, we're working from the inside out. But if you work that way, it'll make it easier for you to understand. 
+So over here you can see I've added the array and then here I need to add the template 
+literal. So I'm going to do, and the way to do this, the best way to do this is to just 
+type the variables myString. Then I want a space and I want foods square bracket 0. But 
+these are variables. So I'm going to come in here and add a dollar sign and a curly brace, 
+and a curly brace. Then a dollar sign and a curly brace and the curly brace around it. 
+If you do it that way, you'll understand it better if you always work from the inside 
+out or the outside in, in this case, we're working from the inside out. But if you work 
+that way, it'll make it easier for you to understand. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image231.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-Then over here I can actually run that and I should be getting, "I am really hungry for some cheese". So that works perfectly well. The next thing to do is to see if you can use a loop and loop through all of the elements in the array. I'm really hungry for some cheese, for some pie, for some lunch, for some breakfast. All of these elements. 
+Then over here I can actually run that and I should be getting, "I am really hungry 
+for some cheese". So that works perfectly well. The next thing to do is to see if you 
+can use a loop and loop through all of the elements in the array. I'm really hungry 
+for some cheese, for some pie, for some lunch, for some breakfast. All of these elements. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image232.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-I'm going to say var i equals 0. So I'm going to start at 0. For i is less than foods.length. Now I could stick in here a four instead of foods.length, but this is better practice. Foods.length i plus, plus. Then I'm going to console.log out this line here. We're just going to stick that in there. But instead of food 0, I'm going put an i in there because i is going to get each one of these. In fact, just so you don't get confused, I'm going to comment that line out there just so I can see that this is really working. 
+I'm going to say var i equals 0. So I'm going to start at 0. For i is less than 
+foods.length. Now I could stick in here a four instead of foods.length, but this 
+is better practice. Foods.length i plus, plus. Then I'm going to console.log out 
+this line here. We're just going to stick that in there. But instead of food 0, 
+I'm going put an i in there because i is going to get each one of these. In fact, 
+just so you don't get confused, I'm going to comment that line out there just so 
+I can see that this is really working. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image233.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-First time through the loop, i is 0, so it's going to print out, I'm really hungry for some space food square bracket 0 because i is 0, i gets incremented to one. So the second time through the loop, one is less than four because remember this is going to be a four. So it'll go through again and you'll get pie. Then the third time through the loop it's going to get breakfast, and the fourth time through the loop it's going to get lunch. Then i gets incremented to four because it's 0, 1, 2, 3. So i is going to get incremented to four, four is not less than four. So the loop will bust out. Let's see if that works. There we go. We're getting all of it there. That's great. 
-
+First time through the loop, i is 0, so it's going to print out, I'm really hungry for 
+some space food square bracket 0 because i is 0, i gets incremented to one. So the second 
+time through the loop, one is less than four because remember this is going to be a four. 
+So it'll go through again and you'll get pie. Then the third time through the loop it's 
+going to get breakfast, and the fourth time through the loop it's going to get lunch. 
+Then i gets incremented to four because it's 0, 1, 2, 3. So i is going to get incremented 
+to four, four is not less than four. So the loop will bust out. Let's see if that works. 
+There we go. We're getting all of it there. That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image234.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-Now, what if you wanted to use the for-of loop? I'm going to just comment that out. For var, eachFood of foods, something like that will work. It doesn't have to be eachFood, you could do i if you wanted to. Then in here, we're going to do the same thing. We're just going to basically take this and stick it here, but now instead of foods, this foods i, this is going to be eachFood. I'm still going to print out myString, but now this is going to be eachFood. 
+Now, what if you wanted to use the for-of loop? I'm going to just comment that out. For var, 
+eachFood of foods, something like that will work. It doesn't have to be eachFood, you could 
+do i if you wanted to. Then in here, we're going to do the same thing. We're just going to 
+basically take this and stick it here, but now instead of foods, this foods i, this is going 
+to be eachFood. I'm still going to print out myString, but now this is going to be eachFood. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image235.png?raw=true"
   width="50%"
   alt="." />
 </p>
 
-The first time through the loop, eachFood is going to be cheese. Then the second time through the loop it's going to be pie and then it's going to be breakfast, and then it's going to be lunch. We should get exactly the same results so let's go test it out to be sure. Sure enough, I get the same results.
+The first time through the loop, eachFood is going to be cheese. Then the second time through 
+the loop it's going to be pie and then it's going to be breakfast, and then it's going to be 
+lunch. We should get exactly the same results so let's go test it out to be sure. Sure enough, 
+I get the same results.
 
 <h2 id="ch2-17">2.17 Loop + Selection (8:20)<?h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image236.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
 
 Next we'll bring selection into the mix. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. loop + selection (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 237.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image237.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
 
-Now, inside our loop, we're going to check to see if the element in the loop is even or odd. If it's even, we're going to make the word for the food that we're getting out of the array all uppercase like this over here. This should be your results. I am hungry for some CHEESE, all capital letters there, and I am hungry for some pie and that one's normal, and then LUNCH is going to be uppercase. Now you might be wondering, well, wait a minute, that's not even. But remember we're starting with zero so this is zero, this is one, this is two, this is three. These two really are the even ones. 
-In JavaScript, you can determine if something is even or odd by using the modulus operator, which is the percent sign. We can figure out when we divide something and use the percent sign if the remainder is zero, then it's even if you divide something by two. 
+Now, inside our loop, we're going to check to see if the element in the loop is 
+even or odd. If it's even, we're going to make the word for the food that we're 
+getting out of the array all uppercase like this over here. This should be your 
+results. I am hungry for some CHEESE, all capital letters there, and I am hungry 
+for some pie and that one's normal, and then LUNCH is going to be uppercase. Now 
+you might be wondering, well, wait a minute, that's not even. But remember we're 
+starting with zero so this is zero, this is one, this is two, this is three. 
+These two really are the even ones. 
+In JavaScript, you can determine if something is even or odd by using the modulus 
+operator, which is the percent sign. We can figure out when we divide something 
+and use the percent sign if the remainder is zero, then it's even if you divide 
+something by two. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image238.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
 
-Let's do this together. Here I am with my loop and I got rid of the for of loop. This one's really going to work better because we already have i working as an incrementor with numbers. So we can just work with i to do this. 
+Let's do this together. Here I am with my loop and I got rid of the for of loop. 
+This one's really going to work better because we already have i working as an 
+incrementor with numbers. So we can just work with i to do this. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image239.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
 
-Initially, I'm going to add this var remainder i percent two. Now, what that's going to do is each time through the loop, it's going to take i and divide it by two and see what the remainder is. The first time through the loop, I take zero. Zero divided by two is zero. That's going to be a zero, that's even. One divided by two is not zero. Two divided by two is zero, so on and so forth. If remainder is exactly the same as zero, we could do same as, but just to be absolutely sure, exactly the same as zero. If it's exactly the same as zero, then what we're going to do is we're going to make a variable var foodUpper and assign it foods [ i ]. That's going to get that first food, whatever i is there and due toUpperCase. Then I'm going to print out basically this. But instead of foods i down there, I can print out this one here. I think that'll work. Else we'll just do this. Save that. 
+Initially, I'm going to add this var remainder i percent two. Now, what that's going to 
+do is each time through the loop, it's going to take i and divide it by two and see what 
+the remainder is. The first time through the loop, I take zero. Zero divided by two is 
+zero. That's going to be a zero, that's even. One divided by two is not zero. Two 
+divided by two is zero, so on and so forth. If remainder is exactly the same as zero, 
+we could do same as, but just to be absolutely sure, exactly the same as zero. If it's 
+exactly the same as zero, then what we're going to do is we're going to make a variable 
+var foodUpper and assign it foods [ i ]. That's going to get that first food, whatever 
+is there and due toUpperCase. Then I'm going to print out basically this. But instead 
+of foods i down there, I can print out this one here. I think that'll work. Else we'll 
+just do this. Save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. loop + selection (2.17) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image240.png?raw=true"
-  width="50%"
-  alt="2.17. Loop + Selection." />
+  width="40%"
+  alt="." />
 </p>
-Did I do it right? Let's see. Refresh my page here and look at that it's working. That's great. Did you get something like that? That's great. 
+Did I do it right? Let's see. Refresh my page here and look at that it's working. 
+That's great. Did you get something like that? That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image241.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
 
-The next thing I want to talk about is refactoring code. Often we will write code the first time and then look at it later and realize that could be a little bit simpler. I could simplify that a little bit. Refactoring code is the process of taking your code and not changing its functionality at all, but making it simpler, finding ways of making it shorter and making it more concise, making it more readable. Sometimes those things don't all go together. Sometimes making it more concise, makes it less readable. But really you're looking for the right balance of conciseness and readability when you're refactoring your code. We could take that same piece that we wrote and refactor it a little bit so that we could get rid of that extra variable here. 
+The next thing I want to talk about is refactoring code. Often we will write code the 
+first time and then look at it later and realize that could be a little bit simpler. 
+I could simplify that a little bit. Refactoring code is the process of taking your 
+code and not changing its functionality at all, but making it simpler, finding ways 
+of making it shorter and making it more concise, making it more readable. Sometimes 
+those things don't all go together. Sometimes making it more concise, makes it less 
+readable. But really you're looking for the right balance of conciseness and 
+readability when you're refactoring your code. We could take that same piece that 
+we wrote and refactor it a little bit so that we could get rid of that extra 
+variable here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242. example, refacturing code (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center" width="100%">
 <img src="./images/image242.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
-Let's do that really quickly over here. Frequently, students will tell me when they're working through my examples they'll say, "Oh, wow, I tried it and I ended up with way more code than you did. Yours is much more concise." Well, that's because I've refactored mine down quite a bit. Nobody writes it perfectly the first time so don't feel bad about that. Always just keep working at it, look for ways of taking your code and saying, you know what, this could be a little bit simpler. I'm going to take that, I'm going to save it and I'm going to just make sure that it still runs exactly the same way. 
+Let's do that really quickly over here. Frequently, students will tell me when 
+they're working through my examples they'll say, "Oh, wow, I tried it and I 
+ended up with way more code than you did. Yours is much more concise." Well, 
+that's because I've refactored mine down quite a bit. Nobody writes it perfectly 
+the first time so don't feel bad about that. Always just keep working at it, 
+look for ways of taking your code and saying, you know what, this could be a 
+little bit simpler. I'm going to take that, I'm going to save it and I'm going 
+to just make sure that it still runs exactly the same way. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4021,7 +4081,7 @@ Let's do that really quickly over here. Frequently, students will tell me when t
 <p align="center" width="100%">
 <img src="./images/image243.png?raw=true"
   width="50%"
-  alt="2.17. Loop + Selection." />
+  alt="." />
 </p>
 
 
