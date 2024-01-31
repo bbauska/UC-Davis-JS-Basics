@@ -4090,7 +4090,7 @@ Make sure I did that right, and I did, so that's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. example, make comments (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image243.png?raw=true"
+<img src="./images/image244.png?raw=true"
   width="50%"
   alt="Example, Make Comments." />
 </p>
@@ -4117,7 +4117,7 @@ along. Great, see you in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~ 245. javascript basic challenges introduction (140) ~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image245.png?raw=true"
   width="50%"
   alt="2.18. JavaScript Basic Challenges Introduction." />
 </p>
@@ -4131,7 +4131,7 @@ results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. example, challenge 1 (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image246.png?raw=true"
   width="50%"
   alt="Example, Challenge 1." />
 </p>
@@ -4143,7 +4143,7 @@ on the next line. Very basic challenge.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image247.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4155,7 +4155,7 @@ what the first thing is to do, and that's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 248. example, challenge 1 answer (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image248.png?raw=true"
   width="50%"
   alt="Example, Challenge 1 Answer." />
 </p>
@@ -4171,7 +4171,7 @@ do a few things to really help you get good at JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. camel with 2 humps (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image249.png?raw=true"
   width="50%"
   alt="Camel with 2 humps." />
 </p>
@@ -4189,7 +4189,7 @@ without looking at the answer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. example, challenge 2 (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image250.png?raw=true"
   width="50%"
   alt="Example, Challenge 2." />
 </p>
@@ -4228,7 +4228,7 @@ and I promise, you'll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 251. functions in javascript (2.19) (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image251.png?raw=true"
   width="50%"
   alt="2.19. Functions in JavaScript." />
 </p>
@@ -4238,7 +4238,7 @@ Functions in JavaScript. Functions are reusable sets of instructions.
 <!--~~~~~~~~~~~~~~~~~~~~ 252. example reusable sets of instructions (145) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image252.png?raw=true"
   width="50%"
   alt="Example, Reusable Sets of Instructions." />
 </p>
@@ -4254,7 +4254,7 @@ where functions can become very powerful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image253.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4269,7 +4269,7 @@ exercise.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (146) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image254.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4283,7 +4283,7 @@ run the function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image255.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4297,10 +4297,10 @@ nothing, because it'll be defined but it won't actually run. I have to run doStu
 <!--~~~~~~~~~~~~~~~~~ 256/257.  (147) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image256.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image257.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4314,7 +4314,7 @@ bottom. I'm going to just paste it on in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258.  (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image258.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4334,7 +4334,7 @@ supposed to do, and all that code is now inside of a function.
 <!--~~~~~~~~~~~~~~~~~~~~~ 259. passing in and returning data (2.20) (149) ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image259.png?raw=true"
   width="50%"
   alt="2.20. Passing In and Returning Data." />
 </p>
@@ -4345,7 +4345,7 @@ with that data.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. example, passing in data (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image260.png?raw=true"
   width="50%"
   alt="Example, Passing in Data." />
 </p>
@@ -4360,7 +4360,7 @@ uppercase, and console log it out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. function uppermessage (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image261.png?raw=true"
   width="50%"
   alt="function upperMessage()." />
 </p>
@@ -4376,7 +4376,7 @@ but it's something that shows us how this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. test, here  is a message (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image262.png?raw=true"
   width="50%"
   alt="Test, HERE IS A MESSAGE." />
 </p>
@@ -4391,10 +4391,10 @@ pass in whatever two numbers you want to add there.
 <!--~~~~~~~~~~~~~~~~~~~~~ 263/264. function addnums, test addnums (151) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image263.png?raw=true"
   width="45%"
   alt="Function addNums." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image264.png?raw=true"
   width="45%"
   alt="Test, addNums." />
 </p>
@@ -4415,10 +4415,10 @@ to get 728. Maybe not super useful, but you get the idea. And that's a really po
 thing about JavaScript is we can pass in the passing data through these variables here, 
 that we can then work with within our function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. example, returning data (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. example, returning data (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image264.png?raw=true"
+<img src="./images/image265.png?raw=true"
   width="50%"
   alt="Example, Returning Data." />
 </p>
@@ -4436,10 +4436,10 @@ and then I can console log that out. Again, it's just going to the console, so t
 result isn't all that different. But there is a subtle but important difference between 
 these two things. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265.  (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 266.  (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image265.png?raw=true"
+<img src="./images/image266.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4450,13 +4450,13 @@ this, returnSum, num1, num2. But instead of console logging it out, I'm going to
 it as a variable, sum. So its going to return the value here. And then it's just going 
 to the console log because that's all I've got access to at the moment. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 266/267.  (153) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 267/268.  (153) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image266.png?raw=true"
+<img src="./images/image267.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/image267.png?raw=true"
+<img src="./images/image268.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4483,20 +4483,20 @@ needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-21">2.21 Useful Example – Step 1 (6:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 268. useful example - step 1 (2.21) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 269. useful example - step 1 (2.21) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image268.png?raw=true"
+<img src="./images/image269.png?raw=true"
   width="50%"
   alt="2.21. Useful Example - Step 1." />
 </p>
 
 Let's take a look at a useful example. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 269. a useful example - generating random numbers (155) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 270. a useful example - generating random numbers (155) ~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image269.png?raw=true"
+<img src="./images/image270.png?raw=true"
   width="50%"
   alt="A Useful Example - Generating Random Numbers." />
 </p>
@@ -4506,13 +4506,13 @@ that we could use in some programs that we write. That is for generating random 
 Try this out. JavaScript has a random number generator, and I'm going to just give this 
 a try over here on my file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 270/271.  (155) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 271/272.  (155) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image270.png?raw=true"
+<img src="./images/image271.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/image271.png?raw=true"
+<img src="./images/image272.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4522,10 +4522,10 @@ more about what that means in a little bit. But math random is going to generate
 number. If I go over to my browser and run it, you see that I get a number, I can keep 
 refreshing my screen and I'll keep getting numbers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image272.png?raw=true"
+<img src="./images/image273.png?raw=true"
   width="50%"
   alt="." />
 </p>
@@ -4550,10 +4550,10 @@ a lottery generator or something like that, you would want to use something othe
 than the built-in random number generator. But for our purposes is random enough. 
 That's worth mentioning as well. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 273. example, useful example - step 1 (157) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 274. example, useful example - step 1 (157) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image273.png?raw=true"
+<img src="./images/image274.png?raw=true"
   width="50%"
   alt="Example, Useful Example - Step 1." />
 </p>
@@ -4571,13 +4571,13 @@ are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10,
 subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how 
 this actually works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 274/275.  (157) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 275/276.  (157) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image274.png?raw=true"
+<img src="./images/image275.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/image275.png?raw=true"
+<img src="./images/image276.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4600,44 +4600,44 @@ correct. Then, we'll go on from there to the next step.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-22">2.22 Useful Example – Steps 2-4 (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 276. useful example - steps 2-4 (2.22) (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 277. useful example - steps 2-4 (2.22) (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image276.png?raw=true"
+<img src="./images/image277.png?raw=true"
   width="50%"
   alt="2.22. Useful Example 2-4." />
 </p>
 In the second step for a random integer generator, I'm going to actually generate my random number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. useful example - step 2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. useful example - step 2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image278.png?raw=true"
   width="50%"
   alt="Useful Example - Step 2." />
 </p>
 RandomNum here is going to be between zero and one. I'm going to take that and multiply it by the number of values and see what I get. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 278/279.  (159) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 279/280.  (159) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image279.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image280.png?raw=true"
   width="45%"
   alt="." />
 </p>
 Let's go ahead and add this to our function over here. We've got that in there, we can get rid of this. We know that that's working, so we know that's all good. But now I'm going to get var randomNum and have that equal Math.random. That's going to generate my random number. Then I'm going to say randomVal. I'm going to take var randomVal and have that equal randomNum times number of values. Let's just see what that gets us. console.log (randomVal).
 Let's go over here and run that. Now, that's getting me numbers that are between zero and six. It won't go all the way up to six. It will get me to five point something other, but it won't go all the way up to six, and that's interesting. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 280/281.  (159) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 281/282.  (159) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image281.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image282.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4645,22 +4645,22 @@ Let's see what we need to do next. Next, I'm going to use the Math.floor method 
 
 Let's give that a try over here. I'm going to get rid of this console.log, I don't really need that one anymore. But instead, I'm going to do var roundedRandomVal. A long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, will round it up, short for ceiling, if that makes sense. Then I'm going to pass in their randomVal. Once again, just to see what my progress is, I'm going to console.log (roundedRandomVal). You saw I didn't have to actually type that, I just press tab because it came up in Visual Studio code. That will prevent me from getting these long variable names wrong. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. useful example - step 4 (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. useful example - step 4 (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image283.png?raw=true"
   width="50%"
   alt="Useful Example - Step 4." />
 </p>
 Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 5-10, they're between zero and 5. Now, what we can do next is we can get our final number, and we're going to take the min and add it to that randomVal. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 283/284.  (160) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 284/285.  (160) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image284.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image285.png?raw=true"
   width="45%"
   alt="." />
 </p>
@@ -4668,38 +4668,38 @@ For example, if our random number gave us a zero and we add five to it, we'll ge
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 2.23 Useful Example – Step 5
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 285. useful example - step 5 (2.23) (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (2.23) (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image286.png?raw=true"
   width="50%"
   alt="2.23. Useful Example - Step 5." />
 </p>
 In the next step, we're going to make our random number generator, our random integer generator a little bit more useful. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 287. useful example - step 5 (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image287.png?raw=true"
   width="50%"
   alt="." />
 </p>
 We can generate random numbers, but the only thing we can do with these random numbers is see them pop up in the console, which is really not very useful. If I wanted to actually take this generated number and do something with it, I can't. All this function does currently is print out to the console. What we could do instead, is we could return the final number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 287/288.  (162) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 288/289.  (162) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image288.png?raw=true"
   width="45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image289.png?raw=true"
   width="45%"
   alt="." />
 </p>
 Here, now we can return the final number and we could actually use this function somewhere useful. For example, if I had an array var foods equals square bracket cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine. We could add more things to the list. But if I wanted to randomly get an element from this array, because randomInt returns a number, I know this starts with zero, 0, 1, 2, 3, so I want a random number from 0-3 in this case. 
 So I could come down here and I could say console.log. Let's say foods square brackets, and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is going to be, because it returns final number, it's going to be a zero, a one, a two, or a three. So console.log foods randomInt, 0, 3 is going to go into the array and get me either a cheese, a chicken, or grapes, or hamburgers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 289.  (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 290.  (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image289.png?raw=true"
