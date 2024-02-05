@@ -10,16 +10,6 @@ output:
   markdown:
     with some style
 ---
----
-title: |
-  University of California @Davis JavaScript Basics
-  by William Mead, Lecturer - UC-Davis
-author: "bbauska"
-date last editted: "1/30/2024 6+pm"
-output: 
-  markdown:
-    with some style
----
 
 <h1 align="center">JavaScript Basics</h1>
 
