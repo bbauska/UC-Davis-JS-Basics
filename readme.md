@@ -1,7 +1,6 @@
 ---
 title: |
-  "#1 - University of California @Davis JavaScript Basics"
-  University of California @Davis JavaScript Basics
+  #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer - UC-Davis
 author: "bbauska"
 date last editted: "2/5/2024 8+am"
