@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "2/5/2024 8+am"
+date last editted: "2/6/2024 8+am"
 output: 
   markdown:
     with some style
@@ -183,6 +183,7 @@ skills.</p>
 <h2><a href="#syllabus">Syllabus - what's in store?</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Week 1</h3>
+
 <h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
 
 <p>In this module, you will be introduced to JavaScript and what it can do. You will be 
@@ -202,7 +203,8 @@ values to these variables and arrays and be able to read values from them.</p>
 <ul>
   <li>1.00.A Note From UC Davis</li>
   <li>1.00.Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">1.00.Welcome/Intro to this Course!</a></li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">
+    1.00.Welcome/Intro to this Course!</a></li>
 </ul>
 
 <ol type="1">
@@ -237,9 +239,9 @@ values to these variables and arrays and be able to read values from them.</p>
 
 <h3>Controlling Logical Flow in JavaScript</h3>
 
-<p>In this module, you will be able to download, install and use of a code editor as 
-a tool for writing code, and properly save and manage their files. You will be introduced 
-to the selection control structure. This basic control structure allows programs to follow 
+<p>In this lesson, you will be able to download, install and use a code editor as a tool 
+for writing code, and properly save and manage the files. You will be introduced to the 
+selection control structure. This basic control structure allows programs to follow 
 a path based on conditions, and is one of the three major logic and flow control structures 
 found in any modern programming language.</p>
 
@@ -249,7 +251,7 @@ of the syntax available in JavaScript to create loops. You will then be able to 
 three logical flow control structures (<b><i>sequence, selection, and loop</i></b>) together 
 to create basic JavaScript programs that can be tested.</p>
 
-<p>Finally you will be able to combine sets of program instructions into named functions 
+<p>Finally, you will be able to combine sets of program instructions into named functions 
 and create custom functions that can be called to complete the instructions they contain.</p>
 
 <h4>24 lessons/videos, 8 readings</h4>
@@ -276,7 +278,7 @@ and create custom functions that can be called to complete the instructions they
   <li>2.09.Booleans</li>
 </ul>
 
-<ol type="1" start="11">
+<ol type="1" start="10">
   <li>Loops in JavaScript</li>
   <li>Working With Arrays</li>
   <li>The For..Of Loop</li>
@@ -287,7 +289,7 @@ and create custom functions that can be called to complete the instructions they
   <li>2.13.JavaScript Loops</li>
 </ul>
 
-<ol type="1" start="15">
+<ol type="1" start="14">
   <li>Structured Programming, Sequence - Part 1</li>
   <li>Sequence - Part 2</li>
   <li>Sequence - Part 3, Loop</li>
@@ -298,7 +300,7 @@ and create custom functions that can be called to complete the instructions they
   <li>2.17.JavaScript Basic Challenges Introduction 01-09</li>
 </ul>
 
-<ol type="1" start="20">
+<ol type="1" start="18">
   <li>Functions in JavaScript</li>
   <li>Passing In and Returning Data</li>
   <li>Useful Example - Step 1</li>
@@ -308,8 +310,8 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.24.JavaScript Functions</li>
-  <li>2.24.JavaScript Function Challengs 10-16</li>
+  <li>2.23.JavaScript Functions</li>
+  <li>2.23.JavaScript Function Challengs 10-16</li>
 </ul>
 
 
