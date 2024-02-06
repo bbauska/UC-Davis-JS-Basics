@@ -3679,7 +3679,7 @@ testing values.</p>
 
 <p>JavaScript has an Else If.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. else if examples (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. examples, else if (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image160.png?raw=true"
@@ -3707,6 +3707,7 @@ what happens when you get in here. Let&#39;s type this in.</p>
 <p><img src="./images2/media/image161.png" alt="">{width=&quot;3.5in&quot;
 height=&quot;1.896207349081365in&quot;}<img src="./images2/media/image162.png" alt="">{width=&quot;3.5in&quot;
 height=&quot;1.896207349081365in&quot;}</p>
+
 <p>I&apos;m going to come back here and I&apos;m going to add, <b>Windows Alt Shift
 A</b>. And that will comment that. It&apos;ll put a comment around something
 that I&apos;ve selected. Down here I&apos;m going to make a variable for colors
@@ -3922,7 +3923,7 @@ them is false, then something else is going to have to happen.</p>
 <p align="center" width="100%">
 <img src="./images/image174.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Booleans with double pipe (or)." />
 </p>
 
 <p>Now, we can also use the double pipe. The pipe is the key on the
@@ -3962,8 +3963,8 @@ all of these false, to be starving, and there we go.</p>
 false. And that some things are <b>true-ish</b>, and some things are
 <b>false-ish</b>, or <b>falsy</b> and <b>truthy</b>. <b>0</b> is considered false in
 JavaScript, or <b>undefined</b>, or <b>null</b>, or <b>not a number</b> (<b>NaN</b>)
-is false. These are all considered false in JavaScript.</p>
-<p>And you&apos;ve already learned a lot of the basics of JavaScript, and we&apos;re going to
+is false. These are all considered false in JavaScript.
+And you&apos;ve already learned a lot of the basics of JavaScript, and we&apos;re going to
 keep going with these basics.</p>
 
 <p>And I know that these scripts don&apos;t seem
@@ -3976,14 +3977,16 @@ starving, so you should go eat something.</p>
 
 <p><ul>
   <li>2.09.Additional Resources: Reading-Materials.pdf</li>
-  <li>2.09.JavaScript-Operators <a href="https://www.w3schools.com/js/js_operators.asp">https://www.w3schools.com/js/js_operators.asp</a></li>
-  <li>2.09.JavaScript-Booleans <a href="https://www.w3schools.com/js/js_booleans.asp">https://www.w3schools.com/js/js_booleans.asp</a></li>
+  <li>2.09.JavaScript-Operators <a href="https://www.w3schools.com/js/js_operators.asp">
+    https://www.w3schools.com/js/js_operators.asp</a></li>
+  <li>2.09.JavaScript-Booleans <a href="https://www.w3schools.com/js/js_booleans.asp">
+    https://www.w3schools.com/js/js_booleans.asp</a></li>
 </ul>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><h2 id="ch2-10">2.10 Loops (6:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. loops (2.10) (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image177.png?raw=true"
   width="40%"
@@ -4155,7 +4158,7 @@ works.</p>
 <p align="center" width="100%">
 <img src="./images/image186.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Looping using length." />
 </p>
 
 <p>But generally we don&apos;t want to have to put in a number here. What&apos;s
@@ -4169,13 +4172,12 @@ make my code more general and allow me to do that thing more easily.
 Okay, so we can do that really nicely and loop through all the colors in
 the array that way.</p>
 
-<p>Another example;</p>
+<h4>Another example;</h4>
 
-<p><pre><code>
-  const fruits = &lbrack;&apos;apple&apos;, &apos;banana&apos;, &apos;orange&apos;&rbrack;;</p>
-<p>  for (const fruit of fruits) {</p>
-<pre><code>console.log(fruit)<span class="hljs-comment">;</span>
-</code></pre><p>}
+<pre><code>
+  const fruits = &lbrack;&apos;apple&apos;, &apos;banana&apos;, &apos;orange&apos;&rbrack;;
+  for (const fruit of fruits) {
+  console.log(fruit)<span class="hljs-comment">;</span>}
 </code></pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
 <p><h2 id="ch2-12">2.12 The For..Of Loop (6:06)</h2>
@@ -4245,7 +4247,7 @@ with arrays.</p>
 <p align="center" width="100%">
 <img src="./images/image191.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Example, strings as arrays." />
 </p>
 
 <p>We can also do something with strings. Remember strings can be treated
@@ -4503,39 +4505,40 @@ operations right in line with our string.</p>
   alt="Test Output, inspect incrementor." />
 </p>
 
-<p>Let&apos;s give this a try. I set
-the incrementor to i to keep it shorter here. Let&apos;s do that. Over here
-I&apos;m going to set this to just i, i is one word, we&apos;ll start it at 0.
-I&apos;m sure we&apos;ll leave it at one. Do it like this. The incrementor is i
-and the incrementor squared is i times i. But this is going to be a
-variable and so is this. This is going to be an expression. Maybe I want
-some spaces in there make that a little bit more readable. Let&apos;s go see 
-what that does. I&apos;m getting my squares over here as well.</p>
+<p>Let&apos;s give this a try. I set the incrementor to i to keep it shorter here. 
+Let&apos;s do that. Over here I&apos;m going to set this to just i, i is one word, 
+we&apos;ll start it at 0. I&apos;m sure we&apos;ll leave it at one. Do it like this. 
+The incrementor is i and the incrementor squared is i times i. But this is going to 
+be a variable and so is this. This is going to be an expression. Maybe I want some 
+spaces in there make that a little bit more readable. Let&apos;s go see what that 
+does. I&apos;m getting my squares over here as well.</p>
 
 <p>Loops are one of the fundamental building blocks in JavaScript. It&apos;s
-important to get comfortable with the syntax needed to create them. I
-recommend just sitting down and getting to the point where you can type
-out a for loop. I know that it looks a little weird at first, but you
-have to just keep working at it so you can get to the point where you
-could sit down and say, I&apos;m just going to write out a for loop and when
-you get there, then you&apos;ll know that you have the loops really down
-pat. Great, we&apos;re going to a move on to the next thing.</p>
+important to get comfortable with the syntax needed to create them. I recommend just 
+sitting down and getting to the point where you can type out a for loop. I know that 
+it looks a little weird at first, but you have to just keep working at it so you can 
+get to the point where you could sit down and say, I&apos;m just going to write out a 
+for loop and when you get there, then you&apos;ll know that you have the loops really 
+down pat. Great, we&apos;re going to a move on to the next thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><h3>Additional Resource</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--></p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Here is a resource related to these lessons:</p>
-<h3 id="2-13-javascript-loops-https-www-w3schools-com-js-js_loop_for-asp-shortcut-">2.13.<a href="https://www.w3schools.com/js/js_loop_for.asp">JavaScript Loops</a> (shortcut)</h3>
-<p><a href="https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource">https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource</a></p>
+    
+<h3 id="2-13-javascript-loops-https-www-w3schools-com-js-js_loop_for-asp-shortcut-">
+  2.13.<a href="https://www.w3schools.com/js/js_loop_for.asp">JavaScript Loops</a> (shortcut)</h3>
+
+    <p><a href="https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource">https://www.coursera.org/learn/javascript-basics/supplement/vqikT/additional-resource</a></p>
 <p><a href="https://www.w3schools.com/js/js_loop_for.asp">https://www.w3schools.com/js/js_loop_for.asp</a></p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p><h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
+<h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image210.png?raw=true"
-  width="50%"
+  width="40%"
   alt="2.14. Structured Programming - Sequence - Part 1." />
 </p>
 
@@ -4584,7 +4587,7 @@ Or you can convert it to lowercase.</p>
 <p align="center" width="100%">
 <img src="./images/image213.png?raw=true"
   width="50%"
-  alt="." />
+  alt="String Parsing Commands." />
 </p>
 
 <p>If you come to this page, you'll notice and further down the page here, but there's all 
@@ -4658,14 +4661,15 @@ that out and assign it to this and console.log that out.</p>
 One of them is lowercase, and one of them is uppercase. That works great. Let's see, 
 what should we do next.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-15">2.15 Sequence – Part 2 (5:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   width="50%"
-  alt="." />
+  alt="Sequence Part 2." />
 </p>
 
 
