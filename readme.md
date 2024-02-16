@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "2/6/2024 8+am"
+date last editted: "2/15/2024 8+pm"
 output: 
   markdown:
     with some style
@@ -18,10 +18,10 @@ output:
 <!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / UC Davis log (01) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
-  width="20%"
+  style="width:20%"
   alt="JavaScript coffee cup logo version." />
 <img src="./images/image002.png?raw=true"
-  width="20%"
+  style="width:20%"
   alt="UC Davis logo." />
 </p>
 <!-- {width="2.0in" height="1.773685476815398in"}![](./images/image002.png){width="2.0995866141732282in" height="1.77in"} -->
@@ -577,7 +577,7 @@ Coursera Honor Code</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 1 welcome to js basics (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.00. Welcome to JavaScript Basics." />
 </p>
 
@@ -618,7 +618,7 @@ learning about JavaScript in the basics of the language.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image004.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Introduction to JavaScript - Part 1." />
 </p>
 
@@ -629,7 +629,7 @@ anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image005.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Arrays in JavaScript." />
 </p>
 
@@ -639,7 +639,7 @@ with even smaller divisions in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. inspect console arrays (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image006.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Inspect console and arrays." />
 </p>
 
@@ -651,10 +651,10 @@ trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.</p
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 07/08. console inspect array elements (12) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image007.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Inspect console with array elements, #1." />
 <img src="./images/image008.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Inspect console with array elements, #2." />
 </p>
 
@@ -675,7 +675,7 @@ can use to hold groups of data, and that&apos;s very useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 09. console inspect array elements, #3 (12) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image009.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Inspect console array element, #3." />
 </p>
 
@@ -692,7 +692,7 @@ in that string. That&apos;s kind of an interesting thing to understand about arr
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. inro to javascript - part 2 (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image010.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.02. Introduction to JavaScript - Part 2." />
 </p>
 
@@ -702,7 +702,7 @@ interact with the website is this Awwwards website with the extra w&apos;s in he
 <!--~~~~~~~~~~~~~~~~~~~~~~ 11. javascript interaction: awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image011.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="JavaScript Interaction: awwwards.com website." />
 </p>
 
@@ -713,7 +713,7 @@ awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 12. taptaro example in awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image012.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="TapTaro example from awwwards.com website." />
 </p>
 
@@ -724,7 +724,7 @@ or the way these images pop in, this is all being done with JavaScript, this kin
 <!--~~~~~~~~~~~~~~~~~~~~~~ 13. javascript example, no longer there (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image013.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="NASA example from awwwards.com website.  No longer active." />
 </p>
 
@@ -735,7 +735,7 @@ some other interactions including some sounds as you work around it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 14. boyntonyards.com - awwwards.com (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image014.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Boyntonyards.com website from awwwards.com." />
 </p>
 
@@ -745,7 +745,7 @@ interactions as you&apos;re scrolling through the website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont'd (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image015.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Boyntonyards website from awwwards.com, cont'd." />
 </p>
 
@@ -757,7 +757,7 @@ websites or you&apos;ve gone off and found your own.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. why learn javascript? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image016.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Why Learn JavaScript?" />
 </p>
 
@@ -782,7 +782,7 @@ place to start with programming.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 17. 1995 - beginnings of javascript (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image017.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="1995 - The Beginnings of JavaScript." />
 </p>
 
@@ -808,7 +808,7 @@ get confused between Java and JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. javascript rough beginnings (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image018.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="JavaScript's rough beginnings." />
 </p>
 
@@ -822,7 +822,7 @@ as a language and its strengths as well as its weaknesses.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 19. javascript - the good and the bad  (19) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image019.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="JavaScript - The Good and the Bad." />
 </p>
 
@@ -850,7 +850,7 @@ it was different.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. intro to javascript - part 3 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image020.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Intro to JavaScript - Part 3." />
 </p>
 
@@ -861,7 +861,7 @@ really impacted the way that we write JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. javascript versions (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image021.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="JavaScript Versions." />
 </p>
 
@@ -929,7 +929,7 @@ learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~ 22. tools needed for success in learning javascript (23) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image022.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Tools needed for success in learning JavaScript." />
 </p>
 
@@ -939,7 +939,7 @@ learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 23. tools and skills needed for success (23) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image023.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Tools and Skills Needed for Success." />
 </p>
 
@@ -948,17 +948,17 @@ learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24/25. code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image024.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Code editor." />
 <img src="./images/image025.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Visual Studio Code editor." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. visual studio code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image026.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Visual Studio Code." />
 </p>
 
@@ -972,10 +972,10 @@ very popular these days. There are plenty of other code editors out there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27/28. atom and sublime (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image027.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Atom web editor." />
 <img src="./images/image028.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Sublime web text editor." />
 </p>
 
@@ -985,7 +985,7 @@ use that as a code editor.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. adobe dreamweaver (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image029.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Adobe's Dreamweaver Web Editor." />
 
 <p>Dreamweaver has a lot of other stuff built into it that you don&apos;t need, but it works 
@@ -994,7 +994,7 @@ perfectly fine as code editor if you want to use that as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. web browser (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image030.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Web Browser; Chrome Preferred. Also, Brave, Safari and Firefox." />
 
 <p>The second thing you&apos;re going to need is a web browser, and I&apos;m going
@@ -1011,7 +1011,7 @@ Unless you LOVE advertisements and poor coding techniques.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. image editor - nice to have (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image031.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView." />
 
 <p>You&apos;re also going to need an image editor. If you have access to
@@ -1022,7 +1022,7 @@ GIMP, which is free.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. gimp (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image032.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="GIMP (GNU Image Manipulation Program) image editor." />
 
 <p>You can go download <b>GIMP</b> and I have that pulled up here. You can actually download 
@@ -1036,7 +1036,7 @@ necessary, but it&apos;s really nice to have.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. computer and internet access (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image033.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="A Computer and Internet Access." />
 
 <p>Next, you&apos;re going to need a computer and internet access. It may sound
@@ -1056,7 +1056,7 @@ in order to really make this work.</p>
 <!--~~~~~~~~~~~~~~~~~~~ 34. skills needed for success with javascript (28) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image034.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Skills needed for success with JavaScript." />
 </p>
 
@@ -1066,7 +1066,7 @@ JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. keyboarding skills (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image035.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Keyboarding Skills." />
 
 <p><b>First and foremost</b>, you need to be able to type. I mean typing with 10 fingers 
@@ -1084,7 +1084,7 @@ if you don&apos;t have them already.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. file management (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image036.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="File Management." />
 
 <p>The <b>second</b> thing that you need is you need to be able to manage your
@@ -1105,7 +1105,7 @@ be in that folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. persistence (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image037.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Persistence." />
 
 <p>The <b>third</b> thing that you need is persistence. Learning JavaScript is
@@ -1130,7 +1130,7 @@ progress with it, I promise.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. logic (not math) (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image038.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Logic (not math)." />
 
 <p>The <b>fourth</b> skill that you need is to be good with logic. And logic
@@ -1149,7 +1149,7 @@ logic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. html and css (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image039.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="HTML and CSS." />
 
 <p>The next thing is, you really should know HTML and CSS as well as you
@@ -1162,7 +1162,7 @@ have them.</p>
 <!--~~~~~~~~~~~~~~~~~ 40. interneting is hard: great place for learning (31) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image040.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Interneting is hard: a Great Place for Learning HTML &amp; CSS." />
 
 <p>And a good place to go is this <a href="https://internetishard.com">
@@ -1177,7 +1177,7 @@ take a course in HTML and CSS before diving into JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 41. summary: learn javascript for free (32) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image041.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Summary: Learning JavaScript for Free." />
 
 <p>In summary, there&apos;s a low barrier for entry to this class. The software
@@ -1209,7 +1209,7 @@ with JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image042.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.06. JavaScript Variables." />
 
 <p>JavaScript variables.</p>
@@ -1217,7 +1217,7 @@ with JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image043.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="JavaScript variables." />
 
 <p>It&apos;s good practice when programming to write code that is as
@@ -1229,7 +1229,7 @@ have to teach it how to do your chores.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. washing the dishes (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image044.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Washing the dishes." />
 
 <p>What if you wanted to teach it to wash the dishes? That would be great.
@@ -1241,7 +1241,7 @@ That wouldn&apos;t be so great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. using a variable (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image045.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Using a Variable." />
 
 <p>What we can do with a variable is that we can treat it as like a
@@ -1258,7 +1258,7 @@ instructions more modular and more reusable and that&apos;s really helpful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 46. declaring a variable in javascript (35) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image046.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Declaring a variable in JavaScript." />
 
 <p>There are many ways of declaring a variable in JavaScript. We&apos;ll start
@@ -1283,7 +1283,7 @@ inside quotes because JavaScript knows what a 25 is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. variables are case sensitive (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image047.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Variables are case sensitive." />
 
 <p>In JavaScript, variables are case-sensitive. They have to follow certain
@@ -1306,7 +1306,7 @@ there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 48. reserved keywords in javascript (36) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image048.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Keywords in JavaScript." />
 
 <p>Finally, there are certain keywords in JavaScript that you can use as
@@ -1330,7 +1330,7 @@ use as names for variables in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. variable rules and examples (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image049.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Variable rules and examples." />
 
 <p>Over on the right in this image here you&apos;ll see we have variable cat
@@ -1350,7 +1350,7 @@ see variables that are using camel casing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 50. javascript variables practice - part 1 (38) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image050.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.07. JavaScript Variables Practice - Part 1." />
 
 <p>We&apos;ve been talking long enough about JavaScript. So now it&apos;s time to
@@ -1363,7 +1363,7 @@ get started with that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 51. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image051.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Practice chrome inspect console." />
 
 <p>And what we can do with our browser is we can actually open just a new
@@ -1376,7 +1376,7 @@ to right click and choose <b>inspect</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52. google chrome inspect console (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image052.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Google chrome inspect console." />
 
 <p>And you have to right click on the white area, you can&apos;t right click on
@@ -1385,7 +1385,7 @@ an element.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 53. inspect console right side (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image053.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Inspect console right side of screen." />
 
 <p>Right click on the white area and choose inspect. And that&apos;ll bring up
@@ -1400,7 +1400,7 @@ display.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 54. inspect console docking button (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image054.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Inspect console docking button to bottom of screen." />
 
 <p>Right now, it&apos;s on the right but I could put it on the left or I could
@@ -1409,7 +1409,7 @@ put it on the bottom. I want it on the bottom in this case.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 55. inspect console dock to bottom (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image055.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Inspect console dock to bottom." />
 
 <p>Sometimes, it&apos;s helpful to tear it off entirely into a different
@@ -1421,7 +1421,7 @@ here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 56. select elements tab to highlight (41) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image056.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Select elements tab for HTML and CSS highlight." />
 
 <p>And right now and on the elements tab, and I can see the HTML that is
@@ -1431,7 +1431,7 @@ you&apos;ll see different elements of the page will get highlighted.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 57. select console tab to write js (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image057.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Select console tab to write JavaScript." />
 
 <p>But what I really want to do to write some JavaScript is the console. So
@@ -1443,7 +1443,7 @@ semi colon and press Enter.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. var cheese = "yummy"; (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image058.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="var cheese = 'yummy';." />
 
 <p>Now before I do this, another thing that&apos;s useful is if this is seeming
@@ -1463,7 +1463,7 @@ that variable name.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 59. practice chrome inspect console (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image059.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="myNum = 5; (no var)." />
 
 <p>I&apos;m going to make a new variable. Line and assign it a value of 5. And
@@ -1477,10 +1477,10 @@ called <b>myNum</b> and assigned it 5.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 60/61. without var, value is undefined (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image060.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Defining variables with/without var command." />
 <img src="./images/image061.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Without the var command, value is undefined." />
 </p>
 
@@ -1498,7 +1498,7 @@ arithmetic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 62. examples utilizing console.log (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image062.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example variables utilizing console.log." />
 
 <p>I can also use a method called <b>console.log</b>. <b>Console.log</b>, and I
@@ -1516,7 +1516,7 @@ in the console, I don&apos;t actually need to use it.</p>
 <!--~~~~~~~~~~~~~~~~~ 63. javascript variables practice - part 2 (1.08) (45) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image063.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.08. JavaScript Variables Practice - Part 2." />
 
 <p>Here you can see a cleared out the console by clicking this clear thing here.</p>
@@ -1527,7 +1527,7 @@ in the console, I don&apos;t actually need to use it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image064.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="In console.log click refresh to clear console & forget variables." />
 <!-- ![](./images/media/image64.png){width="5.0in" height="3.053418635170604in"} -->
 
@@ -1570,7 +1570,7 @@ JavaScript works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 66. plus operator to add or concatinate (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image066.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 
 <p>Another thing to know is that the plus operator in JavaScript does
@@ -1602,7 +1602,7 @@ We&apos;ll get into more detail about that as we go along.</p>
 <!--~~~~~~~~~~~~~~~~~ 67. javascript variables practice - part 3 (1.09) (48) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image067.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.09. JavaScript Variables Practice - Part 3." />
 
 <p>I&apos;m going to clear out my console here, press the clear button there,
@@ -1612,7 +1612,7 @@ We&apos;ll put that in there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~ 68. differentiating between num and string (48) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image068.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Differentiating between numbers and string characters." />
 
 <p>Then I&apos;m going to make another variable, var, myNumAsString. I&apos;m going
@@ -1634,7 +1634,7 @@ understand about JavaScript, but they do have type associated with them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69. var empty string (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image069.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="var empty string." />
 
 <p>Let&apos;s try one more. I&apos;m going to make another variable var
@@ -1648,10 +1648,10 @@ JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70/71. mdn & w3schools.com (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image070.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="MDN - Mozilla Developer Network." />
 <img src="./images/image071.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="W3Schools.com - for learning HTML and CSS." />
 </p>
 
@@ -1665,7 +1665,7 @@ information about different methods and different things you can use.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. console.log(typeof x) (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image072.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="console.log(typeof x); where x is string, number, bigint, boolean, 
     undefined, null, symbol or object.  Object is object, array or date." />
 
@@ -1692,7 +1692,7 @@ and on websites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 73. javascript arrays - part 1 (1.10) (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image073.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.10. JavaScript Arrays - Part 1." />
 
 <p>JavaScript arrays.</p>
@@ -1700,7 +1700,7 @@ and on websites.</p>
 <!--~~~~~~~~~~~~~~~~~~ 74. an array is a container with sub-containers (51) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image074.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="An Array is a Container with Sub-containers." />
 
 <p>An array is really just a container with sub-containers and it&apos;s the
@@ -1716,7 +1716,7 @@ week. Frequently in JavaScript, we have to deal with groups of things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. working with groups (52) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image075.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Working with Groups." />
 
 <p>If we go back to our robot analogy, if we&apos;re teaching our robot how to
@@ -1731,7 +1731,7 @@ things with arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 76. creating an array in javascript (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image076.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Creating an array in JavaScript." />
 
 <p>Let&apos;s take a look at what that looks like. In JavaScript, we can create
@@ -1744,7 +1744,7 @@ actually see us create these elements.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 77. inspect, console.log new array example (53) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image077.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example variable array in console.log." />
 
 <p>I&apos;m going to come over here and make a new tab, and choose Inspect,
@@ -1774,7 +1774,7 @@ to be aware of.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 78. javascript arrays - part 2 (1.11) (54) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image078.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.11. JavaScript Arrays - Part 2." />
 
 <p>Unlike a pill box, which really can&apos;t hold much more than just pills,
@@ -1783,7 +1783,7 @@ you can put anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 79. you can put anything in an array (55) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image079.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="You can put an array within an array." />
 
 <p>You can even put in an array in array. So you think about a pillbox with
@@ -1793,7 +1793,7 @@ at what that looks like.</p>
 <!--~~~~~~~~~~~~~~~~~~~~ 80. example array; vehicles, make and model (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image080.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example array of vehicles by make and model." />
 
 <p>Let me switch back over to my tab here. And I&apos;m going to clear out this
@@ -1816,7 +1816,7 @@ that&apos;s very useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 81. example string variable as an array (56) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image081.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="A string variable can be treated like an array." />
 
 <p>Another thing that&apos;s interesting is that a regular variable holding a
@@ -1834,7 +1834,7 @@ arrays as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 82. javascript arrays practice (1.12) (57) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image082.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="1.12. JavaScript Arrays Practice." />
 
 <p>Let&apos;s do a little bit of practice with arrays, so I can make a new
@@ -1843,7 +1843,7 @@ variable bar Animals and assign an array.</p>
 <!--~~~~~~~~~~~~~~~~ 83. define var animals = ['cat', 'dog', 'chicken']; (57) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image083.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Define array; var animals = ['cat', 'dog', 'chicken'];." />
 
 <p>Cat, dog, chicken and all of those animals will be in the array. So if I
@@ -1854,7 +1854,7 @@ methods that you can do to arrays specifically, so if I do animals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push('llama'); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image084.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add llama with animals.push('llama');." />
 
 <p>That push llama, now there are four elements in the animals array. The
@@ -1863,7 +1863,7 @@ cat, dog, chicken and the llama are all in the array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. push array method (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image085.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example push array method." />
 
 Remember, we can use the console log method we don&apos;t really need to
@@ -1880,7 +1880,7 @@ remembering that you can do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 86. splice array method to remove (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image086.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example splice array method." />
 
 Now, what if I wanted to remove an element from the array or we could do
@@ -1891,7 +1891,7 @@ lama,but not the dog.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 87. push and sort array methods (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example push and sort array methods." />
 
 And I could do push and push the dog back into the array. Let&apos;s do
@@ -1904,13 +1904,13 @@ of array methods that you can use.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 88. w3schools javascript arrays methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image088.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="W3schools JS array methods; toString." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="List of Basic Array Methods; length, toString, at, join, pop & push." />
 
 <p>And a really good place to go look at them would be the <b>W3schools.com</b> website or the 
@@ -1924,7 +1924,7 @@ learning sort of the basics of JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. array of four animals (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image090.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Array of four animals." />
 
 <p>Here&apos;s a challenge for you, we have an array for animals here, and we
@@ -1987,7 +1987,7 @@ ways of getting elements out of arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 91. module 2 introduction (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image091.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.00. Module 2 introduction." />
 </p>
 
@@ -2005,7 +2005,7 @@ as much of that as you possibly can.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image092.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.01. Visual Studio - Part 1." />
 </p>
  
@@ -2021,7 +2021,7 @@ Code throughout this course, so it might be helpful for you to use that as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 93. visual studio editor on startup (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image093.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="VS Editor on startup." />
 </p>
  
@@ -2034,7 +2034,7 @@ and choosing a new file, and that creates a new file here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image094.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Visual Studio startup screen." />
 </p>
  
@@ -2048,7 +2048,7 @@ and that will give me the basic structure for my page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image095.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Visual Studio startup screen." />
 </p>
 
@@ -2060,7 +2060,7 @@ The title shows up in the tab in the browser. That's important. Great. I can sav
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. visual studio startup screen (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <img src="./images/image096.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Visual Studio startup screen." />
 </p>
 
@@ -2079,7 +2079,7 @@ Visual Studio Code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 97. windows users: show file extensions (67) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image097.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Windows users: Show file extensions." />
 </p>
 
@@ -2096,7 +2096,7 @@ they cannot be more explicit about that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 98. visual studio - part 2 (2.02) (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image098.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.02. Visual Studio - Part 2." />
 </p>
 
@@ -2106,7 +2106,7 @@ to this file. And we can see some JavaScript actually happened here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image099.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add 'My First Script' as an h1." />
 </p>
  
@@ -2119,7 +2119,7 @@ the cursor between the two, and I can move that down.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image100.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add a new variable; var hello." />
 </p>
 
@@ -2135,7 +2135,7 @@ go over to Chrome over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. file open, my first script (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image101.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="File open, My First Script." />
 </p>
  
@@ -2146,7 +2146,7 @@ it's just a webpage and we're not even seeing the script run.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 102. test, inspect, my first script (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image102.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, inspect, My First Script." />
 </p>
 
@@ -2159,7 +2159,7 @@ comments to your scripts so that when you come back to them later, you know what
 <!--~~~~~~~~~~~~~~~~~ 103. comments with slash slash or slash, asterisk (70) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image103.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Make Comments with two slashes or with slash, asterisk." />
 </p>
 
@@ -2174,7 +2174,7 @@ about anything that I want and it can go multiple lines. See example in image.</
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104. make code larger with shift + (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image104.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Make code larger with shift +." />
 </p>
 
@@ -2192,7 +2192,7 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 105. visual studio - part 3 (2.03) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image105.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.03. Visual Studio - Part 3." />
 </p>
 
@@ -2201,7 +2201,7 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. myfile.html (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image106.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="myfile.html." />
 </p>
 
@@ -2214,10 +2214,10 @@ file. That's not really very useful by itself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107/108. make folder and file (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image107.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Make a folder." />
 <img src="./images/image108.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Make a file." />
 </p>
 
@@ -2229,7 +2229,7 @@ and no folder opened. I can actually open that folder, myProject.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. visual studio welcome menu (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image109.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Visual Studio welcome menu." />
 </p>
 
@@ -2243,7 +2243,7 @@ an HTML file. I can put that in my folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. myfolder and index.hmtl (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image110.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Myfolder and index.html." />
 </p>
  
@@ -2254,7 +2254,7 @@ folder. I can manage my whole project from here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111. blank index.html (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image111.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -2264,7 +2264,8 @@ to have some styles for my webpage, and it's going to go into that file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 112. files in myproject (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image112.png?raw=true"
-  width="50%"
+  style="width:50%"
+  title="Files in myProject"
   alt="Files in myProject." />
 </p>
 <p>Now that file is in the folder over here. In this way, I can control and keep track 
@@ -2276,7 +2277,8 @@ files for a project stay in the folder. You might have other folders in the fold
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image113.png?raw=true"
-  width="50%"
+  style="width:50%"
+  title="Empty visual studio screen"
   alt="Empty visual studio screen." />
 </p>
 
@@ -2294,7 +2296,7 @@ projects and make sure that the files are in the correct places at all times.</p
 <!--~~~~~~~~~~~~~~~~~~~~ 114. empty visual studio menu screen, again (76) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image114.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Describe how Visual Studio is customizable." />
 </p>
 
@@ -2306,7 +2308,7 @@ extensions and other things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 115. visual studio extensions and settings (76) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image115.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Visual Studio extensions and settings." />
 </p>
 
@@ -2317,10 +2319,10 @@ your code editor, or perhaps you prefer a lighter theme.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116/117. atom one light theme (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image116.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Atom One Light Theme, #1." />
 <img src="./images/image117.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Atom One Light Theme, #2." />
 </p>
 
@@ -2330,7 +2332,7 @@ and currently it's disabled, but I can enable this theme.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. color theme editor (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image118.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Color Theme Editor." />
 </p>
 <p>Select Color Theme. There we go. Here I've got the Color Themes and I can select 
@@ -2342,7 +2344,7 @@ to my files and here I am.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. new menu screen theme (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image119.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Display new menu screen theme in Visual Studio." />
 </p>
 
@@ -2354,7 +2356,7 @@ and click.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. type exclamation, then tab (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image120.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="For html template, type exclamation followed by [tab]." />
 </p>
 
@@ -2372,7 +2374,7 @@ can come back to the browser and test it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. test, here is a heading (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image121.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, myProject, here is a heading." />
 </p>
 
@@ -2398,7 +2400,7 @@ scripts.</p>
 <!--~~~~~~~~~~~~~ 122. operators, booleans & selection in javascript (2.04) (80) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image122.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.04. Operators, Booleans & Selection in JavaScript." />
 </p>
 
@@ -2407,7 +2409,7 @@ scripts.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. javascript operators (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image123.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="JavaScript Operators." />
 </p>
 
@@ -2420,10 +2422,10 @@ to divide and the percent is a modules operator.</p>
 <!--~~~~~~~~~~~~~~~~~~ 124/125. comparison operators/bitwise operators (81) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image124.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Comparison operators." />
 <img src="./images/image125.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Bitwise operators." />
 </p>
 
@@ -2438,7 +2440,7 @@ languages. C, C++, C sharp, Objective C, and so forth.<p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. booleans in javascript (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image126.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Booleans in JavaScript." />
 </p>
 
@@ -2459,7 +2461,7 @@ And it would do this down here. So that gets us started with a little bit of tha
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. vs code editor customize (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image127.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Customize the Visual Studio editor theme." />
 </p>
 
@@ -2469,7 +2471,7 @@ some selections and Booleans and that kind of fun stuff.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. vs code editor, make file (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image128.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Make a file in Visual Studio editor; selections.html." />
 </p>
 
@@ -2481,7 +2483,7 @@ spaces in the dot html extension. I'm going to save that on the desktop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 129. exclamation/tab for basic structure (83) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image129.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Type exclamation [tab] for basic html structure." />
 </p>
 
@@ -2492,7 +2494,7 @@ and there we go. And then in here I'm just going to add an h1 testing selections
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. add script & two variables (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image130.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add script and two variables." />
 </p>
 
@@ -2505,7 +2507,7 @@ One is set to true and the other one is set to false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. if red, then do something (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image131.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="If red, then do statement in function." />
 </p>
 
@@ -2518,7 +2520,7 @@ this would not be true, in which case something else would happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 132. add else statement for false (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image132.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add an else statement for false." />
 </p>
 
@@ -2528,7 +2530,7 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 133. test, inspect console boolean (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image133.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, inspect console boolean." />
 </p>
 
@@ -2540,7 +2542,7 @@ is true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 134. if blue (false) else statement (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image134.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add else statement." />
 </p>
 
@@ -2550,10 +2552,10 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~ 135/136. testing selections; red=true, blue=false (86) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image135.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Testing Selections; new vars; red=true, blue=false." />
 <img src="./images/image136.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Testing Selections; new vars; red=true, blue=false." />
 </p>
 
@@ -2564,7 +2566,7 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. try this! (2.05) (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image137.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.05. Try This!" />
 </p>
 
@@ -2573,10 +2575,10 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 138/139. types of boolean = false (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image138.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, null is false, undefined is false, zero & false are also false." />
 <img src="./images/image139.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Undefined, zero, null, and false are all false." />
 </p>
 
@@ -2596,10 +2598,10 @@ variables that are undefined as false.</p>
 <!--~~~~~~~~~~~~~~~~~~~ 140/141. green = null, green = 0 are both false (87) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image140.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="var green = null, equates to false. " />
 <img src="./images/image141.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="var green = 0, equates to false." />
 </p>
 
@@ -2616,10 +2618,10 @@ false, <b>zero</b> is false. <b>False</b> is false. Other things are true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142/143. green = "cheese" is true (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image142.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="var green = 'cheese' is true. " />
 <img src="./images/image143.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, var green = 'cheese' is true." />
 </p>
 
@@ -2631,7 +2633,7 @@ about JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. comparing values (2.06) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image144.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.06. Comparing Values." />
 </p>
 
@@ -2640,7 +2642,7 @@ about JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. double equal comparison (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image145.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Comparison with double equal sign." />
 </p>
 
@@ -2650,7 +2652,7 @@ out if the value here is the same as the value somewhere else.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. test, mynum to othernum (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image146.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, myNum == otherNum." />
 </p>
 
@@ -2665,7 +2667,7 @@ to see is myNum the same as the otherNum. In this case it is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 147. does mynum equal othernum? true (90) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image147.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, myNum == otherNum is true." />
 </p>
 
@@ -2675,10 +2677,10 @@ because myNum is the same as the otherNum.</p>
 <!--~~~~~~~~~~~~~~~~~~~ 148/149. change number, now statement is false (90) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image148.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Change to 6.  Now one is 5, other is 6." />
 <img src="./images/image149.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, statement is now false." />
 </p>
 
@@ -2689,10 +2691,10 @@ same as.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 150/151. test, exclamation equal for false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image150.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Use exclamation and equal for NOT." />
 <img src="./images/image151.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, not equal with exclamation + equal sign." />
 </p>
 
@@ -2710,10 +2712,10 @@ use less than and greater than and check to see if that&apos;s true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 152/153. more testing of not equal & false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image152.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="More test of not equal and false." />
 <img src="./images/image153.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, not equal as false." />
 </p>
 
@@ -2736,10 +2738,10 @@ happen in your programs, that&apos;s never a good thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154/155. triple equal testing (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image154.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Triple equal testing." />
 <img src="./images/image155.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Must be exactly the same to match as true." />
 </p>
 
@@ -2767,7 +2769,7 @@ Again, this is an odd thing about JavaScript that you can do this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. explain undefined variables (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image156.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Explain undefined or null variables as false." />
 </p>
 
@@ -2782,10 +2784,10 @@ That&apos;s <b>false</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 157/158. test, not a number is false (93) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image157.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, if not a number then statement is false." />
 <img src="./images/image158.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, not a number (NaN) is false." />
 </p>
 
@@ -2804,7 +2806,7 @@ testing values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. else if (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image159.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.07. Else If." />
 </p>
 
@@ -2813,7 +2815,8 @@ testing values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. else if examples (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image160.png?raw=true"
-  width="50%"
+  style="width:50%"
+  title="Examples of Else If"
   alt="Examples of Else If." />
 </p>
 
@@ -2826,117 +2829,113 @@ what happens when you get in here. Let's type this in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 161/162. example of else if with test (95) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image161.png?raw=true"
-  width="45%"
-  alt="Example else if." />
+  style="width:45%"
+  title="Example, else if"
+  alt="Example, else if." />
 <img src="./images/image162.png?raw=true"
-  width="45%"
+  style="width:45%"
+  title="Test, example else if"
   alt="Test, example else if." />
 </p>
 
-<p>I&apos;m going to come back here and I&apos;m going to add, <b>Windows Alt Shift
-A</b>. And that will comment that. It&apos;ll put a comment around something
-that I&apos;ve selected. Down here I&apos;m going to make a variable for colors
-equals square bracket, quote, red. Green Blue Yellow I&apos;m going to make
-a variable var selected color Equals colors, square bracket and we&apos;ll
-do three. Red is zero, one, two, three. Now, over here, so I&apos;ve got
-that, and that&apos;s great. Now I can do an if else statement. So I could
-do if, selected color is the same as equals red or yeah, let&apos;s do red.
-Red in quotes, red. If it&apos;s the same as red, then I can console log
-something out console dot log. The color is red.</p>
-<p>Now I can do an else
-if. And again I can put else if on this line here like so. I think it&apos;s
-a little bit easier to read if you move it down like this else if
-selected colour in here I&apos;m going to cheat by copying and pasting. Else
-if selected colour is blue. And again, I&apos;m just adding these extra
-spaces because I think it&apos;s a little bit easier to read. But it&apos;s not
-really common practice but that&apos;s okay. If the selected colour is blue,
-then I&apos;m going to console log out. Blue actually should do green, green
-snacks, it doesn&apos;t matter. I can go whichever order I want. In this
-I&apos;m just going to go to read because that sort of makes sense and then
-I can copy and paste the else if. Select the colour is change this one
-to blue, and if it&apos;s not red, green or blue, then it must be yellow.
-Okay, great. So with this script in place, we can test this.</p>
+<p>I&apos;m going to come back here and I&apos;m going to add, <b>Windows Alt Shift A</b>. 
+And that will comment that. It&apos;ll put a comment around something that I&apos;ve 
+selected. Down here I&apos;m going to make a variable for colors equals square bracket, 
+quote, red. Green Blue Yellow I&apos;m going to make a variable var selected color Equals 
+colors, square bracket and we&apos;ll do three. Red is zero, one, two, three. Now, over 
+here, so I&apos;ve got that, and that&apos;s great. Now I can do an if else statement. 
+So I could do if, selected color is the same as equals red or yeah, let&apos;s do red.
+Red in quotes, red. If it&apos;s the same as red, then I can console log something out 
+console dot log. The color is red.</p>
 
-<p>We come over here and refresh this and you can see the color is yellow
-it went through that list of items and chose the correct color. Whereas,
-if I come up here and change this to a one to zero one and this. You can
-see I get the color is green. Now, what happens if I make a mistake?
-Suppose I put four, zero, one, two, three, oops, there&apos;s no four.
-Let&apos;s see what I get over here. You&apos;re going to get mistakes. You&apos;re
-going to have errors and this said, the color is yellow because the else
-ran. Which is not really what I wanted. But it is sort of doing that
-kind of thing or let&apos;s see what happens if we do what happens if I make
-a mistake and I forget to put commas in here.</p>
+<p>Now I can do an else if. And again I can put else if on this line here like so. I 
+think it&apos;s a little bit easier to read if you move it down like this else if
+selected colour in here I&apos;m going to cheat by copying and pasting. Else if selected 
+colour is blue. And again, I&apos;m just adding these extra spaces because I think 
+it&apos;s a little bit easier to read. But it&apos;s not really common practice but 
+that&apos;s okay. If the selected colour is blue, then I&apos;m going to console log out. 
+Blue actually should do green, green snacks, it doesn&apos;t matter. I can go whichever 
+order I want. In this I&apos;m just going to go to read because that sort of makes sense 
+and then I can copy and paste the else if. Select the colour is change this one to blue, 
+and if it&apos;s not red, green or blue, then it must be yellow. Okay, great. So with 
+this script in place, we can test this.</p>
 
-<p>This is a common mistake
-that I see from students is they&apos;ll forget to put the commas in the
-array, what happens if I do that? Uncaught Syntax Error: Unexpected
-string on line 29. So that gives you a notion that you should come back
-and take a look at line 29 and see what&apos;s going on in there. And
-hopefully, with this stuff in here this little red underline stuff going
-on here. You&apos;ll see that something&apos;s wrong there, and you&apos;ll put the
-comments back in very common mistake. When we&apos;re starting with this
-thing, okay, so you can try these different, try these different scripts
-and see how they work and what they do. It&apos;s really helpful to do that.</p>
+<p>We come over here and refresh this and you can see the color is yellow it went through 
+that list of items and chose the correct color. Whereas, if I come up here and change this 
+to a one to zero one and this. You can see I get the color is green. Now, what happens 
+if I make a mistake? Suppose I put four, zero, one, two, three, oops, there&apos;s no 
+four. Let&apos;s see what I get over here. You&apos;re going to get mistakes. You&apos;re
+going to have errors and this said, the color is yellow because the else ran. Which is 
+not really what I wanted. But it is sort of doing that kind of thing or let&apos;s see 
+what happens if we do what happens if I make a mistake and I forget to put commas in 
+here.</p>
+
+<p>This is a common mistake that I see from students is they&apos;ll forget to put the 
+commas in the array, what happens if I do that? Uncaught Syntax Error: Unexpected string 
+on line 29. So that gives you a notion that you should come back and take a look at line 
+29 and see what&apos;s going on in there. And hopefully, with this stuff in here this 
+little red underline stuff going on here. You&apos;ll see that something&apos;s wrong 
+there, and you&apos;ll put the comments back in very common mistake. When we&apos;re 
+starting with this thing, okay, so you can try these different, try these different 
+scripts and see how they work and what they do. It&apos;s really helpful to do that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-08">2.08 Switch Statements (5:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. switch statements (2.08) (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image163.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.08. Switch Statements." />
 </p>
 
-<p>JavaScript also has a switch statement which will take a value like
-selected color and run it through a bunch of cases.</p>
+<p>JavaScript also has a switch statement which will take a value like selected color 
+and run it through a bunch of cases.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 164. switch statement with examples (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image164.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Switch statement Examples." />
 </p>
 
-<p>In case it&apos;s red, it&apos;ll do this, in case it&apos;s blue, it&apos;ll do that,
-in case it&apos;s green, it&apos;ll do that, and then at the bottom there&apos;s a
-default, you can add a default and it&apos;ll do this if none of these other
-ones are true. It&apos;s important with selection that you add this break in
-here as well. The break will bump out of this switch when one of these
-true statements comes up.</p>
+<p>In case it&apos;s red, it&apos;ll do this, in case it&apos;s blue, it&apos;ll do that, 
+in case it&apos;s green, it&apos;ll do that, and then at the bottom there&apos;s a 
+default, you can add a default and it&apos;ll do this if none of these other ones are 
+true. It&apos;s important with selection that you add this break in here as well. The 
+break will bump out of this switch when one of these true statements comes up.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 165/166. example, switch and case statement (97) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image165.png?raw=true"
-  width="45%"
+  style="width:45%"
+  title="Example, switch/case statements"
   alt="Example, switch/case statements." />
 <img src="./images/image166.png?raw=true"
-  width="45%"
+  style="width:45%"
+  title="Example, switch/case statements"
   alt="Example, switch/case statements." />
 </p>
 
-<p>Let&apos;s take a look at this really quickly and see what we get over here.
-I&apos;m going to go in here, I&apos;m going to comment out these if-else
-statements. Again, I&apos;m going to &quot;Select&quot; them and then do &quot;Option&quot;
-or &quot;Alt Shift&quot; A in Visual Studio Code to quickly just comment this
-out, so I&apos;m not running that anymore. Then down here, we can run a
-switch statement, switch parentheses and I&apos;m going to put in here the
-value in checking its selected color. Then the switch statement, I&apos;m
-just going to paste it in here because it&apos;s a little bit tedious to
-watch me type it all. But I&apos;m going to paste it in here, but I
-recommend that you type it.</p>
-<p>Type out, case, red:console.log. The color
-is red and then a semicolon, so that&apos;s the statement that is going to
-run and then break and it can be on the same line on the slide I have it
-on the next line, but you can put it on the same line here, rather than
-watch me type all of these, I&apos;m going to just paste them in here. But
-you should type it in because learning the syntax, you&apos;ll learn it by
-typing it, not by watching me do it. Go ahead and make these files and
-type these in here so we can test it out. Then notice I&apos;ve got red,
-green, blue, and yellow, and up here, if I set select the color to
-three, I should get 0,1, 2, 3, I should get yellow. Let&apos;s see if I get
-that if I come over here and test this. Ensure enough the color is
-yellow, that&apos;s coming up great.</p>
+<p>Let&apos;s take a look at this really quickly and see what we get over here. I&apos;m 
+going to go in here, I&apos;m going to comment out these if-else statements. Again, 
+I&apos;m going to &quot;Select&quot; them and then do &quot;Option&quot; or &quot;Alt 
+Shift&quot; A in Visual Studio Code to quickly just comment this out, so I&apos;m not 
+running that anymore. Then down here, we can run a switch statement, switch parentheses 
+and I&apos;m going to put in here the value in checking its selected color. Then the 
+switch statement, I&apos;m just going to paste it in here because it&apos;s a little bit 
+tedious to watch me type it all. But I&apos;m going to paste it in here, but I recommend 
+that you type it.</p>
+
+<p>Type out, case, red:console.log. The color is red and then a semicolon, so that&apos;s 
+the statement that is going to run and then break and it can be on the same line on the 
+slide I have it on the next line, but you can put it on the same line here, rather than 
+watch me type all of these, I&apos;m going to just paste them in here. But you should 
+type it in because learning the syntax, you&apos;ll learn it by typing it, not by 
+watching me do it. Go ahead and make these files and type these in here so we can test 
+it out. Then notice I&apos;ve got red, green, blue, and yellow, and up here, if I set 
+select the color to three, I should get 0,1, 2, 3, I should get yellow. Let&apos;s see 
+if I get that if I come over here and test this. Ensure enough the color is yellow, 
+that&apos;s coming up great.</p>
 
 <p>I could change the <b>selectedColor&lbrack;0&rbrack;</b> to zero, which will get me the
 first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
@@ -2944,7 +2943,7 @@ first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. test, there was an error (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image167.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, there was an error.  If outside of array, then gives error." />
 </p>
 
@@ -2968,7 +2967,7 @@ with your code in a way that&apos;s helpful and useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. using &amp; &amp; (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image168.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.09. Using &amp;&amp;." />
 </p>
 
@@ -2978,7 +2977,7 @@ the ampersand operator, or the pipe operator.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. examples, using &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image169.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Examples, using &amp;&amp;." />
 </p>
 
@@ -2988,7 +2987,7 @@ ampersand operator, and we use two of them together here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 170. example, booleans with &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image170.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, boolean with &amp;&amp;." />
 </p>
 
@@ -3002,7 +3001,8 @@ to be grumpy.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 171. test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image171.png?raw=true"
-  width="50%"
+  style="width:50%"
+  title="Test, booleans with &amp;&amp;"
   alt="Test, booleans with &amp;&amp;." />
 </p>
 
@@ -3012,32 +3012,33 @@ good idea to practice typing these.</p>
 <!--~~~~~~~~~~~~~~~~~~~ 172/173. more test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image172.png?raw=true"
-  width="45%"
+  style="width:45%"
+  title="More test, booleans with &amp;&amp;"
   alt="More test, booleans with &amp;&amp;." />
 <img src="./images/image173.png?raw=true"
-  width="45%"
+  style="width:45%"
+  title="More test, booleans with &amp;&amp;"
   alt="More test, booleans with &amp;&amp;." />
 </p>
 
-<p>Next, I&apos;m going to come in here, I&apos;m going to turn this one off.
-Again, Option or Alt+Shift+A comments it out. And then I&apos;m going to do
-var goodMood, and set that to true, var gotSleep, and set that to true.
-And then I&apos;m going to say if, whoops, if(goodMood && gotSleep), if both
-of those are true, then I can console.log, Today is a good day, else,
-console.log(&quot;I am grumpy!&quot;).</p>
-<p>Now, we can test this, and we can see that
-because both of these are set to true, the if statement is going to run.
-Today is a good day. However, if I were to go in and change it so that
-one of these was false, it doesn&apos;t matter which one, then this whole
-statement will come back false. And I&apos;m grumpy, so that&apos;s kind of an
-important tool in our tool kit, is we can check to see if two things are
-true. If two things are true, then we can do something. If either one of
-them is false, then something else is going to have to happen.</p>
+<p>Next, I&apos;m going to come in here, I&apos;m going to turn this one off. Again, 
+Option or Alt+Shift+A comments it out. And then I&apos;m going to do var goodMood, and 
+set that to true, var gotSleep, and set that to true. And then I&apos;m going to say if, 
+whoops, if(goodMood && gotSleep), if both of those are true, then I can console.log, 
+Today is a good day, else, console.log(&quot;I am grumpy!&quot;).</p>
+
+<p>Now, we can test this, and we can see that because both of these are set to true, the 
+if statement is going to run. Today is a good day. However, if I were to go in and change 
+it so that one of these was false, it doesn&apos;t matter which one, then this whole 
+statement will come back false. And I&apos;m grumpy, so that&apos;s kind of an important 
+tool in our tool kit, is we can check to see if two things are true. If two things are 
+true, then we can do something. If either one of them is false, then something else is 
+going to have to happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 174. booleans with double pipe (or) (101) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image174.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -3051,7 +3052,7 @@ as true. So they would all have to be false for me to be starving.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 175. add boolean and double pipe example (101) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image175.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Add boolean and double pipe example." />
 </p>
 
@@ -3064,7 +3065,7 @@ true, then <b>console.log(&quot;things are ok!&quot;</b>). Then down here, else
 <!--~~~~~~~~~~~~~~~~~~~ 176. 1 or more false, therefore things are ok (102) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image176.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="One or more variables are false, therefore things are ok." />
 </p>
 
@@ -3100,7 +3101,7 @@ starving, so you should go eat something.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. loops (2.10) (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image177.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.10. Loops." />
 
 <p>Loops in JavaScript.</p>
@@ -3116,7 +3117,7 @@ And JavaScript, like many programming languages, will allow you to do
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. for loop (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image178.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="For loop." />
 </p>
 
@@ -3130,10 +3131,10 @@ me.</p>
 <!--~~~~~~~~~~~~~~~~~~~ 179/180. loops.html - add incrementor to loop (105) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image179.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Create loops.html and add incrementor." />
 <img src="./images/image180.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Create a loop with incrementor." />
 </p>
 
@@ -3173,7 +3174,7 @@ I have over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. test, incrementor loop (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image181.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, incrementor loop." />
 </p>
 
@@ -3199,7 +3200,7 @@ these expressions and that determines whether the loop runs or not.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. working with arrays (2.11) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image182.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.11. Working with Arrays." />
 </p>
 
@@ -3210,7 +3211,7 @@ iterate over that group of items to do something to them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 183. example, working with arrays (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image183.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Examples, working with arrays." />
 </p>
 
@@ -3227,7 +3228,7 @@ Remember, arrays are zero-indexed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. add array with colors (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image184.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Create an array of colors." />
 </p>
 
@@ -3248,7 +3249,7 @@ no longer less than four and my loop breaks out.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. test, looping array (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image185.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, looping array." />
 </p>
 
@@ -3260,7 +3261,7 @@ works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. looping using length (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image186.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -3292,7 +3293,7 @@ the array that way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image187.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.12. The For..Of Loop." />
 </p>
 
@@ -3305,7 +3306,7 @@ loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 188. example of the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image188.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, for..of loop." />
 </p>
 
@@ -3326,10 +3327,10 @@ our code over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 189/190. example/test of for..of looping (111) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image189.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Example for..of loop colors." />
 <img src="./images/image190.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, output of for ..of loop colors." />
 </p>
 
@@ -3350,7 +3351,7 @@ with arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image191.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -3363,10 +3364,10 @@ my <b>console.log</b> there. I can do that thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image192.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Example for loop with string length." />
 <img src="./images/image193.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, output of example loop." />
 </p>
 <p>In fact, let&apos;s give this a try really quickly here and change this to
@@ -3379,7 +3380,7 @@ I could do it that way, or I could even use the for of loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 194. another example of for..of loop (113) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image194.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Another example of for..of loop." />
 </p>
 
@@ -3391,7 +3392,7 @@ This will give the <b>myString</b> twice.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. while loops (2.13) (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image195.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.13. While Loops." />
 </p>
 
@@ -3402,7 +3403,7 @@ about.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. example, while loops (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image196.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, while loops." />
 </p>
 
@@ -3438,10 +3439,10 @@ stuff out. I don&apos;t really need that now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 197/198. example/test while loops in js (115) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image197.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Example while loop." />
 <img src="./images/image198.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3467,10 +3468,10 @@ print the console log once with all the text in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (116) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image199.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Example while loop." />
 <img src="./images/image200.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3486,7 +3487,7 @@ while loop works here.</p>p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. same example, while loops (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image201.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Same example, while loops." />
 </p>
 
@@ -3510,7 +3511,7 @@ variables inside strings a little bit more easily.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. example, template literals (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image202.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, template literals." />
 </p>
 
@@ -3533,7 +3534,7 @@ this course quite a lot.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, while incrementor (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image203.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, template literals." />
 </p>
 
@@ -3553,7 +3554,7 @@ all that stuff if you do it this way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. test, while incrementor (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image204.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, template literals." />
 </p>
 
@@ -3565,10 +3566,10 @@ here. That is actually working.</p>
 <!--~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image205.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Example while loop." />
 <img src="./images/image206.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3580,7 +3581,7 @@ We&apos;ve got the template literals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. another example, while loop (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image207.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, another while loop." />
 </p>
 
@@ -3592,10 +3593,10 @@ operations right in line with our string.</p>
 <!--~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (120) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image208.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Example while loop." />
 <img src="./images/image209.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3630,7 +3631,7 @@ Here is a resource related to these lessons:
 <!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image210.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="2.14. Structured Programming, Sequence - Part 1." />
 </p>
 
@@ -3639,7 +3640,7 @@ Here is a resource related to these lessons:
 <!--~~~~~~~~~~~~~~~~~~~~~~ 211. definition: structured programming (122) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image211.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Definition Structured Programming; Sequence, selection &amp; loop." />
 </p>
 
@@ -3662,7 +3663,7 @@ to see the expressive power of JavaScript. </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~ 212. methods of text/string manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image212.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Converting to Upper or Lower case and other text manipulations." />
 </p>
 
@@ -3676,7 +3677,7 @@ can convert it to lowercase.
 <!--~~~~~~~~~~~~~~~~~~~~~~ 213. example substr() text manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image213.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example substr() text manipulation." />
 </p>
 
@@ -3704,7 +3705,7 @@ it that way, which is pretty cool.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. example, sequence part 1 (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image214.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Sequence Part 1, example." />
 </p>
 
@@ -3722,14 +3723,14 @@ the video, and let&apos;s see if you got the same thing I got.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. sequence part 1, result (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image215.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Sequence Part 1, result." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 216. sequence part 1, result in script (125) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image216.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Sequence Part 1, result in script." />
 </p>
 
@@ -3747,7 +3748,7 @@ this and <b>console.log</b> that out. That works really great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. test, sequence part 1 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image217.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, Sequence Part 1." />
 </p>
 
@@ -3760,7 +3761,7 @@ That works great. Let&apos;s see, what should we do next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence - part 2 (2.15) (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image218.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.15. Sequence - Part 2." />
 </p>
  
@@ -3769,7 +3770,7 @@ That works great. Let&apos;s see, what should we do next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -3780,10 +3781,10 @@ method to find out where this word ''really'' in my string starts.
 <!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Answer test, sequence part 2." />
 <img src="./images/image221.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Output test, sequence part 2." />
 </p>
 
@@ -3802,10 +3803,10 @@ going to do is it's going to pull out into this variable, special word, the word
 <!--~~~~~~~~~~~~~~~~~ 222/223.  (127) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/image223.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 
@@ -3816,10 +3817,10 @@ see that what that's getting for me. It's myString.
 <!--~~~~~~~~~~~~~~~~~ 224/225.  (127) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/image225.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 
@@ -3836,7 +3837,7 @@ hungry for some, so I'm getting the capital word ''really'' there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -3854,7 +3855,7 @@ are available in JavaScript for doing string surgery.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image227.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.16. Sequence, Part 3, Loop." />
 </p>
 For the next step in our sequence, make an array called foods and put four foods 
@@ -3863,7 +3864,7 @@ in the array. Then use the string literal syntax.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. sequence, part 3 (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image228.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Sequence, Part 3." />
 </p>
 
@@ -3874,7 +3875,7 @@ then the first element in the foods array. See if you can do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. sequence, part 3 results (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image229.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Sequence 3 Result." />
 </p>
 
@@ -3888,7 +3889,7 @@ literal thing. Let's do that part together.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. array of foods in script (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image230.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Create array of foods in script." />
 </p>
 
@@ -3904,7 +3905,7 @@ it easier for you to understand.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. for loop (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image231.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="For loop." />
 </p>
 
@@ -3916,7 +3917,7 @@ for some cheese, for some pie, for some lunch, for some breakfast. All of these 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. for i=0; loop i++ (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image232.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="For i=0; loop i++." />
 </p>
 
@@ -3931,7 +3932,7 @@ I can see that this is really working.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. test, loop (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image233.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, loop." />
 </p>
 
@@ -3947,7 +3948,7 @@ There we go. We're getting all of it there. That's great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. for var each loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image234.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="For var each loop." />
 </p>
 
@@ -3960,7 +3961,7 @@ to be eachFood. I'm still going to print out myString, but now this is going to 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. test, for var each loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image235.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, for var each loop." />
 </p>
 
@@ -3974,7 +3975,7 @@ I get the same results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image236.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.17. Loop + Selection." />
 </p>
 
@@ -3984,7 +3985,7 @@ Next we'll bring selection into the mix.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image237.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Loop + Selection." />
 </p>
 
@@ -4005,7 +4006,7 @@ something by two.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image238.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="For var i=0, length of array, i++." />
 </p>
 
@@ -4016,7 +4017,7 @@ incrementor with numbers. So we can just work with i to do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. example to console.log (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image239.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example to console.log." />
 </p>
 
@@ -4036,7 +4037,7 @@ just do this. Save that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image240.png?raw=true"
-  width="40%"
+  style="width:40%"
   alt="Test, loop + selection." />
 </p>
 
@@ -4047,7 +4048,7 @@ That's great. Did you get something like that? That's great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image241.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Refacturing Code." />
 </p>
 
@@ -4066,7 +4067,7 @@ variable here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image242.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example test, Sequence, Selection & Loop." />
 </p>
 
@@ -4083,7 +4084,7 @@ to just make sure that it still runs exactly the same way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image243.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, Sequence, Selection and Loop." />
 </p>
 
@@ -4093,7 +4094,7 @@ Make sure I did that right, and I did, so that's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image244.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Make Comments." />
 </p>
  
@@ -4120,7 +4121,7 @@ along. Great, see you in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image245.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.18. JavaScript Basic Challenges Introduction." />
 </p>
 
@@ -4134,7 +4135,7 @@ results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image246.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Challenge 1." />
 </p>
 
@@ -4146,7 +4147,7 @@ on the next line. Very basic challenge.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image247.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -4158,7 +4159,7 @@ what the first thing is to do, and that's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image248.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Challenge 1 Answer." />
 </p>
 
@@ -4174,7 +4175,7 @@ do a few things to really help you get good at JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image249.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Camel with 2 humps." />
 </p>
 
@@ -4192,7 +4193,7 @@ without looking at the answer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image250.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Challenge 2." />
 </p>
 
@@ -4231,7 +4232,7 @@ and I promise, you'll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image251.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.19. Functions in JavaScript." />
 </p>
 
@@ -4241,7 +4242,7 @@ Functions in JavaScript. Functions are reusable sets of instructions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image252.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Reusable Sets of Instructions." />
 </p>
 
@@ -4257,7 +4258,7 @@ where functions can become very powerful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image253.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="function: upperString(myString)." />
 </p>
 
@@ -4272,7 +4273,7 @@ exercise.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image254.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="doStuff - upperString using toUpperCase()." />
 </p>
 
@@ -4286,7 +4287,7 @@ run the function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image255.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, toUpperCase()." />
 </p>
 
@@ -4300,10 +4301,10 @@ nothing, because it'll be defined but it won't actually run. I have to run doStu
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image256.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Try This, Uppercase and Enter a whole number." />
 <img src="./images/image257.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, Uppercase and Enter a whole number (greater than or less than 10?)." />
 </p>
 
@@ -4317,7 +4318,7 @@ bottom. I'm going to just paste it on in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image258.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="function checkNum." />
 </p>
 
@@ -4337,7 +4338,7 @@ supposed to do, and all that code is now inside of a function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image259.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.20. Passing In and Returning Data." />
 </p>
 
@@ -4348,7 +4349,7 @@ with that data.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image260.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Passing in Data." />
 </p>
 
@@ -4363,7 +4364,7 @@ uppercase, and console log it out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image261.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="function upperMessage()." />
 </p>
 So let's give that a try and see what that does. I'm going to make a function, function 
@@ -4379,7 +4380,7 @@ but it's something that shows us how this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image262.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, HERE IS A MESSAGE." />
 </p>
 
@@ -4394,10 +4395,10 @@ pass in whatever two numbers you want to add there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image263.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Function addNums." />
 <img src="./images/image264.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, addNums." />
 </p>
 
@@ -4421,7 +4422,7 @@ that we can then work with within our function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image265.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Returning Data." />
 </p>
 
@@ -4442,7 +4443,7 @@ these two things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image266.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Functions; addNumbs and returnSum." />
 </p>
 
@@ -4456,10 +4457,10 @@ to the console log because that's all I've got access to at the moment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image267.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Functions: addNumbs and returnSum." />
 <img src="./images/image268.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, addNumbs and returnSum." />
 </p>
 
@@ -4489,7 +4490,7 @@ needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image269.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.21. Useful Example - Step 1." />
 </p>
 
@@ -4499,7 +4500,7 @@ Let's take a look at a useful example.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image270.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="A Useful Example - Generating Random Numbers." />
 </p>
 
@@ -4512,10 +4513,10 @@ a try over here on my file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image271.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Math.random number generator (0-.999999999)." />
 <img src="./images/image272.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Math.random number generator (0-.999999999)." />
 </p>
 
@@ -4528,7 +4529,7 @@ refreshing my screen and I'll keep getting numbers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image273.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Test, Functions in JavaScript." />
 </p>
 
@@ -4556,7 +4557,7 @@ That's worth mentioning as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image274.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Useful Example - Step 1." />
 </p>
 
@@ -4577,7 +4578,7 @@ this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image275.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, randomInt between 5 and 10 (inclusive)." />
 
 Let's go ahead and go over to our code editor and start writing this function. I'm going 
@@ -4602,7 +4603,7 @@ correct. Then, we'll go on from there to the next step.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image276.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.22. Useful Example 2-4." />
 </p>
 In the second step for a random integer generator, I'm going to actually generate my random number. 
@@ -4611,7 +4612,7 @@ In the second step for a random integer generator, I'm going to actually generat
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 p align="center" width="100%">
 <img src="./images/image277.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Useful Example - Step 2 - randomInt (0-1)." />
 </p>
 RandomNum here is going to be between zero and one. I'm going to take that and multiply 
@@ -4621,10 +4622,10 @@ it by the number of values and see what I get.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image278.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Function randomInt accepting min and max." />
 <img src="./images/image279.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, function randomInt with min and max of 0 to 6 (exclusive)." />
 </p>
 Let's go ahead and add this to our function over here. We've got that in there, we can 
@@ -4641,10 +4642,10 @@ but it won't go all the way up to six, and that's interesting.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image280.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Function randomInt with Math.floor." />
 <img src="./images/image281.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test, function randomInt with Math.floor." />
 </p>
 Let's see what we need to do next. Next, I'm going to use the Math.floor method to round 
@@ -4666,7 +4667,7 @@ long variable names wrong.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image282.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Useful Example - Step 4." />
 </p>
 Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 
@@ -4677,10 +4678,10 @@ number, and we're going to take the min and add it to that randomVal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image283.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Add min to roundedRandomVal." />
 <img src="./images/image284.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Test output, new roundedRandomVal." />
 </p>
 For example, if our random number gave us a zero and we add five to it, we'll get a 
@@ -4698,7 +4699,7 @@ is great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image285.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="2.23. Useful Example - Step 5." />
 </p>
 In the next step, we're going to make our random number generator, our random integer 
@@ -4708,7 +4709,7 @@ generator a little bit more useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image286.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, random selection from array." />
 </p>
 We can generate random numbers, but the only thing we can do with these random numbers 
@@ -4721,10 +4722,10 @@ the final number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image287.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Generate a random int." />
 <img src="./images/image288.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="Select from array using random int." />
 </p>
 Here, now we can return the final number and we could actually use this function 
@@ -4745,7 +4746,7 @@ get me either a cheese, a chicken, or grapes, or hamburgers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image289.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I 
@@ -4756,9 +4757,10 @@ actually do something with another program.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image290.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
+
 You can think of this randomInt, because this thing returns a random number, 
 I can use that within my tool here to get something out of this array. 
 Going back to the washing machine and dryer example, this is my washing 
@@ -4770,7 +4772,7 @@ little bit more interesting than what we've been doing so far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image292.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4778,7 +4780,7 @@ little bit more interesting than what we've been doing so far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image293.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
  
@@ -4798,7 +4800,7 @@ version of all of this stuff.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image294.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Now, you might look at this and go, "Well, I don't really understand what's going on 
@@ -4820,7 +4822,7 @@ actually worked.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image295.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 We have a few more things to talk about in terms of functions before we're done with this lesson. 
@@ -4829,7 +4831,7 @@ We have a few more things to talk about in terms of functions before we're done 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image296.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The next thing is, that functions in JavaScript can be anonymous. One of the important 
@@ -4838,6 +4840,7 @@ first-class citizens in JavaScript. Which means, you can assign a function to a 
 the way you could assign a string to a variable or a number to a variable. In fact, you 
 can use a function wherever you can use data in JavaScript, and it's one of the very 
 powerful features of JavaScript. 
+
 If you'll recall, we talked earlier about the fact that JavaScript has some features 
 that are really best in class features, for any programming language, and this is one 
 of them. This is really a very powerful feature of JavaScript. You can actually assign 
@@ -4868,10 +4871,12 @@ we could do whatever we want in here. I'm going to just for right now, just do
 console.log " hello from the function". My slide has something a little bit more 
 sophisticated down there, but for right now, this will just do for us, just to 
 see what this does. 
+
 Then, in order to call this function again, remember we have to invoke the function, 
 we have to call it or run it. I run "greeting" as if it were a function, which seems 
 weird, but that's the way it works in JavaScript. Greeting parentheses. We run that 
 like a function. 
+
 Now, if I come over to my console over here and run this, I'm getting "hamburgers" 
 again, then I'm getting "Hello from the function". That function is actually running. 
 That's important to understand. Again, this is called a function expression, and 
@@ -4882,7 +4887,7 @@ assign a function to a variable just as if it were data.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image297.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The next thing to understand about functions in JavaScript, and I'm not going to 
@@ -4905,6 +4910,7 @@ variable called "Capitalized Expression". That has an anonymous function that ta
 a string and then it takes that string and makes it uppercase and returns it. So this 
 variable will become the uppercase string that gets passed in when it's run. That's the 
 function expression that we saw just a few minutes ago. 
+
 Now, when we use the arrow functions, the arrow functions is a different syntax for a 
 function expression. In fact, sometimes they're officially called arrow function 
 expressions. We can make a variable capitalize arrow in any string, and then instead 
@@ -4914,6 +4920,7 @@ line, which is one of the reasons why these arrow functions have become popular,
 they really do lead to shorter code and less syntax to have to deal with. Although 
 when you look at them, it can be a little bit harder to understand exactly what's 
 going on here. 
+
 But all three of these functions are actually doing the same thing. They will all 
 return the exact same data. Again, we'll get to the arrow functions later in the 
 third course, but for right now, I just want you to be aware that they exist and 
@@ -4924,7 +4931,7 @@ that really they're just a different syntax for writing functions.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -4939,7 +4946,7 @@ to know a little bit about what the two terms mean and why they're interchangeab
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -4962,10 +4969,10 @@ window.doStuff and that will actually work.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 If we go back to our code here, and I come in here and put window.doStuff, you'll see 
@@ -4997,21 +5004,22 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 <h2 id="ch3-00">3.00 Learning Objectives</h2>
 
 <ul>
-•	Identify the DOM and the relationships between elements on a web page.
-•	Use document methods to access and change the DOM.
-•	Use element properties to change the DOM.
-•	Use the inspector in the browser to identify changes and troubleshoot problems.
-•	Use event listeners and event properties to capture events.
-•	Modify the DOM based on events captured.
-•	Use the inspector to identify effects the program has on the web page.
-•	Recognize and identify variable scope in JavaScript.
-•	Develop coding best practices to keep score from creating programming errors.
-•	Capture user events.
-•	Change the DOM based on user events.
-•	Employ appropriate logical flow control structures necessary to make the program function properly.
-•	Use array and variables to manage program data.
-•	Apply best practices to manage variable scope.
-•	Identify and fix errors in programs, when they are not running properly.
+  <li>Identify the DOM and the relationships between elements on a web page.</li>
+  <li>Use document methods to access and change the DOM.</li>
+  <li>Use element properties to change the DOM.</li>
+  <li>Use the inspector in the browser to identify changes and troubleshoot problems.</li>
+  <li>Use event listeners and event properties to capture events.</li>
+  <li>Modify the DOM based on events captured.</li>
+  <li>Use the inspector to identify effects the program has on the web page.</li>
+  <li>Recognize and identify variable scope in JavaScript.</li>
+  <li>Develop coding best practices to keep score from creating programming errors.</li>
+  <li>Capture user events.</li>
+  <li>Change the DOM based on user events.</li>
+  <li>Employ appropriate logical flow control structures necessary to make the program function properly.</li>
+  <li>Use array and variables to manage program data.</li>
+  <li>Apply best practices to manage variable scope.</li>
+  <li>Identify and fix errors in programs, when they are not running properly.</li>
+</ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 3.00 Module 3 Introduction
@@ -5021,7 +5029,7 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -5045,7 +5053,7 @@ with it, and by the end you'll have learned quite a lot of JavaScript.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="3.01. JavaScript and the DOM." />
 </p>
 
@@ -5056,7 +5064,7 @@ JavaScript and the DOM.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, The Web Page is an Object." />
 </p>
 
@@ -5081,7 +5089,7 @@ which is a paragraph. We can see that represented in the diagram over here.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="Example, Nodes." />
 </p>
 These elements on the page are nodes, and JavaScript understands the relationships 
@@ -5121,7 +5129,7 @@ these days.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="3.02. Dot Syntax and Methods." />
 </p>
 The dot syntax and methods. 
@@ -5131,7 +5139,7 @@ The dot syntax and methods.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Notice we use dots or periods to separate objects from their properties or their methods in JavaScript. On the right here, you can see that we have a number of methods that are related to being able to traverse the DOM or affect the DOM. insertBefore(), we can create an element and insert it before another element. We can replace a child. We could say, "Take this child out of here." Remove a child. Append a child. We can add a new paragraph to the end of a div or something like that. Clone and node. 
@@ -5142,7 +5150,7 @@ We could take an entire div with all its contents and clone it and add it to the
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 One of the document methods you'll use most frequently and is a good one to learn first is getElementById. getElementById is a document method or a function that belongs to the document object. Remember that's how we define methods. What we can use with getElementById, is we can pass in a particular ID, and then we can do things to that element, that will go into our document, into our DOM or Document Object Model and find that particular element and do something with it. 
@@ -5153,7 +5161,7 @@ We could set the style property and the color sub-property to red, for example, 
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 I'm going to come over to my code editor here and you can see I've set up a page and I guarantee you it's a good idea for you to do this as well. I strongly suggest it, but I'm going to come in here and I'm going to add, I'm going to say document if I could type document.getElementById. You can see as I start typing, that it even comes right up here and I can actually select it from the list to make sure I get it right. Because you have to get the capitalization right. It's CamelCased. The get is lowercase, but E is uppercase, B is uppercase and I uppercase, but the d is lowercase. You have to get that right, otherwise, it won't work. I'm going to pass in one because it's going to match this ID here, and I can set the style.color to red. 
@@ -5163,7 +5171,7 @@ I'm going to come over to my code editor here and you can see I've set up a page
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 If I save that, and then I come back over here and you can see I have this webpage loaded up here, and it's black here. But as soon as I refresh the page, you'll see that it's turned red. Now, I don't have any code in my HTML that's doing that. It's the script that's doing that after the fact. It's really important to understand this. 
@@ -5173,7 +5181,7 @@ If I save that, and then I come back over here and you can see I have this webpa
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 As I come down here, notice paragraph ID1 and then style color red is added here. But I didn't add that. That's not in the HTML that I added. Over here, the HTML that I have, I have the ID1, but I don't have a style attribute on here at all. When the page loaded, JavaScript loaded the paragraph the way I wrote it, and then what the scripted is it went in and found that element with the ID of one, and it added the style attribute here and set its color property to red. JavaScript is doing that on the fly after the page has been retrieved. 
@@ -5185,7 +5193,7 @@ Right now we're just loading it from our desktop. But you could be getting it of
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Here's another document method that allows us to get elements on the page and do something with them. 
@@ -5195,7 +5203,7 @@ Here's another document method that allows us to get elements on the page and do
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 It's called getElementsByTagName, and I have the S and elements highlighted because a common mistake is to leave it off because it's getElementByID, but this is getElements, so this is going to get more than one element, it's going to get a collection of elements, and then we can do something with that collection of elements. 
@@ -5205,10 +5213,10 @@ It's called getElementsByTagName, and I have the S and elements highlighted beca
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 Let's give this a try. Here I have my page, I have some paragraphs on the page, and I can write a script here, document.getElementsByTagName. Then I can pass in, say, a P for paragraphs. What this is going to do is it's going to go in and get all of these elements, and I can assign that to a variable, var myParagraphs equals. Now, myParagraphs is going to hold a collection of paragraphs, and if I console log that out, console.log(my Paragraphs). 
@@ -5220,7 +5228,7 @@ That's important to understand about this particular method. Whereas getElementB
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 If I wanted to set the color of these paragraphs to red, then I would need to use a loop because I can't apply the style color to a collection of things all at once. I have to apply them to each item in that collection. I need to use a loop to loop through each of the elements in that collection, so I'm going to use a for Loop here, and let's go ahead and do this over here rather than console log this out. 
@@ -5230,10 +5238,10 @@ If I wanted to set the color of these paragraphs to red, then I would need to us
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 I'm going to use a shorter variable here. MyParagraphs is long, I'm guaranteed to type that wrong at some point, so I'm just going to call it ps, something like that. That's fine for paragraphs. I'm going to make a for Loop, and again, remember, if you've been doing the challenges and really getting used to the syntax, you should be able to just write a for Loop. For var i equals 0 or i is less than ps.length; i plus plus and then we've got our curly braces, and in here I'm going to take each paragraph, so I'm going to say ps [i].style.color equals red. Now, if I just do this, you'll see it'll work. It'll actually go through this entire Loop. The first time through the Loop, this thing has three paragraphs and it's going to get paragraph 0. Let's give that a try. Let's run that over here. If I refresh this, you can see all my paragraphs generate. 
@@ -5243,10 +5251,10 @@ I'm going to use a shorter variable here. MyParagraphs is long, I'm guaranteed t
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 I'm going to come in here and I'm going to add alert. I'm going to use my backticks here showing where I graph, and then don't forget since that's going to be variable in dollar sign, curly brace, curly brace. To show this in Firefox.  Firefox does things a little bit differently, uses the Mozilla rendering engine, and so it renders things a little bit differently. I'm going to go ahead and open our page here in Firefox, and there's my DOM HTML, and notice the difference here. 
@@ -5258,7 +5266,7 @@ This one actually shows the first paragraph turns red, and then I get the alert,
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The next document method that we're going to look at is getElementsByClassName. 
@@ -5268,7 +5276,7 @@ The next document method that we're going to look at is getElementsByClassName.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 This method will do exactly what you think it will do. It will allow us to go into our document, and get elements that have a particular class name, and put them into an HTMLCollection. So that's very useful as well. 
@@ -5278,10 +5286,10 @@ This method will do exactly what you think it will do. It will allow us to go in
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 Let's give it a try real quick. Here, you can see I've added class equals special on my image over there it was blue, but whatever class you want to put is fine. It doesn't really matter as long as you set up a variable per myClass equals document.getElementsByClassName, this one here That will take all of these elements. In this case, it's just two and stick them into a collection. Then the same as before, we are going to need to use our loop to go through and change these items. For var i equals 0, while i is less than myClass.length. 
@@ -5292,10 +5300,10 @@ First-time to the loop, that's going to be zero. Second time to the loop, it's g
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 A little bit easier way of doing this, I don't really need a loop here because I know that there's only one element in this collection, so I know it's going to be element zero. 
@@ -5305,10 +5313,10 @@ A little bit easier way of doing this, I don't really need a loop here because I
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 So I don't need a loop, I can just make this zero and get rid of the loop, like so. Clean that up a little bit. Now, myClass is getting elements by class name special and myClass zero, since I know there's only one, it's going to be myClass zero. It's going to be that one in the collection. I can access it through because it's treated like an array there. It's not actually an array, it's a collection of HTML elements, but I can treat it like an array to go and get element zero out of there and you'll see that will work just as well. 
@@ -5320,7 +5328,7 @@ But the important thing here to understand is that if you're using getElementsBy
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The next document method that we're going to look at is querySelector. 
@@ -5330,7 +5338,7 @@ The next document method that we're going to look at is querySelector.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Now, the history here is a little bit interesting. Because in 2009 as we said before, ES5 became the de facto standard for scripting for the web. But there was the rise of a have a library called jQuery that became popular and it remains popular to this day. Less now than it was, but it's still a popular library that made it getting elements in the DOM and doing things with them  easier. An API that allows us to use querySelector and querySelectorAll which we'll also look at to get elements from the DOM. And it's a little bit more convenient but it works a little bit differently than the older get element by ID, get element by tag name, get element by class name methods. 
@@ -5341,10 +5349,10 @@ So these are newer methods, and they're very useful, but they work a little bit 
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 Okay, so let's take a look at querySelector and the way that works. So over here I have a document, and I have a div with an id on it, and then inside there I've got a paragraph for the class. Well, I could do something like this. var myText = document.querySelector. And then what I would pass in is actually instead of just some class, I would put either dots or I could put .someclass. 
@@ -5354,7 +5362,7 @@ Okay, so let's take a look at querySelector and the way that works. So over here
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 So what's different here is before we didn't use the CSS syntax. Now we have to use the CSS syntax with querySelector. Or I could even be more specific and I could say go find #special.someclass. So get to someclass inside the id="special". And what's nice about this is that query selector will always return the first element that it finds that matches what you pass in here. So even if I had another paragraph with some class on it, this will always only return one thing to my text. myText.style.color = "red". And if I go over and test this document, and again I recommend, that you give this a try yourself. You can see that it's trying that paragraph red. 
@@ -5366,7 +5374,7 @@ Now if I were to go in here and add my class, “someclass” to another element
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The querySelectorAll method does what you would think it would do, is that it allows you to grab a group of elements again, but this time using the newer, more updated DOM API querySelectorAll. 
@@ -5376,7 +5384,7 @@ The querySelectorAll method does what you would think it would do, is that it al
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Let's give that a try really quickly here. 
@@ -5386,10 +5394,10 @@ Let's give that a try really quickly here.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 Over here, I've got my div id special and I've got some paragraphs in here, and I can do something like var myText equals document.querySelectorAll and with that querySelectorAll. I could pass in here in quotes, I could pass in pounds special p, and that's going to get me all of the paragraphs that are inside this div special. 
@@ -5401,7 +5409,7 @@ So querySelectorAll will allow us to get groups of elements and then we would lo
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Next, I want to talk about working with properties. We've already seen this a little bit. We've seen element.style.color. So we're going in and we're getting that element, whatever the element is, we've got that element, whether it's paragraphs or whether it's a div; whatever it is, we're getting that element with our document methods, we're getting those elements and then we can apply the style property. 
@@ -5413,7 +5421,7 @@ Now, we can put animations in CSS, and then when we want to animate something, w
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 So we have the document methods, and now we have element properties that allow us to work with the properties of certain elements. But there are also element methods or element functions and those are also useful. For example, .setAttribute, we can pass in an attribute name and then set its value. 
@@ -5423,10 +5431,10 @@ So we have the document methods, and now we have element properties that allow u
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 Back here we could set the className by using the className property. Here we could set the className by passing in class and then passing in a value. But we can pass in the value there or we could do something else; we could use an anchor tag, we could set the href attribute and set its value. Or we can remove an attribute or we could get an attribute and do things with it. Notice that methods are distinguished by the fact that they have parentheses. 
@@ -5438,7 +5446,7 @@ So when you're using a method or a function, it has parentheses, whereas the pro
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Next, we'll take a look at one of the element properties that we just talked about in the previous video and see how powerful it is. 
@@ -5448,7 +5456,7 @@ Next, we'll take a look at one of the element properties that we just talked abo
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 And that's innerHTML. And if you look at this image here, you can see I have a div with an id="special", and I can use any of my document methods to go in and get that div. And then I could use innerHTML to actually change the contents in that div. I can replace these contents with something else entirely, completely new, completely different. And that's something else could have HTML in it. 
@@ -5458,10 +5466,10 @@ And that's innerHTML. And if you look at this image here, you can see I have a d
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 So let's see what that looks like. Over here, I have my div id="special", and I have these three paragraphs in here. But down here I could say, var myDiv = document.getElementById. With this version, we're not using the pound here. We're using the older getElementById. We can switch that in a minute just to see what that looks like. But then I can say, okay, I've got that element, myDiv.innerHTML =. This is an element property, so we use the equal sign, and then inside quotes, I can create a completely new piece of content to stick in there. That's my </p> there. 
@@ -5474,10 +5482,10 @@ And if I come down here and look inspect in my body, and look at div id="special
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 I could also do querySelector. But if I use this one, then I would pass in #special. You see the difference there? This is the newer method, and it uses the CSS syntax to get to that element. But this will work just the same. If I go back and refresh this page, you'll see it'll do exactly the same thing. It'll get my new paragraph and put it in there. So you could use whichever document method you want. Once you get that element, then you can use your element properties to affect the element here. 
@@ -5487,7 +5495,7 @@ I could also do querySelector. But if I use this one, then I would pass in #spec
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Now, I'm putting this all inside of this div here, but I don't need to use the variable. I could just do document.getElementById('special') and then put this, Here, it just makes for a very long line. So it's kind of helpful, and that'll work. It's kind of helpful to have the variable, but you don't have to have it. I can just go, document.querySelector('#special').innerHTML, and then set my property right there. And that'll work just as well. There's my new paragraph. So that's using the innerHTML. We could use this in lots and lots of places to get elements on our page and then replace those elements with completely new elements. And you can put more HTML in there. We could put an entire document of HTML inside this div. Not just one paragraph, but you could put articles, you can do all kinds of stuff, images. All kinds of things can go in there using innerHTML.
@@ -5498,7 +5506,7 @@ Now, I'm putting this all inside of this div here, but I don't need to use the v
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The next element property that I want to show you, which is extremely useful is the class name element property. 
@@ -5508,7 +5516,7 @@ The next element property that I want to show you, which is extremely useful is 
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 So let's take a look at how this one works. Here I have a div with some paragraphs in here, and I'm using my query selector to get the first paragraph. Because remember, instead of returning a collection, query selector returns the first one that it finds. So it's going to go in here and look for first paragraph. And then I'm going to take that first paragraph and I'm going to use the class name, element property to set the class to blue. And up here I've added style and I've added a class blue here to my document. So let's see how this works. 
@@ -5518,7 +5526,7 @@ So let's take a look at how this one works. Here I have a div with some paragrap
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 I'm going to go over to my page over here and you can see I've added up here, a rule here to set for anything that has the class blue here. So let's come down here. I'm going to call this Var firstPara equals document.querySelector. And remember, we have to use the CSS syntax. In this case, it's just a " p" because it's just a tag selector, but I'm going to go get that first paragraph. Now I've got three paragraphs, but remember querrySelector just returns the first one. And then I'm going to say, okay, firstPara, Set the class name. And you can see here there's one called classList. I'm just showing you a few of the document, select the document properties that are super useful, but there are plenty of other ones that you can look up and work with as well. Class name equals blue. 
@@ -5528,10 +5536,10 @@ I'm going to go over to my page over here and you can see I've added up here, a 
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 So now when I run this, come back here, click on My document here. I've got my three paragraphs, but when I refresh the page, it turns the first paragraph blue. And if I come down here and look at this, what is it actually done there, but it's added class equals blue on to that paragraph. Sure, I could have set the style color property to blue. But adding the class blue is even more powerful, because even though in both cases and just setting the color. I could have a lot more declarations in this class up here, that would do all kinds of things that could be adding an animation. I could be doing all kinds of really cool stuff, and we'll get to do some of those things in this course. So, hold on to your hat, because it's coming. 
@@ -5542,7 +5550,7 @@ But first I just want to introduce the basic concepts to begin with. And this is
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 The next thing I want to look at really quickly is some of the element methods. Remember these are properties because they've got the equal sign and then a value, but we also have element methods. And the first one we'll look at is setAttribute. 
@@ -5552,7 +5560,7 @@ The next thing I want to look at really quickly is some of the element methods. 
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 So here I have a form and let's just do this one really quickly here. I have a form and I'm going to say var myCheckbox equals document.get element or I can do a querySelector. QuerySelector input. And then I'll get my first input fields here. And then I could do okay, myCheckbox.setAttribute, and set attribute takes two parameters. I'm going to say what is the attribute that I want to set? In this case it's checked, and I'm going to set the value which is also checked. Checked, checked, and that's the way. What that will do is it'll come in here and it's going to set a checked attribute and set it to checked, which will make the check box checked by default. 
@@ -5562,10 +5570,10 @@ So here I have a form and let's just do this one really quickly here. I have a f
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
-  width="45%"
+  style="width:45%"
   alt="." />
 </p>
 So if we go over and view the page, currently, without having set that checkbox, you can see I've got a checkbox here but it's not checked. When I refresh the page, it comes up as checked by default. And if I come down here and look at this, You can see checked equals check that added that attribute into my HTML here. 
@@ -5577,7 +5585,7 @@ Set attribute can be used for any number of attributes. You want to set an image
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 I have shown you a few of the document methods, the element methods and the element properties 
@@ -5588,7 +5596,7 @@ in this lesson and there are lots more.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 There are many more that you can use to do all kinds of interesting things to your pages. 
@@ -5606,7 +5614,7 @@ of doing it.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Here I'm going to make a variable var myTag and I'm going to say document.createElement. 
@@ -5628,7 +5636,7 @@ paragraph and then going and getting our div and appending it to the end of the 
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Let's see if I did this right. If I come back and do this over here and refresh, you can see 
@@ -5648,7 +5656,7 @@ a better way to go than using innerHTML in certain circumstances.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 One last method that I want to show you in this lesson is how to remove an element from another element. 
@@ -5658,7 +5666,7 @@ One last method that I want to show you in this lesson is how to remove an eleme
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Again, we could use innerHTML and just replace all the contents all at once, but sometimes 
@@ -5669,7 +5677,7 @@ removing elements is useful. Let's take a look at this example really quickly.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Here I have a div with two paragraphs in it, and I'm going to go ahead and get that div and put it into a variable, var myDiv, and assign a document.querySelector('div'). So that'll go get the first div on the page, which there's only one, so that's nice and easy. Then I could do myDiv.removeChild, that method. Which child am I going to remove? Well, I'm going to say myDiv.children[1]. What that's going to do is it's going to go into myDiv, look at its children, and find child number 1. Remember, this is child number 0 here. That's zero, this is one. That will actually go and remove this second paragraph from this div. Put a semicolon there, save that, and then let's go over to our browser here. 
@@ -5679,7 +5687,7 @@ Here I have a div with two paragraphs in it, and I'm going to go ahead and get t
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 You could see I've got the two paragraphs there, when I refresh the page, that second 
@@ -5692,7 +5700,7 @@ removing elements from the page, if you need to do that.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Here we've seen a lot of different methods that we can use on our webpages to do all kinds 
@@ -5714,7 +5722,7 @@ https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Capturing Events with JavaScript. 
@@ -5724,7 +5732,7 @@ Capturing Events with JavaScript.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Events happen. Users will click on something, they'll scroll the page, they'll submit a 
@@ -5742,7 +5750,7 @@ how we can get interactive webpages.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 Let's take a look at this very basic example. Here I have a webpage with a button on it. 
@@ -5791,7 +5799,7 @@ to do that.
 <!--
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  width="50%"
+  style="width:50%"
   alt="." />
 </p>
 
@@ -5822,7 +5830,7 @@ the end.
   alt="." />
 </p>
 -->
-<!-- 1-21-2024 11:45am -->
+<!-- 2-15-2024 8:52pm -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (##) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- TO ADD A VIDEO LINK WITH HEIGHT, WIDTH & BORDER
