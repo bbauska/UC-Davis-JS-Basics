@@ -693,6 +693,7 @@ in that string. That&apos;s kind of an interesting thing to understand about arr
 <p align="center" width="100%">
 <img src="./images/image010.png?raw=true"
   style="width:40%"
+  title="1.02. Introduction to JavaScript - Part 2"
   alt="1.02. Introduction to JavaScript - Part 2." />
 </p>
 
@@ -703,6 +704,7 @@ interact with the website is this Awwwards website with the extra w&apos;s in he
 <p align="center" width="100%">
 <img src="./images/image011.png?raw=true"
   style="width:50%"
+  title="JavaScript Interaction: awwwards.com website"
   alt="JavaScript Interaction: awwwards.com website." />
 </p>
 
@@ -714,6 +716,7 @@ awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
 <p align="center" width="100%">
 <img src="./images/image012.png?raw=true"
   style="width:50%"
+  title="TapTaro example from awwwards.com website"
   alt="TapTaro example from awwwards.com website." />
 </p>
 
@@ -725,6 +728,7 @@ or the way these images pop in, this is all being done with JavaScript, this kin
 <p align="center" width="100%">
 <img src="./images/image013.png?raw=true"
   style="width:50%"
+  title="NASA example from awwwards.com website.  No longer active"
   alt="NASA example from awwwards.com website.  No longer active." />
 </p>
 
@@ -736,6 +740,7 @@ some other interactions including some sounds as you work around it.</p>
 <p align="center" width="100%">
 <img src="./images/image014.png?raw=true"
   style="width:50%"
+  title="Boyntonyards.com website from awwwards.com"
   alt="Boyntonyards.com website from awwwards.com." />
 </p>
 
@@ -746,6 +751,7 @@ interactions as you&apos;re scrolling through the website.</p>
 <p align="center" width="100%">
 <img src="./images/image015.png?raw=true"
   style="width:50%"
+  title="Boyntonyards website from awwwards.com, cont'd"
   alt="Boyntonyards website from awwwards.com, cont'd." />
 </p>
 
@@ -758,6 +764,7 @@ websites or you&apos;ve gone off and found your own.</p>
 <p align="center" width="100%">
 <img src="./images/image016.png?raw=true"
   style="width:50%"
+  title="Why Learn JavaScript?"
   alt="Why Learn JavaScript?" />
 </p>
 
@@ -783,6 +790,7 @@ place to start with programming.</p>
 <p align="center" width="100%">
 <img src="./images/image017.png?raw=true"
   style="width:50%"
+  title="1995 - The Beginnings of JavaScript"
   alt="1995 - The Beginnings of JavaScript." />
 </p>
 
@@ -809,6 +817,7 @@ get confused between Java and JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image018.png?raw=true"
   style="width:50%"
+  title="JavaScript's rough beginnings"
   alt="JavaScript's rough beginnings." />
 </p>
 
@@ -823,6 +832,7 @@ as a language and its strengths as well as its weaknesses.</p>
 <p align="center" width="100%">
 <img src="./images/image019.png?raw=true"
   style="width:50%"
+  title="JavaScript - The Good and the Bad"
   alt="JavaScript - The Good and the Bad." />
 </p>
 
@@ -851,6 +861,7 @@ it was different.</p>
 <p align="center" width="100%">
 <img src="./images/image020.png?raw=true"
   style="width:40%"
+  title="Intro to JavaScript - Part 3"
   alt="Intro to JavaScript - Part 3." />
 </p>
 
@@ -862,6 +873,7 @@ really impacted the way that we write JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image021.png?raw=true"
   style="width:50%"
+  title="JavaScript Versions"
   alt="JavaScript Versions." />
 </p>
 
@@ -930,7 +942,8 @@ learning about JavaScript as we go along here.</p>
 <p align="center" width="100%">
 <img src="./images/image022.png?raw=true"
   style="width:40%"
-  alt="Tools needed for success in learning JavaScript." />
+  title="1.04 Tools needed for success in learning JavaScript"
+  alt="1.04 Tools needed for success in learning JavaScript." />
 </p>
 
 <p>Tools and skills needed for success for learning JavaScript.</p>
@@ -940,6 +953,7 @@ learning about JavaScript as we go along here.</p>
 <p align="center" width="100%">
 <img src="./images/image023.png?raw=true"
   style="width:40%"
+  title="Tools and Skills Needed for Success"
   alt="Tools and Skills Needed for Success." />
 </p>
 
