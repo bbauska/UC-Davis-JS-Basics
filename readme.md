@@ -4995,8 +4995,12 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-00">3.00 Module 3 Introduction</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image302.png){width="4.00798009623797in"
-height="2.002826990376203in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image302.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Welcome to the third module on JavaScript. In this module, we\'ll
 be doing some really exciting stuff. We\'ll be digging in and learning
@@ -5017,14 +5021,21 @@ end you\'ll have learned quite a lot of JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 JavaScript and the DOM (4:34)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image303.png){width="4.008942475940508in"
-height="2.034659886264217in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image303.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 JavaScript and the DOM.
-
-![](./images/image304.png){width="5.011346237970254in"
-height="2.485252624671916in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image304.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 The DOM stands for Document Object Model. JavaScript sees the web doc
 ument as an object, and it understands it from the hierarchical
@@ -5045,9 +5056,13 @@ has a child which would be the h1. Then another child of the article is
 a paragraph. Another child of the article is the footer, which also has
 a child which is a paragraph. We can see that represented in the diagram
 over here.
-
-![](./images/image305.png){width="5.010964566929134in"
-height="2.485064523184602in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image305.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 These elements on the page are nodes, and JavaScript understands the
 relationships between the nodes. And we can use methods and properties
@@ -5086,13 +5101,21 @@ browsers with JavaScript, but we\'re pretty close to there these days.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-02">3.02 Dot Syntax and Methods (5:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-![](./images/image306.png){width="4.00719706911636in"
-height="2.023307086614173in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 306.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image306.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The dot syntax and methods.
-
-![](./images/image307.png){width="5.004472878390201in"
-height="2.5027077865266842in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image307.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Notice we use dots or periods to separate objects from their properties
 or their methods in JavaScript. On the right here, you can see that we
@@ -5109,9 +5132,13 @@ create attributes, we can create a text node. These are all methods that
 JavaScript has built into it that will allow us to do things to the
 Document Object Model; to the document itself and will affect the
 document there.
-
-![](./images/image308.png){width="5.008871391076116in"
-height="2.504890638670166in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image308.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 One of the document methods you\'ll use most frequently and is a good
 one to learn first is **getElementById**. **getElementById** is a
@@ -5131,9 +5158,13 @@ times. But the whole point of an ID is that it\'s unique, just like you
 have a student ID or a driver\'s license ID or some other ID with a
 unique ID number on it. The whole purpose of having an ID is that it is
 unique. Let\'s give this a try.
-
-![](./images/image309.png){width="5.0in"
-height="2.8055555555555554in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image309.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to come over to my code editor here and you can see I\'ve set
 up a page and I guarantee you it\'s a good idea for you to do this as
@@ -5146,18 +5177,26 @@ It\'s **CamelCased**. The get is lowercase, but E is uppercase, B is
 uppercase and I uppercase, but the d is lowercase. You have to get that
 right, otherwise, it won\'t work. I\'m going to pass in one because
 it\'s going to match this ID here, and I can set the style.color to red.
-
-![](./images/image310.png){width="5.0in"
-height="2.8055555555555554in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image310.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 If I save that, and then I come back over here and you can see I have
 this webpage loaded up here, and it\'s black here. But as soon as I
 refresh the page, you\'ll see that it\'s turned red. Now, I don\'t have
 any code in my HTML that\'s doing that. It\'s the script that\'s doing
 that after the fact. It\'s really important to understand this.
-
-![](./images/image311.png){width="5.0in"
-height="2.8055555555555554in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image311.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 As I come down here, notice paragraph ID1 and then style color red is
 added here. But I didn\'t add that. That\'s not in the HTML that I
@@ -5180,26 +5219,38 @@ document, find that ID, and then effect it on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 DOM: getElementsByTagName(); (7:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image312.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image312.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Here\'s another document method that allows us to get elements on the
 page and do something with them.
-
-![](./images/image313.png){width="5.0in"
-height="2.8055555555555554in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image313.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 It\'s called **getElementsByTagName,** and I have the S and elements
 highlighted because a common mistake is to leave it off because it\'s
 getElementByID, but this is getElements, so this is going to get more
 than one element, it\'s going to get a collection of elements, and then
 we can do something with that collection of elements.
-
-![](./images/image314.png){width="3.5in"
-height="2.160203412073491in"}
-![](./images/image315.png){width="3.5in"
-height="2.160203412073491in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 314/315.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image314.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image315.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 Let\'s give this a try. Here I have my page, I have some paragraphs on
 the page, and I can write a script here,
@@ -5221,9 +5272,13 @@ That\'s important to understand about this particular method. Whereas
 getElementByID gives me always just one thing. It\'ll always give me one
 because IDs are unique. Whereas **getElementsByTagName** will give me an
 HTMLCollection of elements that I need to then do something else with.
-
-![](./images/image316.png){width="5.0in"
-height="3.0860039370078742in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image316.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 If I wanted to set the color of these paragraphs to red, then I would
 need to use a loop because I can\'t apply the style color to a
@@ -5231,11 +5286,16 @@ collection of things all at once. I have to apply them to each item in
 that collection. I need to use a loop to loop through each of the
 elements in that collection, so I\'m going to use a for Loop here, and
 let\'s go ahead and do this over here rather than console log this out.
-
-![](./images/image317.png){width="3.5in"
-height="2.160203412073491in"}
-![](./images/image318.png){width="3.5in"
-height="2.160203412073491in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 317/318.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image317.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image318.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 I\'m going to use a shorter variable here. MyParagraphs is long, I\'m
 guaranteed to type that wrong at some point, so I\'m just going to call
@@ -5250,11 +5310,16 @@ it\'ll work. It\'ll actually go through this entire Loop. The first time
 through the Loop, this thing has three paragraphs and it\'s going to get
 paragraph 0. Let\'s give that a try. Let\'s run that over here. If I
 refresh this, you can see all my paragraphs generate.
-
-![](./images/image319.png){width="3.5in"
-height="2.160203412073491in"}
-![](./images/image320.png){width="3.5in"
-height="2.160203412073491in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 319/320.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image319.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image320.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 I\'m going to come in here and I\'m going to add alert. I\'m going to
 use my backticks here showing where I graph, and then don\'t forget
@@ -5275,24 +5340,38 @@ one at a time in the collection.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04">3.04 DOM: getElementsByClassName(); (5:09)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image321.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image321.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The next document method that we\'re going to look at is
 **getElementsByClassName.**
-
-![](./images/image322.png){width="5.0in"
-height="2.801281714785652in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image322.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 This method will do exactly what you think it will do. It will allow us
 to go into our document, and get elements that have a particular class
 name, and put them into an **HTMLCollection**. So that\'s very useful as
 well.
-
-![](./images/image323.png){width="3.5in"
-height="1.9608978565179354in"}![](./images/image324.png){width="3.5in"
-height="1.9608978565179354in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 323/324.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image323.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image324.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 Let\'s give it a try real quick. Here, you can see I\'ve added class
 equals special on my image over there it was blue, but whatever class
@@ -5315,20 +5394,30 @@ have one element in it and I still need to use a loop or some other way
 of getting to the element inside that collection, even though there\'s
 only one. You\'ll see the loop will still work. It\'ll just run only one
 time.
-
-![](./images/image325.png){width="3.5in"
-height="1.9608978565179354in"}
-![](./images/image326.png){width="3.5in"
-height="1.9608978565179354in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 325/326.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image325.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image326.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 A little bit easier way of doing this, I don\'t really need a loop here
 because I know that there\'s only one element in this collection, so I
 know it\'s going to be element zero.
-
-![](./images/image327.png){width="3.5in"
-height="1.9608978565179354in"}
-![](./images/image328.png){width="3.5in"
-height="1.9608978565179354in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 327/328.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image327.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image328.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 So I don\'t need a loop, I can just make this zero and get rid of the
 loop, like so. Clean that up a little bit. Now, myClass is getting
@@ -5355,15 +5444,22 @@ that\'s an important thing to understand about
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 DOM: querySelector(); (4:58)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image329.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 329.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image329.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The next document method that we\'re going to look at is
 **querySelector**.
-
-![](./images/image330.png){width="5.0in"
-height="2.801281714785652in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image330.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, the history here is a little bit interesting. Because in 2009 as we
 said before, ES5 became the de facto standard for scripting for the web.
@@ -5383,11 +5479,16 @@ what we\'ll still learn **jQuery**, we\'ll be learning that in the
 second course in specialization. But now we can actually get elements
 into our **DOM** a little bit easier than we could just with the older
 methods.
-
-![](./images/image331.png){width="3.5198392388451443in"
-height="1.7357425634295713in"}
-![](./images/image332.png){width="3.5344116360454945in"
-height="1.7248698600174979in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 331/332.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image331.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image332.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 Okay, so let\'s take a look at **querySelector** and the way that works.
 Over here I have a document, and I have a **div** with an **id** on it,
@@ -5395,9 +5496,13 @@ and then inside there I\'ve got a paragraph for the class. Well, I could
 do something like this. var **myText = document.querySelector**. And
 then what I would pass in is actually instead of just some class, I
 would put either dots or I could put **.someclass.**
-
-![](./images/image333.png){width="5.00148731408574in"
-height="2.466262029746282in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image333.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 What is different here is before we didn\'t use the CSS syntax. Now we
 have to use the CSS syntax with **querySelector**. Or I could even be
@@ -5420,23 +5525,36 @@ important with **querySelector**. Let\'s take a look at the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 DOM: QuerySelectorAll(); (6:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image334.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 334.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image334.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The **querySelectorAll** method does what you would think it would do,
 is that it allows you to grab a group of elements again, but this time
 using the newer, more updated **DOM API querySelectorAll.**
 
-![](./images/image335.png){width="5.0in"
-height="2.801281714785652in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 335.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image335.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s give that a try really quickly here.
-
-![](./images/image336.png){width="3.5in"
-height="1.9608978565179354in"}
-![](./images/image337.png){width="3.5in"
-height="1.9608978565179354in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 336/337.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image336.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image337.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 Over here, I\'ve got my **div** id special and I\'ve got some paragraphs
 in here, and I can do something like var myText equals
@@ -5466,8 +5584,13 @@ might use this less often now because now we have the newer methods,
 **querySelector** and **querySelectorAll**. But these are just some of
 the document elements that allow us to add elements to the page.
 
-![](./images/image338.png){width="5.0in"
-height="2.801281714785652in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 338.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image338.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Next, I want to talk about working with properties. We\'ve already seen
 this a little bit. We\'ve seen **element.style.color**. So we\'re going
@@ -5489,19 +5612,29 @@ something, we can use JavaScript to add that class in CSS that has the
 innovation and the innovation will take place on the screen. That\'s a
 really great way to create interactive for animated elements on a web
 page.
-
-![](./images/image339.png){width="5.015423228346457in"
-height="2.4645658355205597in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image339.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 So we have the document **methods**, and now we have element
 **properties** that allow us to work with the **properties** of certain
 elements. But there are also **element** **methods** or **element**
 **functions** and those are also useful. For example, .**setAttribute**,
 we can pass in an attribute name and then set its value.
-
-![](./images/image340.png){width="3.5in"
-height="1.960896762904637in"}![](./images/image341.png){width="3.5in"
-height="1.960896762904637in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 340/341.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image340.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image341.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 Back here we could set the **className** by using the **className**
 property. Here we could set the **className** by passing in class and
@@ -5524,15 +5657,23 @@ our web pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 innerHTML (4:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image342.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 342.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image342.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Next, we\'ll take a look at one of the element properties that we just
 talked about in the previous video and see how powerful it is.
 
-![](./images/image343.png){width="5.0in"
-height="2.801281714785652in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 343.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image343.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 And that\'s **innerHTML**. And if you look at this image here, you can
 see I have a **div** with an id=\"special\", and I can use any of my
@@ -5540,10 +5681,16 @@ see I have a **div** with an id=\"special\", and I can use any of my
 **innerHTML** to actually change the contents in that **div**. I can
 replace these contents with something else entirely, completely new,
 completely different. And that\'s something else could have HTML in it.
-
-![](./images/image344.png){width="3.5in"
-height="1.9608978565179354in"}![](./images/image345.png){width="3.5in"
-height="1.9608978565179354in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 344/345.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image344.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image345.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 So let\'s see what that looks like. Over here, I have my **div
 id**=\"special\", and I have these three paragraphs in here. But down
@@ -5566,11 +5713,16 @@ paragraphs in there. Because when the page loaded, it had three
 paragraphs, and then the script ran and it removed those three
 paragraphs and put this one in instead. And that\'s what JavaScript is
 doing. Now, here, I\'m using **getElementById(\'special\').**
-
-![](./images/image346.png){width="3.5in"
-height="1.9608978565179354in"}
-![](./images/image347.png){width="3.5in"
-height="1.9608978565179354in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 346/347.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image346.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image347.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 I could also do **querySelector**. But if I use this one, then I would
 pass in **#special**. You see the difference there? This is the newer
@@ -5581,8 +5733,13 @@ in there. So you could use whichever document method you want. Once you
 get that element, then you can use your element properties to affect the
 element here.
 
-![](./images/image348.png){width="5.0in"
-height="2.801281714785652in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 348.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image348.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, I\'m putting this all inside of this **div** here, but I don\'t
 need to use the variable. I could just do
@@ -5602,15 +5759,22 @@ stuff, images. All kinds of things can go in there using **innerHTML**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-08">3.08 className (6:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image349.png){width="4.012280183727034in"
-height="1.9794860017497813in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 349.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image349.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The next element property that I want to show you, which is extremely
 useful is the class name element property.
-
-![](./images/image350.png){width="5.009885170603675in"
-height="2.51630905511811in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 350.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image350.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 So let\'s take a look at how this one works. Here I have a **div** with
 some paragraphs in here, and I\'m using my query selector to get the
@@ -5620,9 +5784,13 @@ in here and look for first paragraph. And then I\'m going to take that
 first paragraph and I\'m going to use the class name, element property
 to set the class to blue. And up here I\'ve added style and I\'ve added
 a class blue here to my document. So let\'s see how this works.
-
-![](./images/image351.png){width="5.0in"
-height="2.9695516185476816in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image351.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to go over to my page over here and you can see I\'ve added
 up here, a rule here to set for anything that has the class blue here.
@@ -5636,11 +5804,16 @@ see here there\'s one called classList. I\'m just showing you a few of
 the document, select the document properties that are super useful, but
 there are plenty of other ones that you can look up and work with as
 well. Class name equals blue.
-
-![](./images/image352.png){width="3.5in"
-height="2.078685476815398in"}
-![](./images/image353.png){width="3.5in"
-height="2.078685476815398in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 352/353.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image352.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image353.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 So now when I run this, come back here, click on My document here. I\'ve
 got my three paragraphs, but when I refresh the page, it turns the first
@@ -5663,17 +5836,25 @@ for our different CSS features. We can use that one, we can use the
 inner HTML property, that\'s extremely powerful for replacing HTML
 inside of any element. And then there is the class name property that
 allows us to put a class name on things.
-
-![](./images/image354.png){width="5.0in"
-height="2.674679571303587in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image354.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 The next thing I want to look at really quickly is some of the element
 methods. Remember these are properties because they\'ve got the equal
 sign and then a value, but we also have element methods. And the first
 one we\'ll look at is **setAttribute**.
-
-![](./images/image355.png){width="5.0in"
-height="2.674679571303587in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image355.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 So here I have a form and let\'s just do this one really quickly here. I
 have a form and I\'m going to say var myCheckbox equals document.get
@@ -5685,11 +5866,16 @@ it\'s checked, and I\'m going to set the value which is also checked.
 Checked, checked, and that\'s the way. What that will do is it\'ll come
 in here and it\'s going to set a checked attribute and set it to
 checked, which will make the check box checked by default.
-
-![](./images/image356.png){width="3.5in"
-height="1.8722758092738407in"}
-![](./images/image357.png){width="3.5in"
-height="1.8722758092738407in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 356/357.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image356.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image357.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 So if we go over and view the page, currently, without having set that
 checkbox, you can see I\'ve got a checkbox here but it\'s not checked.
@@ -5703,19 +5889,26 @@ HREF on a link. You could use this any attribute can be accessed with
 set attribute. And you could set it to whatever value you want to set it
 to. And that is another very powerful tool that allows us to change
 content on our webpages.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-09">3.09 Creating Elements and Text Nodes (5:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image358.png){width="4.010655074365705in"
-height="2.0114162292213473in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 358.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image358.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 I have shown you a few of the document methods, the element methods and
 the element properties in this lesson and there are lots more.
-
-![](./images/image359.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 359.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image359.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 There are many more that you can use to do all kinds of interesting
 things to your pages. But I think it\'s helpful to see just a few to
@@ -5731,8 +5924,13 @@ interesting process. Again, we\'ve used innnerHTML and we can use that
 to also change content on the page, but this is just a different way of
 doing it.
 
-![](./images/image360.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 360.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image360.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Here I\'m going to make a variable var **myTag** and I\'m going to say
 **document.createElement**. What am I going to create? I\'m going to
@@ -5755,8 +5953,13 @@ where we\'re creating a paragraph, we\'re creating some text, putting
 the text in the paragraph and then going and getting our **div** and
 appending it to the end of the paragraph here.
 
-![](./images/image361.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 361.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image361.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s see if I did this right. If I come back and do this over here and
 refresh, you can see that my first paragraph is here and a new paragraph
@@ -5772,23 +5975,38 @@ content, to stick in those elements, and then to append them to the page
 in particular places. Sometimes it\'s useful, and sometimes a better way
 to go than using innerHTML in certain circumstances.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-10">3.10 Removing Elements (3:18)</h2>
-
-![](./images/image362.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 362.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image362.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 One last method that I want to show you in this lesson is how to remove
 an element from another element.
 
-![](./images/image363.png){width="5.0in"
-height="2.678953412073491in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 363.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image363.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Again, we could use innerHTML and just replace all the contents all at
 once, but sometimes removing elements is useful. Let\'s take a look at
 this example really quickly.
 
-![](./images/image364.png){width="5.0in"
-height="2.678953412073491in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 364.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image364.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Here I have a **div** with two paragraphs in it, and I\'m going to go
 ahead and get that **div** and put it into a variable, var **myDiv**,
@@ -5801,19 +6019,29 @@ into **myDiv**, look at its children, and find child number 1. Remember,
 this is child number 0 here. That\'s zero, this is one. That will
 actually go and remove this second paragraph from this **div**. Put a
 semicolon there, save that, and then let\'s go over to our browser here.
-
-![](./images/image365.png){width="3.4202799650043745in"
-height="1.9in"}![](./images/image366.png){width="3.386783683289589in"
-height="1.9in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 365/366.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image366.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image365.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 You could see I\'ve got the two paragraphs there, when I refresh the
 page, that second one is gone. Down here you\'ll see it\'s not in here
 anymore. It\'s been taken out. JavaScript removed it. Removing elements
 using the remove child method is a really useful tool for removing
 elements from the page, if you need to do that.
-
-![](./images/image367.png){width="5.0in"
-height="2.678953412073491in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 367.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image367.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Here we\'ve seen a lot of different methods that we can use on our
 webpages to do all kinds of things. We\'ve talked about some of the
@@ -5841,14 +6069,22 @@ to create all kinds of interactive elements in our webpages.
 ### https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21 {#httpswww.coursera.orglearnjavascript-basicssupplementjjf7ejavascript-dom-challenges-17-21 .unnumbered}
 
 <h2 id="ch3-11">3.11 Capturing Events with JavaScript (5:16)</h2>
-
-![](./images/image368.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 368.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image368.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Capturing Events with JavaScript.
-
-![](./images/image369.png){width="4.0in"
-height="2.1431627296587927in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 369.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image369.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Events happen. Users will click on something, they\'ll scroll the page,
 they\'ll submit a form. Events happen on webpages. And when events
@@ -5863,24 +6099,36 @@ Because we can use our logic float structures, sequence, selection,
 loop, along with our document methods and our element methods and
 properties to change elements on the page when events happen. And
 that\'s how we can get interactive webpages.
-
-![](./images/image370.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 370.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image370.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s take a look at this very basic example. Here I have a webpage
 with a button on it. And when you click the button, it\'s going to pop
 up an alert saying that you clicked the button, something that shows
 that you actually clicked the button.
-
-![](./images/image371.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 371.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image371.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Here I have a webpage, I have a button on the webpage, it says Don\'t
 Press Me! And I\'m going to grab that button using my document element
 methods.
-
-![](./images/image372.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 372.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image372.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 So I\'m going to make a variable var btn, and I\'m going to assign it
 **document.querySelector**, **Button**. And that\'ll get that button.
@@ -5894,9 +6142,13 @@ You can put whatever you want in there, that\'s fine. And then I\'m
 going to say, okay, **btn.onclick** run this function **ouch**. That\'s
 going to run the function using the onclick button. And we\'re using a
 special property that will capture the click event.
-
-![](./images/image373.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 373.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image373.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 If I come over here and refresh the page, if I click Don\'t Press Me, I
 get an alert that says I told you not to press me. I\'m capturing that
@@ -5907,9 +6159,13 @@ didn\'t put the parentheses at the end here; **btn.onclick = ouch;** If
 I did, **btn.onclick = ouch();** then that function would run right
 away, it would run immediately. It\'s not going to wait for me to click.
 Instead, it\'s going to run right away.
-
-![](./images/image374.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 374.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image374.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, you don\'t have to define a function here. We can actually just use
 an anonymous function here. I could say function, parentheses, curly
@@ -5923,15 +6179,22 @@ anonymous function to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-12">3.12 Event Listeners (5:09)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image375.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 375.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image375.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The unclick event property is useful, but a more frequent method that
 you\'ll see of capturing event is using the addEventListener method.
-
-![](./images/image376.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image376.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 This is a great way of capturing events because you can capture all
 kinds of events with **addEventListener** method. You can even tell it
@@ -5941,10 +6204,16 @@ whereas with the event property, you can only put one. You can only be
 listening for one thing at a time. Here, I\'m going to go back to our
 version with the function **ouch**. In the alert in there, and then
 we\'ll use the **addEventListener** instead.
-
-![](./images/image377.png){width="3.5in"
-height="1.9635148731408574in"}![](./images/image378.png){width="3.5in"
-height="1.9635148731408574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 377/378.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image377.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image378.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 Let\'s give that a try really quickly over here. Instead of using the
 onclick event for button btn property, I\'m going to use the
@@ -5957,22 +6226,34 @@ listening for. And then we\'re going to pass in the function that we\'re
 going to run. When that event happens. And this is a very much more
 modern way of doing things is using the **addEventListener** method
 here.
-
-![](./images/image379.png){width="5.0in"
-height="2.8050218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 379.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image379.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s see if that works. And sure enough, it works just the same as
 before.
-
-![](./images/image380.png){width="5.0in"
-height="2.8290594925634296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 380.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image380.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 The most common syntax is to use the **addEventListener** with an
 anonymous function. It combines the two that we looked at before. Let\'s
 take a look at that instead.
-
-![](./images/image381.png){width="5.0in"
-height="2.8290594925634296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 381.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image381.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Down here, instead of running the function here, **ouch**. We\'re going
 to put in an anonymous function, with its parentheses and curly braces.
@@ -5988,15 +6269,23 @@ and turn it into a separate function. But unless you\'re going to do
 that, you\'re probably only going to use it within the context of this
 particular button. And in that case, an anonymous function is more
 appropriate.
-
-![](./images/image382.png){width="5.0in"
-height="2.8290594925634296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 382.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image382.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to come back and let\'s just test it one more time refresh
 the page. Don\'t press me and I get my alert.
-
-![](./images/image383.png){width="5.0in"
-height="2.8290594925634296in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image383.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, this syntax this line is getting kind of long here. Usually you
 would break it after the curly brace, and then this curly brace can come
@@ -6019,21 +6308,32 @@ help you with making sure that your syntax is clean.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-13">3.13 The Event Object (5:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image384.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image384.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The next thing to look at is the event object.
-
-![](./images/image385.png){width="5.0in"
-height="2.8338670166229223in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 385.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image385.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 The event object can be passed into the function that runs when an event
 listener happens, and it\'s a very useful object to have access to.
 Let\'s take a look and see what it does.
-
-![](./images/image386.png){width="5.0in"
-height="2.8338670166229223in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image386.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Over here, I\'m in my event listener here, and I have this function
 here, and I could still do my alert here. I told you not to press me or
@@ -6043,9 +6343,13 @@ represents this event object, and I can pass that in and I can do
 event.target. The event.target will say what is the thing that triggered
 this event? Event.target.style.backgroundcolor equals red, something
 like that.
-
-![](./images/image387.png){width="4.0in"
-height="2.2670942694663165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image387.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Let\'s see what this does. If I come over and run this, refresh my page,
 don\'t press me. It does that and sets the background of the button to
@@ -6053,15 +6357,23 @@ red, which is very interesting there. What\'s going on here is we can
 use the event object and the event target to actually know which element
 was triggering this event, and then we can do something with that
 **event.target**. This is often very useful.
-
-![](./images/image388.png){width="5.0in"
-height="2.8338670166229223in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 388.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image388.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, this "event" is just a variable. You could call it whatever you
 want, it represents.
-
-![](./images/image389.png){width="5.0in"
-height="2.8338670166229223in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 389.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image389.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 One of the ways the event object is used most frequently is to prevent
 default behavior. This is especially true when we\'re working with forms
@@ -6069,8 +6381,13 @@ and with the submission of forms, we want to prevent the default
 submission of the form so that we can do something with that form data
 before it\'s submitted, and so we\'ll use that frequently.
 
-![](./images/image390.png){width="5.0in"
-height="2.8338670166229223in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 390.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image390.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s just take a look at a simple example of this here. If I go over
 to my code editor over here, I have just a link to Google here. Just a
@@ -6083,16 +6400,26 @@ the event object in combination with **event.preventDefault** to keep
 that default action from happening. In this case, we won\'t go to Google
 so I could do alert. Sorry, no Google for you.
 
-![](./images/image391.png){width="4.0in"
-height="2.3529910323709538in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 391.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image391.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Now, if I test this page and I come over to my events page and refresh
 here, I now have a link to Google. When I click it, I get, \"Sorry, no
 Google for you,\" and the page does not go to Google. But it\'s the
 **event.preventDefault** that\'s keeping it from going into Google.
 
-![](./images/image392.png){width="5.0in"
-height="2.9412390638670165in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image392.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 If I were to come back and comment this line out here, you\'ll see what
 we get over here. If a refresh, I get the sorry, no Google for you, but
@@ -6102,16 +6429,27 @@ particularly useful function that we can use with the event object is
 prevent default, and we\'ll be using that frequently in a number of our
 projects.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-14">3.14 More on Events (7:54)</h2>
-
-![](./images/image393.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 393.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image393.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 There\'s a lot more on events.
-
-![](./images/image394.png){width="3.528746719160105in"
-height="2.0in"}![](./images/image395.png){width="3.389463035870516in"
-height="2.0in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 394/395.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image394.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image395.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
 And if you want another take on the basics, you can go to this MDN web
 docs page on introduction to events. I\'ll put the link in with the
@@ -6122,8 +6460,13 @@ bubbling and propagation, all this kind of stuff we\'ll look at later in
 the course. But this will give you a thorough introduction to events in
 JavaScript here as well.
 
-![](./images/image396.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 396.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image396.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 What we\'re going to do next is actually capture some different types of
 events, and see what we can do with them in JavaScript. The first one
@@ -6133,8 +6476,13 @@ going to be helpful to come back to. When you do, the event challenges
 coming up, for some of our other projects, it\'ll be helpful for you to
 have these scripts to reference.
 
-![](./images/image397.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 397.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image397.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Here I\'ve got a form on my page here, and it\'s set to method get.
 We\'ll see why in a few minutes here. And down here, I\'m going to get
@@ -6174,9 +6522,13 @@ be replaced with whatever they type into the field. So I\'m getting that
 value property since I\'m not adding the property there explicitly,
 it\'ll be Whatever somebody types into the field, okay, so then I can
 just alert out alert form data and now if we go try this.
-
-![](./images/image398.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 398.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image398.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I need to open my file again. That\'s open. Here it is. And if I type
 something in here, no and submit. You\'ll see it says bill, and the form
@@ -6197,32 +6549,48 @@ happening. So if I comment this out watch what happens here.
 Refresh this. If I take no again and now if I click submit you\'ll
 notice. Does that but then it actually processes the form. And I can see
 that up here because I use the get variable.
-
-![](./images/image401.png){width="5.0in"
-height="2.9316251093613297in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 401.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image401.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I use the get method, it\'s actually putting the value that I typed into
 that field up in the URL, by default, a form a form element when you
 submit it. The default behavior is that it will go to whatever you set
 the action here.
-
-![](./images/image402.png){width="5.0in"
-height="2.9316240157480316in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image402.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 If I had an **action="processor.PHP"**, some other file that\'s going to
 process the data, it would go to that page where we tried to, in this
 case, it won\'t be able to because that page doesn\'t exist.
-
-![](./images/image403.png){width="4.0in"
-height="2.3452996500437444in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image403.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 If I do, submit, it\'s going to do that. It either tries to go there or
 it just refreshes if I don\'t put an action attribute up here, it will
 just refresh this page. And often I don\'t want to refresh the page. I
 want to use JavaScript to capture this data and do something with it.
-
-![](./images/image404.png){width="5.0in"
-height="2.9316240157480316in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image404.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 That\'s why I\'m doing prevent default down here, and I passing in this
 event, and he again, it\'s a little bit Unclear maybe use evt instead,
@@ -6233,15 +6601,22 @@ with JavaScript in here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-15">3.15 Mouseover, Mouseover Events: HTML (7:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image405.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 405.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image405.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 You know how to work with the click event, and now you know how to work
 with the submit event.
-
-![](./images/image406.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 406.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image406.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now we can work with, have some fun with mouseover and mouseout events
 in HTML and JavaScript. This is the HTML here, so create a page with
@@ -6249,32 +6624,48 @@ this HTML in here. All I have is **h1** that says, "Roll Your Mouse Over
 The Boxes" and a **div** here. We can roll our mouse over these two
 elements. We can apply the style and do some fun stuff with mouseover
 and mouseout.
-
-![](./images/image407.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 407.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image407.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, let\'s take a look at the script we can actually write to do this
 here. Let\'s do this over here. To begin with, I\'m going to make some
 variables for my heading and for the box to get those two elements.
-
-![](./images/image408.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image408.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s start with that. Down here in my script, var heading equals
 document.querySelector, h_1, and var **div** or my **div** equals
 document.querySelector **div**. That will get those two elements there.
 I also want to change this text to, \"Roll Your Mouse Over The Box.\"
 Let\'s do that.
-
-![](./images/image409.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image409.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Then let\'s just go see with this page is looking like. If I come over
 here and refresh this, I have a box and I have directions to roll my
 mouse over the box.
-
-![](./images/image410.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image410.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, I\'m going to put an event listener on the box that when I roll my
 mouse over the box, it\'s going to change the inner HTML of this **div**
@@ -6288,17 +6679,25 @@ the cursor in here and then we\'re going to say, okay. When we roll over
 that box, we\'re going to go get the heading and change its inner HTML.
 Remember that\'s a property so we use the equal sign and we\'re going to
 change it to something like the mouse is over the box.
-
-![](./images/image411.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image411.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s see if that works. Let\'s test that. We come back to my page over
 here, refresh, when I roll over the box, the mouse is over the box.
 Great, so that works, but now it\'s stuck there. It changed that
 content.
-
-![](./images/image412.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image412.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now I want to do something where when I mouse out of the box, I\'m going
 to change the heading to, the mouse has left the box. It\'s another two
@@ -6324,9 +6723,13 @@ over the box. When I leave the box, the mouse has left the box. Mouse is
 over the box, mouse has left the box, so I can go back and forth. But
 it\'d be nice if I could return the page to its default state without
 having to click the refresh button.
-
-![](./images/image415.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image415.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to add one more event listener for the header. So when I roll
 over the header, it puts the original texts back in there, like this.
@@ -6336,9 +6739,13 @@ this and paste it. But I\'m no longer working with box. I\'m going to
 put it on heading, addEventListener mouseover and I\'m going to put the
 same texts that I have here and here to the heading, to put it back to
 its default state of where it was before.
-
-![](./images/image416.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image416.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 But now I can roll over them up, box roll off it and the event listeners
 are working. If I roll over the header, it puts it back to its original
@@ -6349,18 +6756,24 @@ taking that element and replacing the HTML inside of it with something
 else. Now you\'re starting to see we can actually do some interesting
 things to web-pages when we\'re no longer just putting stuff in the
 console.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-16">3.16 Scroll Events: HTML (7:41)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image417.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 417.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image417.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The next event type that we can look at capturing our scroll events.
-
-![](./images/image418.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 418.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image418.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Change the HTML on the page that we just had to something like this,
 I\'ve just changed the height to 5000 pixels for this div that\'s on the
@@ -6368,15 +6781,23 @@ page. So I\'ve got capturing scroll events and just an empty div that\'s
 set to 5000 pixels high and I\'ve set it to 5000 pixels high so we have
 something to scroll. Otherwise there\'s nothing to really scroll and we
 can\'t really capture that event, okay, great.
-
-![](./images/image419.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 419.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image419.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'ve got a script that's going to capture the scroll event and see what
 we can do with it.
-
-![](./images/image420.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image420.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Over here on my script, the first thing I\'m going to do is create a
 variable called **pagetop** and this variable is undefined at this
@@ -6393,17 +6814,25 @@ out as no value at all. But update the value of **pagetop** to be equal
 to **window.pageYOffset**. We\'re going to set it to that and then I\'m
 going to console log out **pagetop**. For now, just so we can kind of
 see what\'s going on as we\'re scrolling the page.
-
-![](./images/image421.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image421.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to go over to My browser over here and here\'s my page, I\'m
 going to refresh that and here\'s my div that\'s 5000 pixels tall. I
 have my inspector open in the console selected over here so I can
 actually see, as I scroll my page it\'s capturing that counter.
-
-![](./images/image422.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 422.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image422.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now, one thing to note here is that this **EventListener** is firing
 very, very often a couple things to note, it\'s firing very, very often,
@@ -6414,17 +6843,25 @@ firing that **EventListener**. So that makes the scroll
 things that JavaScript is doing. So you need to be very careful with the
 window add event listener scroll event because it\'s going to fire
 frequently.
-
-![](./images/image423.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image423.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 That brings me back to this, I could have just put var page top here.
 Instead of defining it here, but every time I scroll just a tiny little
 bit, it\'s going to ask JavaScript to recreate the page top variable
 from scratch.
-
-![](./images/image424.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 424.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image424.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 And then assign a value to it whereas if I do it up here, it\'s a little
 bit less expensive, because now I\'m just updating the value of pagetop.
@@ -6454,21 +6891,32 @@ scroll event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-17">3.17 Window Resizing (4:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image425.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image425.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Another simple example that we can look at is watching for a resize of
 the window, and this is useful in responsive design.
-
-![](./images/image426.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image426.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Down here, I can actually do another window.addEventListener. But in
 this case, the event we\'re going to look for is a resize.
-
-![](./images/image427.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image427.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m looking for resize the window, and then we\'ll run a function And
 then, I\'m just going to add two console log statements in here. I can
@@ -6487,9 +6935,13 @@ of here and let me see if I can position it just right here, there we
 go. And then I\'m going to resize this window. And as I do that, you can
 see that I\'m getting some comments over here about how wide and how
 window height is undefined.
-
-![](./images/image428.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image428.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Right, so now I\'m getting, the width is changing because I\'m changing
 the width here. And then if I come down here and change the height, you
@@ -6501,22 +6953,35 @@ responsive design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-18">3.18 Key Down Event (6:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image429.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image429.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 The next type of event that we\'re going capture is when you\'ve pressed
 a key on your keyboard.
 
-![](./images/image430.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image430.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Imagine creating games that you could play where you\'re pressing keys
 on your keyboard and things happen in the browser or something like
 that. That would be fun.
 
-![](./images/image431.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image431.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Over here on your HTML page, we can just add a script. This time we\'re
 going to actually attach the EventListener to the document itself.
@@ -6527,21 +6992,36 @@ down event. You could also look for key up or some other types of events
 that have to do with keys as well. Function. Then I\'m just going to
 alert, A key was pressed.
 
-![](./images/image432.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image432.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s go over and give that a try over here. I refresh this page and
 press key. I get a key was pressed. I can detect when a key was pressed.
 Now, we can check to see that a key was pressed but it would be nice to
 know which key was pressed.
 
-![](./images/image433.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image433.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 We can find that out through using the which property on our event.
 
-![](./images/image434.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 434.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image434.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s give that a try. I\'m going to pass in here my event object. Then
 in here, instead of using my quotes, I\'m going to use the tick marks
@@ -6549,8 +7029,13 @@ and say the event.which key was pressed. An event.which is a variable so
 I\'m going to put a dollar sign then a curly brace and then a curly
 brace.
 
-![](./images/image435.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 435.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image435.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Let\'s give that a try. Now, when I press the J key, I get the 74 key
 was pressed. I\'m getting a code that goes with each key. I press the L
@@ -6567,15 +7052,25 @@ From my understanding, the which property was deprecated because,
 keyboard layouts can change a lot all over the world. They decided that
 that was not the good way to go.
 
-![](./images/image436.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 436.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image436.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 If you come over here to this MDM page, you can actually find out a lot
 about the different events and down here, it\'ll actually say the
 keyboard which key has been deprecated.
 
-![](./images/image437.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 437.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image437.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 Now the reality is, is that browsers will support it for a long, long
 time to come. You could certainly use it, but they\'re saying you
@@ -6584,15 +7079,24 @@ give that a try real quick. Back here on my page, and I\'m going to
 change which to key. Because that\'s what the MDN says I should do and
 they\'re the most authoritative resource on this stuff.
 
-![](./images/image438.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image438.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 Let\'s go over and check that out over here. If I refresh my page, if I
 press the F key, now I\'m not only getting not a number, but I\'m
 actually getting the F key was pressed.
-
-![](./images/image439.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 439.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image439.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 
 We\'ve captured a lot of different types of events now, from the click
 event to the submission of a form, to the mouse over and mouse out and
@@ -6636,15 +7140,26 @@ https://developer.mozilla.org/en-US/docs/Web/Events
 
 > https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-19">3.19 Scope in JavaScript (5:19)</h2>
-
-![](./images/image440.png){width="4.0in"
-height="2.4572648731408573in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 440. scope in javascript (3.19) (###) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image440.png?raw=true"
+  style="width:40%"
+  title="3.19 Scope in JavaScript"
+  alt="3.19 Scope in JavaScript." />
+</p>
 
 The next topic we need to get into is the way scope works in JavaScript.
 
-![](./images/image441.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 441.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image441.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 This is an important thing to understand because in JavaScript, when
 JavaScript was originally written, you have to keep in mind that they
@@ -6661,8 +7176,13 @@ and have some best practices around, so you don\'t make mistakes and get
 unexpected results and spend a lot of time chasing down bugs in your
 code because that\'s no fun. Let\'s talk about how scope works.
 
-![](./images/image442.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 442.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image442.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 If we look at this script over here, and I\'m actually going to switch
 to my code editor over here so I have this written over here, I have a
@@ -6674,8 +7194,13 @@ function here, which should print out this variable, and then I\'m going
 to console log out aVariable which should print out that variable.
 Let\'s see if that actually works.
 
-![](./images/image443.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 443.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image443.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to open a new tab here and do Control O, and open up scope
 and click \"Open\" and we get that. I\'m going to do inspect, and I\'m
@@ -6686,8 +7211,13 @@ I have two variables with the same name, with two different values and
 that\'s kind of that. It\'s not really a great thing to have happened
 there. But you can do that thing with JavaScript and it\'s not great.
 
-![](./images/image444.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 444.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image444.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 What does local scope mean? Well, let\'s do this for a second.
 
@@ -6706,8 +7236,13 @@ Let\'s go ahead and take this out of here and then run that file again.
 Now, this one\'s running because it\'s inside the local scope. But the
 one that says aVariable is not defined.
 
-![](./images/image447.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 447.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image447.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 What happens here is that, if this variable, aVariable doesn\'t exist, I
 can\'t access this one from outside this function because this variable
@@ -6716,16 +7251,26 @@ scope needs, it\'s that, it\'s local to inside the function and I can\'t
 access it outside the function. That can be very important for making
 sure that we don\'t have problems with the variables.
 
-![](./images/image448.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 448.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image448.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 This is what happens when things get even worse in JavaScript, and
 we\'ve seen this before, is if I make a variable and I forget to use the
 var keyword, that variable automatically becomes part of the global
 scope.
 
-![](./images/image449.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 449.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image449.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 I\'m going to go ahead and add this in here and see what happens. I\'m
 going to make another variable called, oopsGlobal, but I\'m not going to
@@ -6734,8 +7279,13 @@ here, you\'ll notice I can access that variable even though it\'s
 defined, because we didn\'t use the var keyword, it\'s not really
 defined inside the function. It belongs to the window.
 
-![](./images/image450.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 450.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image450.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
 You\'ll notice when I run this over here, this one runs. I couldn\'t
 access the local scope variable because it was inside the function, but
@@ -6760,14 +7310,12 @@ One strategy that we can use to deal with the global scope and trying to
 prevent problems there is to just never use the global scope whenever
 possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 457.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 452.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image457.png?raw=true"
+<img src="./images/image452.png?raw=true"
   style="width:50%"
   alt="." />
 </p>
-![](./images/image452.png){width="5.0in"
-height="2.824251968503937in"}
 
 Here you can see I have a very simple script. That is doing what we\'ve
 done before it\'s going in to our document, getting our paragraphs and
@@ -6777,14 +7325,12 @@ variable i is in the global scope. All of this stuff is in the global
 scope. That could be problematic. What can we do about that to keep it
 out of the global scope?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 457.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 453.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image457.png?raw=true"
+<img src="./images/image453.png?raw=true"
   style="width:50%"
   alt="." />
 </p>
-![](./images/image453.png){width="5.0in"
-height="2.824251968503937in"}
 
 One thing we can do is we can use what\'s called an eye FE or an
 immediately invoked function expression. Basically we wrap all of that
@@ -6812,14 +7358,12 @@ And then if I come back here and actually run this thing, you can see
 that it\'s actually turned Use paragraphs, right. So that\'s all working
 and working as expected.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 457.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 456.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image457.png?raw=true"
+<img src="./images/image456.png?raw=true"
   style="width:50%"
   alt="." />
 </p>
-![](./images/image456.png){width="5.0in"
-height="2.824251968503937in"}
 
 The way to use the the IIFE, the immediately invoked function expression
 is like this, we type a set of parentheses. And then inside the
