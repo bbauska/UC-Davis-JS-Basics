@@ -491,7 +491,7 @@ vacation destination list application.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch1">Week 1</h1>
+<h1 id="ch1">Week One: Getting Started, Introduction to JavaScript, Variables, and Arrays</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-note">1.00. A Note From UC Davis</h2>
 
@@ -1971,7 +1971,7 @@ ways of getting elements out of arrays.</p>
     1.12.Array Methods</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch2">Week Two:</h1>
+<h1 id="ch2">Week Two: Controlling Logical Flow in JavaScript</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-00-obj">2.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3764,7 +3764,7 @@ these parenthesis at the end. It&apos;ll take <b>myString</b> and convert it
 into uppercase, and then I can <b>console.log</b> that out and assign it to
 this and <b>console.log</b> that out. That works really great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. test, sequence part 1 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. test, sequence part 1 (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image217.png?raw=true"
   style="width:50%"
@@ -3777,7 +3777,7 @@ That works great. Let&apos;s see, what should we do next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-15">2.15 Sequence -- Part 2 (5:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence - part 2 (2.15) (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence - part 2 (2.15) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image218.png?raw=true"
   style="width:50%"
@@ -3786,7 +3786,7 @@ That works great. Let&apos;s see, what should we do next.
  
 <p>Next, we'll do some more surgery on our strengths.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (128) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.png?raw=true"
   style="width:50%"
@@ -3797,7 +3797,7 @@ What, we're going to do first here is we're going to pull out the word ''really'
 So I'm going to make a variable called reallyLocation, and I'm going to use the search 
 method to find out where this word ''really'' in my string starts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (126) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (128) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.png?raw=true"
   style="width:45%"
@@ -3819,28 +3819,28 @@ reallyLocation which is location five, and I'm going to get six characters. What
 going to do is it's going to pull out into this variable, special word, the word 
 ''really''. It's going to start at five from myString and get six characters.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 222/223.  (127) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 222/223. string.substring & console (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="substring." />
 <img src="./images/image223.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Console, myString." />
 </p>
 
 So let's do that. Var specialWord equals string.substring, and I'm going to start 
 with reallyLocation and get six characters. If I console log special word, you'll 
 see that what that's getting for me. It's myString.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 224/225.  (127) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 224/225. working with sequence, selection & loop (129) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Working with Sequence, Selection and Loop." />
 <img src="./images/image225.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Console, toUpperCase." />
 </p>
 
 So I've got that, now I'm going to take specialWord and assign it back to itself, 
@@ -3853,11 +3853,11 @@ does it go in? I'm going to replace ''really'' with specialWord. SpecialWord lik
 so and then I'll console. console.log newString. What I should get is I am really 
 hungry for some, so I'm getting the capital word ''really'' there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. example, sequence 2 (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image226.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Example, Sequence 2, substr, toUpperCase, replace." />
 </p>
 
 But this is a sequence, JavaScript is doing a sequence of things, one thing after 
@@ -3871,7 +3871,7 @@ are available in JavaScript for doing string surgery.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-16">2.16 Sequence - Part 3, Loop (5:42)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image227.png?raw=true"
   style="width:50%"
@@ -3880,7 +3880,7 @@ are available in JavaScript for doing string surgery.
 For the next step in our sequence, make an array called foods and put four foods 
 in the array. Then use the string literal syntax. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. sequence, part 3 (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. sequence, part 3 (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image228.png?raw=true"
   style="width:50%"
@@ -3891,7 +3891,7 @@ So we can practice that to print out a sentence that prints to the console the
 variable myString, which we declared earlier, and follow that with a space and 
 then the first element in the foods array. See if you can do that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. sequence, part 3 results (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. sequence, part 3 results (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image229.png?raw=true"
   style="width:50%"
@@ -3905,7 +3905,7 @@ that because we already have that on our file but you should have an array and t
 the console.log with the template literal, takes a little getting used to the template 
 literal thing. Let's do that part together. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. array of foods in script (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. array of foods in script (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image230.png?raw=true"
   style="width:50%"
@@ -3921,7 +3921,7 @@ you'll understand it better if you always work from the inside out or the outsid
 in this case, we're working from the inside out. But if you work that way, it'll make 
 it easier for you to understand. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. for loop (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. for loop (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image231.png?raw=true"
   style="width:50%"
@@ -3933,7 +3933,7 @@ for some cheese". So that works perfectly well. The next thing to do is to see i
 can use a loop and loop through all of the elements in the array. I'm really hungry 
 for some cheese, for some pie, for some lunch, for some breakfast. All of these elements. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. for i=0; loop i++ (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. for i=0; loop i++ (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image232.png?raw=true"
   style="width:50%"
@@ -3948,7 +3948,7 @@ I'm going put an i in there because i is going to get each one of these. In fact
 just so you don't get confused, I'm going to comment that line out there just so 
 I can see that this is really working. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. test, loop (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. test, loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image233.png?raw=true"
   style="width:50%"
@@ -3964,7 +3964,7 @@ Then i gets incremented to four because it's 0, 1, 2, 3. So i is going to get in
 to four, four is not less than four. So the loop will bust out. Let's see if that works. 
 There we go. We're getting all of it there. That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. for var each loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. for var each loop (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image234.png?raw=true"
   style="width:50%"
@@ -3977,7 +3977,7 @@ do i if you wanted to. Then in here, we're going to do the same thing. We're jus
 basically take this and stick it here, but now instead of foods, this foods i, this is going 
 to be eachFood. I'm still going to print out myString, but now this is going to be eachFood. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. test, for var each loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. test, for var each loop (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image235.png?raw=true"
   style="width:50%"
@@ -3991,7 +3991,7 @@ I get the same results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-17">2.17 Loop + Selection (8:20)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image236.png?raw=true"
   style="width:50%"
@@ -4000,7 +4000,7 @@ I get the same results.
 
 Next we'll bring selection into the mix. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. example, loop + selection (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. example, loop + selection (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image237.png?raw=true"
   style="width:50%"
@@ -4020,7 +4020,7 @@ operator, which is the percent sign. We can figure out when we divide something
 and use the percent sign if the remainder is zero, then it's even if you divide 
 something by two. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 238. for var i=0 length array i++ (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 238. for var i=0 length array i++ (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image238.png?raw=true"
   style="width:50%"
@@ -4031,7 +4031,7 @@ Let's do this together. Here I am with my loop and I got rid of the for of loop.
 This one's really going to work better because we already have i working as an 
 incrementor with numbers. So we can just work with i to do this. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. example to console.log (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. example to console.log (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image239.png?raw=true"
   style="width:50%"
@@ -4050,7 +4050,7 @@ is there and due toUpperCase. Then I'm going to print out basically this. But in
 of foods i down there, I can print out this one here. I think that'll work. Else we'll 
 just do this. Save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. test, loop + selection (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. test, loop + selection (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image240.png?raw=true"
   style="width:40%"
@@ -4060,7 +4060,7 @@ just do this. Save that.
 Did I do it right? Let's see. Refresh my page here and look at that it's working. 
 That's great. Did you get something like that? That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image241.png?raw=true"
   style="width:50%"
@@ -4078,7 +4078,7 @@ readability when you're refactoring your code. We could take that same piece tha
 we wrote and refactor it a little bit so that we could get rid of that extra 
 variable here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 242. example, sequence, selection & loop (138) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 242. example, sequence, selection & loop (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image242.png?raw=true"
   style="width:50%"
@@ -4094,7 +4094,7 @@ look for ways of taking your code and saying, you know what, this could be a
 little bit simpler. I'm going to take that, I'm going to save it and I'm going 
 to just make sure that it still runs exactly the same way. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. test, sequence, selection & loop (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. test, sequence, selection & loop (140) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image243.png?raw=true"
   style="width:50%"
@@ -4103,7 +4103,7 @@ to just make sure that it still runs exactly the same way.
 
 Make sure I did that right, and I did, so that's fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. example, make comments (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. example, make comments (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image244.png?raw=true"
   style="width:50%"
@@ -4129,7 +4129,7 @@ along. Great, see you in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-18">2.18 JavaScript Basic Challenges Introduction (5:02)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 245. javascript basic challenges introduction (140) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 245. javascript basic challenges introduction (141) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image245.png?raw=true"
   style="width:50%"
@@ -4142,7 +4142,7 @@ programmer. I encourage you to take the time you need to, to get good at working
 through these challenges and to be able to do the challenges and get the correct 
 results. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. example, challenge 1 (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. example, challenge 1 (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image246.png?raw=true"
   style="width:50%"
@@ -4153,18 +4153,18 @@ The way the challenges work is, I'll give you a challenge. This first one is fai
 simple. Write a script that prints out your first name on one line, your last name 
 on the next line. Very basic challenge. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247. set up challenge 1 (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image247.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Set up Challenge 1." />
 </p>
 
 But what you should do is set up your file. I have a file set up here, and then you'll 
 come in here, and it's very normal to be, "Okay, what do I do first?" I don't even know 
 what the first thing is to do, and that's fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 248. example, challenge 1 answer (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 248. example, challenge 1 answer (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image248.png?raw=true"
   style="width:50%"
@@ -4179,7 +4179,7 @@ look again, if you have to. Look again and see what you need to do next, and the
 back and actually type it without looking at the slide. What this will do, this will 
 do a few things to really help you get good at JavaScript. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. camel with 2 humps (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. camel with 2 humps (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image249.png?raw=true"
   style="width:50%"
@@ -4196,7 +4196,7 @@ really start to be able to do these without having to look at the slides if you 
 working at it. Look at the answers if you have to, they're here, and then type it 
 without looking at the answer. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. example, challenge 2 (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. example, challenge 2 (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image250.png?raw=true"
   style="width:50%"
@@ -4234,7 +4234,7 @@ and I promise, you'll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-19">2.19 Functions in JavaScript (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 251. functions in javascript (2.19) (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 251. functions in javascript (2.19) (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image251.png?raw=true"
   style="width:50%"
@@ -4243,7 +4243,7 @@ and I promise, you'll be on the road to becoming a good JavaScript developer.
 
 Functions in JavaScript. Functions are reusable sets of instructions. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 252. example, reusable sets of instructions (145) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 252. example, reusable sets of instructions (146) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image252.png?raw=true"
   style="width:50%"
@@ -4258,7 +4258,7 @@ when we want to run that set of instructions. We can make functions so that they
 reusable, so that you can use them in multiple places within your programs, and that's 
 where functions can become very powerful. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 253. function: upperstring, here is a string of text (145) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 253. function: upperstring, here is a string of text (146) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image253.png?raw=true"
   style="width:50%"
@@ -4272,7 +4272,7 @@ file and I recommend you do the same. It just needs to notify within each one, a
 got a script here, and I've got some of the script from our sequence selection and loop 
 exercise. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 254. function to uppercase a string (146) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 254. function to uppercase a string (147) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image254.png?raw=true"
   style="width:50%"
@@ -4285,7 +4285,7 @@ can just go inside the curly braces, like that. Then you have to run the functio
 doStuff. We define the function which tells it what it does, then we invoke or call or 
 run the function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 255. example, uppercase a string (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 255. example, uppercase a string (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image255.png?raw=true"
   style="width:50%"
@@ -4298,7 +4298,7 @@ function runs and it does its thing. It's very normal when you start doing this,
 sometimes I still do it to forget to call the function, which will mean that you'll get 
 nothing, because it'll be defined but it won't actually run. I have to run doStuff. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 256/257. function/example enter a whole number (147) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 256/257. function/example enter a whole number (148) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image256.png?raw=true"
   style="width:45%"
@@ -4314,7 +4314,7 @@ could do it like this; I could take all of this stuff and I can come over here, 
 can go ahead and just paste it right on my page here, right in my file down here at the 
 bottom. I'm going to just paste it on in there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. function checknum (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. function checknum (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image258.png?raw=true"
   style="width:50%"
@@ -4333,7 +4333,7 @@ supposed to do, and all that code is now inside of a function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-20">2.20 Passing In and Returning Data (8:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 259. passing in and returning data (2.20) (149) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 259. passing in and returning data (2.20) (150) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image259.png?raw=true"
   style="width:50%"
@@ -4343,7 +4343,7 @@ supposed to do, and all that code is now inside of a function.
 Functions are even more useful if you can pass data into them, so they can do something 
 with that data. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. example, passing in data (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. example, passing in data (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image260.png?raw=true"
   style="width:50%"
@@ -4372,7 +4372,7 @@ Now when I run this, I run upperMessage, but I pass in, here is a message. I can
 any message in that I want and it will make it uppercase. Still not super interesting, 
 but it's something that shows us how this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. test, here  is a message (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. test, here  is a message (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image262.png?raw=true"
   style="width:50%"
@@ -4386,7 +4386,7 @@ pass in two parameters here. On number one and on number two, we could add them 
 and then console log them out. And you would run this by using addNums, and you would 
 pass in whatever two numbers you want to add there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 263/264. function addnums, test addnums (151) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 263/264. function addnums, test addnums (152) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image263.png?raw=true"
   style="width:45%"
@@ -4412,7 +4412,7 @@ to get 728. Maybe not super useful, but you get the idea. And that's a really po
 thing about JavaScript is we can pass in the passing data through these variables here, 
 that we can then work with within our function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. example, returning data (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. example, returning data (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image265.png?raw=true"
   style="width:50%"
@@ -4432,7 +4432,7 @@ and then I can console log that out. Again, it's just going to the console, so t
 result isn't all that different. But there is a subtle but important difference between 
 these two things. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 266. function addnumbs & returnsum (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 266. function addnumbs & returnsum (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image266.png?raw=true"
   style="width:50%"
@@ -4445,7 +4445,7 @@ this, returnSum, num1, num2. But instead of console logging it out, I'm going to
 it as a variable, sum. So its going to return the value here. And then it's just going 
 to the console log because that's all I've got access to at the moment. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 267/268. test, addnumbs & returnsum (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 267/268. test, addnumbs & returnsum (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image267.png?raw=true"
   style="width:45%"
@@ -4477,7 +4477,7 @@ needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-21">2.21 Useful Example – Step 1 (6:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 269. useful example - step 1 (2.21) (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 269. useful example - step 1 (2.21) (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image269.png?raw=true"
   style="width:50%"
@@ -4486,7 +4486,7 @@ needs to do.
 
 Let's take a look at a useful example. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 270. a useful example - generating random numbers (155) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 270. a useful example - generating random numbers (156) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image270.png?raw=true"
   style="width:50%"
@@ -4498,7 +4498,7 @@ that we could use in some programs that we write. That is for generating random 
 Try this out. JavaScript has a random number generator, and I'm going to just give this 
 a try over here on my file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 271/272. math.random number generator (0-.999999999) (155) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 271/272. math.random number generator (0-.999999999) (156) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image271.png?raw=true"
   style="width:45%"
@@ -4513,7 +4513,7 @@ more about what that means in a little bit. But math random is going to generate
 number. If I go over to my browser and run it, you see that I get a number, I can keep 
 refreshing my screen and I'll keep getting numbers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image273.png?raw=true"
   style="width:50%"
@@ -4540,7 +4540,7 @@ a lottery generator or something like that, you would want to use something othe
 than the built-in random number generator. But for our purposes is random enough. 
 That's worth mentioning as well. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 274. example, useful example - step 1 (157) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 274. example, useful example - step 1 (158) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image274.png?raw=true"
   style="width:50%"
@@ -4560,7 +4560,7 @@ are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10,
 subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how 
 this actually works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 275/276. test, randomint between 5-10 inclusive (157) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 275/276. test, randomint between 5-10 inclusive (158) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image275.png?raw=true"
   style="width:45%"
@@ -4588,7 +4588,7 @@ correct. Then, we'll go on from there to the next step.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-22">2.22 Useful Example – Steps 2-4 (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 277. useful example - steps 2-4 (2.22) (158) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 277. useful example - steps 2-4 (2.22) (159) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image277.png?raw=true"
   style="width:50%"
@@ -4596,7 +4596,7 @@ correct. Then, we'll go on from there to the next step.
 </p>
 In the second step for a random integer generator, I'm going to actually generate my random number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. useful example - step 2 (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. useful example - step 2 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 p align="center" width="100%">
 <img src="./images/image278.png?raw=true"
   style="width:50%"
@@ -4605,7 +4605,7 @@ p align="center" width="100%">
 RandomNum here is going to be between zero and one. I'm going to take that and multiply 
 it by the number of values and see what I get. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ 279/280. test, function randomint with min & max (159) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 279/280. test, function randomint with min & max (160) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image279.png?raw=true"
   style="width:45%"
@@ -4624,7 +4624,7 @@ Let's go over here and run that. Now, that's getting me numbers that are between
 and six. It won't go all the way up to six. It will get me to five point something other, 
 but it won't go all the way up to six, and that's interesting. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 281/282. test, function randomint round down to whole number (159) ~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 281/282. test, function randomint round down to whole number (160) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image281.png?raw=true"
   style="width:45%"
@@ -4648,7 +4648,7 @@ their randomVal. Once again, just to see what my progress is, I'm going to conso
 because it came up in Visual Studio code. That will prevent me from getting these 
 long variable names wrong. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. useful example - step 4 (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. useful example - step 4 (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image283.png?raw=true"
   style="width:50%"
@@ -4658,7 +4658,7 @@ Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're n
 5-10, they're between zero and 5. Now, what we can do next is we can get our final 
 number, and we're going to take the min and add it to that randomVal. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 284/285. test, add min to random value (160) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 284/285. test, add min to random value (161) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image284.png?raw=true"
   style="width:45%"
@@ -4678,7 +4678,7 @@ is great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-23">2.23 Useful Example – Step 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (2.23) (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (2.23) (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image286.png?raw=true"
   style="width:50%"
@@ -4687,7 +4687,7 @@ is great.
 In the next step, we're going to make our random number generator, our random integer 
 generator a little bit more useful. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 287. example, random select from array (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 287. example, random select from array (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image287.png?raw=true"
   style="width:50%"
@@ -4699,7 +4699,7 @@ actually take this generated number and do something with it, I can't. All this 
 does currently is print out to the console. What we could do instead, is we could return 
 the final number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 288/289. function randomint of array (162) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 288/289. function randomint of array (163) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image288.png?raw=true"
   style="width:45%"
@@ -4720,7 +4720,7 @@ going to be, because it returns final number, it's going to be a zero, a one, a 
 or a three. So console.log foods randomInt, 0, 3 is going to go into the array and 
 get me either a cheese, a chicken, or grapes, or hamburgers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290. console, hamburgers (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290. console, hamburgers (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image290.png?raw=true"
   style="width:50%"
@@ -4970,10 +4970,11 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
   <li>2.24.JS-Functions (shortcut)  https://www.w3schools.com/js/js_functions.asp</li>
   <li>2.24.JS-FunctionChallenges-10thru16.pdf (download)  https://www.w3schools.com/js/js_functions.asp
 
-<h2 id="ch3">Week Three: </h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3">Week Three: Using JavaScript in the Web Browser</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-00">3.00 Learning Objectives</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Identify the DOM and the relationships between elements on a web page.</li>
   <li>Use document methods to access and change the DOM.</li>
@@ -4993,13 +4994,14 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-00">3.00 Module 3 Introduction</h2>
+<h2 id="ch3-00">3.00 Introduction; Using JavaScript in the Web Browsers</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. introduction (3.00) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image302.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.00 Introduction; Using JavaScript in the Web Browsers"
+  alt="3.00 Introduction; Using JavaScript in the Web Browsers." />
 </p>
 
 Welcome to the third module on JavaScript. In this module, we\'ll
@@ -5021,20 +5023,22 @@ end you\'ll have learned quite a lot of JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 JavaScript and the DOM (4:34)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. javascript and the dom (3.01) (173) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image303.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.01 JavaScript and the DOM"
+  alt="3.01 JavaScript and the DOM." />
 </p>
 
 JavaScript and the DOM.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 304.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 304. example, the web page is an object (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image304.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, The Web Page is an Object"
+  alt="Example, The Web Page is an Object." />
 </p>
 
 The DOM stands for Document Object Model. JavaScript sees the web doc
@@ -5057,11 +5061,12 @@ a paragraph. Another child of the article is the footer, which also has
 a child which is a paragraph. We can see that represented in the diagram
 over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. nodes on a tree; child & sibling (174) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image305.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Nodes on a Tree; child and siblings"
+  alt="Nodes on a Tree; child and siblings." />
 </p>
 
 These elements on the page are nodes, and JavaScript understands the
@@ -5101,20 +5106,22 @@ browsers with JavaScript, but we\'re pretty close to there these days.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-02">3.02 Dot Syntax and Methods (5:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 306.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. dot syntax and methods (3.02) (175) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image306.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.02 Dot Syntax and Methods"
+  alt="3.02 Dot Syntax and Methods." />
 </p>
 
 The dot syntax and methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 307.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 307. example, dot syntax and methods (176) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image307.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Dot Syntax and Methods"
+  alt="Example, Dot Syntax and Methods." />
 </p>
 
 Notice we use dots or periods to separate objects from their properties
@@ -5133,11 +5140,11 @@ JavaScript has built into it that will allow us to do things to the
 Document Object Model; to the document itself and will affect the
 document there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. getelementbyid(); (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image308.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Example, getElementById();" />
 </p>
 
 One of the document methods you\'ll use most frequently and is a good
@@ -5159,11 +5166,11 @@ have a student ID or a driver\'s license ID or some other ID with a
 unique ID number on it. The whole purpose of having an ID is that it is
 unique. Let\'s give this a try.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. document.getelementbyid(); (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image309.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="document.getElementById();" />
 </p>
 
 I\'m going to come over to my code editor here and you can see I\'ve set
@@ -5178,11 +5185,11 @@ uppercase and I uppercase, but the d is lowercase. You have to get that
 right, otherwise, it won\'t work. I\'m going to pass in one because
 it\'s going to match this ID here, and I can set the style.color to red.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. console, dom examples (178) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image310.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="console, DOM Examples." />
 </p>
 
 If I save that, and then I come back over here and you can see I have
@@ -5191,11 +5198,11 @@ refresh the page, you\'ll see that it\'s turned red. Now, I don\'t have
 any code in my HTML that\'s doing that. It\'s the script that\'s doing
 that after the fact. It\'s really important to understand this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. dom example (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image311.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="DOM Example." />
 </p>
 
 As I come down here, notice paragraph ID1 and then style color red is
@@ -5219,17 +5226,17 @@ document, find that ID, and then effect it on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 DOM: getElementsByTagName(); (7:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 312.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 312. dom: getelementsbytagname(); (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image312.png?raw=true"
   style="width:40%"
-  alt="." />
+  alt="3.03 DOM; getElementsByTagName();" />
 </p>
 
 Here\'s another document method that allows us to get elements on the
 page and do something with them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (180) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image313.png?raw=true"
   style="width:50%"
@@ -5242,7 +5249,7 @@ getElementByID, but this is getElements, so this is going to get more
 than one element, it\'s going to get a collection of elements, and then
 we can do something with that collection of elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 314/315.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 314/315.  (180) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image314.png?raw=true"
   style="width:45%"
@@ -7635,5 +7642,15 @@ let as keywords for defining variables instead of verb.
   alt="." />
 <img src="./images/imageXXX.png?raw=true"
   style="width:45%"
+  alt="." />
+</p>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  style="width:50%"
+  title=""
   alt="." />
 </p>
