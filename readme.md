@@ -7634,6 +7634,42 @@ scope.
 The third strategy that will help us with keeping track of scope is to use constant and 
 let as keywords for defining variables instead of verb. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 475. example, strategy 3: const & let (263) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image475.png?raw=true"
+  style="width:50%"
+  title=""
+  alt="Example, Strategy 3: const and let." />
+</p>
+So constant let were introduced into the language. They were added to the 
+language as part of the ES6 or ES2015 and they both help to minimize the 
+chances that a variable holds an unexpected value. Const will hold the 
+value but once you've set the value for a variable, you cannot change the 
+value of that variable while the script runs. That will keep you from 
+accidentally re assigning a value to a variable that has been defined 
+using the const keyword. 
+
+Here I've got const cheese equals yummy and now that that's been set. 
+While the script runs, it cannot be changed. The let keyword allows you 
+to change the variable but it has block level scope. So here, let i 
+equals zero that i is only available in a variable inside this “for 
+block”, and it won't be available outside of the “for loop” block. 
+That adds a third level of scope to JavaScript. 
+
+Previously we had the global scope and we had scope inside functions 
+but we didn't have any block level scope. Now we've got a block level scope. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 476. example, const (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image476.png?raw=true"
+  style="width:50%"
+  title=""
+  alt="." />
+</p>
+Let's take a look at a couple of these examples first. Let's look at const. So 
+here I have cheese equals yummy and I can console log that out but if I try to 
+assign a different value to cheese, I'm going to get an error. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
