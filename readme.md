@@ -493,8 +493,8 @@ vacation destination list application.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One: Getting Started, Introduction to JavaScript, Variables, and Arrays</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-00-note">1.00. A Note From UC Davis</h2>
-
+<h2 id="ch1-00-note">1.00 A Note From UC Davis</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Welcome to this course!</h3>
 
 <p>We are delighted to be a part of your continuing education. This course will provide you 
@@ -597,7 +597,7 @@ with and if you&apos;re new to programming, don&apos;t worry, we&apos;re going t
 start at the very beginning and get you going all on the right track.
 Buckle in and let&apos;s get started learning JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-00-intro">1.00. Introduction to JavaScript Variables &amp; Arrays (0:57)</h2>
+<h2 id="ch1-00-intro">1.00 Introduction to JavaScript Variables &amp; Arrays (0:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Welcome to the first module on JavaScript. In this module we&apos;ll get
 into the basics of the language. We&apos;ll talk about variables and arrays
@@ -612,14 +612,15 @@ able to do some interesting things with JavaScript as you go along. So
 stick with me and we will have a lot of fun in this first module
 learning about JavaScript in the basics of the language.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-01">1.01. Intro to JavaScript -- Part 1 (3:13)</h2>
+<h2 id="ch1-01">1.01 Intro to JavaScript -- Part 1 (3:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 04. intro to javascript - part 1 (3:13) (10) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 04. intro to javascript - part 1 (1.01) (3:13) (10) ~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image004.png?raw=true"
   style="width:40%"
-  alt="Introduction to JavaScript - Part 1." />
+  title="1.01 Introduction to JavaScript - Part 1"
+  alt="1.01 Introduction to JavaScript - Part 1." />
 </p>
 
 <p>Unlike a pillbox which really can&apos;t hold much more than just pills, you can put 
@@ -630,6 +631,7 @@ anything into an array in JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image005.png?raw=true"
   style="width:50%"
+  title="Arrays in JavaScript"
   alt="Arrays in JavaScript." />
 </p>
 
@@ -640,6 +642,7 @@ with even smaller divisions in it.</p>
 <p align="center" width="100%">
 <img src="./images/image006.png?raw=true"
   style="width:50%"
+  title="Inspect console and arrays"
   alt="Inspect console and arrays." />
 </p>
 
@@ -652,9 +655,11 @@ trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.</p
 <p align="center" width="100%">
 <img src="./images/image007.png?raw=true"
   style="width:45%"
+  title="Inspect console with array elements, #1"
   alt="Inspect console with array elements, #1." />
 <img src="./images/image008.png?raw=true"
   style="width:45%"
+  title="Inspect console with array elements, #2"
   alt="Inspect console with array elements, #2." />
 </p>
 
@@ -676,6 +681,7 @@ can use to hold groups of data, and that&apos;s very useful.</p>
 <p align="center" width="100%">
 <img src="./images/image009.png?raw=true"
   style="width:50%"
+  title="Inspect console array element, #3"
   alt="Inspect console array element, #3." />
 </p>
 
@@ -687,14 +693,14 @@ the C in chicken. Because zero, one, two, three, four is going to get me that C 
 chicken. Or I could do, joke dot length, and it will tell me that there are 28 characters 
 in that string. That&apos;s kind of an interesting thing to understand about arrays as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-02">1.02. Intro to JavaScript -- Part 2</h2>
+<h2 id="ch1-02">1.02 Intro to JavaScript -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. inro to javascript - part 2 (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 10. inro to javascript - part 2 (1.02) (13) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image010.png?raw=true"
   style="width:40%"
-  title="1.02. Introduction to JavaScript - Part 2"
-  alt="1.02. Introduction to JavaScript - Part 2." />
+  title="1.02 Introduction to JavaScript - Part 2"
+  alt="1.02 Introduction to JavaScript - Part 2." />
 </p>
 
 <p>A great place to go to find some websites that will show you the way JavaScript can 
@@ -855,7 +861,7 @@ from other languages, which was behind some of the frustration that
 people had with it initially is they just didn&apos;t understand it because
 it was different.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-03">1.03. Intro to JavaScript -- Part 3 (5:33)</h2>
+<h2 id="ch1-03">1.03 Intro to JavaScript -- Part 3 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. intro to javascript - part 3 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1359,7 +1365,7 @@ JavaScript but it&apos;s something that is in a lot of programming
 languages. But we use that frequently in JavaScript. You&apos;ll frequently
 see variables that are using camel casing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-07">1.07. JavaScript Variables Practice -- Part 1 (7:12)</h2>
+<h2 id="ch1-07">1.07 JavaScript Variables Practice -- Part 1 (7:12)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 50. javascript variables practice - part 1 (38) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1611,7 +1617,7 @@ a little bit problematic. Already you&apos;re learning a little bit about
 why we use JavaScript in certain ways or why we type in certain ways.
 We&apos;ll get into more detail about that as we go along.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-09">1.09. JavaScript Variables Practice -- Part 3 (5:21)</h2>
+<h2 id="ch1-09">1.09 JavaScript Variables Practice -- Part 3 (5:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 67. javascript variables practice - part 3 (1.09) (48) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1701,7 +1707,7 @@ interesting aspects of the language, and you&apos;ll be creating more
 interesting little programs that will actually do things on web pages
 and on websites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-10">1.10. JavaScript Arrays -- Part 1 (5:27)</h2>
+<h2 id="ch1-10">1.10 JavaScript Arrays -- Part 1 (5:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 73. javascript arrays - part 1 (1.10) (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1783,7 +1789,7 @@ programming, frequently we start counting with 0 first, 0, 1, 2, but the
 length of the array is 3. That&apos;s an important distinction and something
 to be aware of.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-11">1.11. JavaScript Arrays -- Part 2 (3:17)</h2>
+<h2 id="ch1-11">1.11 JavaScript Arrays -- Part 2 (3:17)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 78. javascript arrays - part 2 (1.11) (54) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1843,12 +1849,13 @@ could do joke.length and it&apos;ll tell me that there are 28 characters in
 that string. So that&apos;s kind of an interesting thing to understand about
 arrays as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-12">1.12. JavaScript Arrays Practice (6:16)</h2>
+<h2 id="ch1-12">1.12 JavaScript Arrays Practice (6:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 82. javascript arrays practice (1.12) (57) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image082.png?raw=true"
   style="width:40%"
+  title="1.12. JavaScript Arrays Practice"
   alt="1.12. JavaScript Arrays Practice." />
 
 <p>Let&apos;s do a little bit of practice with arrays, so I can make a new
@@ -1858,6 +1865,7 @@ variable bar Animals and assign an array.</p>
 <p align="center" width="100%">
 <img src="./images/image083.png?raw=true"
   style="width:50%"
+  title="Define array; var animals = ['cat', 'dog', 'chicken'];"
   alt="Define array; var animals = ['cat', 'dog', 'chicken'];." />
 
 <p>Cat, dog, chicken and all of those animals will be in the array. So if I
@@ -1869,6 +1877,7 @@ methods that you can do to arrays specifically, so if I do animals.</p>
 <p align="center" width="100%">
 <img src="./images/image084.png?raw=true"
   style="width:50%"
+  title="Add llama with animals.push('llama');"
   alt="Add llama with animals.push('llama');." />
 
 <p>That push llama, now there are four elements in the animals array. The
@@ -1878,6 +1887,7 @@ cat, dog, chicken and the llama are all in the array.</p>
 <p align="center" width="100%">
 <img src="./images/image085.png?raw=true"
   style="width:50%"
+  title="Example push array method"
   alt="Example push array method." />
 
 Remember, we can use the console log method we don&apos;t really need to
@@ -1889,23 +1899,24 @@ console log animals square bracket two. And then if I press return
 there, it&apos;ll give me the chicken. I don&apos;t really need to use the
 console log method here in the console. But you can, and it&apos;s worth
 remembering that you can do that.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 86. splice array method to remove (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image086.png?raw=true"
   style="width:50%"
+  title="Example splice array method"
   alt="Example splice array method." />
 
-Now, what if I wanted to remove an element from the array or we could do
+<p>Now, what if I wanted to remove an element from the array or we could do
 animals that splice (1, 1) and that will take the dog out of the array.
-So now, if I do animals, you can see it&apos;s got the cat, chicken, and the
-lama,but not the dog.
+Now, if I do animals, you can see it&apos;s got the cat, chicken, and the
+lama, but not the dog.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 87. push and sort array methods (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.png?raw=true"
   style="width:50%"
+  title="Example push and sort array methods"
   alt="Example push and sort array methods." />
 
 And I could do push and push the dog back into the array. Let&apos;s do
@@ -1919,12 +1930,14 @@ of array methods that you can use.
 <p align="center" width="100%">
 <img src="./images/image088.png?raw=true"
   style="width:50%"
+  title="W3schools JS array methods; toString"
   alt="W3schools JS array methods; toString." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image089.png?raw=true"
   style="width:50%"
+  title="List of Basic Array Methods; length, toString, at, join, pop & push"
   alt="List of Basic Array Methods; length, toString, at, join, pop & push." />
 
 <p>And a really good place to go look at them would be the <b>W3schools.com</b> website or the 
@@ -1939,6 +1952,7 @@ learning sort of the basics of JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image090.png?raw=true"
   style="width:50%"
+  title="Array of four animals"
   alt="Array of four animals." />
 
 <p>Here&apos;s a challenge for you, we have an array for animals here, and we
@@ -2002,6 +2016,7 @@ ways of getting elements out of arrays.</p>
 <p align="center" width="100%">
 <img src="./images/image091.png?raw=true"
   style="width:40%"
+  title="2.00. Module 2 introduction"
   alt="2.00. Module 2 introduction." />
 </p>
 
@@ -2013,13 +2028,13 @@ sort of work in this second module. There's a lot of practice and there's a lot 
 opportunities along the way to get used to the JavaScript syntax. I encourage you to do 
 as much of that as you possibly can.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 92. visual studio - part 1 (2.01) (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-01">2.01 Visual Studio – Part 1 (4:39)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 92. visual studio - part 1 (2.01) (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image092.png?raw=true"
   style="width:40%"
+  title="2.01. Visual Studio - Part 1"
   alt="2.01. Visual Studio - Part 1." />
 </p>
  
@@ -2036,6 +2051,7 @@ Code throughout this course, so it might be helpful for you to use that as well.
 <p align="center" width="100%">
 <img src="./images/image093.png?raw=true"
   style="width:50%"
+  title="VS Editor on startup"
   alt="VS Editor on startup." />
 </p>
  
@@ -2049,6 +2065,7 @@ and choosing a new file, and that creates a new file here.</p>
 <p align="center" width="100%">
 <img src="./images/image094.png?raw=true"
   style="width:50%"
+  title="Visual Studio startup screen"
   alt="Visual Studio startup screen." />
 </p>
  
@@ -2059,11 +2076,12 @@ to begin with on my desktop. Once I have an HTML file, then I can get the basic 
 structure by holding down "Shift", pressing an exclamation point, and then pressing "Tab" 
 and that will give me the basic structure for my page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 95. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 95. exclamation + [tab] startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image095.png?raw=true"
   style="width:50%"
-  alt="Visual Studio startup screen." />
+  title="Exclamation + [tab] for startup screen"
+  alt="Exclamation + [tab] for startup screen." />
 </p>
 
 <p>If you take an HTML class, you'll learn to type the doctype and to type all these tags, 
@@ -2075,6 +2093,7 @@ The title shows up in the tab in the browser. That's important. Great. I can sav
 
 <img src="./images/image096.png?raw=true"
   style="width:50%"
+  title="Visual Studio startup screen"
   alt="Visual Studio startup screen." />
 </p>
 
@@ -2094,6 +2113,7 @@ Visual Studio Code.</p>
 <p align="center" width="100%">
 <img src="./images/image097.png?raw=true"
   style="width:50%"
+  title="Windows users: Show file extensions"
   alt="Windows users: Show file extensions." />
 </p>
 
@@ -2111,6 +2131,7 @@ they cannot be more explicit about that.</p>
 <p align="center" width="100%">
 <img src="./images/image098.png?raw=true"
   style="width:50%"
+  title="2.02. Visual Studio - Part 2"
   alt="2.02. Visual Studio - Part 2." />
 </p>
 
@@ -2121,6 +2142,7 @@ to this file. And we can see some JavaScript actually happened here.</p>
 <p align="center" width="100%">
 <img src="./images/image099.png?raw=true"
   style="width:50%"
+  title="Add 'My First Script' as an h1"
   alt="Add 'My First Script' as an h1." />
 </p>
  
@@ -2134,6 +2156,7 @@ the cursor between the two, and I can move that down.</p>
 <p align="center" width="100%">
 <img src="./images/image100.png?raw=true"
   style="width:50%"
+  title="Add a new variable; var hello"
   alt="Add a new variable; var hello." />
 </p>
 
@@ -2150,6 +2173,7 @@ go over to Chrome over here.</p>
 <p align="center" width="100%">
 <img src="./images/image101.png?raw=true"
   style="width:50%"
+  title="File open, My First Script"
   alt="File open, My First Script." />
 </p>
  
@@ -2161,6 +2185,7 @@ it's just a webpage and we're not even seeing the script run.</p>
 <p align="center" width="100%">
 <img src="./images/image102.png?raw=true"
   style="width:50%"
+  title="Test, inspect, My First Script"
   alt="Test, inspect, My First Script." />
 </p>
 
@@ -2174,6 +2199,7 @@ comments to your scripts so that when you come back to them later, you know what
 <p align="center" width="100%">
 <img src="./images/image103.png?raw=true"
   style="width:50%"
+  title="Make Comments with two slashes or with slash, asterisk"
   alt="Make Comments with two slashes or with slash, asterisk." />
 </p>
 
@@ -2189,6 +2215,7 @@ about anything that I want and it can go multiple lines. See example in image.</
 <p align="center" width="100%">
 <img src="./images/image104.png?raw=true"
   style="width:50%"
+  title="Make code larger with shift +"
   alt="Make code larger with shift +." />
 </p>
 
@@ -2207,6 +2234,7 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <p align="center" width="100%">
 <img src="./images/image105.png?raw=true"
   style="width:40%"
+  title="2.03. Visual Studio - Part 3"
   alt="2.03. Visual Studio - Part 3." />
 </p>
 
@@ -2216,6 +2244,7 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <p align="center" width="100%">
 <img src="./images/image106.png?raw=true"
   style="width:50%"
+  title="myfile.html"
   alt="myfile.html." />
 </p>
 
@@ -2229,9 +2258,11 @@ file. That's not really very useful by itself.</p>
 <p align="center" width="100%">
 <img src="./images/image107.png?raw=true"
   style="width:45%"
+  title="Make a folder"
   alt="Make a folder." />
 <img src="./images/image108.png?raw=true"
   style="width:45%"
+  title="Make a file"
   alt="Make a file." />
 </p>
 
@@ -2244,6 +2275,7 @@ and no folder opened. I can actually open that folder, myProject.</p>
 <p align="center" width="100%">
 <img src="./images/image109.png?raw=true"
   style="width:50%"
+  title="Visual Studio welcome menu"
   alt="Visual Studio welcome menu." />
 </p>
 
@@ -2258,6 +2290,7 @@ an HTML file. I can put that in my folder.</p>
 <p align="center" width="100%">
 <img src="./images/image110.png?raw=true"
   style="width:50%"
+  title="Myfolder and index.html"
   alt="Myfolder and index.html." />
 </p>
  
@@ -2269,7 +2302,8 @@ folder. I can manage my whole project from here.</p>
 <p align="center" width="100%">
 <img src="./images/image111.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Blank index.html"
+  alt="Blank index.html." />
 </p>
 
 <p>Perhaps I have another file in here. I'm going to have styles.css. Maybe that's going 
@@ -2311,6 +2345,7 @@ projects and make sure that the files are in the correct places at all times.</p
 <p align="center" width="100%">
 <img src="./images/image114.png?raw=true"
   style="width:50%"
+  title="Describe how Visual Studio is customizable"
   alt="Describe how Visual Studio is customizable." />
 </p>
 
@@ -2323,6 +2358,7 @@ extensions and other things.</p>
 <p align="center" width="100%">
 <img src="./images/image115.png?raw=true"
   style="width:50%"
+  title="Visual Studio extensions and settings"
   alt="Visual Studio extensions and settings." />
 </p>
 
@@ -2334,9 +2370,11 @@ your code editor, or perhaps you prefer a lighter theme.</p>
 <p align="center" width="100%">
 <img src="./images/image116.png?raw=true"
   style="width:45%"
+  title="Atom One Light Theme, #1"
   alt="Atom One Light Theme, #1." />
 <img src="./images/image117.png?raw=true"
   style="width:45%"
+  title="Atom One Light Theme, #2"
   alt="Atom One Light Theme, #2." />
 </p>
 
@@ -2347,6 +2385,7 @@ and currently it's disabled, but I can enable this theme.</p>
 <p align="center" width="100%">
 <img src="./images/image118.png?raw=true"
   style="width:50%"
+  title="Color Theme Editor"
   alt="Color Theme Editor." />
 </p>
 <p>Select Color Theme. There we go. Here I've got the Color Themes and I can select 
@@ -2359,6 +2398,7 @@ to my files and here I am.</p>
 <p align="center" width="100%">
 <img src="./images/image119.png?raw=true"
   style="width:50%"
+  title="Display new menu screen theme in Visual Studio"
   alt="Display new menu screen theme in Visual Studio." />
 </p>
 
@@ -2371,6 +2411,7 @@ and click.</p>
 <p align="center" width="100%">
 <img src="./images/image120.png?raw=true"
   style="width:50%"
+  title="For html template, type exclamation followed by [tab]"
   alt="For html template, type exclamation followed by [tab]." />
 </p>
 
@@ -2389,6 +2430,7 @@ can come back to the browser and test it.</p>
 <p align="center" width="100%">
 <img src="./images/image121.png?raw=true"
   style="width:50%"
+  title="Test, myProject, here is a heading"
   alt="Test, myProject, here is a heading." />
 </p>
 
@@ -2415,6 +2457,7 @@ scripts.</p>
 <p align="center" width="100%">
 <img src="./images/image122.png?raw=true"
   style="width:40%"
+  title="2.04. Operators, Booleans & Selection in JavaScript"
   alt="2.04. Operators, Booleans & Selection in JavaScript." />
 </p>
 
@@ -2424,6 +2467,7 @@ scripts.</p>
 <p align="center" width="100%">
 <img src="./images/image123.png?raw=true"
   style="width:50%"
+  title="JavaScript Operators"
   alt="JavaScript Operators." />
 </p>
 
@@ -2437,9 +2481,11 @@ to divide and the percent is a modules operator.</p>
 <p align="center" width="100%">
 <img src="./images/image124.png?raw=true"
   style="width:45%"
+  title="Comparison operators"
   alt="Comparison operators." />
 <img src="./images/image125.png?raw=true"
   style="width:45%"
+  title="Bitwise operators"
   alt="Bitwise operators." />
 </p>
 
@@ -2455,6 +2501,7 @@ languages. C, C++, C sharp, Objective C, and so forth.<p>
 <p align="center" width="100%">
 <img src="./images/image126.png?raw=true"
   style="width:50%"
+  title="Booleans in JavaScript"
   alt="Booleans in JavaScript." />
 </p>
 
@@ -2476,6 +2523,7 @@ And it would do this down here. So that gets us started with a little bit of tha
 <p align="center" width="100%">
 <img src="./images/image127.png?raw=true"
   style="width:50%"
+  title="Customize the Visual Studio editor theme"
   alt="Customize the Visual Studio editor theme." />
 </p>
 
@@ -2486,6 +2534,7 @@ some selections and Booleans and that kind of fun stuff.</p>
 <p align="center" width="100%">
 <img src="./images/image128.png?raw=true"
   style="width:50%"
+  title="Make a file in Visual Studio editor; selections.html"
   alt="Make a file in Visual Studio editor; selections.html." />
 </p>
 
@@ -2498,6 +2547,7 @@ spaces in the dot html extension. I'm going to save that on the desktop.</p>
 <p align="center" width="100%">
 <img src="./images/image129.png?raw=true"
   style="width:50%"
+  title="Type exclamation [tab] for basic html structure"
   alt="Type exclamation [tab] for basic html structure." />
 </p>
 
@@ -2509,6 +2559,7 @@ and there we go. And then in here I'm just going to add an h1 testing selections
 <p align="center" width="100%">
 <img src="./images/image130.png?raw=true"
   style="width:50%"
+  title="Add script and two variables"
   alt="Add script and two variables." />
 </p>
 
@@ -2522,6 +2573,7 @@ One is set to true and the other one is set to false.</p>
 <p align="center" width="100%">
 <img src="./images/image131.png?raw=true"
   style="width:50%"
+  title="If red, then do statement in function"
   alt="If red, then do statement in function." />
 </p>
 
@@ -2535,6 +2587,7 @@ this would not be true, in which case something else would happen.</p>
 <p align="center" width="100%">
 <img src="./images/image132.png?raw=true"
   style="width:50%"
+  title="Add an else statement for false"
   alt="Add an else statement for false." />
 </p>
 
@@ -2545,6 +2598,7 @@ console.log states false.</p>
 <p align="center" width="100%">
 <img src="./images/image133.png?raw=true"
   style="width:50%"
+  title="Test, inspect console boolean"
   alt="Test, inspect console boolean." />
 </p>
 
@@ -2557,6 +2611,7 @@ is true.</p>
 <p align="center" width="100%">
 <img src="./images/image134.png?raw=true"
   style="width:50%"
+  title="Add else statement"
   alt="Add else statement." />
 </p>
 
@@ -2567,9 +2622,11 @@ console.log states false.</p>
 <p align="center" width="100%">
 <img src="./images/image135.png?raw=true"
   style="width:45%"
+  title="Testing Selections; new vars; red=true, blue=false"
   alt="Testing Selections; new vars; red=true, blue=false." />
 <img src="./images/image136.png?raw=true"
   style="width:45%"
+  title="Testing Selections; new vars; red=true, blue=false"
   alt="Testing Selections; new vars; red=true, blue=false." />
 </p>
 
@@ -2581,6 +2638,7 @@ console.log states false.</p>
 <p align="center" width="100%">
 <img src="./images/image137.png?raw=true"
   style="width:40%"
+  title="2.05. Try This!"
   alt="2.05. Try This!" />
 </p>
 
@@ -2590,9 +2648,11 @@ console.log states false.</p>
 <p align="center" width="100%">
 <img src="./images/image138.png?raw=true"
   style="width:45%"
+  title="Test, null is false, undefined is false, zero & false are also false"
   alt="Test, null is false, undefined is false, zero & false are also false." />
 <img src="./images/image139.png?raw=true"
   style="width:45%"
+  title="Undefined, zero, null, and false are all false"
   alt="Undefined, zero, null, and false are all false." />
 </p>
 
@@ -2613,9 +2673,11 @@ variables that are undefined as false.</p>
 <p align="center" width="100%">
 <img src="./images/image140.png?raw=true"
   style="width:45%"
-  alt="var green = null, equates to false. " />
+  title="var green = null, equates to false"
+  alt="var green = null, equates to false." />
 <img src="./images/image141.png?raw=true"
   style="width:45%"
+  title="var green = 0, equates to false"
   alt="var green = 0, equates to false." />
 </p>
 
@@ -2633,9 +2695,11 @@ false, <b>zero</b> is false. <b>False</b> is false. Other things are true.</p>
 <p align="center" width="100%">
 <img src="./images/image142.png?raw=true"
   style="width:45%"
-  alt="var green = 'cheese' is true. " />
+  title="var green = 'cheese' is true"
+  alt="var green = 'cheese' is true." />
 <img src="./images/image143.png?raw=true"
   style="width:45%"
+  title="Test, var green = 'cheese' is true"
   alt="Test, var green = 'cheese' is true." />
 </p>
 
@@ -2648,6 +2712,7 @@ about JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image144.png?raw=true"
   style="width:40%"
+  title="2.06. Comparing Values"
   alt="2.06. Comparing Values." />
 </p>
 
@@ -2657,6 +2722,7 @@ about JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image145.png?raw=true"
   style="width:50%"
+  title="Comparison with double equal sign"
   alt="Comparison with double equal sign." />
 </p>
 
@@ -2667,6 +2733,7 @@ out if the value here is the same as the value somewhere else.</p>
 <p align="center" width="100%">
 <img src="./images/image146.png?raw=true"
   style="width:50%"
+  title="Test, myNum == otherNum"
   alt="Test, myNum == otherNum." />
 </p>
 
@@ -2682,6 +2749,7 @@ to see is myNum the same as the otherNum. In this case it is.</p>
 <p align="center" width="100%">
 <img src="./images/image147.png?raw=true"
   style="width:50%"
+  title="Test, myNum == otherNum is true"
   alt="Test, myNum == otherNum is true." />
 </p>
 
@@ -2692,9 +2760,11 @@ because myNum is the same as the otherNum.</p>
 <p align="center" width="100%">
 <img src="./images/image148.png?raw=true"
   style="width:45%"
+  title="Change to 6.  Now one is 5, other is 6"
   alt="Change to 6.  Now one is 5, other is 6." />
 <img src="./images/image149.png?raw=true"
   style="width:45%"
+  title="Test, statement is now false"
   alt="Test, statement is now false." />
 </p>
 
@@ -2706,9 +2776,11 @@ same as.</p>
 <p align="center" width="100%">
 <img src="./images/image150.png?raw=true"
   style="width:45%"
+  title="Use exclamation and equal for NOT"
   alt="Use exclamation and equal for NOT." />
 <img src="./images/image151.png?raw=true"
   style="width:45%"
+  title="Test, not equal with exclamation + equal sign"
   alt="Test, not equal with exclamation + equal sign." />
 </p>
 
@@ -2727,9 +2799,11 @@ use less than and greater than and check to see if that&apos;s true.</p>
 <p align="center" width="100%">
 <img src="./images/image152.png?raw=true"
   style="width:45%"
+  title="More test of not equal and false"
   alt="More test of not equal and false." />
 <img src="./images/image153.png?raw=true"
   style="width:45%"
+  title="Test, not equal as false"
   alt="Test, not equal as false." />
 </p>
 
@@ -2753,9 +2827,11 @@ happen in your programs, that&apos;s never a good thing.</p>
 <p align="center" width="100%">
 <img src="./images/image154.png?raw=true"
   style="width:45%"
+  title="Triple equal testing"
   alt="Triple equal testing." />
 <img src="./images/image155.png?raw=true"
   style="width:45%"
+  title="Must be exactly the same to match as true"
   alt="Must be exactly the same to match as true." />
 </p>
 
@@ -2784,6 +2860,7 @@ Again, this is an odd thing about JavaScript that you can do this.</p>
 <p align="center" width="100%">
 <img src="./images/image156.png?raw=true"
   style="width:50%"
+  title="Explain undefined or null variables as false"
   alt="Explain undefined or null variables as false." />
 </p>
 
@@ -2799,9 +2876,11 @@ That&apos;s <b>false</b>.</p>
 <p align="center" width="100%">
 <img src="./images/image157.png?raw=true"
   style="width:45%"
+  title="Test, if not a number then statement is false"
   alt="Test, if not a number then statement is false." />
 <img src="./images/image158.png?raw=true"
   style="width:45%"
+  title="Test, not a number (NaN) is false"
   alt="Test, not a number (NaN) is false." />
 </p>
 
@@ -2817,10 +2896,11 @@ testing values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-07">2.07 Else If (5:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. else if (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. else if (2.07) (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image159.png?raw=true"
   style="width:40%"
+  title="2.07. Else If"
   alt="2.07. Else If." />
 </p>
 
@@ -2899,6 +2979,7 @@ scripts and see how they work and what they do. It&apos;s really helpful to do t
 <p align="center" width="100%">
 <img src="./images/image163.png?raw=true"
   style="width:40%"
+  title="2.08. Switch Statements"
   alt="2.08. Switch Statements." />
 </p>
 
@@ -2909,6 +2990,7 @@ and run it through a bunch of cases.</p>
 <p align="center" width="100%">
 <img src="./images/image164.png?raw=true"
   style="width:50%"
+  title="Switch statement Examples"
   alt="Switch statement Examples." />
 </p>
 
@@ -7481,30 +7563,32 @@ immediately invoked function expressions is We can make a function here
 I have my do stuff function back again. And I can call it this way we do
 stuff, but any function because it can be immediately invoked.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 462.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 462. function dostuff defined (259) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image462.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define function doStuff"
+  alt="Define function doStuff." />
 </p>
 
 If I comment out do stuff here, that\'s not going to do anything. It\'s
 just going to define the function.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 463/464.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 463/464. function dostuff immediately invoked (259) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image463.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Function doStuff with parenthesis around entire function to immediately invoke"
+  alt="Function doStuff with parenthesis around entire function to immediately invoke." />
 <img src="./images/image464.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Testing, immediately invoked function expression"
+  alt="Testing, immediately invoked function expression." />
 </p>
 
 But I could put a parenthesis in front of this and a parentheses at the
 end of it. And then a set of parentheses and semicolon. And now that
-function will run dostuff right off the bat without having to actually
+function will run doStuff right off the bat without having to actually
 call it.
 
 This is an immediately invoked function as well. If I do that, and then
@@ -7512,14 +7596,14 @@ come over here and test it. You\'ll see it runs just fine and it does
 everything it needs to do.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 465/466.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 465/466. namespacing & closures/anonymous functions (iife) (260) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image465.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Namespacing &amp; Closures; Anonymous Function." />
 <img src="./images/image466.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Immediately Invoked Function Expression (IIFE)." />
 </p>
 
 However, we\'re using the anonymous function here, this anonymous
@@ -7532,20 +7616,22 @@ technique that we have at our disposal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-21">3.21 Strategy 2: "use strict;"</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: 'use strict;' (258) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: 'use strict;' (3.21) (260) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image467.png?raw=true"
   style="width:40%"
+  title="3.21 Strategy 2: 'use strict;'"
   alt="3.21 Strategy 2: 'use strict;'." />
 </p>
 
 The first strategy was to use some closure with name spacing to make
 sure that variables stay out of the global scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 'use strict;' (259) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 'use strict;' (261) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image468.png?raw=true"
   style="width:50%"
+  title="Example, Strategy 2: 'use strict;'"
   alt="Example, Strategy 2: 'use strict;'." />
 </p>
 
@@ -7556,11 +7642,12 @@ forgetting to put use the var keyword when defining a new variable is
 really very problematic or potentially very problematic. We wanted to
 have that not happen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 469.  (259) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 469. define newvar as a global variable (261) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image469.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define newVar as a global variable"
+  alt="Define newVar as a global variable." />
 </p>
 
 Let\'s take a look at how this works because this is interesting. Over
