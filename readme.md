@@ -114,6 +114,7 @@ skills.</p>
 >#### [**3.10 Removing Elements**](#ch3-10)
 >	- #### [**3.10.JavaScript and the DOM**](#ch3-10-dom)
 >	- #### [**3.10.JavaScript DOM Challenges 17-21**](#ch3-10-17thru21)
+>#### [**3.11 Capture Events with JavaScript**](#ch3-11)
 >#### [**3.12 Event Listeners**](#ch3-12)
 >#### [**3.13 The Event Object**](#ch3-13)
 >#### [**3.14 More On Events**](#ch3-14)
