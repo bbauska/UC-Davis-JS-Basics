@@ -3218,7 +3218,9 @@ starving, so you should go eat something.</p>
 <p align="center" width="100%">
 <img src="./images/image177.png?raw=true"
   style="width:40%"
-  alt="2.10. Loops." />
+  title="2.10 Loops"
+  alt="2.10 Loops." />
+</p>
 
 <p>Loops in JavaScript.</p>
 
@@ -3234,6 +3236,7 @@ And JavaScript, like many programming languages, will allow you to do
 <p align="center" width="100%">
 <img src="./images/image178.png?raw=true"
   style="width:50%"
+  title="For loop"
   alt="For loop." />
 </p>
 
@@ -3248,9 +3251,11 @@ me.</p>
 <p align="center" width="100%">
 <img src="./images/image179.png?raw=true"
   style="width:45%"
+  title="Create loops.html and add incrementor"
   alt="Create loops.html and add incrementor." />
 <img src="./images/image180.png?raw=true"
   style="width:45%"
+  title="Create a loop with incrementor"
   alt="Create a loop with incrementor." />
 </p>
 
@@ -3291,6 +3296,7 @@ I have over here.</p>
 <p align="center" width="100%">
 <img src="./images/image181.png?raw=true"
   style="width:50%"
+  title="Test, incrementor loop"
   alt="Test, incrementor loop." />
 </p>
 
@@ -3317,7 +3323,8 @@ these expressions and that determines whether the loop runs or not.</p>
 <p align="center" width="100%">
 <img src="./images/image182.png?raw=true"
   style="width:40%"
-  alt="2.11. Working with Arrays." />
+  title="2.11 Working with Arrays"
+  alt="2.11 Working with Arrays." />
 </p>
 
 <p>One of the places you&apos;re very likely to come across using loops is if
@@ -3328,6 +3335,7 @@ iterate over that group of items to do something to them.</p>
 <p align="center" width="100%">
 <img src="./images/image183.png?raw=true"
   style="width:50%"
+  title="Examples, working with arrays"
   alt="Examples, working with arrays." />
 </p>
 
@@ -3345,6 +3353,7 @@ Remember, arrays are zero-indexed.</p>
 <p align="center" width="100%">
 <img src="./images/image184.png?raw=true"
   style="width:50%"
+  title="Create an array of colors"
   alt="Create an array of colors." />
 </p>
 
@@ -3366,6 +3375,7 @@ no longer less than four and my loop breaks out.</p>
 <p align="center" width="100%">
 <img src="./images/image185.png?raw=true"
   style="width:50%"
+  title="Test, looping array"
   alt="Test, looping array." />
 </p>
 
@@ -3378,7 +3388,8 @@ works.</p>
 <p align="center" width="100%">
 <img src="./images/image186.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Looping using length"
+  alt="Looping using length." />
 </p>
 
 <p>But generally we don&apos;t want to have to put in a number here. What&apos;s
@@ -3409,11 +3420,12 @@ the array that way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-12">2.12 The For..Of Loop (6:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. the for..of loop (2.12)(110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image187.png?raw=true"
   style="width:40%"
-  alt="2.12. The For..Of Loop." />
+  title="2.12 The For..Of Loop"
+  alt="2.12 The For..Of Loop." />
 </p>
 
 <p>It&apos;s important to note that the for&hellip;of loop cannot be used with
@@ -3426,6 +3438,7 @@ loop.</p>
 <p align="center" width="100%">
 <img src="./images/image188.png?raw=true"
   style="width:50%"
+  title="Example, for..of loop"
   alt="Example, for..of loop." />
 </p>
 
@@ -3447,9 +3460,11 @@ our code over here.</p>
 <p align="center" width="100%">
 <img src="./images/image189.png?raw=true"
   style="width:45%"
+  title="Example for..of loop colors"
   alt="Example for..of loop colors." />
 <img src="./images/image190.png?raw=true"
   style="width:45%"
+  title="Test, output of for ..of loop colors"
   alt="Test, output of for ..of loop colors." />
 </p>
 
@@ -3471,7 +3486,8 @@ with arrays.</p>
 <p align="center" width="100%">
 <img src="./images/image191.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, strings as arrays"
+  alt="Example, strings as arrays." />
 </p>
 
 <p>We can also do something with strings. Remember strings can be treated
@@ -3484,9 +3500,11 @@ my <b>console.log</b> there. I can do that thing.</p>
 <p align="center" width="100%">
 <img src="./images/image192.png?raw=true"
   style="width:45%"
+  title="Example for loop with string length"
   alt="Example for loop with string length." />
 <img src="./images/image193.png?raw=true"
   style="width:45%"
+  title="Test, output of example loop"
   alt="Test, output of example loop." />
 </p>
 <p>In fact, let&apos;s give this a try really quickly here and change this to
@@ -3500,6 +3518,7 @@ I could do it that way, or I could even use the for of loop.</p>
 <p align="center" width="100%">
 <img src="./images/image194.png?raw=true"
   style="width:50%"
+  title="Another example of for..of loop"
   alt="Another example of for..of loop." />
 </p>
 
@@ -3512,7 +3531,8 @@ This will give the <b>myString</b> twice.</p>
 <p align="center" width="100%">
 <img src="./images/image195.png?raw=true"
   style="width:40%"
-  alt="2.13. While Loops." />
+  title="2.13 While Loops"
+  alt="2.13 While Loops." />
 </p>
 
 <p>JavaScript also has a <b>while loop</b> and we don&apos;t see them as often
@@ -3523,6 +3543,7 @@ about.</p>
 <p align="center" width="100%">
 <img src="./images/image196.png?raw=true"
   style="width:50%"
+  title="Example, while loops"
   alt="Example, while loops." />
 </p>
 
@@ -3559,9 +3580,11 @@ stuff out. I don&apos;t really need that now.</p>
 <p align="center" width="100%">
 <img src="./images/image197.png?raw=true"
   style="width:45%"
+  title="Example while loop"
   alt="Example while loop." />
 <img src="./images/image198.png?raw=true"
   style="width:45%"
+  title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3588,9 +3611,11 @@ print the console log once with all the text in it.</p>
 <p align="center" width="100%">
 <img src="./images/image199.png?raw=true"
   style="width:45%"
+  title="Example while loop"
   alt="Example while loop." />
 <img src="./images/image200.png?raw=true"
   style="width:45%"
+  title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3607,6 +3632,7 @@ while loop works here.</p>p>
 <p align="center" width="100%">
 <img src="./images/image201.png?raw=true"
   style="width:50%"
+  title="Same example, while loops"
   alt="Same example, while loops." />
 </p>
 
@@ -3631,6 +3657,7 @@ variables inside strings a little bit more easily.</p>
 <p align="center" width="100%">
 <img src="./images/image202.png?raw=true"
   style="width:50%"
+  title="Example, template literals"
   alt="Example, template literals." />
 </p>
 
@@ -3654,6 +3681,7 @@ this course quite a lot.</p>
 <p align="center" width="100%">
 <img src="./images/image203.png?raw=true"
   style="width:50%"
+  title="Example, template literals"
   alt="Example, template literals." />
 </p>
 
@@ -3674,6 +3702,7 @@ all that stuff if you do it this way.</p>
 <p align="center" width="100%">
 <img src="./images/image204.png?raw=true"
   style="width:50%"
+  title="Example, template literals"
   alt="Example, template literals." />
 </p>
 
@@ -3686,9 +3715,11 @@ here. That is actually working.</p>
 <p align="center" width="100%">
 <img src="./images/image205.png?raw=true"
   style="width:45%"
+  title="Example while loop"
   alt="Example while loop." />
 <img src="./images/image206.png?raw=true"
   style="width:45%"
+  title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3701,6 +3732,7 @@ We&apos;ve got the template literals.</p>
 <p align="center" width="100%">
 <img src="./images/image207.png?raw=true"
   style="width:50%"
+  title="Example, another while loop"
   alt="Example, another while loop." />
 </p>
 
@@ -3713,9 +3745,11 @@ operations right in line with our string.</p>
 <p align="center" width="100%">
 <img src="./images/image208.png?raw=true"
   style="width:45%"
+  title="Example while loop"
   alt="Example while loop." />
 <img src="./images/image209.png?raw=true"
   style="width:45%"
+  title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
 </p>
 
@@ -3785,6 +3819,7 @@ to see the expressive power of JavaScript. </p>
 <p align="center" width="100%">
 <img src="./images/image212.png?raw=true"
   style="width:50%"
+  title="Converting to Upper or Lower case and other text manipulations"
   alt="Converting to Upper or Lower case and other text manipulations." />
 </p>
 
@@ -3799,6 +3834,7 @@ can convert it to lowercase.
 <p align="center" width="100%">
 <img src="./images/image213.png?raw=true"
   style="width:50%"
+  title="Example substr() text manipulation"
   alt="Example substr() text manipulation." />
 </p>
 
@@ -3827,6 +3863,7 @@ it that way, which is pretty cool.
 <p align="center" width="100%">
 <img src="./images/image214.png?raw=true"
   style="width:50%"
+  title="Sequence Part 1, example"
   alt="Sequence Part 1, example." />
 </p>
 
@@ -3845,6 +3882,7 @@ the video, and let&apos;s see if you got the same thing I got.
 <p align="center" width="100%">
 <img src="./images/image215.png?raw=true"
   style="width:50%"
+  title="Sequence Part 1, result"
   alt="Sequence Part 1, result." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3852,6 +3890,7 @@ the video, and let&apos;s see if you got the same thing I got.
 <p align="center" width="100%">
 <img src="./images/image216.png?raw=true"
   style="width:50%"
+  title="Sequence Part 1, result in script"
   alt="Sequence Part 1, result in script." />
 </p>
 
@@ -3870,6 +3909,7 @@ this and <b>console.log</b> that out. That works really great.</p>
 <p align="center" width="100%">
 <img src="./images/image217.png?raw=true"
   style="width:50%"
+  title="Test, Sequence Part 1"
   alt="Test, Sequence Part 1." />
 </p>
 
@@ -3883,7 +3923,8 @@ That works great. Let&apos;s see, what should we do next.
 <p align="center" width="100%">
 <img src="./images/image218.png?raw=true"
   style="width:50%"
-  alt="2.15. Sequence - Part 2." />
+  title="2.15 Sequence - Part 2"
+  alt="2.15 Sequence - Part 2." />
 </p>
  
 <p>Next, we'll do some more surgery on our strengths.</p>
@@ -3892,7 +3933,7 @@ That works great. Let&apos;s see, what should we do next.
 <p align="center" width="100%">
 <img src="./images/image219.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Example, Sequence Part 2." />
 </p>
 
 What, we're going to do first here is we're going to pull out the word ''really''. 
@@ -4209,6 +4250,7 @@ Make sure I did that right, and I did, so that's fine.
 <p align="center" width="100%">
 <img src="./images/image244.png?raw=true"
   style="width:50%"
+  title="Example, Make Comments"
   alt="Example, Make Comments." />
 </p>
  
@@ -4235,7 +4277,8 @@ along. Great, see you in the next lesson.
 <p align="center" width="100%">
 <img src="./images/image245.png?raw=true"
   style="width:50%"
-  alt="2.18. JavaScript Basic Challenges Introduction." />
+  title="2.18 JavaScript Basic Challenges Introduction"
+  alt="2.18 JavaScript Basic Challenges Introduction." />
 </p>
 
 JavaScript basic challenges. This course includes a number of challenges, and these 
@@ -4248,6 +4291,7 @@ results.
 <p align="center" width="100%">
 <img src="./images/image246.png?raw=true"
   style="width:50%"
+  title="Example, Challenge 1"
   alt="Example, Challenge 1." />
 </p>
 
@@ -4259,6 +4303,7 @@ on the next line. Very basic challenge.
 <p align="center" width="100%">
 <img src="./images/image247.png?raw=true"
   style="width:50%"
+  title="Set up Challenge 1"
   alt="Set up Challenge 1." />
 </p>
 
@@ -4270,6 +4315,7 @@ what the first thing is to do, and that's fine.
 <p align="center" width="100%">
 <img src="./images/image248.png?raw=true"
   style="width:50%"
+  title="Example, Challenge 1 Answer"
   alt="Example, Challenge 1 Answer." />
 </p>
 
@@ -4285,6 +4331,7 @@ do a few things to really help you get good at JavaScript.
 <p align="center" width="100%">
 <img src="./images/image249.png?raw=true"
   style="width:50%"
+  title="Camel with 2 humps"
   alt="Camel with 2 humps." />
 </p>
 
@@ -4302,6 +4349,7 @@ without looking at the answer.
 <p align="center" width="100%">
 <img src="./images/image250.png?raw=true"
   style="width:50%"
+  title="Example, Challenge 2"
   alt="Example, Challenge 2." />
 </p>
 
@@ -4340,7 +4388,8 @@ and I promise, you'll be on the road to becoming a good JavaScript developer.
 <p align="center" width="100%">
 <img src="./images/image251.png?raw=true"
   style="width:50%"
-  alt="2.19. Functions in JavaScript." />
+  title="2.19 Functions in JavaScript"
+  alt="2.19 Functions in JavaScript." />
 </p>
 
 Functions in JavaScript. Functions are reusable sets of instructions. 
@@ -4349,6 +4398,7 @@ Functions in JavaScript. Functions are reusable sets of instructions.
 <p align="center" width="100%">
 <img src="./images/image252.png?raw=true"
   style="width:50%"
+  title="Example, Reusable Sets of Instructions"
   alt="Example, Reusable Sets of Instructions." />
 </p>
 
@@ -4364,6 +4414,7 @@ where functions can become very powerful.
 <p align="center" width="100%">
 <img src="./images/image253.png?raw=true"
   style="width:50%"
+  title="function: upperString(myString)"
   alt="function: upperString(myString)." />
 </p>
 
@@ -4378,6 +4429,7 @@ exercise.
 <p align="center" width="100%">
 <img src="./images/image254.png?raw=true"
   style="width:50%"
+  title="doStuff - upperString using toUpperCase()"
   alt="doStuff - upperString using toUpperCase()." />
 </p>
 
@@ -4391,6 +4443,7 @@ run the function.
 <p align="center" width="100%">
 <img src="./images/image255.png?raw=true"
   style="width:50%"
+  title="Example, toUpperCase()"
   alt="Example, toUpperCase()." />
 </p>
 
@@ -4404,9 +4457,11 @@ nothing, because it'll be defined but it won't actually run. I have to run doStu
 <p align="center" width="100%">
 <img src="./images/image256.png?raw=true"
   style="width:45%"
+  title="Try This, Uppercase and Enter a whole number"
   alt="Try This, Uppercase and Enter a whole number." />
 <img src="./images/image257.png?raw=true"
   style="width:45%"
+  title="Test, Uppercase and Enter a whole number (greater than or less than 10?)"
   alt="Test, Uppercase and Enter a whole number (greater than or less than 10?)." />
 </p>
 
@@ -4420,6 +4475,7 @@ bottom. I'm going to just paste it on in there.
 <p align="center" width="100%">
 <img src="./images/image258.png?raw=true"
   style="width:50%"
+  title="function checkNum"
   alt="function checkNum." />
 </p>
 
@@ -4439,7 +4495,8 @@ supposed to do, and all that code is now inside of a function.
 <p align="center" width="100%">
 <img src="./images/image259.png?raw=true"
   style="width:50%"
-  alt="2.20. Passing In and Returning Data." />
+  title="2.20 Passing In and Returning Data"
+  alt="2.20 Passing In and Returning Data." />
 </p>
 
 Functions are even more useful if you can pass data into them, so they can do something 
@@ -4449,6 +4506,7 @@ with that data.
 <p align="center" width="100%">
 <img src="./images/image260.png?raw=true"
   style="width:50%"
+  title="Example, Passing in Data"
   alt="Example, Passing in Data." />
 </p>
 
@@ -4463,6 +4521,7 @@ uppercase, and console log it out.
 <p align="center" width="100%">
 <img src="./images/image261.png?raw=true"
   style="width:50%"
+  title="function upperMessage()"
   alt="function upperMessage()." />
 </p>
 So let's give that a try and see what that does. I'm going to make a function, function 
@@ -4478,6 +4537,7 @@ but it's something that shows us how this actually works.
 <p align="center" width="100%">
 <img src="./images/image262.png?raw=true"
   style="width:50%"
+  title="Test, HERE IS A MESSAGE"
   alt="Test, HERE IS A MESSAGE." />
 </p>
 
@@ -4492,9 +4552,11 @@ pass in whatever two numbers you want to add there.
 <p align="center" width="100%">
 <img src="./images/image263.png?raw=true"
   style="width:45%"
-  alt="Function addNums." />
+  title="function addNums"
+  alt="function addNums." />
 <img src="./images/image264.png?raw=true"
   style="width:45%"
+  title="Test, addNums"
   alt="Test, addNums." />
 </p>
 
@@ -4518,6 +4580,7 @@ that we can then work with within our function.
 <p align="center" width="100%">
 <img src="./images/image265.png?raw=true"
   style="width:50%"
+  title="Example, Returning Data"
   alt="Example, Returning Data." />
 </p>
 
@@ -4538,6 +4601,7 @@ these two things.
 <p align="center" width="100%">
 <img src="./images/image266.png?raw=true"
   style="width:50%"
+  title="Functions; addNumbs and returnSum"
   alt="Functions; addNumbs and returnSum." />
 </p>
 
@@ -4551,9 +4615,11 @@ to the console log because that's all I've got access to at the moment.
 <p align="center" width="100%">
 <img src="./images/image267.png?raw=true"
   style="width:45%"
+  title="Functions: addNumbs and returnSum"
   alt="Functions: addNumbs and returnSum." />
 <img src="./images/image268.png?raw=true"
   style="width:45%"
+  title="Test, addNumbs and returnSum"
   alt="Test, addNumbs and returnSum." />
 </p>
 
@@ -4583,7 +4649,8 @@ needs to do.
 <p align="center" width="100%">
 <img src="./images/image269.png?raw=true"
   style="width:50%"
-  alt="2.21. Useful Example - Step 1." />
+  title="2.21 Useful Example - Step 1"
+  alt="2.21 Useful Example - Step 1." />
 </p>
 
 Let's take a look at a useful example. 
@@ -4592,6 +4659,7 @@ Let's take a look at a useful example.
 <p align="center" width="100%">
 <img src="./images/image270.png?raw=true"
   style="width:50%"
+  title="A Useful Example - Generating Random Numbers"
   alt="A Useful Example - Generating Random Numbers." />
 </p>
 
@@ -4604,9 +4672,11 @@ a try over here on my file.
 <p align="center" width="100%">
 <img src="./images/image271.png?raw=true"
   style="width:45%"
+  title="Math.random number generator (0-.999999999)"
   alt="Math.random number generator (0-.999999999)." />
 <img src="./images/image272.png?raw=true"
   style="width:45%"
+  title="Math.random number generator (0-.999999999)"
   alt="Math.random number generator (0-.999999999)." />
 </p>
 
@@ -4619,6 +4689,7 @@ refreshing my screen and I'll keep getting numbers.
 <p align="center" width="100%">
 <img src="./images/image273.png?raw=true"
   style="width:50%"
+  title="Test, Functions in JavaScript"
   alt="Test, Functions in JavaScript." />
 </p>
 
@@ -4646,6 +4717,7 @@ That's worth mentioning as well.
 <p align="center" width="100%">
 <img src="./images/image274.png?raw=true"
   style="width:50%"
+  title="Example, Useful Example - Step 1"
   alt="Example, Useful Example - Step 1." />
 </p>
 
@@ -4666,9 +4738,11 @@ this actually works.
 <p align="center" width="100%">
 <img src="./images/image275.png?raw=true"
   style="width:45%"
+  title="Test, randomInt between 5 and 10 (inclusive)"
   alt="Test, randomInt between 5 and 10 (inclusive)." />
 <img src="./images/image276.png?raw=true"
   style="width:45%"
+  title="Test, randomInt between 5 and 10 (inclusive)"
   alt="Test, randomInt between 5 and 10 (inclusive)." />
 </p>
 
@@ -4694,7 +4768,8 @@ correct. Then, we'll go on from there to the next step.
 <p align="center" width="100%">
 <img src="./images/image277.png?raw=true"
   style="width:50%"
-  alt="2.22. Useful Example 2-4." />
+  title="2.22 Useful Example 2-4"
+  alt="2.22 Useful Example 2-4." />
 </p>
 In the second step for a random integer generator, I'm going to actually generate my random number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4702,6 +4777,7 @@ In the second step for a random integer generator, I'm going to actually generat
 p align="center" width="100%">
 <img src="./images/image278.png?raw=true"
   style="width:50%"
+  title="Useful Example - Step 2 - randomInt (0-1)"
   alt="Useful Example - Step 2 - randomInt (0-1)." />
 </p>
 RandomNum here is going to be between zero and one. I'm going to take that and multiply 
@@ -4711,9 +4787,11 @@ it by the number of values and see what I get.
 <p align="center" width="100%">
 <img src="./images/image279.png?raw=true"
   style="width:45%"
+  title="Function randomInt accepting min and max"
   alt="Function randomInt accepting min and max." />
 <img src="./images/image280.png?raw=true"
   style="width:45%"
+  title="Test, function randomInt with min and max of 0 to 6 (exclusive)"
   alt="Test, function randomInt with min and max of 0 to 6 (exclusive)." />
 </p>
 Let's go ahead and add this to our function over here. We've got that in there, we can 
