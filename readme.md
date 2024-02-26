@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "2/19/2024 11+pm"
+date last editted: "2/25/2024 4+pm"
 output: 
   markdown:
     with some style
@@ -1537,6 +1537,7 @@ in the console, I don&apos;t actually need to use it.</p>
 <p align="center" width="100%">
 <img src="./images/image063.png?raw=true"
   style="width:40%"
+  title="1.08. JavaScript Variables Practice - Part 2"
   alt="1.08. JavaScript Variables Practice - Part 2." />
 
 <p>Here you can see a cleared out the console by clicking this clear thing here.</p>
@@ -1548,8 +1549,8 @@ in the console, I don&apos;t actually need to use it.</p>
 <p align="center" width="100%">
 <img src="./images/image064.png?raw=true"
   style="width:50%"
+  title="In console.log click refresh to clear console & forget variables"
   alt="In console.log click refresh to clear console & forget variables." />
-<!-- ![](./images/media/image64.png){width="5.0in" height="3.053418635170604in"} -->
 
 <p>If you do want to actually forget the variables, you can click the
 Refresh button up here that will actually forget everything.</p>
@@ -1587,14 +1588,16 @@ and get 15, but instead, we got 105 in a string. So that&apos;s an important
 distinction and something important to understand about the way
 JavaScript works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 66. plus operator to add or concatinate (47) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 66. plus operator to add or concatenate (47) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image066.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Plus (+) to add numbers or concatenate strings"
+  alt="Plus (+) to add numbers or concatenate strings." />
+</p>
 
 <p>Another thing to know is that the plus operator in JavaScript does
-double duty. It will add numbers together, so we can make another
+double duty. It will <b>add numbers</b> together, so we can make another
 variable, var newNum 2, and assign it a value of six. Then I could do
 newNum plus newnum2 and it&apos;ll give me 16. So it&apos;ll add numbers
 together, but it will also <b>concatenate</b> strings. Here we were seeing
@@ -1624,6 +1627,7 @@ We&apos;ll get into more detail about that as we go along.</p>
 <img src="./images/image067.png?raw=true"
   style="width:40%"
   alt="1.09. JavaScript Variables Practice - Part 3." />
+</p>
 
 <p>I&apos;m going to clear out my console here, press the clear button there,
 and then I&apos;m going to create a new variable, var myNum equals 10,
@@ -1634,6 +1638,7 @@ We&apos;ll put that in there.</p>
 <img src="./images/image068.png?raw=true"
   style="width:50%"
   alt="Differentiating between numbers and string characters." />
+</p>
 
 <p>Then I&apos;m going to make another variable, var, myNumAsString. I&apos;m going
 to make a variable there and we&apos;ll call it five. But that variable
@@ -1655,7 +1660,9 @@ understand about JavaScript, but they do have type associated with them.</p>
 <p align="center" width="100%">
 <img src="./images/image069.png?raw=true"
   style="width:50%"
+  title="var empty string"
   alt="var empty string." />
+</p>
 
 <p>Let&apos;s try one more. I&apos;m going to make another variable var
 emptyString. I&apos;m going to assign it a couple of quotes, and if I do
@@ -1669,9 +1676,11 @@ JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image070.png?raw=true"
   style="width:45%"
+  title="MDN - Mozilla Developer Network"
   alt="MDN - Mozilla Developer Network." />
 <img src="./images/image071.png?raw=true"
   style="width:45%"
+  title="W3Schools.com - for learning HTML and CSS"
   alt="W3Schools.com - for learning HTML and CSS." />
 </p>
 
@@ -1686,8 +1695,11 @@ information about different methods and different things you can use.</p>
 <p align="center" width="100%">
 <img src="./images/image072.png?raw=true"
   style="width:50%"
+  title="console.log(typeof x); where x is string, number, bigint, boolean, 
+    undefined, null, symbol or object.  Object is object, array or date"
   alt="console.log(typeof x); where x is string, number, bigint, boolean, 
     undefined, null, symbol or object.  Object is object, array or date." />
+</p>
 
 <p>We&apos;ll be referring a lot to the MDN throughout this course, sometimes
 the W3Schools website as well, but the MDN really is sort of the
@@ -1713,6 +1725,7 @@ and on websites.</p>
 <p align="center" width="100%">
 <img src="./images/image073.png?raw=true"
   style="width:40%"
+  title="1.10. JavaScript Arrays - Part 1"
   alt="1.10. JavaScript Arrays - Part 1." />
 
 <p>JavaScript arrays.</p>
@@ -1721,6 +1734,7 @@ and on websites.</p>
 <p align="center" width="100%">
 <img src="./images/image074.png?raw=true"
   style="width:40%"
+  title="An Array is a Container with Sub-containers"
   alt="An Array is a Container with Sub-containers." />
 
 <p>An array is really just a container with sub-containers and it&apos;s the
@@ -1737,6 +1751,7 @@ week. Frequently in JavaScript, we have to deal with groups of things.</p>
 <p align="center" width="100%">
 <img src="./images/image075.png?raw=true"
   style="width:40%"
+  title="Working with Groups"
   alt="Working with Groups." />
 
 <p>If we go back to our robot analogy, if we&apos;re teaching our robot how to
@@ -1752,6 +1767,7 @@ things with arrays.</p>
 <p align="center" width="100%">
 <img src="./images/image076.png?raw=true"
   style="width:40%"
+  title="Creating an array in JavaScript"
   alt="Creating an array in JavaScript." />
 
 <p>Let&apos;s take a look at what that looks like. In JavaScript, we can create
@@ -1765,6 +1781,7 @@ actually see us create these elements.</p>
 <p align="center" width="100%">
 <img src="./images/image077.png?raw=true"
   style="width:50%"
+  title="Example variable array in console.log"
   alt="Example variable array in console.log." />
 
 <p>I&apos;m going to come over here and make a new tab, and choose Inspect,
@@ -1795,6 +1812,7 @@ to be aware of.</p>
 <p align="center" width="100%">
 <img src="./images/image078.png?raw=true"
   style="width:40%"
+  title="1.11. JavaScript Arrays - Part 2"
   alt="1.11. JavaScript Arrays - Part 2." />
 
 <p>Unlike a pill box, which really can&apos;t hold much more than just pills,
@@ -1804,6 +1822,7 @@ you can put anything into an array in JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image079.png?raw=true"
   style="width:50%"
+  title="You can put an array within an array"
   alt="You can put an array within an array." />
 
 <p>You can even put in an array in array. So you think about a pillbox with
@@ -5086,26 +5105,26 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
   alt="3.00 Introduction; Using JavaScript in the Web Browsers." />
 </p>
 
-Welcome to the third module on JavaScript. In this module, we\'ll
-be doing some really exciting stuff. We\'ll be digging in and learning
-how to actually affect elements on web pages. When we do that, we\'ll
+Welcome to the third module on JavaScript. In this module, we&apos;ll
+be doing some really exciting stuff. We&apos;ll be digging in and learning
+how to actually affect elements on web pages. When we do that, we&apos;ll
 also be looking at events, will look at what happens when you want to
 capture a click or a scroll or the submission of a form or something
 like that. When we capture these events, we can then make different
 things happen on web pages. This is where the real magic is in
-JavaScript, and it\'s also the reason why JavaScript exists, is because
-it\'s so tightly tied into the browser. 
+JavaScript, and it&apos;s also the reason why JavaScript exists, is because
+it&apos;s so tightly tied into the browser. 
 
 Now we can find JavaScript in other places other than the browser. But
 its main reason to exist is the fact that it is so tightly connected
-into the browser, and we\'ll really get into that, in this part of this
+into the browser, and we&apos;ll really get into that, in this part of this
 course during this module. So I hope you have fun with it, and by the
-end you\'ll have learned quite a lot of JavaScript.
+end you&apos;ll have learned quite a lot of JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 JavaScript and the DOM (4:34)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. javascript and the dom (3.01) (173) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. javascript and the dom (3.01) (175) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image303.png?raw=true"
   style="width:40%"
@@ -5115,7 +5134,7 @@ end you\'ll have learned quite a lot of JavaScript.
 
 JavaScript and the DOM.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 304. example, the web page is an object (173) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 304. example, the web page is an object (175) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image304.png?raw=true"
   style="width:50%"
@@ -5128,13 +5147,13 @@ ument as an object, and it understands it from the hierarchical
 perspective. The root object that JavaScript sees is the window itself.
 The window, our browser window is the root object. Then that has three
 sub-objects. The document, the location of that document, and the
-history. We\'re really concerned with the document, and the document
-breaks down into an HTML tag. We\'ve seen that certainly on our
-documents and within the HTML tag there\'s a body tag. Then we could
+history. We&apos;re really concerned with the document, and the document
+breaks down into an HTML tag. We&apos;ve seen that certainly on our
+documents and within the HTML tag there&apos;s a body tag. Then we could
 have whatever HTML is making up the page.
 
-Here, I\'m showing an article with a header and a paragraph and a
-footer, and that matches the HTML that\'s in the image here on the left.
+Here, I&apos;m showing an article with a header and a paragraph and a
+footer, and that matches the HTML that&apos;s in the image here on the left.
 If you look at the markup on the left, you can see how that matches the
 article here, in the diagram. JavaScript sees the article as an object
 that has children. One child would be the header, and the header itself
@@ -5153,7 +5172,7 @@ over here.
 
 These elements on the page are nodes, and JavaScript understands the
 relationships between the nodes. And we can use methods and properties
-to do what\'s called traversing the document and getting from one node
+to do what&apos;s called traversing the document and getting from one node
 to another so that we could affect it with JavaScript.
 
 For example, if NodeA was that article, and it has three children, you
@@ -5161,34 +5180,34 @@ could say NodeA.firstChild is Node-A1, and NodeA.lastChild Is Node-A3.
 You can look through the descriptions to the left here and understand
 the relationships between these different elements. So
 Node-A1.parentNode, for example, would be NodeA, or we can look at the
-children of NodeA as an array, and we could say NodeA.childNodes\[0\]
+children of NodeA as an array, and we could say NodeA.childNodes&lbrack;0&rbrack;
 would be Node-A1. So on and so forth, right down through this entire
 list.
 
 We can actually use this relationship to work our way around HTML
 document using JavaScript and be able to get elements and do things with
-them. Now, if you\'re coming to JavaScript from another language like
+them. Now, if you&apos;re coming to JavaScript from another language like
 C++ or Java or Python or something like that, this is a little weird.
-This is strange, but really, when you think about it, JavaScript\'s
+This is strange, but really, when you think about it, JavaScript&apos;s
 tight integration in with the browser and with what happens on our
-document is really JavaScript\'s reason for being. Certainly we\'re
+document is really JavaScript&apos;s reason for being. Certainly we&apos;re
 seeing JavaScript now outside the browser and in other places.
 
-But JavaScript\'s main reason for being is the fact that it can do this
-stuff, and other scripting languages can\'t, where other programming
-languages can\'t. In 2009, when they decided that JavaScript was going
+But JavaScript&apos;s main reason for being is the fact that it can do this
+stuff, and other scripting languages can&apos;t, where other programming
+languages can&apos;t. In 2009, when they decided that JavaScript was going
 to be the programming language for the web, it was going to be native to
-the browser, that\'s when this stuff really got solidified and everybody
+the browser, that&apos;s when this stuff really got solidified and everybody
 wanted to follow the exact same specification, and even if they were
 doing slightly different implementations of it, they were following the
 specification so that this would work with JavaScript in whichever
-browser you\'re in. It\'s taken a while to get to compatibility across
-browsers with JavaScript, but we\'re pretty close to there these days.
+browser you&apos;re in. It&apos;s taken a while to get to compatibility across
+browsers with JavaScript, but we&apos;re pretty close to there these days.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-02">3.02 Dot Syntax and Methods (5:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. dot syntax and methods (3.02) (175) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. dot syntax and methods (3.02) (177) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image306.png?raw=true"
   style="width:40%"
@@ -5198,7 +5217,7 @@ browsers with JavaScript, but we\'re pretty close to there these days.
 
 The dot syntax and methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 307. example, dot syntax and methods (176) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 307. example, dot syntax and methods (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image307.png?raw=true"
   style="width:50%"
@@ -5211,7 +5230,7 @@ or their methods in JavaScript. On the right here, you can see that we
 have a number of methods that are related to being able to traverse the
 DOM or affect the DOM. **insertBefore()**, we can create an element and
 insert it before another element. We can replace a child. We could say,
-\"Take this child out of here.\" Remove a child. Append a child. We can
+&quot;Take this child out of here.&quot; Remove a child. Append a child. We can
 add a new paragraph to the end of a **div** or something like that.
 Clone and node.
 
@@ -5229,10 +5248,10 @@ document there.
   alt="Example, getElementById();" />
 </p>
 
-One of the document methods you\'ll use most frequently and is a good
+One of the document methods you&apos;ll use most frequently and is a good
 one to learn first is **getElementById**. **getElementById** is a
 document method or a function that belongs to the document object.
-Remember that\'s how we define methods. What we can use with
+Remember that&apos;s how we define methods. What we can use with
 **getElementById**, is we can pass in a particular ID, and then we can
 do things to that element, that will go into our document, into our DOM
 or Document Object Model and find that particular element and do
@@ -5242,11 +5261,11 @@ We could set the style property and the color sub-property to red, for
 example, for this paragraph that has an ID of one. Remember, in HTML,
 when you have an ID, it must be unique. It must be a unique ID on the
 page. This is something I see as a mistake a lot of times with students
-learning to create webpages. They\'ll use an ID and the page multiple
-times. But the whole point of an ID is that it\'s unique, just like you
-have a student ID or a driver\'s license ID or some other ID with a
+learning to create webpages. They&apos;ll use an ID and the page multiple
+times. But the whole point of an ID is that it&apos;s unique, just like you
+have a student ID or a driver&apos;s license ID or some other ID with a
 unique ID number on it. The whole purpose of having an ID is that it is
-unique. Let\'s give this a try.
+unique. Let&apos;s give this a try.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. document.getelementbyid(); (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5255,17 +5274,17 @@ unique. Let\'s give this a try.
   alt="document.getElementById();" />
 </p>
 
-I\'m going to come over to my code editor here and you can see I\'ve set
-up a page and I guarantee you it\'s a good idea for you to do this as
-well. I strongly suggest it, but I\'m going to come in here and I\'m
-going to add, I\'m going to say document if I could type
+I&apos;m going to come over to my code editor here and you can see I&apos;ve set
+up a page and I guarantee you it&apos;s a good idea for you to do this as
+well. I strongly suggest it, but I&apos;m going to come in here and I&apos;m
+going to add, I&apos;m going to say document if I could type
 **document.getElementById**. You can see as I start typing, that it even
 comes right up here and I can actually select it from the list to make
 sure I get it right. Because you have to get the capitalization right.
-It\'s **CamelCased**. The get is lowercase, but E is uppercase, B is
+It&apos;s **CamelCased**. The get is lowercase, but E is uppercase, B is
 uppercase and I uppercase, but the d is lowercase. You have to get that
-right, otherwise, it won\'t work. I\'m going to pass in one because
-it\'s going to match this ID here, and I can set the style.color to red.
+right, otherwise, it won&apos;t work. I&apos;m going to pass in one because
+it&apos;s going to match this ID here, and I can set the style.color to red.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. console, dom examples (178) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5275,10 +5294,10 @@ it\'s going to match this ID here, and I can set the style.color to red.
 </p>
 
 If I save that, and then I come back over here and you can see I have
-this webpage loaded up here, and it\'s black here. But as soon as I
-refresh the page, you\'ll see that it\'s turned red. Now, I don\'t have
-any code in my HTML that\'s doing that. It\'s the script that\'s doing
-that after the fact. It\'s really important to understand this.
+this webpage loaded up here, and it&apos;s black here. But as soon as I
+refresh the page, you&apos;ll see that it&apos;s turned red. Now, I don&apos;t have
+any code in my HTML that&apos;s doing that. It&apos;s the script that&apos;s doing
+that after the fact. It&apos;s really important to understand this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. dom example (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5288,47 +5307,48 @@ that after the fact. It\'s really important to understand this.
 </p>
 
 As I come down here, notice paragraph ID1 and then style color red is
-added here. But I didn\'t add that. That\'s not in the HTML that I
-added. Over here, the HTML that I have, I have the ID1, but I don\'t
+added here. But I didn&apos;t add that. That&apos;s not in the HTML that I
+added. Over here, the HTML that I have, I have the ID1, but I don&apos;t
 have a style attribute on here at all. When the page loaded, JavaScript
 loaded the paragraph the way I wrote it, and then what the scripted is
 it went in and found that element with the ID of one, and it added the
 style attribute here and set its color property to red. JavaScript is
 doing that on the fly after the page has been retrieved.
 
-Right now we\'re just loading it from our desktop. But you could be
-getting it off of the webserver, you\'d be getting it from anywhere.
+Right now we&apos;re just loading it from our desktop. But you could be
+getting it off of the webserver, you&apos;d be getting it from anywhere.
 That page, when it gets to the browser, it gets rendered by the browser
 and then the script runs down at the bottom of the page and affects the
 page after that paragraph has already been rendered. It happens so fast,
-you don\'t even really see it. But this is a really great example of a
+you don&apos;t even really see it. But this is a really great example of a
 document method, getElementById, which is allowing us to go into our
 document, find that ID, and then effect it on the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 DOM: getElementsByTagName(); (7:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 312. dom: getelementsbytagname(); (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 312. dom: getelementsbytagname(); (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image312.png?raw=true"
   style="width:40%"
   alt="3.03 DOM; getElementsByTagName();" />
 </p>
 
-Here\'s another document method that allows us to get elements on the
+Here&apos;s another document method that allows us to get elements on the
 page and do something with them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 313.  (180) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 313. example, getelementsbytagname(); (182) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image313.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, getElementsByTagName();"
+  alt="Example, getElementsByTagName();" />
 </p>
 
-It\'s called **getElementsByTagName,** and I have the S and elements
-highlighted because a common mistake is to leave it off because it\'s
+It&apos;s called **getElementsByTagName,** and I have the S and elements
+highlighted because a common mistake is to leave it off because it&apos;s
 getElementByID, but this is getElements, so this is going to get more
-than one element, it\'s going to get a collection of elements, and then
+than one element, it&apos;s going to get a collection of elements, and then
 we can do something with that collection of elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 314/315.  (180) ~~~~~~~~~~~~~~~~~~~-->
@@ -5341,24 +5361,24 @@ we can do something with that collection of elements.
   alt="." />
 </p>
 
-Let\'s give this a try. Here I have my page, I have some paragraphs on
+Let&apos;s give this a try. Here I have my page, I have some paragraphs on
 the page, and I can write a script here,
 **document.getElementsByTagName.** Then I can pass in, say, a P for
-paragraphs. What this is going to do is it\'s going to go in and get all
+paragraphs. What this is going to do is it&apos;s going to go in and get all
 of these elements, and I can assign that to a variable, var myParagraphs
 equals. Now, myParagraphs is going to hold a collection of paragraphs,
 and if I console log that out, **console.log(my Paragraphs).**
 
-If I console log that out, let\'s see what I get. I\'m going to come
-back over here to my page and refresh, and we don\'t see any difference
-here, but if I go to the console, you\'ll see I get an HTMLCollection of
-three things; paragraph, paragraph, and paragraph, and that\'s what\'s
+If I console log that out, let&apos;s see what I get. I&apos;m going to come
+back over here to my page and refresh, and we don&apos;t see any difference
+here, but if I go to the console, you&apos;ll see I get an HTMLCollection of
+three things; paragraph, paragraph, and paragraph, and that&apos;s what&apos;s
 in here, and I could even fold this down and see what the different
-paragraphs are, it gives me some information about them, but it\'s
+paragraphs are, it gives me some information about them, but it&apos;s
 giving me the collection of the paragraphs here.
 
-That\'s important to understand about this particular method. Whereas
-getElementByID gives me always just one thing. It\'ll always give me one
+That&apos;s important to understand about this particular method. Whereas
+getElementByID gives me always just one thing. It&apos;ll always give me one
 because IDs are unique. Whereas **getElementsByTagName** will give me an
 HTMLCollection of elements that I need to then do something else with.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5370,11 +5390,11 @@ HTMLCollection of elements that I need to then do something else with.
 </p>
 
 If I wanted to set the color of these paragraphs to red, then I would
-need to use a loop because I can\'t apply the style color to a
+need to use a loop because I can&apos;t apply the style color to a
 collection of things all at once. I have to apply them to each item in
 that collection. I need to use a loop to loop through each of the
-elements in that collection, so I\'m going to use a for Loop here, and
-let\'s go ahead and do this over here rather than console log this out.
+elements in that collection, so I&apos;m going to use a for Loop here, and
+let&apos;s go ahead and do this over here rather than console log this out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 317/318.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5386,18 +5406,18 @@ let\'s go ahead and do this over here rather than console log this out.
   alt="." />
 </p>
 
-I\'m going to use a shorter variable here. MyParagraphs is long, I\'m
-guaranteed to type that wrong at some point, so I\'m just going to call
-it ps, something like that. That\'s fine for paragraphs. I\'m going to
-make a for Loop, and again, remember, if you\'ve been doing the
+I&apos;m going to use a shorter variable here. MyParagraphs is long, I&apos;m
+guaranteed to type that wrong at some point, so I&apos;m just going to call
+it ps, something like that. That&apos;s fine for paragraphs. I&apos;m going to
+make a for Loop, and again, remember, if you&apos;ve been doing the
 challenges and really getting used to the syntax, you should be able to
 just write a for Loop. For var i equals 0 or i is less than **ps.length;
-i plus plus** and then we\'ve got our curly braces, and in here I\'m
-going to take each paragraph, so I\'m going to say **ps
-\[i\].style.color** equals **red.** Now, if I just do this, you\'ll see
-it\'ll work. It\'ll actually go through this entire Loop. The first time
-through the Loop, this thing has three paragraphs and it\'s going to get
-paragraph 0. Let\'s give that a try. Let\'s run that over here. If I
+i plus plus** and then we&apos;ve got our curly braces, and in here I&apos;m
+going to take each paragraph, so I&apos;m going to say **ps
+&lbrack;i&rbrack;.style.color** equals **red.** Now, if I just do this, you&apos;ll see
+it&apos;ll work. It&apos;ll actually go through this entire Loop. The first time
+through the Loop, this thing has three paragraphs and it&apos;s going to get
+paragraph 0. Let&apos;s give that a try. Let&apos;s run that over here. If I
 refresh this, you can see all my paragraphs generate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 319/320.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -5410,46 +5430,47 @@ refresh this, you can see all my paragraphs generate.
   alt="." />
 </p>
 
-I\'m going to come in here and I\'m going to add alert. I\'m going to
-use my backticks here showing where I graph, and then don\'t forget
-since that\'s going to be variable in dollar sign, curly brace, curly
+I&apos;m going to come in here and I&apos;m going to add alert. I&apos;m going to
+use my backticks here showing where I graph, and then don&apos;t forget
+since that&apos;s going to be variable in dollar sign, curly brace, curly
 brace. To show this in Firefox. Firefox does things a little bit
 differently, uses the Mozilla rendering engine, and so it renders things
-a little bit differently. I\'m going to go ahead and open our page here
-in Firefox, and there\'s my DOM HTML, and notice the difference here.
+a little bit differently. I&apos;m going to go ahead and open our page here
+in Firefox, and there&apos;s my DOM HTML, and notice the difference here.
 
 This one actually shows the first paragraph turns red, and then I get
 the alert, and then we see the second paragraph turn red and I get the
 alert, and then I get the third paragraph turning red, so you can
 actually see the Loop actually running, and usually these Loops run so
-fast, you don\'t even see them. But with the alert in there, you can
+fast, you don&apos;t even see them. But with the alert in there, you can
 actually see that that loop is running and turning the paragraphs red
 one at a time in the collection.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04">3.04 DOM: getElementsByClassName(); (5:09)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 321.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 321. dom: getelementsbyclassname(); (3.04) (185) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image321.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.04 DOM: getElementsByClassName();"
+  alt="3.04 DOM: getElementsByClassName();" />
 </p>
 
-The next document method that we\'re going to look at is
+The next document method that we&apos;re going to look at is
 **getElementsByClassName.**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 322.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 322. example, getelementsbyclassname(); (186) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image322.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, getElementsByClassName();"
+  alt="Example, getElementsByClassName();" />
 </p>
 
 This method will do exactly what you think it will do. It will allow us
 to go into our document, and get elements that have a particular class
-name, and put them into an **HTMLCollection**. So that\'s very useful as
+name, and put them into an **HTMLCollection**. So that&apos;s very useful as
 well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 323/324.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -5462,26 +5483,26 @@ well.
   alt="." />
 </p>
 
-Let\'s give it a try real quick. Here, you can see I\'ve added class
+Let&apos;s give it a try real quick. Here, you can see I&apos;ve added class
 equals special on my image over there it was blue, but whatever class
-you want to put is fine. It doesn\'t really matter as long as you set up
+you want to put is fine. It doesn&apos;t really matter as long as you set up
 a variable per myClass equals **document.getElementsByClassName**, this
-one here That will take all of these elements. In this case, it\'s just
+one here That will take all of these elements. In this case, it&apos;s just
 two and stick them into a collection. Then the same as before, we are
 going to need to use our loop to go through and change these items. For
 var i equals 0, while i is less than myClass.length.
 
-First-time to the loop, that\'s going to be zero. Second time to the
-loop, it\'s going to be a one, and then it\'ll finish.style.color equals
-red and that should work just fine. Let\'s go test it out. It turned
-those two classes red. Now, one more point of interest while we\'re
+First-time to the loop, that&apos;s going to be zero. Second time to the
+loop, it&apos;s going to be a one, and then it&apos;ll finish.style.color equals
+red and that should work just fine. Let&apos;s go test it out. It turned
+those two classes red. Now, one more point of interest while we&apos;re
 here. Even if I just had one element on the page to add this class, I
 could give it an ID. But if I am going to use
-**getElementsByClassName,** even if there\'s only one, it still is going
+**getElementsByClassName,** even if there&apos;s only one, it still is going
 to return a collection of elements and that collection is only going to
 have one element in it and I still need to use a loop or some other way
-of getting to the element inside that collection, even though there\'s
-only one. You\'ll see the loop will still work. It\'ll just run only one
+of getting to the element inside that collection, even though there&apos;s
+only one. You&apos;ll see the loop will still work. It&apos;ll just run only one
 time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 325/326.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -5494,9 +5515,9 @@ time.
   alt="." />
 </p>
 
-A little bit easier way of doing this, I don\'t really need a loop here
-because I know that there\'s only one element in this collection, so I
-know it\'s going to be element zero.
+A little bit easier way of doing this, I don&apos;t really need a loop here
+because I know that there&apos;s only one element in this collection, so I
+know it&apos;s going to be element zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 327/328.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5508,63 +5529,65 @@ know it\'s going to be element zero.
   alt="." />
 </p>
 
-So I don\'t need a loop, I can just make this zero and get rid of the
+So I don&apos;t need a loop, I can just make this zero and get rid of the
 loop, like so. Clean that up a little bit. Now, myClass is getting
-elements by class name special and myClass zero, since I know there\'s
-only one, it\'s going to be myClass zero. It\'s going to be that one in
-the collection. I can access it through because it\'s treated like an
-array there. It\'s not actually an array, it\'s a collection of HTML
+elements by class name special and myClass zero, since I know there&apos;s
+only one, it&apos;s going to be myClass zero. It&apos;s going to be that one in
+the collection. I can access it through because it&apos;s treated like an
+array there. It&apos;s not actually an array, it&apos;s a collection of HTML
 elements, but I can treat it like an array to go and get element zero
-out of there and you\'ll see that will work just as well.
+out of there and you&apos;ll see that will work just as well.
 
-But the important thing here to understand is that if you\'re using
+But the important thing here to understand is that if you&apos;re using
 **getElementsByClassName** or **getElementsByTagName** or anything else
 that gives you a collection of elements, you have to go in and treat it
-as if it\'s a collection because that\'s what it is, and not just as an
-individual element. That\'s easy to forget, especially if you have only
-one. You\'re like, \"Why can\'t I just change that one? Why can\'t I
-just use my class style color red?\" Because there\'s only one element
+as if it&apos;s a collection because that&apos;s what it is, and not just as an
+individual element. That&apos;s easy to forget, especially if you have only
+one. You&apos;re like, &quot;Why can&apos;t I just change that one? Why can&apos;t I
+just use my class style color red?&quot; Because there&apos;s only one element
 with that class in there. But JavaScript is getting a collection of
 elements even if the collection only has one element or even if it has
-zero elements in it, it\'ll still be a collection of elements. So
-that\'s an important thing to understand about
+zero elements in it, it&apos;ll still be a collection of elements. So
+that&apos;s an important thing to understand about
 **getElementsByClassName** and **getElementsByTagName**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 DOM: querySelector(); (4:58)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 329.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 329. dom: queryselector(); (3.05) (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image329.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.05 DOM: querySelector();"
+  alt="3.05 DOM: querySelector();" />
 </p>
 
-The next document method that we\'re going to look at is
+The next document method that we&apos;re going to look at is
 **querySelector**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. example, dom: queryselector(); (189) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image330.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, DOM: querySelectorAll();"
+  alt="Example, DOM: querySelectorAll();" />
 </p>
 
 Now, the history here is a little bit interesting. Because in 2009 as we
 said before, ES5 became the de facto standard for scripting for the web.
 But there was the rise of a have a library called **jQuery** that became
 popular and it remains popular to this day. Less now than it was, but
-it\'s still a popular library that made it getting elements in the DOM
+it&apos;s still a popular library that made it getting elements in the DOM
 and doing things with them easier. An API that allows us to use
-**querySelector** and **querySelectorAll** which we\'ll also look at to
-get elements from the DOM. And it\'s a bit more convenient but it works
+**querySelector** and **querySelectorAll** which we&apos;ll also look at to
+get elements from the DOM. And it&apos;s a bit more convenient but it works
 differently than the older get element by ID, get element by tag name,
 get element by class name methods.
 
-These are newer methods, and they\'re very useful, but they work a
+These are newer methods, and they&apos;re very useful, but they work a
 little bit differently. And because of the introduction of these
 methods, **jQuery** is not nearly as necessary as it used to be. And
-what we\'ll still learn **jQuery**, we\'ll be learning that in the
+what we&apos;ll still learn **jQuery**, we&apos;ll be learning that in the
 second course in specialization. But now we can actually get elements
 into our **DOM** a little bit easier than we could just with the older
 methods.
@@ -5579,9 +5602,9 @@ methods.
   alt="." />
 </p>
 
-Okay, so let\'s take a look at **querySelector** and the way that works.
+Okay, so let&apos;s take a look at **querySelector** and the way that works.
 Over here I have a document, and I have a **div** with an **id** on it,
-and then inside there I\'ve got a paragraph for the class. Well, I could
+and then inside there I&apos;ve got a paragraph for the class. Well, I could
 do something like this. var **myText = document.querySelector**. And
 then what I would pass in is actually instead of just some class, I
 would put either dots or I could put **.someclass.**
@@ -5593,32 +5616,33 @@ would put either dots or I could put **.someclass.**
   alt="." />
 </p>
 
-What is different here is before we didn\'t use the CSS syntax. Now we
+What is different here is before we didn&apos;t use the CSS syntax. Now we
 have to use the CSS syntax with **querySelector**. Or I could even be
 more specific and I could say go find **#special.someclass**. So get to
-**someclass** inside the **id=\"special\".** And what\'s nice about this
+**someclass** inside the **id=&quot;special&quot;.** And what&apos;s nice about this
 is that query selector will always return the first element that it
 finds that matches what you pass in here. So even if I had another
 paragraph with some class on it, this will always only return one thing
-to my text. **myText.style.color** = \"red\". And if I go over and test
+to my text. **myText.style.color** = &quot;red&quot;. And if I go over and test
 this document, and again I recommend, that you give this a try yourself.
-You can see that it\'s settng that paragraph red.
+You can see that it&apos;s settng that paragraph red.
 
 Now if I were to go in here and add my class, "**someclass**" to another
-element, you\'ll see it still only affect the first paragraph. When you
-pass stuff in, you\'re passing in the CSS syntax **#special** instead of
-just special. Or **.someclass,** instead of just **someclass**, that\'s
-important with **querySelector**. Let\'s take a look at the
+element, you&apos;ll see it still only affect the first paragraph. When you
+pass stuff in, you&apos;re passing in the CSS syntax **#special** instead of
+just special. Or **.someclass,** instead of just **someclass**, that&apos;s
+important with **querySelector**. Let&apos;s take a look at the
 **querySelectorAll** method in the next lesson.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-06">3.06 DOM: QuerySelectorAll(); (6:10)</h2>
+<h2 id="ch3-06">3.06 DOM: querySelectorAll(); (6:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 334.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 334. dom: queryselectorall(); (3.06) (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image334.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.06 DOM: querySelectorAll();"
+  alt="3.06 DOM: querySelectorAll();" />
 </p>
 
 The **querySelectorAll** method does what you would think it would do,
@@ -5626,14 +5650,15 @@ is that it allows you to grab a group of elements again, but this time
 using the newer, more updated **DOM API querySelectorAll.**
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 335.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 335. example, queryselectorall(); (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image335.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, querySelectorAll();"
+  alt="Example, querySelectorAll();" />
 </p>
 
-Let\'s give that a try really quickly here.
+Let&apos;s give that a try really quickly here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 336/337.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5645,27 +5670,27 @@ Let\'s give that a try really quickly here.
   alt="." />
 </p>
 
-Over here, I\'ve got my **div** id special and I\'ve got some paragraphs
+Over here, I&apos;ve got my **div** id special and I&apos;ve got some paragraphs
 in here, and I can do something like var myText equals
 **document.querySelectorAll** and with that **querySelectorAll.** I
 could pass in here in quotes, I could pass in pounds special p, and
-that\'s going to get me all of the paragraphs that are inside this
+that&apos;s going to get me all of the paragraphs that are inside this
 **div** special.
 
 So I can go into my document and find a particular group of elements
-somewhere in my document. But again, with this, we\'re going to need a
+somewhere in my document. But again, with this, we&apos;re going to need a
 for loop. For var i equals 0, where i is less than **myText. Length;
 i++.** Then I can do myText square bracket **i.style.color** equals red.
 Here we go. Save that and then we should be able to test it over here
 and see, when I refresh the page, it is turning all those paragraphs
 red. Just one more time to just drive this home, noticing here when I go
-look in that **div**, it\'s added style color red to each one of these
-paragraphs. That\'s what it\'s doing, it\'s going into special and
+look in that **div**, it&apos;s added style color red to each one of these
+paragraphs. That&apos;s what it&apos;s doing, it&apos;s going into special and
 finding the paragraphs and affecting the DOM after the page, after the
-HTML initially loaded. It\'s really important to understand that.
+HTML initially loaded. It&apos;s really important to understand that.
 
 So **querySelectorAll** will allow us to get groups of elements and then
-we would loop through them to affect them one at a time. So far we\'ve
+we would loop through them to affect them one at a time. So far we&apos;ve
 talked about five document methods. Three of them are older, Document
 **getElementById** we still use that quite a lot. Document
 **getElementsByTagName** and document **getElementsByClassName** you
@@ -5681,24 +5706,24 @@ the document elements that allow us to add elements to the page.
   alt="." />
 </p>
 
-Next, I want to talk about working with properties. We\'ve already seen
-this a little bit. We\'ve seen **element.style.color**. So we\'re going
-in and we\'re getting that element, whatever the element is, we\'ve got
-that element, whether it\'s paragraphs or whether it\'s a **div**;
-whatever it is, we\'re getting that element with our document methods,
-we\'re getting those elements and then we can apply the style property.
+Next, I want to talk about working with properties. We&apos;ve already seen
+this a little bit. We&apos;ve seen **element.style.color**. So we&apos;re going
+in and we&apos;re getting that element, whatever the element is, we&apos;ve got
+that element, whether it&apos;s paragraphs or whether it&apos;s a **div**;
+whatever it is, we&apos;re getting that element with our document methods,
+we&apos;re getting those elements and then we can apply the style property.
 
 We can get the style property and the color sub-property and set it to
 whatever color name we want. There are other properties that we can use.
 There are a number of them. Some of the more popular ones are ones that
-we use more frequently are **innerHTML**. We\'ll be seeing that one
+we use more frequently are **innerHTML**. We&apos;ll be seeing that one
 quite a bit and **className** is really useful so that you can actually
 take an element and apply a class to it. This is useful in modern
 JavaScript because CSS has become so powerful.
 
 Now, we can put animations in CSS, and then when we want to animate
 something, we can use JavaScript to add that class in CSS that has the
-innovation and the innovation will take place on the screen. That\'s a
+innovation and the innovation will take place on the screen. That&apos;s a
 really great way to create interactive for animated elements on a web
 page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5733,12 +5758,12 @@ attribute** and set its value. Or we can remove an attribute or we could
 get an attribute and do things with it. Notice that methods are
 distinguished by the fact that they have parentheses.
 
-So when you\'re using a **method** or a **function**, it has
-parentheses, whereas the **properties** don\'t have parentheses, they
-have an equal sign and then the value. So that\'s how you can tell the
-difference between a **property** and a **method**. Let\'s see what else
+So when you&apos;re using a **method** or a **function**, it has
+parentheses, whereas the **properties** don&apos;t have parentheses, they
+have an equal sign and then the value. So that&apos;s how you can tell the
+difference between a **property** and a **method**. Let&apos;s see what else
 we can do with this. This may be a little bit confusing at the moment,
-but I promise that as we practice this stuff, it\'ll start to make more
+but I promise that as we practice this stuff, it&apos;ll start to make more
 sense. But it does take a little bit of getting used to, all of these
 **methods** in **properties** for working with our document to affect
 our web pages.
@@ -5746,30 +5771,32 @@ our web pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 innerHTML (4:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 342.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 342. innerhtml (3.07) (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image342.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.07 innerHTML"
+  alt="3.07 innerHTML." />
 </p>
 
-Next, we\'ll take a look at one of the element properties that we just
+Next, we&apos;ll take a look at one of the element properties that we just
 talked about in the previous video and see how powerful it is.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 343.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 343. example, innerhtml (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image343.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, innerHTML"
+  alt="Example, innerHTML." />
 </p>
 
-And that\'s **innerHTML**. And if you look at this image here, you can
-see I have a **div** with an id=\"special\", and I can use any of my
+And that&apos;s **innerHTML**. And if you look at this image here, you can
+see I have a **div** with an id=&quot;special&quot;, and I can use any of my
 **document methods** to go in and get that **div**. And then I could use
 **innerHTML** to actually change the contents in that **div**. I can
 replace these contents with something else entirely, completely new,
-completely different. And that\'s something else could have HTML in it.
+completely different. And that&apos;s something else could have HTML in it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 344/345.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5781,27 +5808,27 @@ completely different. And that\'s something else could have HTML in it.
   alt="." />
 </p>
 
-So let\'s see what that looks like. Over here, I have my **div
-id**=\"special\", and I have these three paragraphs in here. But down
+So let&apos;s see what that looks like. Over here, I have my **div
+id**=&quot;special&quot;, and I have these three paragraphs in here. But down
 here I could say, var **myDiv** = **document.getElementById.** With this
-version, we\'re not using the pound here. We\'re using the older
+version, we&apos;re not using the pound here. We&apos;re using the older
 **getElementById**. We can switch that in a minute just to see what that
-looks like. But then I can say, okay, I\'ve got that element,
+looks like. But then I can say, okay, I&apos;ve got that element,
 **myDiv.innerHTML** =. This is an element property, so we use the equal
 sign, and then inside quotes, I can create a completely new piece of
-content to stick in there. That\'s my \</p\> there.
+content to stick in there. That&apos;s my &lt;/p&gt; there.
 
-Okay, great, so now when I run this, you\'ll see over here, It\'s still
-red from before, but that\'s okay. Those paragraphs are going to get
+Okay, great, so now when I run this, you&apos;ll see over here, It&apos;s still
+red from before, but that&apos;s okay. Those paragraphs are going to get
 removed and replaced with the new paragraph. Look at that.
 
 And if I come down here and look **inspect** in my body, and look at
-**div id**=\"special\", there\'s only one paragraph in here in my
-inspector. Whereas if I were to do View Page Source, you\'d see three
+**div id**=&quot;special&quot;, there&apos;s only one paragraph in here in my
+inspector. Whereas if I were to do View Page Source, you&apos;d see three
 paragraphs in there. Because when the page loaded, it had three
 paragraphs, and then the script ran and it removed those three
-paragraphs and put this one in instead. And that\'s what JavaScript is
-doing. Now, here, I\'m using **getElementById(\'special\').**
+paragraphs and put this one in instead. And that&apos;s what JavaScript is
+doing. Now, here, I&apos;m using **getElementById(&apos;special&apos;).**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 346/347.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5816,8 +5843,8 @@ doing. Now, here, I\'m using **getElementById(\'special\').**
 I could also do **querySelector**. But if I use this one, then I would
 pass in **#special**. You see the difference there? This is the newer
 method, and it uses the **CSS syntax** to get to that element. But this
-will work just the same. If I go back and refresh this page, you\'ll see
-it\'ll do exactly the same thing. It\'ll get my new paragraph and put it
+will work just the same. If I go back and refresh this page, you&apos;ll see
+it&apos;ll do exactly the same thing. It&apos;ll get my new paragraph and put it
 in there. So you could use whichever document method you want. Once you
 get that element, then you can use your element properties to affect the
 element here.
@@ -5830,15 +5857,15 @@ element here.
   alt="." />
 </p>
 
-Now, I\'m putting this all inside of this **div** here, but I don\'t
+Now, I&apos;m putting this all inside of this **div** here, but I don&apos;t
 need to use the variable. I could just do
-**document.getElementById(\'special\')** and then put this, Here, it
-just makes for a very long line. So it\'s kind of helpful, and that\'ll
-work. It\'s kind of helpful to have the variable, but you don\'t have to
+**document.getElementById(&apos;special&apos;)** and then put this, Here, it
+just makes for a very long line. So it&apos;s kind of helpful, and that&apos;ll
+work. It&apos;s kind of helpful to have the variable, but you don&apos;t have to
 have it. I can just go,
-**document.querySelector(\'#special\').innerHTML**, and then set my
-property right there. And that\'ll work just as well. There\'s my new
-paragraph. So that\'s using the **innerHTML**. We could use this in lots
+**document.querySelector(&apos;#special&apos;).innerHTML**, and then set my
+property right there. And that&apos;ll work just as well. There&apos;s my new
+paragraph. So that&apos;s using the **innerHTML**. We could use this in lots
 and lots of places to get elements on our page and then replace those
 elements with completely new elements. And you can put more HTML in
 there. We could put an entire document of HTML inside this **div**. Not
@@ -5848,31 +5875,33 @@ stuff, images. All kinds of things can go in there using **innerHTML**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-08">3.08 className (6:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 349.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 349. classname (3.08) (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image349.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.08 className"
+  alt="3.08 className." />
 </p>
 
 The next element property that I want to show you, which is extremely
-useful is the class name element property.
+useful is the className element property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 350.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 350. example, classname (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image350.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, className"
+  alt="Example, className." />
 </p>
 
-So let\'s take a look at how this one works. Here I have a **div** with
-some paragraphs in here, and I\'m using my query selector to get the
+So let&apos;s take a look at how this one works. Here I have a **div** with
+some paragraphs in here, and I&apos;m using my query selector to get the
 first paragraph. Because remember, instead of returning a collection,
-query selector returns the first one that it finds. So it\'s going to go
-in here and look for first paragraph. And then I\'m going to take that
-first paragraph and I\'m going to use the class name, element property
-to set the class to blue. And up here I\'ve added style and I\'ve added
-a class blue here to my document. So let\'s see how this works.
+query selector returns the first one that it finds. So it&apos;s going to go
+in here and look for first paragraph. And then I&apos;m going to take that
+first paragraph and I&apos;m going to use the class name, element property
+to set the class to blue. And up here I&apos;ve added style and I&apos;ve added
+a class blue here to my document. So let&apos;s see how this works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5881,15 +5910,15 @@ a class blue here to my document. So let\'s see how this works.
   alt="." />
 </p>
 
-I\'m going to go over to my page over here and you can see I\'ve added
+I&apos;m going to go over to my page over here and you can see I&apos;ve added
 up here, a rule here to set for anything that has the class blue here.
-So let\'s come down here. I\'m going to call this Var firstPara equals
+So let&apos;s come down here. I&apos;m going to call this var firstPara equals
 **document.querySelector**. And remember, we have to use the CSS syntax.
-In this case, it\'s just a \" p\" because it\'s just a tag selector, but
-I\'m going to go get that first paragraph. Now I\'ve got three
+In this case, it&apos;s just a &quot; p&quot; because it&apos;s just a tag selector, but
+I&apos;m going to go get that first paragraph. Now I&apos;ve got three
 paragraphs, but remember querrySelector just returns the first one. And
-then I\'m going to say, okay, firstPara, Set the class name. And you can
-see here there\'s one called classList. I\'m just showing you a few of
+then I&apos;m going to say, okay, firstPara, Set the class name. And you can
+see here there&apos;s one called classList. I&apos;m just showing you a few of
 the document, select the document properties that are super useful, but
 there are plenty of other ones that you can look up and work with as
 well. Class name equals blue.
@@ -5904,56 +5933,57 @@ well. Class name equals blue.
   alt="." />
 </p>
 
-So now when I run this, come back here, click on My document here. I\'ve
+So now when I run this, come back here, click on My document here. I&apos;ve
 got my three paragraphs, but when I refresh the page, it turns the first
 paragraph blue. And if I come down here and look at this, what is it
-actually done there, but it\'s added class equals blue on to that
+actually done there, but it&apos;s added class equals blue on to that
 paragraph. Sure, I could have set the style color property to blue. But
 adding the class blue is even more powerful, because even though in both
 cases and just setting the color. I could have a lot more declarations
 in this class up here, that would do all kinds of things that could be
 adding an animation. I could be doing all kinds of really cool stuff,
-and we\'ll get to do some of those things in this course. So, hold on to
-your hat, because it\'s coming.
+and we&apos;ll get to do some of those things in this course. So, hold on to
+your hat, because it&apos;s coming.
 
 But first I just want to introduce the basic concepts to begin with. And
 this is a super useful one, using the class name property to set a class
-that already exists on the page. It\'s just really, really powerful.
-Back to our slides here, we\'ve looked at a few of the element
+that already exists on the page. It&apos;s just really, really powerful.
+Back to our slides here, we&apos;ve looked at a few of the element
 properties that we can set, the style property with its sub properties
 for our different CSS features. We can use that one, we can use the
-inner HTML property, that\'s extremely powerful for replacing HTML
+inner HTML property, that&apos;s extremely powerful for replacing HTML
 inside of any element. And then there is the class name property that
 allows us to put a class name on things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354. example, setattribute(); (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image354.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, setAttribute();"
+  alt="Example, setAttribute();" />
 </p>
 
 The next thing I want to look at really quickly is some of the element
-methods. Remember these are properties because they\'ve got the equal
+methods. Remember these are properties because they&apos;ve got the equal
 sign and then a value, but we also have element methods. And the first
-one we\'ll look at is **setAttribute**.
+one we&apos;ll look at is **setAttribute**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (201) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image355.png?raw=true"
   style="width:50%"
   alt="." />
 </p>
 
-So here I have a form and let\'s just do this one really quickly here. I
-have a form and I\'m going to say var myCheckbox equals document.get
+So here I have a form and let&apos;s just do this one really quickly here. I
+have a form and I&apos;m going to say var myCheckbox equals document.get
 element or I can do a **querySelector**. **QuerySelector** input. And
-then I\'ll get my first input fields here. And then I could do okay,
-myCheckbox.setAttribute, and set attribute takes two parameters. I\'m
+then I&apos;ll get my first input fields here. And then I could do okay,
+myCheckbox.setAttribute, and set attribute takes two parameters. I&apos;m
 going to say what is the attribute that I want to set? In this case
-it\'s checked, and I\'m going to set the value which is also checked.
-Checked, checked, and that\'s the way. What that will do is it\'ll come
-in here and it\'s going to set a checked attribute and set it to
+it&apos;s checked, and I&apos;m going to set the value which is also checked.
+Checked, checked, and that&apos;s the way. What that will do is it&apos;ll come
+in here and it&apos;s going to set a checked attribute and set it to
 checked, which will make the check box checked by default.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 356/357.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -5967,7 +5997,7 @@ checked, which will make the check box checked by default.
 </p>
 
 So if we go over and view the page, currently, without having set that
-checkbox, you can see I\'ve got a checkbox here but it\'s not checked.
+checkbox, you can see I&apos;ve got a checkbox here but it&apos;s not checked.
 When I refresh the page, it comes up as checked by default. And if I
 come down here and look at this, You can see checked equals check that
 added that attribute into my HTML here.
@@ -6000,16 +6030,16 @@ the element properties in this lesson and there are lots more.
 </p>
 
 There are many more that you can use to do all kinds of interesting
-things to your pages. But I think it\'s helpful to see just a few to
+things to your pages. But I think it&apos;s helpful to see just a few to
 begin with, to see how those work and to experiment with those in a
 limited way and then add more features and methods and all that stuff as
 you go along.
 
 I do want to show you just a few more in this lesson just because I
-think it\'s helpful to see that there are different ways of doing things
+think it&apos;s helpful to see that there are different ways of doing things
 in JavaScript. This one I want to show you is a way of creating elements
-and text nodes in JavaScript and then adding them to the page. It\'s an
-interesting process. Again, we\'ve used innnerHTML and we can use that
+and text nodes in JavaScript and then adding them to the page. It&apos;s an
+interesting process. Again, we&apos;ve used innnerHTML and we can use that
 to also change content on the page, but this is just a different way of
 doing it.
 
@@ -6021,24 +6051,24 @@ doing it.
   alt="." />
 </p>
 
-Here I\'m going to make a variable var **myTag** and I\'m going to say
-**document.createElement**. What am I going to create? I\'m going to
+Here I&apos;m going to make a variable var **myTag** and I&apos;m going to say
+**document.createElement**. What am I going to create? I&apos;m going to
 create a paragraph. This makes a new paragraph and puts it into
 **myTag**. Create element is a document property that makes a new
-element. Then I\'m going to make a new text node, var **myText** equals
-**document.createTextNode**, here\'s a new paragraph. I\'m going to make
+element. Then I&apos;m going to make a new text node, var **myText** equals
+**document.createTextNode**, here&apos;s a new paragraph. I&apos;m going to make
 the text node. JavaScript creates a text node, we create the paragraph,
-we create the text node and then we\'re going to say
+we create the text node and then we&apos;re going to say
 **myTag.appendChild(myText)**. That takes the paragraph that we just
 created, the text node, this text and sticks it into the paragraph tag
 that we created.
 
 All of this is happening in memory in JavaScript. Then we have to
-actually put it on the page. I\'m going to get my **div** here, var
-**myDiv** equals **document.querySelector div**. That\'s going to go
+actually put it on the page. I&apos;m going to get my **div** here, var
+**myDiv** equals **document.querySelector div**. That&apos;s going to go
 find the first **div** on the page. Then I can say
-**myDiv.appendChild(myTag).** We\'re doing a multi-step process here,
-where we\'re creating a paragraph, we\'re creating some text, putting
+**myDiv.appendChild(myTag).** We&apos;re doing a multi-step process here,
+where we&apos;re creating a paragraph, we&apos;re creating some text, putting
 the text in the paragraph and then going and getting our **div** and
 appending it to the end of the paragraph here.
 
@@ -6050,18 +6080,18 @@ appending it to the end of the paragraph here.
   alt="." />
 </p>
 
-Let\'s see if I did this right. If I come back and do this over here and
+Let&apos;s see if I did this right. If I come back and do this over here and
 refresh, you can see that my first paragraph is here and a new paragraph
-has been appended inside the **div**. It\'s been added to the **div**
+has been appended inside the **div**. It&apos;s been added to the **div**
 here and JavaScript is doing that through this process.
 
 Could I have just used innerHTML and added and changed the contents of
 this **div** so that it had these two paragraphs? Sure, I could have
-done it that way. But sometimes it\'s useful, this seems like a
-convoluted, complicated way, but sometimes it\'s useful to actually
+done it that way. But sometimes it&apos;s useful, this seems like a
+convoluted, complicated way, but sometimes it&apos;s useful to actually
 create the elements using the document method, create element, to create
 content, to stick in those elements, and then to append them to the page
-in particular places. Sometimes it\'s useful, and sometimes a better way
+in particular places. Sometimes it&apos;s useful, and sometimes a better way
 to go than using innerHTML in certain circumstances.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6086,7 +6116,7 @@ an element from another element.
 </p>
 
 Again, we could use innerHTML and just replace all the contents all at
-once, but sometimes removing elements is useful. Let\'s take a look at
+once, but sometimes removing elements is useful. Let&apos;s take a look at
 this example really quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6097,17 +6127,17 @@ this example really quickly.
   alt="." />
 </p>
 
-Here I have a **div** with two paragraphs in it, and I\'m going to go
+Here I have a **div** with two paragraphs in it, and I&apos;m going to go
 ahead and get that **div** and put it into a variable, var **myDiv**,
-and assign a **document.querySelector(\'div\').** So that\'ll go get the
-first **div** on the page, which there\'s only one, so that\'s nice and
+and assign a **document.querySelector(&apos;div&apos;).** So that&apos;ll go get the
+first **div** on the page, which there&apos;s only one, so that&apos;s nice and
 easy. Then I could do **myDiv.removeChild**, that **method**. Which
-child am I going to remove? Well, I\'m going to say
-**myDiv.children\[1**\]. What that\'s going to do is it\'s going to go
+child am I going to remove? Well, I&apos;m going to say
+**myDiv.children&lbrack;1**&rbrack;. What that&apos;s going to do is it&apos;s going to go
 into **myDiv**, look at its children, and find child number 1. Remember,
-this is child number 0 here. That\'s zero, this is one. That will
+this is child number 0 here. That&apos;s zero, this is one. That will
 actually go and remove this second paragraph from this **div**. Put a
-semicolon there, save that, and then let\'s go over to our browser here.
+semicolon there, save that, and then let&apos;s go over to our browser here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 365/366.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6119,9 +6149,9 @@ semicolon there, save that, and then let\'s go over to our browser here.
   alt="." />
 </p>
 
-You could see I\'ve got the two paragraphs there, when I refresh the
-page, that second one is gone. Down here you\'ll see it\'s not in here
-anymore. It\'s been taken out. JavaScript removed it. Removing elements
+You could see I&apos;ve got the two paragraphs there, when I refresh the
+page, that second one is gone. Down here you&apos;ll see it&apos;s not in here
+anymore. It&apos;s been taken out. JavaScript removed it. Removing elements
 using the remove child method is a really useful tool for removing
 elements from the page, if you need to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6132,15 +6162,15 @@ elements from the page, if you need to do that.
   alt="." />
 </p>
 
-Here we\'ve seen a lot of different methods that we can use on our
-webpages to do all kinds of things. We\'ve talked about some of the
+Here we&apos;ve seen a lot of different methods that we can use on our
+webpages to do all kinds of things. We&apos;ve talked about some of the
 document methods, some of the element methods, and some of the element
 properties that we can use to go in and affect content on our page.
 
 Remember, JavaScript sees the page as this tree of **objects**, starting
 with the **window**, and building down from there. We can traverse that
 document and find elements on there, and then affect them using these
-different **methods** and **properties**, and that\'s how we\'re going
+different **methods** and **properties**, and that&apos;s how we&apos;re going
 to create all kinds of interactive elements in our webpages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6175,19 +6205,19 @@ Capturing Events with JavaScript.
   alt="." />
 </p>
 
-Events happen. Users will click on something, they\'ll scroll the page,
-they\'ll submit a form. Events happen on webpages. And when events
+Events happen. Users will click on something, they&apos;ll scroll the page,
+they&apos;ll submit a form. Events happen on webpages. And when events
 happen, JavaScript can capture them and then they can do something with
 those events. When we combine this with manipulating the document, like
 we saw in the previous lesson, this is where a lot of the power of
 JavaScript really happens.
 
-Once we\'ve talked about how to capture events and handle them, you have
+Once we&apos;ve talked about how to capture events and handle them, you have
 all of the basic pieces of the puzzle to make interactive webpages.
 Because we can use our logic float structures, sequence, selection,
 loop, along with our document methods and our element methods and
 properties to change elements on the page when events happen. And
-that\'s how we can get interactive webpages.
+that&apos;s how we can get interactive webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 370.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6196,8 +6226,8 @@ that\'s how we can get interactive webpages.
   alt="." />
 </p>
 
-Let\'s take a look at this very basic example. Here I have a webpage
-with a button on it. And when you click the button, it\'s going to pop
+Let&apos;s take a look at this very basic example. Here I have a webpage
+with a button on it. And when you click the button, it&apos;s going to pop
 up an alert saying that you clicked the button, something that shows
 that you actually clicked the button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6208,8 +6238,8 @@ that you actually clicked the button.
   alt="." />
 </p>
 
-Here I have a webpage, I have a button on the webpage, it says Don\'t
-Press Me! And I\'m going to grab that button using my document element
+Here I have a webpage, I have a button on the webpage, it says Don&apos;t
+Press Me! And I&apos;m going to grab that button using my document element
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 372.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6219,17 +6249,17 @@ methods.
   alt="." />
 </p>
 
-So I\'m going to make a variable var btn, and I\'m going to assign it
-**document.querySelector**, **Button**. And that\'ll get that button.
-There\'s only one button on the page, so it\'s easy to get that one
-button. And it\'s going to assign it to button, to btn there.
+So I&apos;m going to make a variable var btn, and I&apos;m going to assign it
+**document.querySelector**, **Button**. And that&apos;ll get that button.
+There&apos;s only one button on the page, so it&apos;s easy to get that one
+button. And it&apos;s going to assign it to button, to btn there.
 
-And then I\'m going to make a function. Remember, we talked about
-functions. I\'m going to make a function called **ouch**, And all that
-function\'s going to do is do an **alert**, I told you not to press me.
-You can put whatever you want in there, that\'s fine. And then I\'m
-going to say, okay, **btn.onclick** run this function **ouch**. That\'s
-going to run the function using the onclick button. And we\'re using a
+And then I&apos;m going to make a function. Remember, we talked about
+functions. I&apos;m going to make a function called **ouch**, And all that
+function&apos;s going to do is do an **alert**, I told you not to press me.
+You can put whatever you want in there, that&apos;s fine. And then I&apos;m
+going to say, okay, **btn.onclick** run this function **ouch**. That&apos;s
+going to run the function using the onclick button. And we&apos;re using a
 special property that will capture the click event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 373.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6239,15 +6269,15 @@ special property that will capture the click event.
   alt="." />
 </p>
 
-If I come over here and refresh the page, if I click Don\'t Press Me, I
-get an alert that says I told you not to press me. I\'m capturing that
-event of the clicking of the button. And the way I\'m capturing that
+If I come over here and refresh the page, if I click Don&apos;t Press Me, I
+get an alert that says I told you not to press me. I&apos;m capturing that
+event of the clicking of the button. And the way I&apos;m capturing that
 event is with the onclick property. One thing to notice is that I define
 this function, and when I assign the function to that property, notice I
-didn\'t put the parentheses at the end here; **btn.onclick = ouch;** If
+didn&apos;t put the parentheses at the end here; **btn.onclick = ouch;** If
 I did, **btn.onclick = ouch();** then that function would run right
-away, it would run immediately. It\'s not going to wait for me to click.
-Instead, it\'s going to run right away.
+away, it would run immediately. It&apos;s not going to wait for me to click.
+Instead, it&apos;s going to run right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 374.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6256,13 +6286,13 @@ Instead, it\'s going to run right away.
   alt="." />
 </p>
 
-Now, you don\'t have to define a function here. We can actually just use
+Now, you don&apos;t have to define a function here. We can actually just use
 an anonymous function here. I could say function, parentheses, curly
 braces, and just stick the alert in here, And get rid of this
-altogether. And frequently, when you\'re using something like this,
-you\'re only going to run this on this particular button in this
-circumstance. There\'s no good reason to create a named function if
-you\'re only going to run this in this one case here. I can use the
+altogether. And frequently, when you&apos;re using something like this,
+you&apos;re only going to run this on this particular button in this
+circumstance. There&apos;s no good reason to create a named function if
+you&apos;re only going to run this in this one case here. I can use the
 anonymous function to do that.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6276,7 +6306,7 @@ anonymous function to do that.
 </p>
 
 The unclick event property is useful, but a more frequent method that
-you\'ll see of capturing event is using the addEventListener method.
+you&apos;ll see of capturing event is using the addEventListener method.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6287,12 +6317,12 @@ you\'ll see of capturing event is using the addEventListener method.
 
 This is a great way of capturing events because you can capture all
 kinds of events with **addEventListener** method. You can even tell it
-what type of event you want it to capture. And what\'s really great
+what type of event you want it to capture. And what&apos;s really great
 about it is you can actually put multiple event listeners on one element
 whereas with the event property, you can only put one. You can only be
-listening for one thing at a time. Here, I\'m going to go back to our
+listening for one thing at a time. Here, I&apos;m going to go back to our
 version with the function **ouch**. In the alert in there, and then
-we\'ll use the **addEventListener** instead.
+we&apos;ll use the **addEventListener** instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 377/378.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6304,14 +6334,14 @@ we\'ll use the **addEventListener** instead.
   alt="." />
 </p>
 
-Let\'s give that a try really quickly over here. Instead of using the
-onclick event for button btn property, I\'m going to use the
+Let&apos;s give that a try really quickly over here. Instead of using the
+onclick event for button btn property, I&apos;m going to use the
 **addEventListener**, method. And notice the difference between the two.
-The **onclick** property is a property because it\'s **onclick** and
-then an equal sign in what you\'re assigning to it. With
-**addEventListener**, it\'s a method because it\'s got parentheses,
-we\'re going to pass in a click. That\'s the event we\'re really
-listening for. And then we\'re going to pass in the function that we\'re
+The **onclick** property is a property because it&apos;s **onclick** and
+then an equal sign in what you&apos;re assigning to it. With
+**addEventListener**, it&apos;s a method because it&apos;s got parentheses,
+we&apos;re going to pass in a click. That&apos;s the event we&apos;re really
+listening for. And then we&apos;re going to pass in the function that we&apos;re
 going to run. When that event happens. And this is a very much more
 modern way of doing things is using the **addEventListener** method
 here.
@@ -6323,7 +6353,7 @@ here.
   alt="." />
 </p>
 
-Let\'s see if that works. And sure enough, it works just the same as
+Let&apos;s see if that works. And sure enough, it works just the same as
 before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 380.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6334,7 +6364,7 @@ before.
 </p>
 
 The most common syntax is to use the **addEventListener** with an
-anonymous function. It combines the two that we looked at before. Let\'s
+anonymous function. It combines the two that we looked at before. Let&apos;s
 take a look at that instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 381.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6344,18 +6374,18 @@ take a look at that instead.
   alt="." />
 </p>
 
-Down here, instead of running the function here, **ouch**. We\'re going
+Down here, instead of running the function here, **ouch**. We&apos;re going
 to put in an anonymous function, with its parentheses and curly braces.
 And this function is going to run, when the click happens. And in here
-inside the curly braces is what it\'s going to do. We\'re going to put
-in the alert. You can see that we\'re running, this function starts here
+inside the curly braces is what it&apos;s going to do. We&apos;re going to put
+in the alert. You can see that we&apos;re running, this function starts here
 and ends over there.
 
-We\'re going to run that as an anonymous function. Again, we use an
-anonymous function because unless you\'re going to be running this alert
+We&apos;re going to run that as an anonymous function. Again, we use an
+anonymous function because unless you&apos;re going to be running this alert
 on lots of buttons, in which case then it does make sense to pull it out
-and turn it into a separate function. But unless you\'re going to do
-that, you\'re probably only going to use it within the context of this
+and turn it into a separate function. But unless you&apos;re going to do
+that, you&apos;re probably only going to use it within the context of this
 particular button. And in that case, an anonymous function is more
 appropriate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6366,8 +6396,8 @@ appropriate.
   alt="." />
 </p>
 
-I\'m going to come back and let\'s just test it one more time refresh
-the page. Don\'t press me and I get my alert.
+I&apos;m going to come back and let&apos;s just test it one more time refresh
+the page. Don&apos;t press me and I get my alert.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6379,15 +6409,15 @@ the page. Don\'t press me and I get my alert.
 Now, this syntax this line is getting kind of long here. Usually you
 would break it after the curly brace, and then this curly brace can come
 down here. Notice when I type this. One last thing I want to show you
-before we go, I\'m going to do it again. Notice when I type it, I type
+before we go, I&apos;m going to do it again. Notice when I type it, I type
 it from the outside in. I typed my function with the parentheses in the
 curly braces, and then I come in here and I add my alert, or whatever I
 want to have happen inside this function. Because with doing this,
-you\'re going to end up with a bunch of extra, punctuation and it\'s
+you&apos;re going to end up with a bunch of extra, punctuation and it&apos;s
 really easy to get confused. And if you lose a curly brace or
-parentheses, or semi colon or something else, it\'s really hard to
+parentheses, or semi colon or something else, it&apos;s really hard to
 those. Those problems are some of the harder ones to track down and
-you\'ll have fewer problems you\'ll be less frustrated.
+you&apos;ll have fewer problems you&apos;ll be less frustrated.
 
 If you do it this way, where you always type from the outside in so when
 I add a function, I type its parentheses and curly braces, and then go
@@ -6414,8 +6444,8 @@ The next thing to look at is the event object.
 </p>
 
 The event object can be passed into the function that runs when an event
-listener happens, and it\'s a very useful object to have access to.
-Let\'s take a look and see what it does.
+listener happens, and it&apos;s a very useful object to have access to.
+Let&apos;s take a look and see what it does.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6424,7 +6454,7 @@ Let\'s take a look and see what it does.
   alt="." />
 </p>
 
-Over here, I\'m in my event listener here, and I have this function
+Over here, I&apos;m in my event listener here, and I have this function
 here, and I could still do my alert here. I told you not to press me or
 wherever I want to put in there. But we can pass in the event object.
 Sometimes it comes in looking like this. This is just a variable that
@@ -6440,9 +6470,9 @@ like that.
   alt="." />
 </p>
 
-Let\'s see what this does. If I come over and run this, refresh my page,
-don\'t press me. It does that and sets the background of the button to
-red, which is very interesting there. What\'s going on here is we can
+Let&apos;s see what this does. If I come over and run this, refresh my page,
+don&apos;t press me. It does that and sets the background of the button to
+red, which is very interesting there. What&apos;s going on here is we can
 use the event object and the event target to actually know which element
 was triggering this event, and then we can do something with that
 **event.target**. This is often very useful.
@@ -6465,10 +6495,10 @@ want, it represents.
 </p>
 
 One of the ways the event object is used most frequently is to prevent
-default behavior. This is especially true when we\'re working with forms
+default behavior. This is especially true when we&apos;re working with forms
 and with the submission of forms, we want to prevent the default
 submission of the form so that we can do something with that form data
-before it\'s submitted, and so we\'ll use that frequently.
+before it&apos;s submitted, and so we&apos;ll use that frequently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 390.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6478,15 +6508,15 @@ before it\'s submitted, and so we\'ll use that frequently.
   alt="." />
 </p>
 
-Let\'s just take a look at a simple example of this here. If I go over
+Let&apos;s just take a look at a simple example of this here. If I go over
 to my code editor over here, I have just a link to Google here. Just a
 normal anchor tag with an HREF going to Google. Down here, I have
 variable link document **querySelector** a is going to go into my
 document, find the first anchor tag, it would find, which is the only
-one on the page, and then I\'ve got attached to that
-**link.addEventListener** when you click passing the event. We\'ll use
+one on the page, and then I&apos;ve got attached to that
+**link.addEventListener** when you click passing the event. We&apos;ll use
 the event object in combination with **event.preventDefault** to keep
-that default action from happening. In this case, we won\'t go to Google
+that default action from happening. In this case, we won&apos;t go to Google
 so I could do alert. Sorry, no Google for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6498,9 +6528,9 @@ so I could do alert. Sorry, no Google for you.
 </p>
 
 Now, if I test this page and I come over to my events page and refresh
-here, I now have a link to Google. When I click it, I get, \"Sorry, no
-Google for you,\" and the page does not go to Google. But it\'s the
-**event.preventDefault** that\'s keeping it from going into Google.
+here, I now have a link to Google. When I click it, I get, &quot;Sorry, no
+Google for you,&quot; and the page does not go to Google. But it&apos;s the
+**event.preventDefault** that&apos;s keeping it from going into Google.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6510,12 +6540,12 @@ Google for you,\" and the page does not go to Google. But it\'s the
   alt="." />
 </p>
 
-If I were to come back and comment this line out here, you\'ll see what
+If I were to come back and comment this line out here, you&apos;ll see what
 we get over here. If a refresh, I get the sorry, no Google for you, but
-then it\'ll actually go to Google because the **event.preventDefault**
+then it&apos;ll actually go to Google because the **event.preventDefault**
 is needed in order to keep that default event from happening. This is a
 particularly useful function that we can use with the event object is
-prevent default, and we\'ll be using that frequently in a number of our
+prevent default, and we&apos;ll be using that frequently in a number of our
 projects.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6528,7 +6558,7 @@ projects.
   alt="." />
 </p>
 
-There\'s a lot more on events.
+There&apos;s a lot more on events.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 394/395.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6541,11 +6571,11 @@ There\'s a lot more on events.
 </p>
 
 And if you want another take on the basics, you can go to this MDN web
-docs page on introduction to events. I\'ll put the link in with the
+docs page on introduction to events. I&apos;ll put the link in with the
 lesson. So you can click it and look through this page. This page gives
 you a very thorough overview of events in the way they work in
 JavaScript. And some of the more advanced things that they get into like
-bubbling and propagation, all this kind of stuff we\'ll look at later in
+bubbling and propagation, all this kind of stuff we&apos;ll look at later in
 the course. But this will give you a thorough introduction to events in
 JavaScript here as well.
 
@@ -6557,12 +6587,12 @@ JavaScript here as well.
   alt="." />
 </p>
 
-What we\'re going to do next is actually capture some different types of
+What we&apos;re going to do next is actually capture some different types of
 events, and see what we can do with them in JavaScript. The first one
-we\'ll look at is the submission of a form. Let\'s take a look at this
-example, and I recommend that you type this code out, because they\'re
+we&apos;ll look at is the submission of a form. Let&apos;s take a look at this
+example, and I recommend that you type this code out, because they&apos;re
 going to be helpful to come back to. When you do, the event challenges
-coming up, for some of our other projects, it\'ll be helpful for you to
+coming up, for some of our other projects, it&apos;ll be helpful for you to
 have these scripts to reference.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6573,43 +6603,43 @@ have these scripts to reference.
   alt="." />
 </p>
 
-Here I\'ve got a form on my page here, and it\'s set to method get.
-We\'ll see why in a few minutes here. And down here, I\'m going to get
-my form and stick it into a variable bar. My form documents, I\'m going
-to use my document query selector method to get the form. There\'s only
-one on the page so I don\'t have to do anything special there. If I add
+Here I&apos;ve got a form on my page here, and it&apos;s set to method get.
+We&apos;ll see why in a few minutes here. And down here, I&apos;m going to get
+my form and stick it into a variable bar. My form documents, I&apos;m going
+to use my document query selector method to get the form. There&apos;s only
+one on the page so I don&apos;t have to do anything special there. If I add
 multiple forms, I could give it an ID. And then I could get it by the ID
-and that would be fine too. But since I only have one that\'s kind of
-nice and easy, and that\'s great, that gets me my form.
+and that would be fine too. But since I only have one that&apos;s kind of
+nice and easy, and that&apos;s great, that gets me my form.
 
-And then I\'m going to put an event listener on that form.
-**myForm.addEventListener**. And the event that I\'m going to listen for
+And then I&apos;m going to put an event listener on that form.
+**myForm.addEventListener**. And the event that I&apos;m going to listen for
 this time is the submission of the form. Submit tickets. Before we
 looked for click and often we want to capture clicking of things, but in
-this case, we want to capture the submission of the form. I\'m going to
-look for a submit and then I\'m going to run a function when the form is
-submitted. We\'re listening for a submit and then, we\'re going to run a
-function. Now the very first thing I\'m going to do is, I want to stop
+this case, we want to capture the submission of the form. I&apos;m going to
+look for a submit and then I&apos;m going to run a function when the form is
+submitted. We&apos;re listening for a submit and then, we&apos;re going to run a
+function. Now the very first thing I&apos;m going to do is, I want to stop
 the normal submitting of the form. I want to do something other than
-that. I\'m going to pass in my event object here. In this case, I\'m
+that. I&apos;m going to pass in my event object here. In this case, I&apos;m
 just going to use e as a shortcut. And then down here I can do E dot
-prevent default. I\'m going to prevent the default, submission of the
+prevent default. I&apos;m going to prevent the default, submission of the
 form.
 
-Great, so we got that working. Next, I\'m going to get the value that
-somebody types in this field up here, and I\'m just going to alert it
-back to them. It\'s not very exciting, but it gives me kind of an idea
-of something I can do. I\'m going to do var form data. Equals document
-dot query selector. And I\'m going to just do input in this case,
-because this will actually go and find the first input. It\'s going to
+Great, so we got that working. Next, I&apos;m going to get the value that
+somebody types in this field up here, and I&apos;m just going to alert it
+back to them. It&apos;s not very exciting, but it gives me kind of an idea
+of something I can do. I&apos;m going to do var form data. Equals document
+dot query selector. And I&apos;m going to just do input in this case,
+because this will actually go and find the first input. It&apos;s going to
 find this input here. And really what I want is the dot value. Okay, so
 I want to get that property the value property of this input here. Now
-if you\'re not familiar with HTML or not, very familiar with that. I can
+if you&apos;re not familiar with HTML or not, very familiar with that. I can
 add a value here value equals bill and that will come up by default, but
 if. Somebody types a value into the field, then that default value would
-be replaced with whatever they type into the field. So I\'m getting that
-value property since I\'m not adding the property there explicitly,
-it\'ll be Whatever somebody types into the field, okay, so then I can
+be replaced with whatever they type into the field. So I&apos;m getting that
+value property since I&apos;m not adding the property there explicitly,
+it&apos;ll be Whatever somebody types into the field, okay, so then I can
 just alert out alert form data and now if we go try this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 398.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6619,8 +6649,8 @@ just alert out alert form data and now if we go try this.
   alt="." />
 </p>
 
-I need to open my file again. That\'s open. Here it is. And if I type
-something in here, no and submit. You\'ll see it says bill, and the form
+I need to open my file again. That&apos;s open. Here it is. And if I type
+something in here, no and submit. You&apos;ll see it says bill, and the form
 data is not processed but the the prevent default, has kept this from
 happening. So if I comment this out watch what happens here.
 
@@ -6635,7 +6665,7 @@ happening. So if I comment this out watch what happens here.
   alt="." />
 </p>
 
-Refresh this. If I take no again and now if I click submit you\'ll
+Refresh this. If I take no again and now if I click submit you&apos;ll
 notice. Does that but then it actually processes the form. And I can see
 that up here because I use the get variable.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6646,7 +6676,7 @@ that up here because I use the get variable.
   alt="." />
 </p>
 
-I use the get method, it\'s actually putting the value that I typed into
+I use the get method, it&apos;s actually putting the value that I typed into
 that field up in the URL, by default, a form a form element when you
 submit it. The default behavior is that it will go to whatever you set
 the action here.
@@ -6658,9 +6688,9 @@ the action here.
   alt="." />
 </p>
 
-If I had an **action="processor.PHP"**, some other file that\'s going to
+If I had an **action="processor.PHP"**, some other file that&apos;s going to
 process the data, it would go to that page where we tried to, in this
-case, it won\'t be able to because that page doesn\'t exist.
+case, it won&apos;t be able to because that page doesn&apos;t exist.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6669,9 +6699,9 @@ case, it won\'t be able to because that page doesn\'t exist.
   alt="." />
 </p>
 
-If I do, submit, it\'s going to do that. It either tries to go there or
-it just refreshes if I don\'t put an action attribute up here, it will
-just refresh this page. And often I don\'t want to refresh the page. I
+If I do, submit, it&apos;s going to do that. It either tries to go there or
+it just refreshes if I don&apos;t put an action attribute up here, it will
+just refresh this page. And often I don&apos;t want to refresh the page. I
 want to use JavaScript to capture this data and do something with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6681,8 +6711,8 @@ want to use JavaScript to capture this data and do something with it.
   alt="." />
 </p>
 
-That\'s why I\'m doing prevent default down here, and I passing in this
-event, and he again, it\'s a little bit Unclear maybe use evt instead,
+That&apos;s why I&apos;m doing prevent default down here, and I passing in this
+event, and he again, it&apos;s a little bit Unclear maybe use evt instead,
 if you want to keep it short. And that will pass in that event object
 and prevent the default behavior so that we can do what we want to do
 with JavaScript in here.
@@ -6721,8 +6751,8 @@ and mouseout.
   alt="." />
 </p>
 
-Now, let\'s take a look at the script we can actually write to do this
-here. Let\'s do this over here. To begin with, I\'m going to make some
+Now, let&apos;s take a look at the script we can actually write to do this
+here. Let&apos;s do this over here. To begin with, I&apos;m going to make some
 variables for my heading and for the box to get those two elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6732,11 +6762,11 @@ variables for my heading and for the box to get those two elements.
   alt="." />
 </p>
 
-Let\'s start with that. Down here in my script, var heading equals
+Let&apos;s start with that. Down here in my script, var heading equals
 document.querySelector, h_1, and var **div** or my **div** equals
 document.querySelector **div**. That will get those two elements there.
-I also want to change this text to, \"Roll Your Mouse Over The Box.\"
-Let\'s do that.
+I also want to change this text to, &quot;Roll Your Mouse Over The Box.&quot;
+Let&apos;s do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6745,7 +6775,7 @@ Let\'s do that.
   alt="." />
 </p>
 
-Then let\'s just go see with this page is looking like. If I come over
+Then let&apos;s just go see with this page is looking like. If I come over
 here and refresh this, I have a box and I have directions to roll my
 mouse over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6756,17 +6786,17 @@ mouse over the box.
   alt="." />
 </p>
 
-Now, I\'m going to put an event listener on the box that when I roll my
-mouse over the box, it\'s going to change the inner HTML of this **div**
-right here. We\'re going to add this here, box out event listener. When
-we mouse over the box, we\'re going to change the inner HTML for the
-heading, the mouse is over the box, so let\'s do that one,
+Now, I&apos;m going to put an event listener on the box that when I roll my
+mouse over the box, it&apos;s going to change the inner HTML of this **div**
+right here. We&apos;re going to add this here, box out event listener. When
+we mouse over the box, we&apos;re going to change the inner HTML for the
+heading, the mouse is over the box, so let&apos;s do that one,
 box.addEventListener. I guess I should call this box to make this match
-my slot, addEventListener. We\'re looking for a mouseover event. Then
-when that happens, we\'re going to run a function like so. We\'ll put
-the cursor in here and then we\'re going to say, okay. When we roll over
-that box, we\'re going to go get the heading and change its inner HTML.
-Remember that\'s a property so we use the equal sign and we\'re going to
+my slot, addEventListener. We&apos;re looking for a mouseover event. Then
+when that happens, we&apos;re going to run a function like so. We&apos;ll put
+the cursor in here and then we&apos;re going to say, okay. When we roll over
+that box, we&apos;re going to go get the heading and change its inner HTML.
+Remember that&apos;s a property so we use the equal sign and we&apos;re going to
 change it to something like the mouse is over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6776,9 +6806,9 @@ change it to something like the mouse is over the box.
   alt="." />
 </p>
 
-Let\'s see if that works. Let\'s test that. We come back to my page over
+Let&apos;s see if that works. Let&apos;s test that. We come back to my page over
 here, refresh, when I roll over the box, the mouse is over the box.
-Great, so that works, but now it\'s stuck there. It changed that
+Great, so that works, but now it&apos;s stuck there. It changed that
 content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6788,14 +6818,14 @@ content.
   alt="." />
 </p>
 
-Now I want to do something where when I mouse out of the box, I\'m going
-to change the heading to, the mouse has left the box. It\'s another two
+Now I want to do something where when I mouse out of the box, I&apos;m going
+to change the heading to, the mouse has left the box. It&apos;s another two
 event listeners to box; Both mouseover and mouseout. This is part of the
 power of using the add event listener method is that we can be listening
-for multiple events on one object, which is really handy, so let\'s do
+for multiple events on one object, which is really handy, so let&apos;s do
 that. When I come back here and rather than type this off from scratch,
-I\'m just going to copy, paste, change this to mouseout, the mouse has
-left the box. Cool, that\'s great.
+I&apos;m just going to copy, paste, change this to mouseout, the mouse has
+left the box. Cool, that&apos;s great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 413/414.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6807,10 +6837,10 @@ left the box. Cool, that\'s great.
   alt="." />
 </p>
 
-Let\'s go give that a try. Roll your mouse over the box. So the mouse is
+Let&apos;s go give that a try. Roll your mouse over the box. So the mouse is
 over the box. When I leave the box, the mouse has left the box. Mouse is
 over the box, mouse has left the box, so I can go back and forth. But
-it\'d be nice if I could return the page to its default state without
+it&apos;d be nice if I could return the page to its default state without
 having to click the refresh button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6820,12 +6850,12 @@ having to click the refresh button.
   alt="." />
 </p>
 
-I\'m going to add one more event listener for the header. So when I roll
+I&apos;m going to add one more event listener for the header. So when I roll
 over the header, it puts the original texts back in there, like this.
-Roll your mouse over the box and box is there, but really there\'s one
-box. Yeah, so let\'s just fix that right here. I\'m just going to copy
-this and paste it. But I\'m no longer working with box. I\'m going to
-put it on heading, addEventListener mouseover and I\'m going to put the
+Roll your mouse over the box and box is there, but really there&apos;s one
+box. Yeah, so let&apos;s just fix that right here. I&apos;m just going to copy
+this and paste it. But I&apos;m no longer working with box. I&apos;m going to
+put it on heading, addEventListener mouseover and I&apos;m going to put the
 same texts that I have here and here to the heading, to put it back to
 its default state of where it was before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6839,11 +6869,11 @@ its default state of where it was before.
 But now I can roll over them up, box roll off it and the event listeners
 are working. If I roll over the header, it puts it back to its original
 state. This is a really great example of how we can use event listeners
-and mouseover and mouseout to change content on the page. Plus you\'re
-making use of the inner HTML property. That element property that\'s
+and mouseover and mouseout to change content on the page. Plus you&apos;re
+making use of the inner HTML property. That element property that&apos;s
 taking that element and replacing the HTML inside of it with something
-else. Now you\'re starting to see we can actually do some interesting
-things to web-pages when we\'re no longer just putting stuff in the
+else. Now you&apos;re starting to see we can actually do some interesting
+things to web-pages when we&apos;re no longer just putting stuff in the
 console.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-16">3.16 Scroll Events: HTML (7:41)</h2>
@@ -6865,11 +6895,11 @@ The next event type that we can look at capturing our scroll events.
 </p>
 
 Change the HTML on the page that we just had to something like this,
-I\'ve just changed the height to 5000 pixels for this div that\'s on the
-page. So I\'ve got capturing scroll events and just an empty div that\'s
-set to 5000 pixels high and I\'ve set it to 5000 pixels high so we have
-something to scroll. Otherwise there\'s nothing to really scroll and we
-can\'t really capture that event, okay, great.
+I&apos;ve just changed the height to 5000 pixels for this div that&apos;s on the
+page. So I&apos;ve got capturing scroll events and just an empty div that&apos;s
+set to 5000 pixels high and I&apos;ve set it to 5000 pixels high so we have
+something to scroll. Otherwise there&apos;s nothing to really scroll and we
+can&apos;t really capture that event, okay, great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 419.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6878,7 +6908,7 @@ can\'t really capture that event, okay, great.
   alt="." />
 </p>
 
-I\'ve got a script that's going to capture the scroll event and see what
+I&apos;ve got a script that's going to capture the scroll event and see what
 we can do with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6888,21 +6918,21 @@ we can do with it.
   alt="." />
 </p>
 
-Over here on my script, the first thing I\'m going to do is create a
+Over here on my script, the first thing I&apos;m going to do is create a
 variable called **pagetop** and this variable is undefined at this
-moment. I\'ve created a variable **pagetop** and then I\'m going to
+moment. I&apos;ve created a variable **pagetop** and then I&apos;m going to
 create an **EventListener** and the **EventListener** in this case is
 going to go on the window object. I can actually do
 **window.addEventListener**, so I can listen for events for the window,
-and I can listen for scroll. Scroll a bit and then I\'m going to run a
+and I can listen for scroll. Scroll a bit and then I&apos;m going to run a
 function when the scroll event happens.
 
-Okay, so we\'ve got a function that\'s going to run here and what I want
+Okay, so we&apos;ve got a function that&apos;s going to run here and what I want
 to do here is I want to take **pagetop** and update its value it started
 out as no value at all. But update the value of **pagetop** to be equal
-to **window.pageYOffset**. We\'re going to set it to that and then I\'m
+to **window.pageYOffset**. We&apos;re going to set it to that and then I&apos;m
 going to console log out **pagetop**. For now, just so we can kind of
-see what\'s going on as we\'re scrolling the page.
+see what&apos;s going on as we&apos;re scrolling the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6911,10 +6941,10 @@ see what\'s going on as we\'re scrolling the page.
   alt="." />
 </p>
 
-I\'m going to go over to My browser over here and here\'s my page, I\'m
-going to refresh that and here\'s my div that\'s 5000 pixels tall. I
+I&apos;m going to go over to My browser over here and here&apos;s my page, I&apos;m
+going to refresh that and here&apos;s my div that&apos;s 5000 pixels tall. I
 have my inspector open in the console selected over here so I can
-actually see, as I scroll my page it\'s capturing that counter.
+actually see, as I scroll my page it&apos;s capturing that counter.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 422.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6924,13 +6954,13 @@ actually see, as I scroll my page it\'s capturing that counter.
 </p>
 
 Now, one thing to note here is that this **EventListener** is firing
-very, very often a couple things to note, it\'s firing very, very often,
-it\'s firing every time I scroll just a little bit. This event listener
-is going 123 boom, every single time I scroll just a little bit, it\'s
+very, very often a couple things to note, it&apos;s firing very, very often,
+it&apos;s firing every time I scroll just a little bit. This event listener
+is going 123 boom, every single time I scroll just a little bit, it&apos;s
 firing that **EventListener**. So that makes the scroll
 **EventListener** very expensive in terms of processing and the kinds of
 things that JavaScript is doing. So you need to be very careful with the
-window add event listener scroll event because it\'s going to fire
+window add event listener scroll event because it&apos;s going to fire
 frequently.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6942,7 +6972,7 @@ frequently.
 
 That brings me back to this, I could have just put var page top here.
 Instead of defining it here, but every time I scroll just a tiny little
-bit, it\'s going to ask JavaScript to recreate the page top variable
+bit, it&apos;s going to ask JavaScript to recreate the page top variable
 from scratch.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 424.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -6952,29 +6982,29 @@ from scratch.
   alt="." />
 </p>
 
-And then assign a value to it whereas if I do it up here, it\'s a little
-bit less expensive, because now I\'m just updating the value of pagetop.
+And then assign a value to it whereas if I do it up here, it&apos;s a little
+bit less expensive, because now I&apos;m just updating the value of pagetop.
 I create the variable once and then update it as I scroll down the page,
-it\'s not a big difference, you\'re not going to notice a huge
-difference in this example. But it\'s sort of important to mention
+it&apos;s not a big difference, you&apos;re not going to notice a huge
+difference in this example. But it&apos;s sort of important to mention
 because when we talk about creating events that are about scrolling the
-page, we need to be careful about what we\'re asking JavaScript to do.
+page, we need to be careful about what we&apos;re asking JavaScript to do.
 Because you can get your page can get bogged down really quickly keeping
 track of all the scroll events that are happening. And there are some
 techniques you can use to, to sort of mitigate the effects of that and
-we\'ll look at some of those later in this course.
+we&apos;ll look at some of those later in this course.
 
 Okay, but for right now all I want you to be really aware of is that we
-can capture the scrolling the window. In this way that\'s very effective
-here and scroll back up to the top and refresh Scroll down, you\'ll see
-it\'s capturing this numbers, so this is an effective way of doing it.
+can capture the scrolling the window. In this way that&apos;s very effective
+here and scroll back up to the top and refresh Scroll down, you&apos;ll see
+it&apos;s capturing this numbers, so this is an effective way of doing it.
 
-One last thing I want to mention while we\'re here about the scroll
-event is notice it doesn\'t capture every single pixel. If I scroll
-slowly enough, capture a lot of them but you can see I\'ve missed a few
+One last thing I want to mention while we&apos;re here about the scroll
+event is notice it doesn&apos;t capture every single pixel. If I scroll
+slowly enough, capture a lot of them but you can see I&apos;ve missed a few
 of them in there. If I scroll really fast, it will skip lots of them
-more frequently, so that\'s another thing to pay attention to. If
-you\'re looking for a very specific pixel, it\'s harder to get with the
+more frequently, so that&apos;s another thing to pay attention to. If
+you&apos;re looking for a very specific pixel, it&apos;s harder to get with the
 scroll event.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6998,7 +7028,7 @@ the window, and this is useful in responsive design.
 </p>
 
 Down here, I can actually do another window.addEventListener. But in
-this case, the event we\'re going to look for is a resize.
+this case, the event we&apos;re going to look for is a resize.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7007,22 +7037,22 @@ this case, the event we\'re going to look for is a resize.
   alt="." />
 </p>
 
-I\'m looking for resize the window, and then we\'ll run a function And
-then, I\'m just going to add two console log statements in here. I can
-watch for resizing both the width and the height of the window. I\'m
+I&apos;m looking for resize the window, and then we&apos;ll run a function And
+then, I&apos;m just going to add two console log statements in here. I can
+watch for resizing both the width and the height of the window. I&apos;m
 going to do **console.log,** parentheses and use my tickmarks and put in
-here The window, width is, I think it\'s window.innerWidth. Is that
+here The window, width is, I think it&apos;s window.innerWidth. Is that
 right? Let me check my slide over here. **Window.innerWidth**, yes, and
-**window.innerHeight**, **window.innerWidth**, and that\'s a variable so
-I\'m going to put a dollar sign and a curly brace. And at the end, I put
+**window.innerHeight**, **window.innerWidth**, and that&apos;s a variable so
+I&apos;m going to put a dollar sign and a curly brace. And at the end, I put
 a curly brace. We can get the number of pixels for the window with this.
 
 Those are a couple more properties to add to your list of things, list
 of properties that you know about. I can come over here and go to my
-Events page. I\'m going to refresh this. And if I actually pull this off
+Events page. I&apos;m going to refresh this. And if I actually pull this off
 of here and let me see if I can position it just right here, there we
-go. And then I\'m going to resize this window. And as I do that, you can
-see that I\'m getting some comments over here about how wide and how
+go. And then I&apos;m going to resize this window. And as I do that, you can
+see that I&apos;m getting some comments over here about how wide and how
 window height is undefined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -7032,11 +7062,11 @@ window height is undefined.
   alt="." />
 </p>
 
-Right, so now I\'m getting, the width is changing because I\'m changing
+Right, so now I&apos;m getting, the width is changing because I&apos;m changing
 the width here. And then if I come down here and change the height, you
 can see the height is changing. We have a tool that we can use to find
 out how wide & how tall our window is. This is useful in JavaScript. And
-the resize event can be useful too if you\'re doing something with
+the resize event can be useful too if you&apos;re doing something with
 responsive design.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7049,7 +7079,7 @@ responsive design.
   alt="." />
 </p>
 
-The next type of event that we\'re going capture is when you\'ve pressed
+The next type of event that we&apos;re going capture is when you&apos;ve pressed
 a key on your keyboard.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7060,7 +7090,7 @@ a key on your keyboard.
   alt="." />
 </p>
 
-Imagine creating games that you could play where you\'re pressing keys
+Imagine creating games that you could play where you&apos;re pressing keys
 on your keyboard and things happen in the browser or something like
 that. That would be fun.
 
@@ -7072,13 +7102,13 @@ that. That would be fun.
   alt="." />
 </p>
 
-Over here on your HTML page, we can just add a script. This time we\'re
+Over here on your HTML page, we can just add a script. This time we&apos;re
 going to actually attach the EventListener to the document itself.
-Let\'s just do that. It\'s a really simple thing to do. Let\'s come over
-here. I\'ve got a Keydown Event, press a key and I\'m going to actually
-say document.addEventListener. In here, I\'m going to look for a key
+Let&apos;s just do that. It&apos;s a really simple thing to do. Let&apos;s come over
+here. I&apos;ve got a Keydown Event, press a key and I&apos;m going to actually
+say document.addEventListener. In here, I&apos;m going to look for a key
 down event. You could also look for key up or some other types of events
-that have to do with keys as well. Function. Then I\'m just going to
+that have to do with keys as well. Function. Then I&apos;m just going to
 alert, A key was pressed.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7089,7 +7119,7 @@ alert, A key was pressed.
   alt="." />
 </p>
 
-Let\'s go over and give that a try over here. I refresh this page and
+Let&apos;s go over and give that a try over here. I refresh this page and
 press key. I get a key was pressed. I can detect when a key was pressed.
 Now, we can check to see that a key was pressed but it would be nice to
 know which key was pressed.
@@ -7112,10 +7142,10 @@ We can find that out through using the which property on our event.
   alt="." />
 </p>
 
-Let\'s give that a try. I\'m going to pass in here my event object. Then
-in here, instead of using my quotes, I\'m going to use the tick marks
+Let&apos;s give that a try. I&apos;m going to pass in here my event object. Then
+in here, instead of using my quotes, I&apos;m going to use the tick marks
 and say the event.which key was pressed. An event.which is a variable so
-I\'m going to put a dollar sign then a curly brace and then a curly
+I&apos;m going to put a dollar sign then a curly brace and then a curly
 brace.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7126,10 +7156,10 @@ brace.
   alt="." />
 </p>
 
-Let\'s give that a try. Now, when I press the J key, I get the 74 key
-was pressed. I\'m getting a code that goes with each key. I press the L
+Let&apos;s give that a try. Now, when I press the J key, I get the 74 key
+was pressed. I&apos;m getting a code that goes with each key. I press the L
 key I get 76. If I press an A key, I get a 65. I can do this kind of
-thing to find this stuff out. Now, what\'s interesting here is that the
+thing to find this stuff out. Now, what&apos;s interesting here is that the
 which property has been deprecated. I just found out about this
 recently. More recently than I put together this lesson. This is
 something that happens with JavaScript and with web stuff, in
@@ -7150,11 +7180,11 @@ that was not the good way to go.
 </p>
 
 If you come over here to this MDM page, you can actually find out a lot
-about the different events and down here, it\'ll actually say the
+about the different events and down here, it&apos;ll actually say the
 keyboard which key has been deprecated.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 437.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 437.  (246) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image437.png?raw=true"
   style="width:50%"
@@ -7162,32 +7192,32 @@ keyboard which key has been deprecated.
 </p>
 
 Now the reality is, is that browsers will support it for a long, long
-time to come. You could certainly use it, but they\'re saying you
-shouldn\'t use that, you should use event keyboard key instead. Let\'s
-give that a try real quick. Back here on my page, and I\'m going to
-change which to key. Because that\'s what the MDN says I should do and
-they\'re the most authoritative resource on this stuff.
+time to come. You could certainly use it, but they&apos;re saying you
+shouldn&apos;t use that, you should use event keyboard key instead. Let&apos;s
+give that a try real quick. Back here on my page, and I&apos;m going to
+change which to key. Because that&apos;s what the MDN says I should do and
+they&apos;re the most authoritative resource on this stuff.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438. test, keydown event (246) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image438.png?raw=true"
   style="width:40%"
   alt="." />
 </p>
 
-Let\'s go over and check that out over here. If I refresh my page, if I
-press the F key, now I\'m not only getting not a number, but I\'m
-actually getting the F key was pressed.
+Let&apos;s go over and check that out over here. If I refresh my page, if I
+press the F key, now I&apos;m getting &quot;the F key was pressed&quot;.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 439.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 439. summary - capture events (247) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image439.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="Summary - Capture Events"
+  alt="Summary - Capture Events." />
 </p>
 
-We\'ve captured a lot of different types of events now, from the click
+We&apos;ve captured a lot of different types of events now, from the click
 event to the submission of a form, to the mouse over and mouse out and
 scrolling and capturing keys. There are all types of events, these are
 just a few examples. There are plenty more events that you can capture
@@ -7198,13 +7228,13 @@ you busy for quite awhile. Just these few events.
 By capturing these events and combining that with manipulating the page,
 we can do some really interesting things in our webpages now. You really
 have a lot of the basics that you need as a foundation to start building
-interesting, interactive web pages. We\'ll be going on from here and
-we\'ll be talking about a few more basic concepts and techniques. Then
-we\'ll be practicing a lot of this stuff and building some projects so
-you can actually try it out. Plus there\'s lots of challenges along the
+interesting, interactive web pages. We&apos;ll be going on from here and
+we&apos;ll be talking about a few more basic concepts and techniques. Then
+we&apos;ll be practicing a lot of this stuff and building some projects so
+you can actually try it out. Plus there&apos;s lots of challenges along the
 way, challenge exercises and challenges within the projects for building
-stuff. Hopefully, you\'ll find it fun and are willing to come along with
-me on this journey and continue to put what you\'ve learned with
+stuff. Hopefully, you&apos;ll find it fun and are willing to come along with
+me on this journey and continue to put what you&apos;ve learned with
 JavaScript to use in actually making some interesting fun things.
 
 Here are resources related to these lessons:
@@ -7232,7 +7262,7 @@ https://developer.mozilla.org/en-US/docs/Web/Events
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-19">3.19 Scope in JavaScript (5:19)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 440. scope in javascript (3.19) (###) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 440. scope in javascript (3.19) (248) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image440.png?raw=true"
   style="width:40%"
@@ -7243,143 +7273,153 @@ https://developer.mozilla.org/en-US/docs/Web/Events
 The next topic we need to get into is the way scope works in JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 441.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 441. example, global and local scope (248) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image441.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Global and Local Scope"
+  alt="Example, Global and Local Scope." />
 </p>
 
 This is an important thing to understand because in JavaScript, when
 JavaScript was originally written, you have to keep in mind that they
 really thought that it was going to be very short scripts that were used
-on web pages to do some interactive things, and that\'s about it. They
-didn\'t expect JavaScript to become a general all-purpose programming
+on web pages to do some interactive things, and that&apos;s about it. They
+didn&apos;t expect JavaScript to become a general all-purpose programming
 language at that point.
 
 Scope was not really very big of a concern, but JavaScript has become a
 general programming language and scope is now a pretty big concern and
 we need to be careful about it. This is another thing in the language
 that is potentially problematic and you want to be really clear about
-and have some best practices around, so you don\'t make mistakes and get
+and have some best practices around, so you don&apos;t make mistakes and get
 unexpected results and spend a lot of time chasing down bugs in your
-code because that\'s no fun. Let\'s talk about how scope works.
+code because that&apos;s no fun. Let&apos;s talk about how scope works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 442.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 442. define same named variable globally and locally (249) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image442.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define same named variable globally and locally"
+  alt="Define same named variable globally and locally." />
 </p>
 
-If we look at this script over here, and I\'m actually going to switch
+If we look at this script over here, and I&apos;m actually going to switch
 to my code editor over here so I have this written over here, I have a
-variable called aVariable, and it\'s in the global scope. It\'s not
-defined. It\'s defined within the script tag, but it\'s not defined
+variable called aVariable, and it&apos;s in the global scope. It&apos;s not
+defined. It&apos;s defined within the script tag, but it&apos;s not defined
 within any sort of function. Then I have a variable, also called
-aVariable in the local scope. I\'m going to run a test scope, this
-function here, which should print out this variable, and then I\'m going
+aVariable in the local scope. I&apos;m going to run a test scope, this
+function here, which should print out this variable, and then I&apos;m going
 to console log out aVariable which should print out that variable.
-Let\'s see if that actually works.
+Let&apos;s see if that actually works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 443.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 443. inspect local and global scoped variables (250) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image443.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Inspect, local and global scoped variables"
+  alt="Inspect, local and global scoped variables." />
 </p>
 
-I\'m going to open a new tab here and do Control O, and open up scope
-and click \"Open\" and we get that. I\'m going to do inspect, and I\'m
-going to move this thing down to the bottom and click on \"Console\" and
+I&apos;m going to open a new tab here and do Control O, and open up scope
+and click &quot;Open&quot; and we get that. I&apos;m going to do inspect, and I&apos;m
+going to move this thing down to the bottom and click on &quot;Console&quot; and
 you can see this is in the local scope and this is in the global scope.
 
 I have two variables with the same name, with two different values and
-that\'s kind of that. It\'s not really a great thing to have happened
-there. But you can do that thing with JavaScript and it\'s not great.
+that&apos;s kind of that. It&apos;s not really a great thing to have happened
+there. But you can do that thing with JavaScript and it&apos;s not great.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 444.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 444. example, what does local scope mean? (250) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image444.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, what does local scope mean?"
+  alt="Example, what does local scope mean?" />
 </p>
 
-What does local scope mean? Well, let\'s do this for a second.
+What does local scope mean? Well, let&apos;s do this for a second.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 445/446.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 445/446. example, local vs global variable scope (251) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image445.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Example function, local vs global variable scope"
+  alt="Example function, local vs global variable scope." />
 <img src="./images/image446.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Example error with global vs local variable scope"
+  alt="Example error with global vs local variable scope." />
 </p>
 
-Let\'s go ahead and take this out of here and then run that file again.
-Now, this one\'s running because it\'s inside the local scope. But the
+Let&apos;s go ahead and take this out of here and then run that file again.
+Now, this one&apos;s running because it&apos;s inside the local scope. But the
 one that says aVariable is not defined.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 447.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 447. variable in a local scope function (251) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image447.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Variable, aVariable, in a local scope function"
+  alt="Variable, aVariable, in a local scope function." />
 </p>
 
-What happens here is that, if this variable, aVariable doesn\'t exist, I
-can\'t access this one from outside this function because this variable
-is only accessible within the scope of this function. That\'s what local
-scope needs, it\'s that, it\'s local to inside the function and I can\'t
+What happens here is that, if this variable, aVariable doesn&apos;t exist, I
+can&apos;t access this one from outside this function because this variable
+is only accessible within the scope of this function. That&apos;s what local
+scope needs, it&apos;s that, it&apos;s local to inside the function and I can&apos;t
 access it outside the function. That can be very important for making
-sure that we don\'t have problems with the variables.
+sure that we don&apos;t have problems with the variables.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 448.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 448. even worse example (252) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image448.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Make a variable without the 'var' keyword"
+  alt="Make a variable without the 'var' keyword." />
 </p>
 
 This is what happens when things get even worse in JavaScript, and
-we\'ve seen this before, is if I make a variable and I forget to use the
+we&apos;ve seen this before, is if I make a variable and I forget to use the
 var keyword, that variable automatically becomes part of the global
 scope.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 449.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 449. global variable defined (252) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image449.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Global variable defined by no 'var'"
+  alt="Global variable defined by no 'var'." />
 </p>
 
-I\'m going to go ahead and add this in here and see what happens. I\'m
-going to make another variable called, oopsGlobal, but I\'m not going to
-use the var keyword, equals \"This is accidentally global\". Then down
-here, you\'ll notice I can access that variable even though it\'s
-defined, because we didn\'t use the var keyword, it\'s not really
+I&apos;m going to go ahead and add this in here and see what happens. I&apos;m
+going to make another variable called, oopsGlobal, but I&apos;m not going to
+use the var keyword, equals &quot;This is accidentally global&quot;. Then down
+here, you&apos;ll notice I can access that variable even though it&apos;s
+defined, because we didn&apos;t use the var keyword, it&apos;s not really
 defined inside the function. It belongs to the window.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 450.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 450. local and global variable scoping (253) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image450.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Console example, local and global variable scoping"
+  alt="Console example, local and global variable scoping." />
 </p>
 
-You\'ll notice when I run this over here, this one runs. I couldn\'t
+You&apos;ll notice when I run this over here, this one runs. I couldn&apos;t
 access the local scope variable because it was inside the function, but
 because I forgot to use the var keyword here, if I put var in front of
-this, that will no longer be global, and we\'ll get that error happening
+this, that will no longer be global, and we&apos;ll get that error happening
 again. This is a bad thing in JavaScript is that you get to accidentally
 leave out var, just a keyword, and the variable will still be defined,
 but it will be defined at the wrong scope level. That could lead to all
@@ -7406,8 +7446,8 @@ possible.
   alt="." />
 </p>
 
-Here you can see I have a very simple script. That is doing what we\'ve
-done before it\'s going in to our document, getting our paragraphs and
+Here you can see I have a very simple script. That is doing what we&apos;ve
+done before it&apos;s going in to our document, getting our paragraphs and
 then using a loop to change all the color for each paragraph to read in
 that loop one at a time. But my problem is in the global scope. The
 variable i is in the global scope. All of this stuff is in the global
@@ -7421,12 +7461,12 @@ out of the global scope?
   alt="." />
 </p>
 
-One thing we can do is we can use what\'s called an eye FE or an
+One thing we can do is we can use what&apos;s called an eye FE or an
 immediately invoked function expression. Basically we wrap all of that
 stuff Inside of a function that will just run automatically when the
 page loads, so we could take our entire all our scripts and stick it
 inside of one of these sort of self running functions and it will just
-run and do. It\'s thing inside the function, and it\'ll keep the
+run and do. It&apos;s thing inside the function, and it&apos;ll keep the
 variables local to that function.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7440,11 +7480,11 @@ variables local to that function.
   alt="." />
 </p>
 
-Let\'s take a look at how to do this really quickly. Over here, I have
-my script. And you can see that I\'m getting my paragraphs and I\'ve got
-my four loop here and it\'s going through and doing that kind of thing.
+Let&apos;s take a look at how to do this really quickly. Over here, I have
+my script. And you can see that I&apos;m getting my paragraphs and I&apos;ve got
+my four loop here and it&apos;s going through and doing that kind of thing.
 And then if I come back here and actually run this thing, you can see
-that it\'s actually turned Use paragraphs, right. So that\'s all working
+that it&apos;s actually turned Use paragraphs, right. So that&apos;s all working
 and working as expected.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 456.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -7471,9 +7511,9 @@ And now that function will run when the page loads.
   alt="." />
 </p>
 
-If I come over and refresh it You\'ll see it just runs and it works just
-the same as before, but what\'s different now is that these variables
-are now local to this function and they\'re not in the global space.
+If I come over and refresh it You&apos;ll see it just runs and it works just
+the same as before, but what&apos;s different now is that these variables
+are now local to this function and they&apos;re not in the global space.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 458/459.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -7486,14 +7526,14 @@ are now local to this function and they\'re not in the global space.
   alt="." />
 </p>
 
-Down here, if I do console.log(myPs), I\'m going to get an error which
+Down here, if I do console.log(myPs), I&apos;m going to get an error which
 is what I want. I want to make sure that I cannot access the variable my
 ps in the global scope. If I do that and then come back over here and
-run this again, it will run fine. But if I inspect. You\'ll see in the
-console, I\'m getting an error.
+run this again, it will run fine. But if I inspect. You&apos;ll see in the
+console, I&apos;m getting an error.
 
-My PS is not defined because it\'s not in the **global** scope. Again,
-I\'m going to do that one more time because the syntax is just terrible.
+My PS is not defined because it&apos;s not in the **global** scope. Again,
+I&apos;m going to do that one more time because the syntax is just terrible.
 But it really is helpful for making sure everything stays in the
 **local** scope there of this function.
 
@@ -7505,18 +7545,18 @@ But it really is helpful for making sure everything stays in the
   alt="." />
 </p>
 
-I\'m going to get rid of that again. And just do this one more time. We
+I&apos;m going to get rid of that again. And just do this one more time. We
 start with a pair of parentheses and in there we add a function with its
 parentheses in its curly braces. And then to make it run immediately, we
-put another set of parentheses. Like that, I\'m going to just put a
-semicolon at the end. And then this is what\'s going to hold all our
+put another set of parentheses. Like that, I&apos;m going to just put a
+semicolon at the end. And then this is what&apos;s going to hold all our
 code. We put that in between the curly braces, move that down, and then
 all this stuff can just go, Inside here. Like so.
 
-And once you\'ve typed this function expression, a few. The times
-you\'ll get comfortable with it. And then that will work just fine and
+And once you&apos;ve typed this function expression, a few. The times
+you&apos;ll get comfortable with it. And then that will work just fine and
 it keeps everything local to this function expression. There are a few
-more things that I want to say about this while we\'re here.
+more things that I want to say about this while we&apos;re here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 461.  (###) ~~~~~~~~~~~~~~~~~~~-->
@@ -7527,34 +7567,34 @@ more things that I want to say about this while we\'re here.
 </p>
 
 This is also called namespacing because we are making sure that the
-space for the name for this variable is set to that it\'s within this
-function. That\'s actually a namespacing thing. And namespacing has to
+space for the name for this variable is set to that it&apos;s within this
+function. That&apos;s actually a namespacing thing. And namespacing has to
 do with where things are available.
 
 Another thing to point out is that any function in JavaScript is a
 closure. All functions are closures. Anything that you put inside of a
 function is going to keep those variables from creeping out into the
-global scope unless you forget the var keyword and we\'ll get to a fix
-for that in a minute. But that\'s an important thing. And often when we
+global scope unless you forget the var keyword and we&apos;ll get to a fix
+for that in a minute. But that&apos;s an important thing. And often when we
 talk about closures in JavaScript, if you look it up in YouTube closures
 in JavaScript, although technically any function is a closure.
 
-Really what people are talking about usually when they\'re talking about
+Really what people are talking about usually when they&apos;re talking about
 closures is not just keeping the variables local to the function but
-also being able to get data out of those closures as well. And we\'re
-not talking about that part at this point. We\'ll deal with that in a
-more advanced course. Why bring it up??? But here we\'re just looking at
+also being able to get data out of those closures as well. And we&apos;re
+not talking about that part at this point. We&apos;ll deal with that in a
+more advanced course. Why bring it up??? But here we&apos;re just looking at
 how do we keep the variables inside the closure for this particular
-function here, how do we keep it inside there so that it doesn\'t
-pollute the global scope and that\'s the terminology that we use
+function here, how do we keep it inside there so that it doesn&apos;t
+pollute the global scope and that&apos;s the terminology that we use
 polluting the global scope. Why bring it up you ask? Beats me.
 
-And one of the reasons why we don\'t want to pollute the global scope is
+And one of the reasons why we don&apos;t want to pollute the global scope is
 we could be combining scripts from other people and they could have
 variables with the same means. I mean these variables could collide with
 each other and you could get unexpected results, because you think a
-variable is holding one value, right? In fact, it\'s holding another
-because it\'s coming from another script because they didn\'t keep their
+variable is holding one value, right? In fact, it&apos;s holding another
+because it&apos;s coming from another script because they didn&apos;t keep their
 variable values. Local may let them creep into the global scope. This is
 some of the problems that you can run into with more complex scripts.
 
@@ -7571,7 +7611,7 @@ stuff, but any function because it can be immediately invoked.
   alt="Define function doStuff." />
 </p>
 
-If I comment out do stuff here, that\'s not going to do anything. It\'s
+If I comment out do stuff here, that&apos;s not going to do anything. It&apos;s
 just going to define the function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 463/464. function dostuff immediately invoked (259) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -7592,7 +7632,7 @@ function will run doStuff right off the bat without having to actually
 call it.
 
 This is an immediately invoked function as well. If I do that, and then
-come over here and test it. You\'ll see it runs just fine and it does
+come over here and test it. You&apos;ll see it runs just fine and it does
 everything it needs to do.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7606,11 +7646,11 @@ everything it needs to do.
   alt="Immediately Invoked Function Expression (IIFE)." />
 </p>
 
-However, we\'re using the anonymous function here, this anonymous
+However, we&apos;re using the anonymous function here, this anonymous
 function here, just as an anonymous function that will just
 automatically run and I have that page open over here in the MDN for the
 IIFE. The immediately invoked function expression, which we will explain
-more about how this works and what it does. It\'s kind of a useful
+more about how this works and what it does. It&apos;s kind of a useful
 technique that we have at our disposal.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7637,7 +7677,7 @@ sure that variables stay out of the global scope.
 
 The second strategy is to use this use strict directive. This is
 something that came out as part of ES5, which again came out in 2009,
-because it was recognized fairly early on that the issue we\'re
+because it was recognized fairly early on that the issue we&apos;re
 forgetting to put use the var keyword when defining a new variable is
 really very problematic or potentially very problematic. We wanted to
 have that not happen.
@@ -7650,11 +7690,11 @@ have that not happen.
   alt="Define newVar as a global variable." />
 </p>
 
-Let\'s take a look at how this works because this is interesting. Over
-here I have a variable and I didn\'t put var here like that, I\'ve left
+Let&apos;s take a look at how this works because this is interesting. Over
+here I have a variable and I didn&apos;t put var here like that, I&apos;ve left
 off the keyword. This newVar is going to get defined in the global
-scope, and it is in the global scope anyway, we\'re not inside of a
-function, but that\'s okay.
+scope, and it is in the global scope anyway, we&apos;re not inside of a
+function, but that&apos;s okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 470.  (260) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -7664,7 +7704,7 @@ function, but that\'s okay.
 </p>
 
 We can do this and we can console log that out. I can save that and go
-over it and run it over here in my browser and you\'ll see that that
+over it and run it over here in my browser and you&apos;ll see that that
 variable gets sent out to the console log as described there, which is
 fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7688,9 +7728,9 @@ happens if I come over and try to run the script again.
 
 Uncaught reference error, newVar is not defined. Use strict will keep me
 from accidentally forgetting the var keyword. What? I've been writing
-code since 1978 and this is so Basic. If I put that in, it\'ll work just
+code since 1978 and this is so Basic. If I put that in, it&apos;ll work just
 fine. There we go. Now, again, this was something that came out as part
-of ES5 back in 2009. That\'s an interesting and useful (?) tool to keep
+of ES5 back in 2009. That&apos;s an interesting and useful (?) tool to keep
 Basics from doing this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 473. iife - variable scope (261) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7702,11 +7742,11 @@ Basics from doing this.
 
 If we combine these two things together, the IIFE or the closure, if we
 make sure that everything is enclosed inside of a function and they use
-strict directive, if we do those two things together, we\'ll be making
+strict directive, if we do those two things together, we&apos;ll be making
 really big progress towards making sure that our variables are staying
 within the proper scope for functions and all. As you go forward with
 working with scripts, I recommend you use both of these two things. I
-just want to show you one more strategy that\'s going to help us with
+just want to show you one more strategy that&apos;s going to help us with
 scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-22">3.22 Strategy 3: const and let</h2>
