@@ -7695,10 +7695,10 @@ it needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 465/466. namespacing & closures/anonymous functions (iife) (260) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image465.png?raw=true"
+<img src="./images/image465.png"
   style="width:45%"
   alt="Namespacing &amp; Closures; Anonymous Function." />
-<img src="./images/image466.png?raw=true"
+<img src="./images/image466.png"
   style="width:45%"
   alt="Immediately Invoked Function Expression (IIFE)." />
 </p>
