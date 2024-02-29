@@ -7805,7 +7805,7 @@ scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-22">3.22 Strategy 3: const and let</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 474. strategy 3: const and let (262) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 474. strategy 3: const and let (264) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image474.png?raw=true"
   style="width:40%"
@@ -7815,15 +7815,16 @@ scope.
 The third strategy that will help us with keeping track of scope is to use constant and 
 let as keywords for defining variables instead of verb. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 475. example, strategy 3: const & let (263) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 475. example, strategy 3: const & let (264) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image475.png?raw=true"
   style="width:50%"
-  title=""
+  title="Example, Strategy 3: const and let"
   alt="Example, Strategy 3: const and let." />
 </p>
 
-So constant &amp; let were introduced into the language. They were added to the 
+So <span class="consolas">constant</span> &amp; <span class="consolas">let</span> 
+were introduced into the language. They were added to the 
 language as part of the ES6 or ES2015 and they both help to minimize the 
 chances that a variable holds an unexpected value. Const will hold the 
 value but once you've set the value for a variable, you cannot change the 
@@ -7841,17 +7842,28 @@ That adds a third level of scope to JavaScript.
 Previously we had the global scope and we had scope inside functions 
 but we didn't have any block level scope. Now we've got a block level scope. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 476. example, const (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 476. example, const (265) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image476.png?raw=true"
   style="width:50%"
-  title=""
-  alt="." />
+  title="Example, Const"
+  alt="Example, Const." />
 </p>
 
 Let's take a look at a couple of these examples first. Let's look at const. So 
 here I have cheese equals yummy and I can console log that out but if I try to 
 assign a different value to cheese, I'm going to get an error. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 477/478.  (266) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image477.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image478.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
+
 
 Let's say I have a script in my code editor. We can try to run that and see what 
 we get. We assign cheese as a constant variable to “cheese is yummy”.  Then 
@@ -7859,41 +7871,100 @@ console to screen. Finally, attempted re-assigned to “cheese is yucky”.
 Causing an error, can not assign a new value to that variable.  Type error. 
 And that's going to keep me from accidentally assigning a new value to that 
 variable when I don't want it to.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 479. example, let (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image479.png?raw=true"
+  style="width:50%"
+  title="Example, let"
+  alt="Example, let." />
+</p>
 The next thing we can look at is the let keyword and using that instead of art 
 and we'll do this with a for loop. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 480/481.  (267) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image480.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image481.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 Let's go over to our code editor and put this one in. I'm going to just make a 
 quick “for group” here and instead of using var I'm going to use let behind 
 equals zero. I'll see you around like what I equals zero While I is less than 
 10, something like that. That there we go. I plus plus. And then curly braces, 
 console dot log. And if I test this, you’ll see that it will print 10 times.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 482/483.  (267) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image482.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image483.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 But if I come back here, if I try to do console that log, use my tick marks, 
 the value of i is i but make that a variable dollar sign, curly brace, curly 
 brace. That's going to generate an error because I've used the let keyword in 
 this as block level scope, let's see that in action i is not defined.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 484/485.  (268) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image484.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image485.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 Whereas if I were to come back here and change this keyword to var, that doesn't 
 have block level scope. If I say that var of i is 10 because it's gone through 
 the whole loop and it got up to 10. So with var we don't have block level scope 
 but with let we do so with our third strategy here, what we should do is never 
 use var to define variables anymore. Instead we can use const or let and in 
 general use const whenever you can. Use constant by default. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 486. example, hoisting (268) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image486.png?raw=true"
+  style="width:50%"
+  title="Example, hoisting"
+  alt="Example, hoisting." />
+</p>
 One last thing I want to talk about before we're done with talking about scope 
 is hoisting in JavaScript and this has to do with how variables and functions 
 are defined. Generally speaking functions and variables get hoisted in JavaScript, 
 meaning JavaScript looks at the file and it sees that variables have been used 
 so it hoist them up to the top as well as functions as well, get hoisted up to 
 the top. Let's see an example of this really quickly. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 487/488.  (269) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image487.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image488.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 For example, if I use the var keyword to define cheese, but I console log cheese 
 out first, see what happens. Over here in my code editor, I have console log 
 cheese and then I'm defining the variable after I'm trying to run it in the 
 console. Notice I get undefined because the variable has not been defined at 
 the point at which I'm using it, but it knows that exists because of the hoisting. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 489/490.  (269) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image487.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image488.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 Whereas if I change that variable declaration to const watch what happens now, 
 I get an error; Cannot access “cheese” before initialization. And you may be 
 thinking why would I want an error? Well really what we're trying to avoid is 
@@ -7915,7 +7986,6 @@ scripts are more bulletproof and less prone to bugs and mistakes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-23">3.23 Scope in JavaScript Summary</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 image486
 The scope techniques that we just discussed take some getting used to. 
  
@@ -8246,8 +8316,10 @@ Our script is going to start with just a basic variable, again, for our current 
 Going back to our index file here, I'm just going to add script tags at the bottom of our script here, our HTML script, like so. Then I'm going to add var currentImage, and I'm going to set that to a value of 0 initially. Then I'm going to have var. Then I'm just gonna copy this. Again, it doesn't matter if you use single quotes or double quotes. Then the next thing we need are to get some variables. Var Container equals document.getElementByID and the ID that we're getting again, is this one, content. It's always good to copy and paste so that you don't spell that wrong. That's going to get us that element. 
  
 We also need the next and previous links. Var nextBtn equals document.getElementByID. Next, var prevBtn equals document.getElementByID previous. That's going to go into our document. We're going to get our Next button. We're going to get our previous button, and we're going to get our content div that we're going to be putting into these elements here. I have an extra space there that I shouldn't have, make sure you fix that if you have that in there. Document.getElementByID content next and previous. In the next lesson, we'll add the EventListener for when you click on this next link here to go to the next slide. Just like we did before, we'll build out the next one and then when we're done with that, when we get that all working or work on the previous one. We'll go ahead and work on that one first.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 3.31. Slideshow with Cross Fade Effect – Part 3
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
 Here's our event listener for when we click on the the next button. 
  
 For this one we're using the add event listener method instead of the on click property. We'll look at this method and we're going to add the event listener right to that next button variable that we created. When it's clicked, we're going to run a function. This is an anonymous inline function, and we're going to pass in the event object so that we can prevent the default behavior of what happens when you click the link. We don't want the browser to handle clicking the links the way it normally would, we want to prevent that default behavior and prevent default will do that when we pass in this event object here, so it will prevent default. 
@@ -8285,8 +8357,16 @@ Again, up here the container is this thing, this div id=’content’, and it ha
   
 Let's save this and see if I typed in all right, and test it over here. I'm going to look at my content. Here you can see I've got one image there, I add one, so that adds image number 2 on there. Coming in here, you can click next, and it's adding that on there. Now when I click the third one, it should add the third image, but also remove the first one at the top of this list. Now we've added image 3, but image 1 went away, and I can keep going, and it'll do image 4 on top of there, and then image 5, we've got four and five on the screen, four is in the bottom, five is in the top, and image 1 is now on the top. 
 You might be wondering why the one down here at the bottom is on the top. You have to remember the page renders from the top to the bottom, and the fact that these are set  to position absolute means that this one gets added to the page first, and then this one gets added to the page second, and because it gets added to the page second and because of the absolute positioning, that means it ends up on top, it's on top of the first image, so that's working just great.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 3.34. Slideshow with Cross Fade Effect – Part 6
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  style="width:50%"
+  title=""
+  alt="." />
+</p> 
 We have our next button working just fine. 
  
 I can click "Next" and it will go through the slides. Not only that, but it's nice and clean because it removes any extra slides we don't need as it's adding new slides on top. That's really neat and that's working. Now the question is, how do we get the previous button to work? Because currently clicking that does nothing but reset the page. Notice we're getting the hashtag up here. How do we get the previous button to work? 
@@ -8301,20 +8381,38 @@ We're still going to create an image. We're still going to go get the image from
  
 Let's see if this works. Come back and click "Refresh". Next works. I can add images, and over here you can see they're getting added. Image 2, Image 3, I could add one more Image 4. Now when I click "Previous", you can see Image 3 got put on top and Image 4 is down on the bottom. Image 2 is now on top, Image 3 is on the bottom. Image 1, and then Image 5, because we are going to the end of the array. Then back on down through the array like that. That's working perfectly. Just exactly what we want.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 3.35. Slideshow with Cross Fade Effect – Part 7
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
 Your script is working great, and you could just leave it the way it is, it's totally fine. 
  
 But you'll notice that we have a fair amount of duplicate code. 
  
-If we go over and look at our script, we've got this chunk of code in here. That's a several lines of code which is exactly the same as this chunk of code up here. And there's a concept in programming called Don't repeat yourself dry, don't repeat yourself. What we want to do is, instead of repeat this code twice, pull it out and put it into a separate function. We're going to make a function called swapImage. And that function is going to have this chunk of code in it. We can run that function twice, once in the next button event listener function, and one in the previous event listener button function. 
+If we go over and look at our script, we've got this chunk of code in here. That's a 
+several lines of code which is exactly the same as this chunk of code up here. And 
+there's a concept in programming called Don't repeat yourself dry, don't repeat yourself. 
+What we want to do is, instead of repeat this code twice, pull it out and put it into a 
+separate function. We're going to make a function called swapImage. And that function is 
+going to have this chunk of code in it. We can run that function twice, once in the next 
+button event listener function, and one in the previous event listener button function. 
  
-So down here, I'm going to make a new function, function swapImage. And then that function is going to contain all of this stuff in here. 
+So down here, I'm going to make a new function, function swapImage. And then that 
+function is going to contain all of this stuff in here. 
  
-So now we've got a function called swapImage that will run twice. It'll run the same function basically, if you're clicking the Next button or the Previous button, and that cleans up our code because we can see here clearly that the next button is incrementing this variable and then checking with an if statement and then running function. 
+So now we've got a function called swapImage that will run twice. It'll run the same 
+function basically, if you're clicking the Next button or the Previous button, and that 
+cleans up our code because we can see here clearly that the next button is incrementing 
+this variable and then checking with an if statement and then running function. 
  
-Let's test it and make sure we did it right. So over here, I'm going to refresh the page. If I click Next, you can see that the script is working exactly the same as it did before. Nothing else is changed really. 
-We're not adding any new functionality. We're just refactoring our code. You always want to refactor your code and try to make it better and try to reduce the amount of code or make it cleaner or make it easier to read all of these things you want to do. And often when you're working on projects, you'll find ways. You'll look at an old piece of code. You go, wow, I could have made that simpler. And you'll do that. And that's just part of the normal process for any programmer. 
+Let's test it and make sure we did it right. So over here, I'm going to refresh the 
+page. If I click Next, you can see that the script is working exactly the same as it did 
+before. Nothing else is changed really. We're not adding any new functionality. We're just 
+refactoring our code. You always want to refactor your code and try to make it better and 
+try to reduce the amount of code or make it cleaner or make it easier to read all of these 
+things you want to do. And often when you're working on projects, you'll find ways. You'll 
+look at an old piece of code. You go, wow, I could have made that simpler. And you'll do 
+that. And that's just part of the normal process for any programmer. 
  
 Now the very last thing to do here is to put it in a separate link file. I'm going to make a new file on here, click new file here and call it script.js. So make sure it's not inside the slides folder. On the script file, once again, I'm going to add my immediately invoked function, parentheses, curly braces, and then an additional set of parentheses and a semicolon. This function will run immediately when the page runs, and then click between the curly braces and move that down. 
  
@@ -8330,15 +8428,17 @@ And then always check to make sure you didn't mess things up along the way. And 
  
 So there we go. We have finished our script, and we've cleaned it all up. And in this lesson you've learned a lot about some different ways of doing things, and how to add elements to the page, and remove them from the page. All with using our document object model as well as our event handlers. And this is a really great little slideshow that you could use on any webpage. 
 Week Four: Basic JavaScript Application Projects
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 4.00. Learning Objectives
-•	Capture user events.
-•	Change the DOM based on user events.
-•	Employ appropriate logical flow control structures necessary to make the program function properly.
-•	Use array and variables to manage program data.
-•	Apply best practices to manage variable scope.
-•	Identify and fix errors in programs, when they are not running properly.
-4.00. Module 4 Introduction (1:05)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  •	Capture user events.
+  •	Change the DOM based on user events.
+  •	Employ appropriate logical flow control structures necessary to make the program function properly.
+  •	Use array and variables to manage program data.
+  •	Apply best practices to manage variable scope.
+  •	Identify and fix errors in programs, when they are not running properly.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+4.00 Module 4 Introduction (1:05)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--
