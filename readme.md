@@ -19,9 +19,11 @@ output:
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
   style="width:20%"
+  title="JavaScript coffee cup logo version"
   alt="JavaScript coffee cup logo version." />
 <img src="./images/image002.png?raw=true"
   style="width:20%"
+  title="UC Davis logo"
   alt="UC Davis logo." />
 </p>
 <!-- {width="2.0in" height="1.773685476815398in"}![](./images/image002.png){width="2.0995866141732282in" height="1.77in"} -->
@@ -579,7 +581,8 @@ Coursera Honor Code</a>.</p>
 <p align="center" width="100%">
 <img src="./images/image003.png?raw=true"
   style="width:40%"
-  alt="1.00. Welcome to JavaScript Basics." />
+  title="1.00 Welcome to JavaScript Basics"
+  alt="1.00 Welcome to JavaScript Basics." />
 </p>
 
 <p>Hello, and welcome to our course on JavaScript. My name is Bill Mead,
@@ -4862,6 +4865,7 @@ is great.
 <p align="center" width="100%">
 <img src="./images/image286.png?raw=true"
   style="width:50%"
+  title="2.23 Useful Example - Step 5"
   alt="2.23 Useful Example - Step 5." />
 </p>
 In the next step, we're going to make our random number generator, our random integer 
@@ -4871,6 +4875,7 @@ generator a little bit more useful.
 <p align="center" width="100%">
 <img src="./images/image287.png?raw=true"
   style="width:50%"
+  title="Example, random selection from array"
   alt="Example, random selection from array." />
 </p>
 We can generate random numbers, but the only thing we can do with these random numbers 
@@ -4883,9 +4888,11 @@ the final number.
 <p align="center" width="100%">
 <img src="./images/image288.png?raw=true"
   style="width:45%"
+  title="Generate a random int"
   alt="Generate a random int." />
 <img src="./images/image289.png?raw=true"
   style="width:45%"
+  title="Select from array using random int"
   alt="Select from array using random int." />
 </p>
 Here, now we can return the final number and we could actually use this function 
@@ -4904,6 +4911,7 @@ get me either a cheese, a chicken, or grapes, or hamburgers.
 <p align="center" width="100%">
 <img src="./images/image290.png?raw=true"
   style="width:50%"
+  title="Console, hamburgers"
   alt="Console, hamburgers." />
 </p>
 Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I 
@@ -4914,6 +4922,7 @@ actually do something with another program.
 <p align="center" width="100%">
 <img src="./images/image291.png?raw=true"
   style="width:50%"
+  title="randomInt array with four options"
   alt="randomInt array with four options." />
 </p>
 
@@ -4928,6 +4937,7 @@ little bit more interesting than what we've been doing so far.
 <p align="center" width="100%">
 <img src="./images/image292.png?raw=true"
   style="width:50%"
+  title="randomInt without variables"
   alt="randomInt without variables." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5042,6 +5052,7 @@ assign a function to a variable just as if it were data.
 <p align="center" width="100%">
 <img src="./images/image297.png?raw=true"
   style="width:50%"
+  title="Example, Arrow Functions"
   alt="Example, Arrow Functions." />
 </p>
 The next thing to understand about functions in JavaScript, and I'm not going to 
@@ -5098,6 +5109,7 @@ to know a little bit about what the two terms mean and why they're interchangeab
 <p align="center" width="100%">
 <img src="./images/image299.png?raw=true"
   style="width:50%"
+  title="toUpperCase method"
   alt="toUpperCase method." />
 </p>
 
@@ -5153,7 +5165,7 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3">Week Three: Using JavaScript in the Web Browser</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-00">3.00 Learning Objectives</h2>
+<h2 id="ch3-00-obj">3.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Identify the DOM and the relationships between elements on a web page.</li>
@@ -5324,6 +5336,7 @@ document there.
 <p align="center" width="100%">
 <img src="./images/image308.png?raw=true"
   style="width:50%"
+  title="Example, getElementById();"
   alt="Example, getElementById();" />
 </p>
 
@@ -5350,6 +5363,7 @@ unique. Let&apos;s give this a try.
 <p align="center" width="100%">
 <img src="./images/image309.png?raw=true"
   style="width:50%"
+  title="document.getElementById();"
   alt="document.getElementById();" />
 </p>
 
@@ -5365,10 +5379,11 @@ uppercase and I uppercase, but the d is lowercase. You have to get that
 right, otherwise, it won&apos;t work. I&apos;m going to pass in one because
 it&apos;s going to match this ID here, and I can set the style.color to red.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. console, dom examples (178) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. console, dom examples (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image310.png?raw=true"
   style="width:50%"
+  title="console, DOM Examples"
   alt="console, DOM Examples." />
 </p>
 
@@ -5382,6 +5397,7 @@ that after the fact. It&apos;s really important to understand this.
 <p align="center" width="100%">
 <img src="./images/image311.png?raw=true"
   style="width:50%"
+  title="DOM Example"
   alt="DOM Example." />
 </p>
 
@@ -5410,6 +5426,7 @@ document, find that ID, and then effect it on the page.
 <p align="center" width="100%">
 <img src="./images/image312.png?raw=true"
   style="width:40%"
+  title="3.03 DOM; getElementsByTagName();"
   alt="3.03 DOM; getElementsByTagName();" />
 </p>
 
@@ -5743,9 +5760,11 @@ Let&apos;s give that a try really quickly here.
 <p align="center" width="100%">
 <img src="./images/image336.png?raw=true"
   style="width:45%"
+  title="Define a div id, select using document.querySelectorAll()"
   alt="Define a div id, select using document.querySelectorAll()." />
 <img src="./images/image337.png?raw=true"
   style="width:45%"
+  title="Test, console document.querySelectorAll, set p style color to red"
   alt="Test, console document.querySelectorAll, set p style color to red." />
 </p>
 
@@ -5782,6 +5801,7 @@ the document elements that allow us to add elements to the page.
 <p align="center" width="100%">
 <img src="./images/image338.png?raw=true"
   style="width:50%"
+  title="Example, Working with Properties; element.style.property"
   alt="Example, Working with Properties; element.style.property." />
 </p>
 
@@ -5810,6 +5830,7 @@ page.
 <p align="center" width="100%">
 <img src="./images/image339.png?raw=true"
   style="width:50%"
+  title="Working with Element Methods; .setAttribute('attributeName','value');"
   alt="Working with Element Methods; .setAttribute('attributeName','value');" />
 </p>
 
@@ -5823,9 +5844,11 @@ we can pass in an attribute name and then set its value.
 <p align="center" width="100%">
 <img src="./images/image340.png?raw=true"
   style="width:45%"
+  title="Working with Properties"
   alt="Working with Properties." />
 <img src="./images/image341.png?raw=true"
   style="width:45%"
+  title="Working with Element Methods"
   alt="Working with Element Methods." />
 </p>
 
@@ -6268,7 +6291,7 @@ different **methods** and **properties**, and that&apos;s how we&apos;re going
 to create all kinds of interactive elements in our webpages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-10-js-dom">3.10.JavaScript-and-the-DOM.html (shortcut)</h3>
+<h3 id="ch3-10-dom">3.10.JavaScript-and-the-DOM.html (shortcut)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 > <https://www.coursera.org/learn/javascript-basics/supplement/DCOHD/additional-resource>
@@ -6276,7 +6299,7 @@ to create all kinds of interactive elements in our webpages.
 > <https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3id="ch3-10-js-dom-challenge">3.10.JavaScript-DOM-Challenges-17thru21.pdf (download)</h3>
+<h3id="ch3-10-17thru21">3.10.JavaScript-DOM-Challenges-17thru21.pdf (download)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21 {#httpswww.coursera.orglearnjavascript-basicssupplementjjf7ejavascript-dom-challenges-17-21 .unnumbered}
@@ -6527,11 +6550,12 @@ help you with making sure that your syntax is clean.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-13">3.13 The Event Object (5:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384. the event object (3.13) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image384.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.13 The Event Object"
+  alt="3.13 The Event Object." />
 </p>
 
 The next thing to look at is the event object.
@@ -7171,11 +7195,12 @@ responsive design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-18">3.18 Key Down Event (6:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. key down event (3.18) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image429.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.18 Key Down Event"
+  alt="3.18 Key Down Event." />
 </p>
 
 The next type of event that we&apos;re going capture is when you&apos;ve pressed
@@ -7330,7 +7355,7 @@ JavaScript to use in actually making some interesting fun things.
 Here are resources related to these lessons:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 3.18.Additional Resources
+<h3 id="ch3-18-add">3.18 Additional Resources</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 -   **3.18.[Introduction-to-Events-in-JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
@@ -7344,7 +7369,7 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
 https://developer.mozilla.org/en-US/docs/Web/Events
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 3.18.JavaScript-Event-Challenges-22thru30.pdf (download)
+<h3 id="ch3-18-22thru30">3.18.JavaScript-Event-Challenges-22thru30.pdf (download)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 > https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30
@@ -7510,7 +7535,7 @@ kinds of problems.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-20">3.20 Strategy 1: Never Use Global Scope</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 451. strategy 1: never use global scope (3.20) (###) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 451. strategy 1: never use global scope (3.20) (253) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image451.png?raw=true"
   style="width:40%"
@@ -7522,7 +7547,7 @@ One strategy that we can use to deal with the global scope and trying to
 prevent problems there is to just never use the global scope whenever
 possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 452.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 452.  (254) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image452.png?raw=true"
   style="width:50%"
@@ -7537,7 +7562,7 @@ variable i is in the global scope. All of this stuff is in the global
 scope. That could be problematic. What can we do about that to keep it
 out of the global scope?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 453.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 453.  (254) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image453.png?raw=true"
   style="width:50%"
@@ -7552,7 +7577,7 @@ inside of one of these sort of self running functions and it will just
 run and do. It&apos;s thing inside the function, and it&apos;ll keep the
 variables local to that function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 454/455.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 454/455.  (255) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image454.png?raw=true"
   style="width:45%"
@@ -7569,7 +7594,7 @@ And then if I come back here and actually run this thing, you can see
 that it&apos;s actually turned Use paragraphs, right. So that&apos;s all working
 and working as expected.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 456.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 456.  (255) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image456.png?raw=true"
   style="width:50%"
@@ -7586,7 +7611,7 @@ inside of that function. There we go.
 
 And now that function will run when the page loads.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 457.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 457.  (256) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image457.png?raw=true"
   style="width:50%"
@@ -7597,7 +7622,7 @@ If I come over and refresh it You&apos;ll see it just runs and it works just
 the same as before, but what&apos;s different now is that these variables
 are now local to this function and they&apos;re not in the global space.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 458/459.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 458/459.  (256) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image458.png?raw=true"
   style="width:45%"
@@ -7618,7 +7643,7 @@ I&apos;m going to do that one more time because the syntax is just terrible.
 But it really is helpful for making sure everything stays in the
 **local** scope there of this function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 460.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 460.  (257) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image460.png?raw=true"
   style="width:50%"
@@ -7638,7 +7663,7 @@ you&apos;ll get comfortable with it. And then that will work just fine and
 it keeps everything local to this function expression. There are a few
 more things that I want to say about this while we&apos;re here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 461.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 461.  (258) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image461.png?raw=true"
   style="width:50%"
@@ -7718,9 +7743,11 @@ it needs to do.
 <p align="center" width="100%">
 <img src="./images/image465.png"
   style="width:45%"
+  title="Namespacing &amp; Closures; Anonymous Function"
   alt="Namespacing &amp; Closures; Anonymous Function." />
 <img src="./images/image466.png"
   style="width:45%"
+  title="Immediately Invoked Function Expression (IIFE)"
   alt="Immediately Invoked Function Expression (IIFE)." />
 </p>
 
@@ -7799,6 +7826,7 @@ and try to run the script again.
 <p align="center" width="100%">
 <img src="./images/image472.png?raw=true"
   style="width:50%"
+  title="use strict - global &amp; local variables"
   alt="use strict - global &amp; local variables." />
 </p>
 
@@ -7812,6 +7840,7 @@ That&apos;s an interesting and useful (?) tool to keep Basics from doing this.
 <p align="center" width="100%">
 <img src="./images/image473.png?raw=true"
   style="width:50%"
+  title="IIFE or the closure - variable scope"
   alt="IIFE or the closure - variable scope." />
 </p>
 
@@ -8450,16 +8479,18 @@ And then always check to make sure you didn't mess things up along the way. And 
 So there we go. We have finished our script, and we've cleaned it all up. And in this lesson you've learned a lot about some different ways of doing things, and how to add elements to the page, and remove them from the page. All with using our document object model as well as our event handlers. And this is a really great little slideshow that you could use on any webpage. 
 Week Four: Basic JavaScript Application Projects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-4.00. Learning Objectives
+<h2 id="ch4-00-obj">4.00. Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  •	Capture user events.
-  •	Change the DOM based on user events.
-  •	Employ appropriate logical flow control structures necessary to make the program function properly.
-  •	Use array and variables to manage program data.
-  •	Apply best practices to manage variable scope.
-  •	Identify and fix errors in programs, when they are not running properly.
+<ul>
+  <li>Capture user events.</li>
+  <li>Change the DOM based on user events.</li>
+  <li>Employ appropriate logical flow control structures necessary to make the program function properly.</li>
+  <li>Use array and variables to manage program data.</li>
+  <li>Apply best practices to manage variable scope.</li>
+  <li>Identify and fix errors in programs, when they are not running properly.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-4.00 Module 4 Introduction (1:05)
+<h2 id="ch4-00">4.00 Module 4 Introduction (1:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--
