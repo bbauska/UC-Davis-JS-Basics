@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "2/27/2024 8+pm"
+date last editted: "3/01/2024 1+pm"
 output: 
   markdown:
     with some style
@@ -5671,7 +5671,7 @@ second course in specialization. But now we can actually get elements
 into our **DOM** a little bit easier than we could just with the older
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 331/332.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 331/332.  (190) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image331.png?raw=true"
   style="width:45%"
@@ -5688,7 +5688,7 @@ do something like this. var **myText = document.querySelector**. And
 then what I would pass in is actually instead of just some class, I
 would put either dots or I could put **.someclass.**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (190) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image333.png?raw=true"
   style="width:50%"
@@ -5739,14 +5739,14 @@ using the newer, more updated **DOM API querySelectorAll.**
 
 Let&apos;s give that a try really quickly here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 336/337.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 336/337. define, test queryselectorall() (192) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image336.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Define a div id, select using document.querySelectorAll()." />
 <img src="./images/image337.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Test, console document.querySelectorAll, set p style color to red." />
 </p>
 
 Over here, I&apos;ve got my **div** id special and I&apos;ve got some paragraphs
@@ -5756,7 +5756,7 @@ could pass in here in quotes, I could pass in pounds special p, and
 that&apos;s going to get me all of the paragraphs that are inside this
 **div** special.
 
-So I can go into my document and find a particular group of elements
+I can go into my document and find a particular group of elements
 somewhere in my document. But again, with this, we&apos;re going to need a
 for loop. For var i equals 0, where i is less than **myText. Length;
 i++.** Then I can do myText square bracket **i.style.color** equals red.
@@ -5778,11 +5778,11 @@ might use this less often now because now we have the newer methods,
 the document elements that allow us to add elements to the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 338.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 338. example, working with properties (193) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image338.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Example, Working with Properties; element.style.property." />
 </p>
 
 Next, I want to talk about working with properties. We&apos;ve already seen
@@ -5806,11 +5806,11 @@ innovation and the innovation will take place on the screen. That&apos;s a
 really great way to create interactive for animated elements on a web
 page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 339.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 339. working with element methods (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image339.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Working with Element Methods; .setAttribute('attributeName','value');" />
 </p>
 
 So we have the document **methods**, and now we have element
@@ -5819,14 +5819,14 @@ elements. But there are also **element** **methods** or **element**
 **functions** and those are also useful. For example, .**setAttribute**,
 we can pass in an attribute name and then set its value.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 340/341.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 340/341. working with properties/element methods (194) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image340.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Working with Properties." />
 <img src="./images/image341.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Working with Element Methods." />
 </p>
 
 Back here we could set the **className** by using the **className**
@@ -5877,14 +5877,16 @@ see I have a **div** with an id=&quot;special&quot;, and I can use any of my
 replace these contents with something else entirely, completely new,
 completely different. And that&apos;s something else could have HTML in it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 344/345.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 344/345. define, test console getelementbyid (196) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image344.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define div, myDiv = document.getElementById('special'), add using myDiv.innerHTML"
+  alt="Define div, myDiv = document.getElementById('special'), add using myDiv.innerHTML." />
 <img src="./images/image345.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, console document.getElementById and myDiv.innerHTML"
+  alt="Test, console document.getElementById and myDiv.innerHTML." />
 </p>
 
 So let&apos;s see what that looks like. Over here, I have my **div
@@ -5909,14 +5911,16 @@ paragraphs, and then the script ran and it removed those three
 paragraphs and put this one in instead. And that&apos;s what JavaScript is
 doing. Now, here, I&apos;m using **getElementById(&apos;special&apos;).**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 346/347.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 346/347. document.queryselector using css syntax (197) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image346.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="document.querySelector('#special');"
+  alt="document.querySelector('#special');" />
 <img src="./images/image347.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test console, replace 3 paragraphs with 1 new paragraph"
+  alt="Test console, replace 3 paragraphs with 1 new paragraph." />
 </p>
 
 I could also do **querySelector**. But if I use this one, then I would
@@ -5929,11 +5933,12 @@ get that element, then you can use your element properties to affect the
 element here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 348.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 348. define document query selector using innerhtml (197) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image348.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="document.querySelector('#special').innerHTML = '&lt;p&gt;Here is my new paragraph&lt;/p&gt;';"
+  alt="document.querySelector('#special').innerHTML = '&lt;p&gt;Here is my new paragraph&lt;/p&gt;';" />
 </p>
 
 Now, I&apos;m putting this all inside of this **div** here, but I don&apos;t
@@ -5982,7 +5987,7 @@ first paragraph and I&apos;m going to use the class name, element property
 to set the class to blue. And up here I&apos;ve added style and I&apos;ve added
 a class blue here to my document. So let&apos;s see how this works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (199) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image351.png?raw=true"
   style="width:50%"
@@ -6002,7 +6007,7 @@ the document, select the document properties that are super useful, but
 there are plenty of other ones that you can look up and work with as
 well. Class name equals blue.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 352/353.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 352/353.  (199) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image352.png?raw=true"
   style="width:45%"
@@ -6065,7 +6070,7 @@ Checked, checked, and that&apos;s the way. What that will do is it&apos;ll come
 in here and it&apos;s going to set a checked attribute and set it to
 checked, which will make the check box checked by default.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 356/357.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 356/357.  (202) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image356.png?raw=true"
   style="width:45%"
@@ -6091,21 +6096,23 @@ content on our webpages.
 <h2 id="ch3-09">3.09 Creating Elements and Text Nodes (5:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 358.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 358. creating elements and text nodes (3.09) (203) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image358.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.09 Creating Elements and Text Nodes"
+  alt="3.09 Creating Elements and Text Nodes." />
 </p>
 
 I have shown you a few of the document methods, the element methods and
 the element properties in this lesson and there are lots more.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 359.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 359. example, creating elements and text nodes (203) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image359.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Creating Elements and Text Nodes"
+  alt="Example, Creating Elements and Text Nodes." />
 </p>
 
 There are many more that you can use to do all kinds of interesting
@@ -6123,11 +6130,12 @@ to also change content on the page, but this is just a different way of
 doing it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 360.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 360. define variable using document.createelement (204) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image360.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define variable using document.createElement('p');"
+  alt="Define variable using document.createElement('p');" />
 </p>
 
 Here I&apos;m going to make a variable var **myTag** and I&apos;m going to say
@@ -6152,11 +6160,12 @@ the text in the paragraph and then going and getting our **div** and
 appending it to the end of the paragraph here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 361.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 361. test output console, new paragraph (205) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image361.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test output console, new paragraph using document.createTextNode();"
+  alt="Test output console, new paragraph using document.createTextNode();" />
 </p>
 
 Let&apos;s see if I did this right. If I come back and do this over here and
@@ -6176,22 +6185,24 @@ to go than using innerHTML in certain circumstances.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-10">3.10 Removing Elements (3:18)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 362.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 362. removing elements (3.10) (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image362.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.10 Removing Elements"
+  alt="3.10 Removing Elements." />
 </p>
 
 One last method that I want to show you in this lesson is how to remove
 an element from another element.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 363.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 363. example, removing elements with removechild() (206) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image363.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, removing elements with removeChild();"
+  alt="Example, removing elements with removeChild();" />
 </p>
 
 Again, we could use innerHTML and just replace all the contents all at
@@ -6199,11 +6210,12 @@ once, but sometimes removing elements is useful. Let&apos;s take a look at
 this example really quickly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 364.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 364. example removechild method (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image364.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define myDiv = document.querySelector('div'); &amp; removeChild(myDiv.children[1]);"
+  alt="Define myDiv = document.querySelector('div'); &amp; removeChild(myDiv.children[1]);" />
 </p>
 
 Here I have a **div** with two paragraphs in it, and I&apos;m going to go
@@ -6218,14 +6230,16 @@ this is child number 0 here. That&apos;s zero, this is one. That will
 actually go and remove this second paragraph from this **div**. Put a
 semicolon there, save that, and then let&apos;s go over to our browser here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 365/366.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 365/366. test console output after removechild (207) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image366.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test console output, removeChild method"
+  alt="Test console output, removeChild method." />
 <img src="./images/image365.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="After test console output, removeChild method"
+  alt="After test console output, removeChild method." />
 </p>
 
 You could see I&apos;ve got the two paragraphs there, when I refresh the
@@ -6234,11 +6248,12 @@ anymore. It&apos;s been taken out. JavaScript removed it. Removing elements
 using the remove child method is a really useful tool for removing
 elements from the page, if you need to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 367.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 367. summary, removechild method (208) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image367.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Summary, removeChild element method"
+  alt="Summary, removeChild element method." />
 </p>
 
 Here we&apos;ve seen a lot of different methods that we can use on our
@@ -6253,7 +6268,7 @@ different **methods** and **properties**, and that&apos;s how we&apos;re going
 to create all kinds of interactive elements in our webpages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 3.10.JavaScript-and-the-DOM.html (shortcut)
+<h3 id="ch3-10-js-dom">3.10.JavaScript-and-the-DOM.html (shortcut)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 > <https://www.coursera.org/learn/javascript-basics/supplement/DCOHD/additional-resource>
@@ -6261,27 +6276,30 @@ to create all kinds of interactive elements in our webpages.
 > <https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 3.10.JavaScript-DOM-Challenges-17thru21.pdf (download)
+<h3id="ch3-10-js-dom-challenge">3.10.JavaScript-DOM-Challenges-17thru21.pdf (download)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21 {#httpswww.coursera.orglearnjavascript-basicssupplementjjf7ejavascript-dom-challenges-17-21 .unnumbered}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-11">3.11 Capturing Events with JavaScript (5:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 368.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 368. capturing events with js (3.11) (209) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image368.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.11 Capturing Events with JavaScript"
+  alt="3.11 Capturing Events with JavaScript." />
 </p>
 
 Capturing Events with JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 369.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 369. events happen, listen for events (209) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image369.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="Events Happen, listen for events"
+  alt="Events Happen, listen for events." />
 </p>
 
 Events happen. Users will click on something, they&apos;ll scroll the page,
@@ -6298,11 +6316,12 @@ loop, along with our document methods and our element methods and
 properties to change elements on the page when events happen. And
 that&apos;s how we can get interactive webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 370.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 370. example, event basics (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image370.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Event Basics"
+  alt="Example, Event Basics." />
 </p>
 
 Let&apos;s take a look at this very basic example. Here I have a webpage
@@ -6310,22 +6329,24 @@ with a button on it. And when you click the button, it&apos;s going to pop
 up an alert saying that you clicked the button, something that shows
 that you actually clicked the button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 371.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 371. add button to html (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image371.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add &lt;button&gt; which says 'Don&apos;t Press Me!'"
+  alt="Add &lt;button&gt; which says 'Don&apos;t Press Me!'." />
 </p>
 
 Here I have a webpage, I have a button on the webpage, it says Don&apos;t
 Press Me! And I&apos;m going to grab that button using my document element
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 372.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 372. define var btn = document.queryselector('button'); (211) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image372.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define var btn = document.querySelector('button');"
+  alt="Define var btn = document.querySelector('button');" />
 </p>
 
 So I&apos;m going to make a variable var btn, and I&apos;m going to assign it
