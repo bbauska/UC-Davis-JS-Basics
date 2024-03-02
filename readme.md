@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/01/2024 1+pm"
+date last editted: "3/01/2024 6+pm"
 output: 
   markdown:
     with some style
@@ -15,7 +15,7 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / UC Davis log (01) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / uc davis log (01) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
   style="width:20%"
@@ -26,8 +26,6 @@ output:
   title="UC Davis logo"
   alt="UC Davis logo." />
 </p>
-<!-- {width="2.0in" height="1.773685476815398in"}![](./images/image002.png){width="2.0995866141732282in" height="1.77in"} -->
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ about javascript basics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="#about">About this Course</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -55,8 +53,8 @@ skills.</p>
 >#### [**1.03 Intro to JavaScript - Part 3**](#ch1-03)
 >#### [**1.04 Tools Needed for Success**](#ch1-04)
 >#### [**1.05 Skills Needed for Success**](#ch1-05)
->	- #### [**1.05.Assessing Your Skills in HTML &amp; CSS**](#ch1-05-assess)
->	- #### [**1.05.Additional Resources (awwwards.com &amp; software)**](#ch1-05-add)
+>	- #### [**1.05 Assessing Your Skills in HTML &amp; CSS**](#ch1-05-assess)
+>	- #### [**1.05 Additional Resources (awwwards.com &amp; software)**](#ch1-05-add)
 >#### [**1.06 JavaScript Variables**](#ch1-06)
 >#### [**1.07 JavaScript Variables Practice - Part 1**](#ch1-07)
 >#### [**1.08 JavaScript Variables Practice - Part 2**](#ch1-08)
@@ -64,8 +62,8 @@ skills.</p>
 >#### [**1.10 JavaScript Arrays - Part 1**](#ch1-10)
 >#### [**1.11 JavaScript Arrays - Part 2**](#ch1-11)
 >#### [**1.12 JavaScript Arrays Practice**](#ch1-12)
->	- #### [**1.12.Reserved Words**](#ch1-12-res)
->	- #### [**1.12.Array Methods**](#ch1-12-array)
+>	- #### [**1.12 Reserved Words**](#ch1-12-res)
+>	- #### [**1.12 Array Methods**](#ch1-12-array)
 
 ### [**Week 2: Controlling Logical Flow in JavaScript**](#ch2)
 >	- #### [**2.00 Learning Objectives**](#ch2-00-obj)
@@ -79,18 +77,18 @@ skills.</p>
 >#### [**2.07 Else If**](#ch2-07)
 >#### [**2.08 Switch Statements**](#ch2-08)
 >#### [**2.09 Using &amp;&amp;**](#ch2-09)
->	- #### [**2.09.JavaScript Operators**](#ch2-09-oper)
->	- #### [**2.09.JavaScript Booleans**](#ch2-09-bool)
+>	- #### [**2.09 JavaScript Operators**](#ch2-09-oper)
+>	- #### [**2.09 JavaScript Booleans**](#ch2-09-bool)
 >#### [**2.10 Loops in JavaScript**](#ch2-10)
 >#### [**2.11 Working With Arrays**](#ch2-11)
 >#### [**2.12 The For...Of Loop**](#ch2-12)
 >#### [**2.13 While Loops**](#ch2-13)
->	- #### [**2.13.JavaScript Loops**](#ch2-13-loop)
+>	- #### [**2.13 JavaScript Loops**](#ch2-13-loop)
 >#### [**2.14 Structured Programming, Sequence - Part 1**](#ch2-14)
 >#### [**2.15 Sequence - Part 2**](#ch2-15)
 >#### [**2.16 Sequence - Part 3, Loop**](#ch2-16)
 >#### [**2.17 Loop + Selection**](#ch2-17)
->	- #### [**2.17.JavaScript Basic Challenges Introduction 1-9**](#ch2-17-1thru9)
+>	- #### [**2.17 JavaScript Basic Challenges Introduction 1-9**](#ch2-17-1thru9)
 >#### [**2.18 JavaScript Basic Challenges**](#ch2-18)
 >#### [**2.19 JavaScript Basic Challenges**](#ch2-19)
 >#### [**2.20 JavaScript Basic Challenges**](#ch2-20)
@@ -98,8 +96,8 @@ skills.</p>
 >#### [**2.22 Useful Example - Steps 2-4**](#ch2-22)
 >#### [**2.23 Useful Example - Step 5**](#ch2-23)
 >#### [**2.24 More on Functions**](#ch2-24)
->	- #### [**2.24.JavaScript Functions**](#ch2-24-func)
->	- #### [**2.24.JavaScript Function Challenges 10-16**](#ch2-24-10thru16)
+>	- #### [**2.24 JavaScript Functions**](#ch2-24-func)
+>	- #### [**2.24 JavaScript Function Challenges 10-16**](#ch2-24-10thru16)
 
 ### [**Week 3: Using JavaScript in the Web Browser**](#ch3)
 >	- #### [**3.00 Learning Objectives**](#ch3-00-obj)
@@ -114,8 +112,8 @@ skills.</p>
 >#### [**3.08 className**](#ch3-08)
 >#### [**3.09 Creating Elements and Text Nodes**](#ch3-09)
 >#### [**3.10 Removing Elements**](#ch3-10)
->	- #### [**3.10.JavaScript and the DOM**](#ch3-10-dom)
->	- #### [**3.10.JavaScript DOM Challenges 17-21**](#ch3-10-17thru21)
+>	- #### [**3.10 JavaScript and the DOM**](#ch3-10-dom)
+>	- #### [**3.10 JavaScript DOM Challenges 17-21**](#ch3-10-17thru21)
 >#### [**3.11 Capture Events with JavaScript**](#ch3-11)
 >#### [**3.12 Event Listeners**](#ch3-12)
 >#### [**3.13 The Event Object**](#ch3-13)
@@ -124,22 +122,22 @@ skills.</p>
 >#### [**3.16 Scroll Events: HTML**](#ch3-10)
 >#### [**3.17 deo: Window Resizing**](#ch3-17)
 >#### [**3.18 Key Down Event**](#ch3-18)
->	- #### [**3.18.Intro to Events in JS**](#ch3-18-ev1)
->	- #### [**3.18.Event Reference**](#ch3-18-ev2)
->	- #### [**3.18.JavaScript Event Challenges 22-30**](#ch3-18-22thru30)
+>	- #### [**3.18 Intro to Events in JS**](#ch3-18-ev1)
+>	- #### [**3.18 Event Reference**](#ch3-18-ev2)
+>	- #### [**3.18 JavaScript Event Challenges 22-30**](#ch3-18-22thru30)
 >#### [**3.19 Scope in JavaScript**](#ch3-19)
 >#### [**3.20 Strategy 1: Never Use Global Scope**](#ch3-20)
 >#### [**3.21 Strategy 2: 'use strict;'**](#ch3-21)
 >#### [**3.22 Strategy 3: const and let**](#ch3-22)
 >#### [**3.23 Scope in JavaScript Summary**](#ch3-23)
->	- #### [**3.23.Additional Resources**](ch#3-23-add)
->	- #### [**3.23.Simple Slide Show START Files**](#ch3-23-start)
+>	- #### [**3.23 Additional Resources**](ch#3-23-add)
+>	- #### [**3.23 Simple Slide Show START Files**](#ch3-23-start)
 >#### [**3.24 Simple JS Slideshow - Part 1**](#ch3-24)
 >#### [**3.25 Simple JS Slideshow - Part 2**](#ch3-25)
 >#### [**3.26 Simple JS Slideshow - Part 3**](#ch3-26)
 >#### [**3.27 Simple JS Slideshow - Part 4**](#ch3-27)
 >#### [**3.28 Simple JS Slideshow - Part 5**](#ch3-28)
->	- #### [**3.28.Advanced Slide Show START Files**](#ch3-28-start)
+>	- #### [**3.28 Advanced Slide Show START Files**](#ch3-28-start)
 >#### [**3.29 Slideshow with Cross Fade Effect - Part 1**](#ch3-29)
 >#### [**3.30 Slideshow with Cross Fade Effect - Part 2**](#ch3-30)
 >#### [**3.31 Slideshow with Cross Fade Effect - Part 3**](#ch3-31)
@@ -219,8 +217,8 @@ values to these variables and arrays and be able to read values from them.</p>
 </ol>
 
 <ul>
-  <li>1.05.Assessing Your Skills</li>
-  <li>1.05.Additional Resources (awwwards.com &amp; software)</li>
+  <li>1.05 Assessing Your Skills</li>
+  <li>1.05 Additional Resources (awwwards.com &amp; software)</li>
 </ul>
 
 <ol type="1" start="6">
@@ -234,8 +232,8 @@ values to these variables and arrays and be able to read values from them.</p>
 </ol>
 
 <ul>
-  <li>1.12.Reserved Words</li>
-  <li>1.12.Array Methods</li>
+  <li>1.12 Reserved Words</li>
+  <li>1.12 Array Methods</li>
 </ul>
 
 <h3>Week 2</h3>
@@ -260,8 +258,8 @@ and create custom functions that can be called to complete the instructions they
 <h4>24 lessons/videos, 8 readings</h4>
 
 <ul>
-  <li>2.00.Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">2.00.Module 2 Introduction</a></li>
+  <li>2.00 Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">2.00 Module 2 Introduction</a></li>
 </ul>
 
 <ol>
@@ -277,8 +275,8 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.09.Operators</li>
-  <li>2.09.Booleans</li>
+  <li>2.09 Operators</li>
+  <li>2.09 Booleans</li>
 </ul>
 
 <ol type="1" start="10">
@@ -289,7 +287,7 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.13.JavaScript Loops</li>
+  <li>2.13 JavaScript Loops</li>
 </ul>
 
 <ol type="1" start="14">
@@ -300,10 +298,11 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.17.JavaScript Basic Challenges Introduction 01-09</li>
+  <li>2.17 JavaScript Basic Challenges Introduction 01-09</li>
 </ul>
 
 <ol type="1" start="18">
+  <li>JS Basic Challenges Introduction</li>
   <li>Functions in JavaScript</li>
   <li>Passing In and Returning Data</li>
   <li>Useful Example - Step 1</li>
@@ -313,8 +312,8 @@ and create custom functions that can be called to complete the instructions they
 </ol>
 
 <ul>
-  <li>2.23.JavaScript Functions</li>
-  <li>2.23.JavaScript Function Challengs 10-16</li>
+  <li>2.24 JavaScript Functions</li>
+  <li>2.24 JavaScript Function Challengs 10-16</li>
 </ul>
 
 
@@ -335,8 +334,8 @@ the course by putting together a simple slideshow on a web page.</p>
 <h4>36 lessons/videos, 10+ readings</h4>
 
 <ul>
-  <li>3.00.Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">3.00.Module 3 Introduction</a></li>
+  <li>3.00 Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">3.00 Module 3 Introduction</a></li>
 </ul>
 
 <ol type="1">
@@ -353,8 +352,8 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.10.JavaScript and the DOM</li>
-  <li>3.10.JavaScript DOM Challenges 17-21</li>
+  <li>3.10 JavaScript and the DOM</li>
+  <li>3.10 JavaScript DOM Challenges 17-21</li>
 </ul>
 
 <ol type="1" start="11">
@@ -369,9 +368,9 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.18.Intro to Events in JavaScript</li>
-  <li>3.18.Event Reference</li>
-  <li>3.18.JavaScript Event Challenges 22-30</li>
+  <li>3.18 Intro to Events in JavaScript</li>
+  <li>3.18 Event Reference</li>
+  <li>3.18 JavaScript Event Challenges 22-30</li>
 </ul>
 
 <ol type="1" start="19">
@@ -383,11 +382,12 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.24.Additional Resources</li>
-  <li>3.24.Simple Slide Show START Files</li>
+  <li>3.23 Closures in JavaScript</li>
+  <li>3.23 IIFE in JavaScript</li>
+  <li>3.23 Simple Slide Show START File</li>
 </ul>
 
-<ol type="1" start="25">
+<ol type="1" start="24">
   <li>Simple JS Slideshow - Part 1</li>
   <li>Simple JS Slideshow - Part 2</li>
   <li>Simple JS Slideshow - Part 3</li>
@@ -396,10 +396,10 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.29.Advanced Slide Show START Files</li>
+  <li>3.28 Advanced Slide Show START Files</li>
 </ul>
 
-<ol type="1" start="30">
+<ol type="1" start="29">
   <li>Slideshow with Cross Fade Effect - Part 1</li>
   <li>Slideshow with Cross Fade Effect - Part 2</li>
   <li>Slideshow with Cross Fade Effect - Part 3</li>
@@ -410,7 +410,7 @@ the course by putting together a simple slideshow on a web page.</p>
 </ol>
 
 <ul>
-  <li>3.36.Prompt: Module 3 Reflection</li>
+  <li>3.35 Prompt: Module 3 Reflection</li>
 </ul>
 
 <h3>Week 4</h3>
@@ -3688,8 +3688,8 @@ this course quite a lot.</p>
   alt="Example, template literals." />
 </p>
 
-<p>Let&apos;s switch our codes that we&apos;re using this
-over here.</p>
+<p>Let&apos;s switch our codes that we&apos;re using this over here.</p>
+
 <p>The way we do this is, I&apos;m going to put in a tick mark there
 and at the end I&apos;m going to put in a tick mark and then I can get rid
 of these quotes and pluses. Then because this is a variable, I&apos;m going
@@ -3779,7 +3779,7 @@ Here is a resource related to these lessons:
 
 <ul id="ch2-13-loop">
   <li><a href="https://www.w3schools.com/js/js_loop_for.asp">
-    2.13.JavaScript Loops (shortcut)</a></li>
+    2.13 JavaScript Loops (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
@@ -8272,7 +8272,7 @@ Now, what you could do to make the script even better, perhaps, or just to test 
 https://www.coursera.org/learn/javascript-basics/supplement/4Ljvq/advanced-slide-show-start-files
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-29">3.29. Slideshow with Cross Fade Effect – Part 1</h2>
+<h2 id="ch3-29">3.29 Slideshow with Cross Fade Effect – Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
 Slideshow with crossfade effect: JavaScript with CSS animation. 
@@ -8357,7 +8357,7 @@ JavaScript, whenever we can use it to trigger CSS animations, it's better for
 performance across all kinds of devices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-30">3.30. Slideshow with Cross Fade Effect – Part 2</h2>
+<h2 id="ch3-30">3.30 Slideshow with Cross Fade Effect – Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Now we're all set up and ready to go, and ready to start writing our script. 
  
@@ -8367,7 +8367,7 @@ Going back to our index file here, I'm just going to add script tags at the bott
  
 We also need the next and previous links. Var nextBtn equals document.getElementByID. Next, var prevBtn equals document.getElementByID previous. That's going to go into our document. We're going to get our Next button. We're going to get our previous button, and we're going to get our content div that we're going to be putting into these elements here. I have an extra space there that I shouldn't have, make sure you fix that if you have that in there. Document.getElementByID content next and previous. In the next lesson, we'll add the EventListener for when you click on this next link here to go to the next slide. Just like we did before, we'll build out the next one and then when we're done with that, when we get that all working or work on the previous one. We'll go ahead and work on that one first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-3.31. Slideshow with Cross Fade Effect – Part 3
+<h2 id="ch3-31">3.31 Slideshow with Cross Fade Effect – Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Here's our event listener for when we click on the the next button. 
@@ -8377,7 +8377,9 @@ Then just like before, we're going to increment the currentImage and then we're 
  
 Let's put this in. I have my next button here which is already going and getting that element. Now I can just do nextBtn.addEventListener and I'm listening for a click. When the click happens, I'm going to run a function and I'm going to pass into that function the event object. This function is going to run when the click happens. Then I'm going to click inside here and I'm going to add something like event.preventDefault. That'll prevent the default behavior so that when I click on this link, I don't actually get the hashtag coming up in the browser. It prevents even trying to go to this href at all. Then what we're going to do is we're going to increment current image. 
 Current image plus plus same as we did before, and just like we did before, if current image is greater than myphotos.length - 1. So really a four; 0,1, 2, 3, 4, if it's greater than four, my photos length would be five. But I want to check to see if it's greater than four. If it's greater than four, then what I want to do is I want to move it back to current image equals 0.  That will put it back to where it was initially. Now current image is going to increment, it's going to go up, and it's going to go from zero to one, to two, to three, to four, and then back to zero.
-3.32. Slideshow with Cross Fade Effect – Part 4
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect – Part 4</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
 Here's the new part. 
  
@@ -8390,8 +8392,9 @@ So when we click the next button the first time it starts off at 0, when we clic
 Now, the last thing we need to do here is append this to the container. And we created a variable here for the container. We can say container.appendChild(newSlide). That would take the new slide that we created here as an image, set the source, set the class and put it on in there. 
  
 I'm going to go over to my slide show here, click refresh, and then click Next. And look at that, it's working. It's working just perfectly. Next, and I can see in here that it's adding the images one on top of the other. Put three on top of two. It put four on top of three, it put five on top of four and now it'll put one on top of five. And you'll see as you're adding them, that animation is taking place. In over two seconds the picture comes in as transparent and then over two seconds it fades to opaque, and that's what's creating that crossfade effect.
-3.33. Slideshow with Cross Fade Effect – Part 5
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
 As you just saw, this is working, and the images are coming in, and they're stacking one on top of the other invading in. 
  
@@ -8408,14 +8411,14 @@ Again, up here the container is this thing, this div id=’content’, and it ha
 Let's save this and see if I typed in all right, and test it over here. I'm going to look at my content. Here you can see I've got one image there, I add one, so that adds image number 2 on there. Coming in here, you can click next, and it's adding that on there. Now when I click the third one, it should add the third image, but also remove the first one at the top of this list. Now we've added image 3, but image 1 went away, and I can keep going, and it'll do image 4 on top of there, and then image 5, we've got four and five on the screen, four is in the bottom, five is in the top, and image 1 is now on the top. 
 You might be wondering why the one down here at the bottom is on the top. You have to remember the page renders from the top to the bottom, and the fact that these are set  to position absolute means that this one gets added to the page first, and then this one gets added to the page second, and because it gets added to the page second and because of the absolute positioning, that means it ends up on top, it's on top of the first image, so that's working just great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-3.34. Slideshow with Cross Fade Effect – Part 6
+<h2 id="ch3-34">3.34 Slideshow with Cross Fade Effect – Part 6</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
-  style="width:50%"
-  title=""
-  alt="." />
+  style="width:40%"
+  title="2.34 Slideshow with Cross Fade Effect - Part 6"
+  alt="2.34 Slideshow with Cross Fade Effect - Part 6." />
 </p> 
 We have our next button working just fine. 
  
@@ -8432,9 +8435,8 @@ We're still going to create an image. We're still going to go get the image from
 Let's see if this works. Come back and click "Refresh". Next works. I can add images, and over here you can see they're getting added. Image 2, Image 3, I could add one more Image 4. Now when I click "Previous", you can see Image 3 got put on top and Image 4 is down on the bottom. Image 2 is now on top, Image 3 is on the bottom. Image 1, and then Image 5, because we are going to the end of the array. Then back on down through the array like that. That's working perfectly. Just exactly what we want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-3.35. Slideshow with Cross Fade Effect – Part 7
+<h2 id="ch3-35">3.35 Slideshow with Cross Fade Effect – Part 7</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
 Your script is working great, and you could just leave it the way it is, it's totally fine. 
  
 But you'll notice that we have a fair amount of duplicate code. 
@@ -8479,7 +8481,7 @@ And then always check to make sure you didn't mess things up along the way. And 
 So there we go. We have finished our script, and we've cleaned it all up. And in this lesson you've learned a lot about some different ways of doing things, and how to add elements to the page, and remove them from the page. All with using our document object model as well as our event handlers. And this is a really great little slideshow that you could use on any webpage. 
 Week Four: Basic JavaScript Application Projects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-00-obj">4.00. Learning Objectives</h2>
+<h2 id="ch4-00-obj">4.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Capture user events.</li>
@@ -8490,8 +8492,249 @@ Week Four: Basic JavaScript Application Projects
   <li>Identify and fix errors in programs, when they are not running properly.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-00">4.00 Module 4 Introduction (1:05)</h2>
+<h2 id="ch4-00-intro">4.00 Module 4 Introduction (1:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Hello, and welcome to the fourth module of this course. Congratulations for making it this far. You've learned a lot of JavaScript so far, and this fourth module is going to really help you push your skills even further. In this module, we'll be doing a lot of practice. To learn JavaScript, you really have to practice. You have to get used to the syntax. You have to think about how to break problems down into smaller pieces to actually make something that works. And we'll be doing that in this fourth module. 
+And by creating interactive elements and practicing what you've already learned, you'll be making some things that are interesting and fun, but also learning JavaScript along the way. So let's get to it. And hopefully, by the end of this module, you'll be excited about what you've learned so far in this course, and you'll be excited to go on to the next course and learn even more about JavaScript.
+•	4.00 Basic-Convert-START.zip
+https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-01">4.01 Basic Distance Converter Project – Part 1 (6:28)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+ 
+In this project will take an interface that I've already created, and make it 
+work so that we end up with this little tool that will convert miles to kilometers. 
+ 
+Through doing this project, you'll get to use a bunch of the pieces we've 
+talked about already. Learning JavaScript. You'll capture data from a form 
+element, and manipulate the DOM, change the DOM, by adding this actual 
+conversion down here. We'll do a bunch of the different types of things that 
+we've been doing so far with JavaScript to create this little tool. The 
+interface is already created, you can see I have it over here. 
+ 
+The HTML generates this interface, but at this point it doesn't function. Our 
+job today is to make this thing actually function, and write the JavaScript to 
+take the data that somebody types into distance and convert it to kilometers. 
+Let's take a quick look at the HTML that we have here. 
+  
+Nothing too fancy here, we just have some basic HTML with a form, and in a 
+container down here where the answer is going to go when we convert the miles. 
+ 
+Then I've got some styling over here already in place, probably more startling 
+than I really need, but that's okay. We don't need to touch any of that. 
+ 
+At this point what we're going to do, is we're going to add a script tag down 
+at the bottom, and start figuring out how we're going to capture this. Let's 
+do that. Let's go ahead and add a script tag here. Then in here we want to 
+capture this submission of this form. You call it convert. We've got an Id for 
+the forms or converts. We have a document.getElementById. Then we want to get 
+the Id convert. We want to add an EventListener. The event we want to capture 
+is a submit event. When the form is submitted, we want to do something. We want 
+to run a function. Now, all the rest of the code for this script is going to 
+go between these two curly braces here inside this anonymous function. We've 
+got our EventListener here. 
+ 
+Now, normally, when events happen like a submission of a form, what happens is, 
+either the data from the form goes to, if you have an action in here, like we 
+do here in this form, it would go to some PHP file to be handled, or if you 
+don't have an action, if you don't have this attribute here at all, then what 
+it'll do is, it will actually refresh the web page. We don't want that to 
+happen. We want to stop the normal processing of the form. In that case we're 
+going to pass in the special event object, and we can pass it in as event or 
+some people pass it in as evt or some people will just use E. I'm going to 
+leave it as event just to make it clear that that's what it is. It's the 
+special event object. Then we're going to keep that form from being processed 
+by using event.preventDefault, which is a method that will keep that form 
+from getting processed, and from refreshing the page, or trying to go to 
+that PHP file when we submit the form. That's the thing we want to do first 
+here. 
+ 
+The next thing that we want to do, is we want to capture the data that somebody 
+typed into this input field here, with the idea of distance. We want to capture 
+that data, and we want to put it into a variable. Let's make a variable distance, 
+var distance. I'm going to go ahead and put mine in, document.getElementById. 
+Which Id do I want? I want this Id distance, and what do I want from there? I 
+want the dot value. That's going to take whatever somebody is typed into the 
+field, and stick it into this variable distance. 
+  
+Let's give it a try real quick. If we do alert distance, we should get that 
+data coming up here. If I come back here and refresh this, and then type in 
+five, and click convert distance, you can see that the alert pops up, and it 
+gives me five. If I put 54, it'll come up, and it'll give me a 54. That is 
+capturing that value. It's preventing the default behavior of submitting the 
+form, and trying to go to the PHP file. If you don't do EventPreventDefault, 
+let's just see what this happens for a second here. I just comment this out, 
+and come back here and refresh this. 
+
+If I don't do preventDefault convert distance, it gives me the five, but 
+then tries to go to some PHP file, which we don't want. It is getting that 
+data, but then it's trying to go through to the form. We don't want that. 
+We want to prevent the default behavior and that's what that does. We're 
+getting that distance there, and we're often running here with our project.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+4.02 Basic Distance Convert Project – Part 2 (5:33)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+ 
+The next thing that's important to understand is that when you type a number 
+in here, JavaScript sees that number as a string. If I type a five in there, 
+it'll be a string that holds the value five rather than the number five. I 
+need to actually take that string, and convert it to a number. We could use a 
+method in JavaScript called parseInt. But what parseInt does is it will only 
+capture the integer of the number rather than a decimal number. It's possible 
+that I would want to capture 5.5 miles and convert it to kilometers. 
+ 
+What we're going to use instead is parseFloat. What parseFloat will do is 
+it'll allow us to take that number and convert it to a floating decimal point. 
+Down here, I'm going to leave the alert for a second here. But I mentioned 
+before that, I'm going to say distance equals parseFloat distance. I'm taking 
+distance and running it through parseFloat, then assigning it back to distance 
+and I can alert that out. Let's just see what that gives us over here. 
+ 
+If I come back and refresh this, you have to refresh it, if I put in a five 
+and convert distance, it'll give me a five. But if I put in chicken, it'll 
+give me NaN, not a number, which as you know, resolves to false. Not a number 
+is false, it's falsy, just like zero or a number of other things are falsy, 
+but a number is true. Five will work, 5.5 will work. 
+Interestingly, zero won't, zero is still false. I don't know why you'd want 
+to convert zero miles to kilometers since they're both just zero. But that's 
+what we need to do first to get that to turn into a number. 
+ 
+Now, down here, we can actually combine these two lines into one line here by 
+instead of having this distance, and then assigning it back to itself, we 
+could actually put parseFloat here with its opening parentheses and then we 
+can close the parentheses at the end after the value, we can get rid of this 
+line, that does the same thing all in one line. It takes the value from the 
+distance field and then runs it through parseFloat and assigns it to distance. 
+Remember, JavaScript works from the inside out. 
+ 
+The next thing we need to do is check to see if distance is an actual number. 
+If somebody put in something that's not a number, we can't convert that to 
+kilometers. We need to make sure distance is a number. We can do that with an 
+if statement. Remember, if we put it in a number like five or 5.425 or whatever 
+it is, that's going to come back true. That's true, that's truthy whereas if 
+you put something that's not a number, parseInt is going to convert it to NaN, 
+which is not a number, and that comes back false or zero will come back false, 
+those kinds of things. We can just say if distance is a number, because we're 
+getting a number here, then we're going to convert it around the distance and 
+then put the answer down at the bottom, otherwise it will display an error 
+message down at the bottom. 
+ 
+Let's add this if statement down here. We probably don't need this alert for 
+right now, I might end up moving it in a minute. We're going to do something 
+there. We're going to convert and then display the answer. Else, display here. 
+Let's actually take this alert distance here and stick it in here, we don't 
+need it up here anymore. 
+  
+You'll see now with that, if I test this, if I put a number in here, it'll 
+alert out the number that I put in there. If I put something other than a 
+number in there, it won't, because the else is running. We haven't actually 
+done anything with the else, but it is running and it's not doing that alert. 
+We're all set up here and ready to write the rest of our script. Let's go 
+ahead and work on that next.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+4.03 Basic Distance Converter Project – Part 3 (6:32)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  
+So a variable here, get rid of this Is making variable are conversion. I've been assigned it the conversion, which is distance times one point 609344 and what that will give us is the actual distance converted. But it's going to give us a very large number or a number with a lot of numbers after the decimal point potentially. And test that you'll see what I mean. I put in a five here, I will get 8.04672. I don't want all these desperate numbers and they can get even longer than that. That's kind of long. I just want to three decimals. 
+ 
+There are a couple different ways of addressing this. In dealing with this, I'm going to show you the manual way and then the way that's a little bit easier. I think sometimes it's it's nice to see the manual way. I'm going to make another variable roundedVariable equals Math.round(conversion). What that's going to do is it's going to round it to the nearest whole number. I want some decimal points in there. So what I want to do is I want to take that number and multiply it by 1000 and then after the conversion, divide by 1000.  That's going to take the number round it and then divide it by 1000 for 3 decimal places.
+ 
+Now let's see what that gives us. We come back here now if I try to convert this 54.32, and you could see that it's cropping it off here after two decimal places here really wanted more decimal places than that. 
+ 
+The other thing you can do that's easier, a little bit easier than this is to use, something called toFixed. It's a method called toFixed so I could say conversion and put toFixed and three in there and that will make sure I get surrounded to three decimal points. 
+ 
+Let's see what that does 54.32 and now I'm getting 87.420, which is the right thing there. That's actually rounding it and making it work exactly the way I wanted to go, giving me three decimal points. That's kind of the easiest method to work with years is to fixed. 
+ 
+Now I can actually put this all together in one line also, so I could do a parenthesis e here in parenthesis e there, so does that first and then dug to fixed. 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-04">4.04 Basic Distance Convert Project – Part 4 (6:15)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  
+Okay, one thing we want to look at really quickly here before we go on with the 
+script, is at this h2 down here. Right now, I have an h2 in there with a class 
+of invisible. If you go look at the styles, you will notice that this class, 
+invisible, over here in the styles, it's basically setting the color of that 
+text to the same color as the background of this div. 
+ 
+Over here, if you go and actually look at this thing, you'll notice down here, 
+that the answers is in there. It's in there, you can't really see it, because 
+it's the same color, but it's actually there. Currently, what it says is, 
+answer goes here. 
+  
+What we can do is, we can use innerHTML to replace this entire h2 in here, 
+with a new h2. That h2 that we put in there, won't have the class invisible, 
+so it will be visible. We want to get this div id answer here first. 
+First thing I'm going to do is, I'm going to have a variable var answer, and 
+set that to equal to document.getElementById(‘answer’). That's our element 
+there that we're getting. Then we want to get that element and we want to use 
+answer.innerHTML equals tick marks, like that, semicolon. h2 close h2. There 
+we go. This is going to be a string, literary when we're done here. In here, 
+I'm going to add the distance. I want to put in here distance, miles converts 
+to x kilometers, where distance is really this variable distance here. That's 
+going to be a variable. In there, I'm going to put curly braces, dollar sign, 
+curly braces, distance, because that's a variable. Miles converts to, and x is 
+going to be dollar sign, curly braces, conversion in there. 
+  
+The next thing we need to do is handle the error down here. We're going to put 
+it into this same element here, this answer element here. I could use 
+Document.getElementByID, and go get this answer div again, using innerHTML 
+again. Since we've already gotten this and put it into this variable here, it 
+makes more sense to move this variable out of the if statement and stick it up 
+here somewhere, go anywhere really, I'll stick it here. That's going to get 
+defined to begin with. It could even go after the preventDefault, it go 
+anywhere really. I'm going to just put it there. Then I can use the exact same 
+variable down here. Answer.innerHTML equals. I can just use regular quotes, h2 
+close the H2. Always open and closed before it, then work on the inside from 
+that way. Please provide a number. That will handle the error. 
+Let's make sure that works. If we come back over here, and refresh this, if I 
+put a chicken in here, a chicken cannot get converted to kilometers, so it 
+says please provide a number.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+4.05 Basic Distance Convert Project – Part 5 (4:27)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+ 
+This is our entire script and it's working pretty well at this point. We've done a little bit of refactoring to get it to a little bit more compact and a little bit more readable. We've tried a few different methods to make that all work, and it's all working great. We could leave the script at the bottom of the page, there's not that much to it and it's fine. 
+
+But just for the sake of practice, let's move it to an external file and link it up and then use our scope and best practices for converting everything. I'm going to come over here, I'm going to need to make a folder. I'm going to make a file and call it script.js. On that file, I'm going to add my IIFE, my immediately invoked function expression. That starts with parentheses, and then in there I add a function with its parentheses and it's curly braces, and then another set of parentheses and a /semicolon. This thing will run when the script file loads, and my script is going to go inside the curly braces, so I'm going to move those down. Also I'm going to add in here my use strict directive, which is going to make sure that I'm not defining any variables without the var keyword, they don't get put into the wrong scope. You don't really have to worry that much about scope here since it's all pretty much within this one event handler, but still it's a good idea to put it in. Then I'm going to just going to copy all of this stuff, or you can cut it and paste it over here. There we go. 
+
+There's our script. In here, I'm going to come in and change my vars to either 
+const or lat. I think they will all work with const. Distance is going to get 
+that once, and that's in distance is not going to change. Const is going to come 
+down here and answer is always going to be answer, and then this one here const 
+as well, conversion. We've got all of that set. Great. Over here on my HTML 
+file, instead of having this script here, I can leave it at the bottom of the 
+screen if I want, that's fine, and just link to it here, src equals "scripts.js", 
+and that should work just fine. If I go ahead and test that, it should work 
+exactly the same as it worked before, and it works fine, that's great. Now, I 
+could also move the script up into the head of the page. 
+
+Up here into the head, but I have to add the defer attribute here. If I come 
+back and test it, you'll see that it still works. If you forget the defer 
+attribute up here, then it's going to try to run that script before the page 
+loads and it won't work properly. Your file couldn't be accessed. It's trying 
+to go to the some PHP file because that script never loaded and it never 
+prevented the default behavior. That didn't work, so you need to have that 
+differ keyword in there to make sure that the script is deferred until the 
+rest of the file loads. But there we have it. It's a great little tool and 
+it's allowed us to practice many of the things that we've been talking about 
+during this course, and we'll look at a slightly more advanced version of 
+the project next.
+
+<ul>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-06">4.06 Advanced Distance Converter Project – Part 1 (5:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+ 
+
+
+
 <!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
