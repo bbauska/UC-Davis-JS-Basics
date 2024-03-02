@@ -8890,51 +8890,110 @@ on the previous one. We'll go ahead and work on that one first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-31">3.31 Slideshow with Cross Fade Effect – Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 553.  (306) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 553. slideshow with cross fade effect - part 3 (3.31) (306) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image553.png?raw=true"
   style="width:40%"
-  title=""
-  alt="." />
+  title="3.31 Slideshow with Cross Fade Effect - Part 3"
+  alt="3.31 Slideshow with Cross Fade Effect - Part 3." />
 </p>
 Here's our event listener for when we click on the the next button. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 554.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 554. example, add the next button event listener (306) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image554.png?raw=true"
   style="width:50%"
+  title="Example, Add the Next Button Event Listener"
+  alt="Example, Add the Next Button Event Listener." />
+</p>
+
+<p>For this one we're using the add event listener method instead of the on click 
+property. We'll look at this method and we're going to add the event listener 
+right to that next button variable that we created. When it's clicked, we're 
+going to run a function. This is an anonymous inline function, and we're going 
+to pass in the event object so that we can prevent the default behavior of what 
+happens when you click the link.</p>
+
+<p>We don't want the browser to handle clicking the links the way it normally 
+would, we want to prevent that default behavior and prevent default will do 
+that when we pass in this event object here, so it will prevent default. Then 
+just like before, we're going to increment the currentImage and then we're 
+going to check once again if the current image is greater than the length of 
+the array that we've got minus one. If that's true, we're going to set current 
+image back to zero. That part’s the same as before.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 555.  (307) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png?raw=true"
+  style="width:50%"
+  title=""
   alt="." />
 </p>
-For this one we're using the add event listener method instead of the on click property. We'll look at this method and we're going to add the event listener right to that next button variable that we created. When it's clicked, we're going to run a function. This is an anonymous inline function, and we're going to pass in the event object so that we can prevent the default behavior of what happens when you click the link. We don't want the browser to handle clicking the links the way it normally would, we want to prevent that default behavior and prevent default will do that when we pass in this event object here, so it will prevent default. 
-Then just like before, we're going to increment the currentImage and then we're going to check once again if the current image is greater than the length of the array that we've got minus one. If that's true, we're going to set current image back to zero. That part’s the same as before. 
- 
-Let's put this in. I have my next button here which is already going and getting that element. Now I can just do nextBtn.addEventListener and I'm listening for a click. When the click happens, I'm going to run a function and I'm going to pass into that function the event object. This function is going to run when the click happens. Then I'm going to click inside here and I'm going to add something like event.preventDefault. That'll prevent the default behavior so that when I click on this link, I don't actually get the hashtag coming up in the browser. It prevents even trying to go to this href at all. Then what we're going to do is we're going to increment current image. 
+
+<p>Let's put this in. I have my next button here which is already going and 
+getting that element. Now I can just do nextBtn.addEventListener and I'm 
+listening for a click. When the click happens, I'm going to run a function 
+and I'm going to pass into that function the event object. This function is 
+going to run when the click happens. Then I'm going to click inside here and 
+I'm going to add something like event.preventDefault. That'll prevent the 
+default behavior so that when I click on this link, I don't actually get the 
+hashtag coming up in the browser. It prevents even trying to go to this href 
+at all. Then what we're going to do is we're going to increment current image.</p>
+
 Current image plus plus same as we did before, and just like we did before, if current image is greater than myphotos.length - 1. So really a four; 0,1, 2, 3, 4, if it's greater than four, my photos length would be five. But I want to check to see if it's greater than four. If it's greater than four, then what I want to do is I want to move it back to current image equals 0.  That will put it back to where it was initially. Now current image is going to increment, it's going to go up, and it's going to go from zero to one, to two, to three, to four, and then back to zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect – Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 556.  (308) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 556. slideshow with cross fade effect - part 4 (3.32) (308) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image556.png?raw=true"
   style="width:40%"
+  title="3.32 Slideshow with Cross Fade Effect - Part 4"
+  alt="3.32 Slideshow with Cross Fade Effect - Part 4." />
+</p>
+Here's the new part. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 557. example, add the new slide on top (308) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image557.png?raw=true"
+  style="width:50%"
+  title="Example, Add the New Slide on Top"
+  alt="Example, Add the New Slide on Top." />
+</p>
+
+<p>Instead of just swapping the source attribute, which is what we did in the first slideshow. In this one, what we're going to do is we're going to create a new image element, document create element IMG, so that makes a new image tag. I'm going to put it into this variable called newSlide. And then I'm going to set the source newSlide.src = ‘slides/${myphotos[currentImage]}’;.</p>
+
+<p>Notice the use of the tick marks here. And the dollar sign curly braces can hold the variable for the my photos thing. That's getting the next photo from the slides folder. And then I'm going to also add a class name fadinimg. And you'll remember we just added that class to the CSS. So, we know what that does when we add that class. It runs that animation over two seconds of actually feeding in the image. And then we append the child to the slide, contaner.appendChild(newSlide). The new slide gets appended to the container. It gets appended with this source in this class. As soon as it gets appended to the container that animation runs and changes the opacity from 0, it starts at 0, and it goes to 1, completely transparent to completely opaque.</p>
+
+<p>Because we're adding it into this container and the CSS for that container is to make these images position absolute, it's going to get put right on top of the previous image. And because it's the same size as the previous image, it will completely cover it. But because it comes in as transparent, you'll see the other image underneath it at first, and then over two seconds it'll become opaque and that's what will cause the fading effect.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 558.  (309) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image558.png?raw=true"
+  style="width:50%"
   title=""
   alt="." />
 </p>
-Here's the new part. 
- 
-Instead of just swapping the source attribute, which is what we did in the first slideshow. In this one, what we're going to do is we're going to create a new image element, document create element IMG, so that makes a new image tag. I'm going to put it into this variable called newSlide. And then I'm going to set the source newSlide.src = ‘slides/${myphotos[currentImage]}’;.
-Notice the use of the tick marks here. And the dollar sign curly braces can hold the variable for the my photos thing. That's getting the next photo from the slides folder. And then I'm going to also add a class name fadinimg. And you'll remember we just added that class to the CSS. So, we know what that does when we add that class. It runs that animation over two seconds of actually feeding in the image. And then we append the child to the slide, contaner.appendChild(newSlide). The new slide gets appended to the container. It gets appended with this source in this class. As soon as it gets appended to the container that animation runs and changes the opacity from 0, it starts at 0, and it goes to 1, completely transparent to completely opaque. 
-Because we're adding it into this container and the CSS for that container is to make these images position absolute, it's going to get put right on top of the previous image. And because it's the same size as the previous image, it will completely cover it. But because it comes in as transparent, you'll see the other image underneath it at first, and then over two seconds it'll become opaque and that's what will cause the fading effect. 
- 
+
 So let's go ahead and add this to our code over here. var newSlide. And I'm going to set that to document.createElement(‘img’). And what am I going to create? I'm going to create an image, IMG. Now we've got a variable that's holding a new image element. The image element is not on the page, but it's there. And then I'm going to say newSlide.className = ‘fadeinimg’. Again, we do the dollar sign and the curly braces so we can do a variable. We want my photos, square brackets, current image. 
+
 So when we click the next button the first time it starts off at 0, when we click it the first time it gets incremented to 1. So when that gets incremented to 1, a new photo gets created and the source gets set to, this gets incremented to 1, so the source gets that to image two and that goes in there. So, it's slide slash, that'll be an image2 dot jpg, the first time you click it. The next time you click it, it will be an image3. And when you get to image5, if you click it again, that gets beyond the length here, so it gets set back to 0. So, it'll go back to 1. 
+
 Now, the last thing we need to do here is append this to the container. And we created a variable here for the container. We can say container.appendChild(newSlide). That would take the new slide that we created here as an image, set the source, set the class and put it on in there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 559.  (310) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image559.png?raw=true"
+  style="width:50%"
+  title=""
+  alt="." />
+</p>
  
 I'm going to go over to my slide show here, click refresh, and then click Next. And look at that, it's working. It's working just perfectly. Next, and I can see in here that it's adding the images one on top of the other. Put three on top of two. It put four on top of three, it put five on top of four and now it'll put one on top of five. And you'll see as you're adding them, that animation is taking place. In over two seconds the picture comes in as transparent and then over two seconds it fades to opaque, and that's what's creating that crossfade effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 560.  (308) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 560.  (311) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image560.png?raw=true"
   style="width:40%"
@@ -8943,13 +9002,26 @@ I'm going to go over to my slide show here, click refresh, and then click Next. 
 
 As you just saw, this is working, and the images are coming in, and they're 
 stacking one on top of the other invading in. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 561.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image561.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+
 But there's one thing that we can do to make this a little bit better. I don't 
 really like that every time I click the link, it's adding more images to the 
 DOM, especially when it starts adding the same images to the DOM over and over 
 and over again. I think that it could be a little bit more efficient, and a 
 little bit better, and a little bit cleaner. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 562.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image562.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 What we're going to do is we're going to remove the extra images as the new 
 images come in. What we'll do is we'll say, okay, container, you have children, 
 the children of the container are the images, and if I have more than two 
@@ -8957,13 +9029,20 @@ images, if children.length is greater than two, I'm going to remove the first
 one in that container, the bottom image, I'm going to remove the one from the 
 very bottom of that list, which is not showing anyway, it's at the bottom of 
 the stack and it's not going to be seen anyway. 
+
 That means you'll have one image, and then you'll put another image on top, 
 and as soon as you click next and add a third image, then the one at the very 
 bottom of the list will go away, so that you never have more than two in the 
 list, and I think that that makes the script a little bit better, keeps our 
 DOM a little bit cleaner because we're not continuing to add more and more 
 elements every time somebody clicks the link for next. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 563.  (312) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image563.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Let's go ahead and add this to our script over here. Down here I'm going to 
 say if, and in here I'm going to just put container.children.length, if that's 
 greater than two, then I want to do something, and what do I want to do if 
@@ -8972,14 +9051,30 @@ it's greater than two?
 What I want to do is I want to say, container.removeChild(container.children[0]);. 
 I want to remove a child. Which child do I want to remove? I want to remove the 
 bottom most child from the list. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 564.  (313) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image564.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Again, up here the container is this thing, this div id=’content’, and it has 
 children which are images. When we start off the page, there's just one, but 
 as we've been clicking the link, it adds more and more and more and more in 
 there, and we really don't want that to happen. This will keep us from adding 
 more than two, because once we get more than two, it'll remove the bottom one 
 from the list. 
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 565/566.  (314) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image565.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image566.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
+
 Let's save this and see if I typed in all right, and test it over here. I'm 
 going to look at my content. Here you can see I've got one image there, I add 
 one, so that adds image number 2 on there. Coming in here, you can click next, 
@@ -9008,26 +9103,78 @@ great.
   alt="3.34 Slideshow with Cross Fade Effect - Part 6." />
 </p> 
 We have our next button working just fine. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 568.  (315) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image568.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 I can click "Next" and it will go through the slides. Not only that, but it's nice and clean because it removes any extra slides we don't need as it's adding new slides on top. That's really neat and that's working. Now the question is, how do we get the previous button to work? Because currently clicking that does nothing but reset the page. Notice we're getting the hashtag up here. How do we get the previous button to work? 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 569.  (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image569.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 What we want to do is pretty much the same thing that we did with the next button but with the previous button. See if you can do that challenge on your own. You can even go ahead and take this function that we've written for the next button here, this one here, ''Copy and Paste'' it and see what you need to change to make it work for the previous button. Just like before, you can actually use the previous project, the earlier version of the slideshow to figure out how to do this. Because we're going to decrement the image and this is going to change, but all of this is going to remain exactly the same. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 570.  (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image570.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Did you get something like this? Hopefully, you did. Let's take a look at what's changed here. What's changed is, here, we're putting the event listener on the previous button instead of the next button. So that's different. The rest of this is all the same. Instead of incrementing current image, we're decrementing it. So that's different. Then down here, the if-statement has changed a little bit. If the current image is less than zero, we're setting current image to photos length minus one, just like we did in the previous slideshow. Other than that, everything else is the same. Let's see if we can actually make this work. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 571.  (317) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image571.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Over here. I'm going to copy this script and then paste it here and just change this to prevBtn, which is what I have up here. That's going to go into the DOM and get that button and add the event listener to it and all this stuff is the same. The only thing that's different is here, this gets decremented. Then down here, if this is less than zero, then we're going to set current image to myphotos.length minus one. That's going to set that all up there to work for the current image for that one. That should be it that's all we needed. The rest is going to be the same. 
 We're still going to create an image. We're still going to go get the image from the array based on the value of current image here. Then we're still going to apply that class to it, and we're going to stop put it on the page, and we're still going to remove the extra children. All the rest should be the same. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 572/573.  (318) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image572.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image573.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
  
 Let's see if this works. Come back and click "Refresh". Next works. I can add images, and over here you can see they're getting added. Image 2, Image 3, I could add one more Image 4. Now when I click "Previous", you can see Image 3 got put on top and Image 4 is down on the bottom. Image 2 is now on top, Image 3 is on the bottom. Image 1, and then Image 5, because we are going to the end of the array. Then back on down through the array like that. That's working perfectly. Just exactly what we want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-35">3.35 Slideshow with Cross Fade Effect – Part 7</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 574.  (318) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image574.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Your script is working great, and you could just leave it the way it is, it's totally fine. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 575.  (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image575.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 But you'll notice that we have a fair amount of duplicate code. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 576.  (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image576.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p> 
 If we go over and look at our script, we've got this chunk of code in here. That's a 
 several lines of code which is exactly the same as this chunk of code up here. And 
 there's a concept in programming called Don't repeat yourself dry, don't repeat yourself. 
@@ -9035,15 +9182,33 @@ What we want to do is, instead of repeat this code twice, pull it out and put it
 separate function. We're going to make a function called swapImage. And that function is 
 going to have this chunk of code in it. We can run that function twice, once in the next 
 button event listener function, and one in the previous event listener button function. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 577.  (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image577.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 So down here, I'm going to make a new function, function swapImage. And then that 
 function is going to contain all of this stuff in here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 578.  (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image578.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 So now we've got a function called swapImage that will run twice. It'll run the same 
 function basically, if you're clicking the Next button or the Previous button, and that 
 cleans up our code because we can see here clearly that the next button is incrementing 
 this variable and then checking with an if statement and then running function. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 579.  (321) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image579.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Let's test it and make sure we did it right. So over here, I'm going to refresh the 
 page. If I click Next, you can see that the script is working exactly the same as it did 
 before. Nothing else is changed really. We're not adding any new functionality. We're just 
@@ -9052,19 +9217,57 @@ try to reduce the amount of code or make it cleaner or make it easier to read al
 things you want to do. And often when you're working on projects, you'll find ways. You'll 
 look at an old piece of code. You go, wow, I could have made that simpler. And you'll do 
 that. And that's just part of the normal process for any programmer. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 580.  (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image580.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Now the very last thing to do here is to put it in a separate link file. I'm going to make a new file on here, click new file here and call it script.js. So make sure it's not inside the slides folder. On the script file, once again, I'm going to add my immediately invoked function, parentheses, curly braces, and then an additional set of parentheses and a semicolon. This function will run immediately when the page runs, and then click between the curly braces and move that down. 
- 
-And we're going to add use strict in here.  Now we can come over here to grab our script from the index file. I'm going to copy that. And I'm going to stick it over here and paste it in the script.js file. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581.  (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image581.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+And we're going to add use strict in here.  Now we can come over here to grab our script from the index file. I'm going to copy that. And I'm going to stick it over here and paste it in the script.js file.
+
 Now the last thing I want to do is I want to go through and fix the variables here. This one current image is going to change. That variable is going to change down here we can see that. 
+
 There needs to be let, but the rest of these can all be const, const, const, const, const because those aren't going to change during the script at all during the running of the script. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 582.  (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image582.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p> 
 And then down in the swapImage we have a variable here. That one can also be constant. Great, so we got that. So now we've got our files and that's all looking good. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 583.  (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image583.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Over here on written index file, we just need to get rid of that stuff and put it in here, src equals script.js, that's our file. And we can put this up here like so.We could leave it like that. Or even better, we could take this and move it up here into the header of the page and add the defer attribute here, save that. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 584.  (324) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image577.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 And then always check to make sure you didn't mess things up along the way. And look at that. It's working perfectly. Everything works great. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 585.  (325) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image585.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 So there we go. We have finished our script, and we've cleaned it all up. And in this lesson you've learned a lot about some different ways of doing things, and how to add elements to the page, and remove them from the page. All with using our document object model as well as our event handlers. And this is a really great little slideshow that you could use on any webpage. 
 Week Four: Basic JavaScript Application Projects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9081,17 +9284,39 @@ Week Four: Basic JavaScript Application Projects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-00-intro">4.00 Module 4 Introduction (1:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Hello, and welcome to the fourth module of this course. Congratulations for making it this far. You've learned a lot of JavaScript so far, and this fourth module is going to really help you push your skills even further. In this module, we'll be doing a lot of practice. To learn JavaScript, you really have to practice. You have to get used to the syntax. You have to think about how to break problems down into smaller pieces to actually make something that works. And we'll be doing that in this fourth module. 
-And by creating interactive elements and practicing what you've already learned, you'll be making some things that are interesting and fun, but also learning JavaScript along the way. So let's get to it. And hopefully, by the end of this module, you'll be excited about what you've learned so far in this course, and you'll be excited to go on to the next course and learn even more about JavaScript.
-•	4.00 Basic-Convert-START.zip
-https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 586.  (326) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image586.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+
+<p>Hello, and welcome to the fourth module of this course. Congratulations for making it this far. You've learned a lot of JavaScript so far, and this fourth module is going to really help you push your skills even further. In this module, we'll be doing a lot of practice. To learn JavaScript, you really have to practice. You have to get used to the syntax. You have to think about how to break problems down into smaller pieces to actually make something that works. And we'll be doing that in this fourth module. </p>
+
+<p>And by creating interactive elements and practicing what you've already learned, you'll be making some things that are interesting and fun, but also learning JavaScript along the way. So let's get to it. And hopefully, by the end of this module, you'll be excited about what you've learned so far in this course, and you'll be excited to go on to the next course and learn even more about JavaScript.</p>
+
+<ul>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files">4.00 Basic-Convert-START.zip</a></li>
+</ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-01">4.01 Basic Distance Converter Project – Part 1 (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 587.  (327) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image587.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 In this project will take an interface that I've already created, and make it 
 work so that we end up with this little tool that will convert miles to kilometers. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 588.  (327) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image588.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
  
 Through doing this project, you'll get to use a bunch of the pieces we've 
 talked about already. Learning JavaScript. You'll capture data from a form 
@@ -9099,18 +9324,47 @@ element, and manipulate the DOM, change the DOM, by adding this actual
 conversion down here. We'll do a bunch of the different types of things that 
 we've been doing so far with JavaScript to create this little tool. The 
 interface is already created, you can see I have it over here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 589.  (328) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image589.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+
 The HTML generates this interface, but at this point it doesn't function. Our 
 job today is to make this thing actually function, and write the JavaScript to 
 take the data that somebody types into distance and convert it to kilometers. 
 Let's take a quick look at the HTML that we have here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 590/591.  (328) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image590.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image591.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
   
 Nothing too fancy here, we just have some basic HTML with a form, and in a 
 container down here where the answer is going to go when we convert the miles. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 592.  (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image592.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Then I've got some styling over here already in place, probably more startling 
 than I really need, but that's okay. We don't need to touch any of that. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 593.  (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image593.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 At this point what we're going to do, is we're going to add a script tag down 
 at the bottom, and start figuring out how we're going to capture this. Let's 
 do that. Let's go ahead and add a script tag here. Then in here we want to 
@@ -9121,7 +9375,13 @@ is a submit event. When the form is submitted, we want to do something. We want
 to run a function. Now, all the rest of the code for this script is going to 
 go between these two curly braces here inside this anonymous function. We've 
 got our EventListener here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 594.  (330) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image594.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Now, normally, when events happen like a submission of a form, what happens is, 
 either the data from the form goes to, if you have an action in here, like we 
 do here in this form, it would go to some PHP file to be handled, or if you 
@@ -9136,7 +9396,13 @@ by using event.preventDefault, which is a method that will keep that form
 from getting processed, and from refreshing the page, or trying to go to 
 that PHP file when we submit the form. That's the thing we want to do first 
 here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 595.  (331) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image595.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 The next thing that we want to do, is we want to capture the data that somebody 
 typed into this input field here, with the idea of distance. We want to capture 
 that data, and we want to put it into a variable. Let's make a variable distance, 
@@ -9144,7 +9410,16 @@ var distance. I'm going to go ahead and put mine in, document.getElementById.
 Which Id do I want? I want this Id distance, and what do I want from there? I 
 want the dot value. That's going to take whatever somebody is typed into the 
 field, and stick it into this variable distance. 
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 596/597.  (331) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image596.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image597.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 Let's give it a try real quick. If we do alert distance, we should get that 
 data coming up here. If I come back here and refresh this, and then type in 
 five, and click convert distance, you can see that the alert pops up, and it 
@@ -9160,9 +9435,15 @@ data, but then it's trying to go through to the form. We don't want that.
 We want to prevent the default behavior and that's what that does. We're 
 getting that distance there, and we're often running here with our project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-4.02 Basic Distance Convert Project – Part 2 (5:33)
+<h2 id="ch4-02">4.02 Basic Distance Convert Project – Part 2 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 598.  (332) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image598.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 The next thing that's important to understand is that when you type a number 
 in here, JavaScript sees that number as a string. If I type a five in there, 
 it'll be a string that holds the value five rather than the number five. I 
@@ -9170,14 +9451,26 @@ need to actually take that string, and convert it to a number. We could use a
 method in JavaScript called parseInt. But what parseInt does is it will only 
 capture the integer of the number rather than a decimal number. It's possible 
 that I would want to capture 5.5 miles and convert it to kilometers. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 599.  (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image599.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 What we're going to use instead is parseFloat. What parseFloat will do is 
 it'll allow us to take that number and convert it to a floating decimal point. 
 Down here, I'm going to leave the alert for a second here. But I mentioned 
 before that, I'm going to say distance equals parseFloat distance. I'm taking 
 distance and running it through parseFloat, then assigning it back to distance 
 and I can alert that out. Let's just see what that gives us over here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 600.  (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image600.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 If I come back and refresh this, you have to refresh it, if I put in a five 
 and convert distance, it'll give me a five. But if I put in chicken, it'll 
 give me NaN, not a number, which as you know, resolves to false. Not a number 
@@ -9186,7 +9479,13 @@ but a number is true. Five will work, 5.5 will work.
 Interestingly, zero won't, zero is still false. I don't know why you'd want 
 to convert zero miles to kilometers since they're both just zero. But that's 
 what we need to do first to get that to turn into a number. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 601.  (334) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image601.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Now, down here, we can actually combine these two lines into one line here by 
 instead of having this distance, and then assigning it back to itself, we 
 could actually put parseFloat here with its opening parentheses and then we 
@@ -9194,7 +9493,13 @@ can close the parentheses at the end after the value, we can get rid of this
 line, that does the same thing all in one line. It takes the value from the 
 distance field and then runs it through parseFloat and assigns it to distance. 
 Remember, JavaScript works from the inside out. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 602.  (335) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image602.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 The next thing we need to do is check to see if distance is an actual number. 
 If somebody put in something that's not a number, we can't convert that to 
 kilometers. We need to make sure distance is a number. We can do that with an 
@@ -9206,13 +9511,28 @@ those kinds of things. We can just say if distance is a number, because we're
 getting a number here, then we're going to convert it around the distance and 
 then put the answer down at the bottom, otherwise it will display an error 
 message down at the bottom. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 603.  (336) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image603.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Let's add this if statement down here. We probably don't need this alert for 
 right now, I might end up moving it in a minute. We're going to do something 
 there. We're going to convert and then display the answer. Else, display here. 
 Let's actually take this alert distance here and stick it in here, we don't 
 need it up here anymore. 
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 604/605.  (336) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image604.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image605.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 You'll see now with that, if I test this, if I put a number in here, it'll 
 alert out the number that I put in there. If I put something other than a 
 number in there, it won't, because the else is running. We haven't actually 
@@ -9220,9 +9540,18 @@ done anything with the else, but it is running and it's not doing that alert.
 We're all set up here and ready to write the rest of our script. Let's go 
 ahead and work on that next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-4.03 Basic Distance Converter Project – Part 3 (6:32)
+<h2 id="ch4-03">4.03 Basic Distance Converter Project – Part 3 (6:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 606/607.  (337) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image606.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image607.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 So a variable here, get rid of this Is making variable are conversion. I've been assigned it the conversion, which is distance times one point 609344 and what that will give us is the actual distance converted. But it's going to give us a very large number or a number with a lot of numbers after the decimal point potentially. And test that you'll see what I mean. I put in a five here, I will get 8.04672. I don't want all these desperate numbers and they can get even longer than that. That's kind of long. I just want to three decimals. 
  
 There are a couple different ways of addressing this. In dealing with this, I'm going to show you the manual way and then the way that's a little bit easier. I think sometimes it's it's nice to see the manual way. I'm going to make another variable roundedVariable equals Math.round(conversion). What that's going to do is it's going to round it to the nearest whole number. I want some decimal points in there. So what I want to do is I want to take that number and multiply it by 1000 and then after the conversion, divide by 1000.  That's going to take the number round it and then divide it by 1000 for 3 decimal places.
@@ -9280,7 +9609,7 @@ put a chicken in here, a chicken cannot get converted to kilometers, so it
 says please provide a number.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-4.05 Basic Distance Convert Project – Part 5 (4:27)
+<h2 id="ch4-05">4.05 Basic Distance Convert Project – Part 5 (4:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
 This is our entire script and it's working pretty well at this point. We've done a little bit of refactoring to get it to a little bit more compact and a little bit more readable. We've tried a few different methods to make that all work, and it's all working great. We could leave the script at the bottom of the page, there's not that much to it and it's fine. 
@@ -9314,14 +9643,13 @@ the project next.
   <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-06">4.06 Advanced Distance Converter Project – Part 1 (5:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
  
 
 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
@@ -9339,6 +9667,5 @@ https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-dista
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   style="width:50%"
-  title=""
   alt="." />
 </p>
