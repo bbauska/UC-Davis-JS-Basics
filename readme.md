@@ -8008,10 +8008,10 @@ the point at which I'm using it, but it knows that exists because of the hoistin
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 489/490.  (269) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image487.png?raw=true"
+<img src="./images/image489.png?raw=true"
   style="width:45%"
   alt="." />
-<img src="./images/image488.png?raw=true"
+<img src="./images/image490.png?raw=true"
   style="width:45%"
   alt="." />
 </p>
@@ -8036,21 +8036,51 @@ scripts are more bulletproof and less prone to bugs and mistakes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-23">3.23 Scope in JavaScript Summary</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-image486
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 491. scope in javascript summary (270) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image491.png?raw=true"
+  style="width:40%"
+  title="3.23 Scope in JavaScript Summary"
+  alt="3.23 Scope in JavaScript Summary." />
 The scope techniques that we just discussed take some getting used to. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 492.  (271) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image492.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 I  strongly recommend you do this exercise to help you get used to 
 them and get comfortable with them. Previously, you had done some 
 event challenges, and I have that folder over here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 493.  (271) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image493.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 I have a folder here with challenges 22 through 30. And hopefully 
 you have those as well, with all the completed challenges in there. 
 If you don't, you should go do those challenges first. Then I have 
 my code editor here. 
- 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 494.  (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image494.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 I'm going to open that folder in my code editor by clicking, Open 
 Folder and I can open my event challenges folder here and it will 
 show up on the side over here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 495.  (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image495.png?raw=true"
+  style="width:50%"
+  alt="." />
  
 Next, I'm going to do these best practices around scope and around 
 some stuff around file management as well. And working with scripts 
@@ -8063,11 +8093,29 @@ as well as the use strict directive that will keep me from accidentally
 having variables that don't have a keyword starting them. And then I 
 want to switch my keywords from var to either const or let wherever 
 I possibly can. 
-  
+<!--~~~~~~~~~~~~~~~ 496/497.  (273) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image496.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image497.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
+
 So let's do that. Over here, I'm going to make a new file and you 
 can click this button here to make a new file. I'm going to call 
 it script 22.js to go with challenge 22 here. 
-  
+
+<!--~~~~~~~~~~~~~~~ 498/499.  (273) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image498.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image499.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 And on script 22 js I'm going to start by adding my immediately 
 invoked function expression by starting with the parentheses. And 
 then I'm going to put in here function that's parentheses and curly 
@@ -8079,7 +8127,13 @@ And I'm going to come down to the bottom, and I'm going to copy
 or cut, I can actually just cut Command x or Control x. Cut this 
 script right from here, and instead I'm going to paste it in here. 
 Might have to shift tab to move that over. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 500.  (274) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image500.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 The next thing I want to do is replace any variable declarations. 
 So they're not using the var keyword they're using either const. 
 Use const wherever you possibly can, and use let where you have 
@@ -8092,7 +8146,16 @@ using the use strict directive, if I forgot to put const here that
 will catch that problem and tell me explicitly that I've done a bad 
 thing. And I've changed my variables declarations from using var to 
 const. 
-  
+<!--~~~~~~~~~~~~~~~ 501/502.  (274) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image501.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image502.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
+
 Now over here in my file, instead of having the script here I'm 
 going to add a source src=. And then I can actually put in here, 
 script 22. And that's fine and I can move this up to here really. 
@@ -8100,13 +8163,24 @@ So you have to keep the closing tag but that will work.
 And now I can come over to my file in the browser (right image) 
 over here, refresh, test it and you can see it still works. It 
 still functions just fine. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 503.  (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image503.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 Even more if you want you could even take this even further by 
 moving the declaration for the script here, up to the top of the 
 file. I can put it in here the head, but I have to add the defer 
 key word here. With defer it will make it run as if it's at the 
 bottom of the page. And you'll see that still works. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504.  (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image504.png?raw=true"
+  style="width:50%"
+  alt="." />
 If I take defer out of there, watch what happens. Refresh and, 
 it doesn't work. Because, addEventListener is null. What's going 
 on here, is that the page loads from the top to the bottom. So 
@@ -8133,36 +8207,72 @@ invoked function. And using use strict and you'll start to get used to using
 const and let Instead of are for your keywords and that will really help you 
 out in the long run.
 
-  •	3.23.Closures in Javascript (shortcut)
-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
-  •	3.23.IIFE in JavaScript (shortcut)
-  https://developer.mozilla.org/en-US/docs/Glossary/IIFE
-  •	3.23.Simple-SlideShow-START-File.zip (download)
-  https://www.coursera.org/learn/javascript-basics/supplement/TOTXS/simple-slide-show-start-files
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures">
+    3.23 Closures in Javascript (shortcut)</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/IIFE">
+    3.23 IIFE in JavaScript (shortcut)</a></li>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/TOTXS/simple-slide-show-start-files">
+    3.23 Simple-SlideShow-START-File.zip (download)</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-24">3.24 Simple JS Slideshow – Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~ 505. simplage js slideshow - part 1 (3.24) (277) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image505.png?raw=true"
+  style="width:40%"
+  title="3.24 Simple JS Slideshow - Part 1"
+  alt="3.24 Simple JS Slideshow - Part 1." />
+</p>
 Simple JavaScript slideshow demonstrating basic DOM manipulation and event handling. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 506.  (277) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image506.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 We've done a lot of the basics and you've learned a lot about how JavaScript works 
 and how you can manipulate the DOM and capture events. Now, it's time to put together 
 some scripts that are actually doing some interesting things and will allow us to 
 test out what we know so far. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 507.  (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image507.png?raw=true"
+  style="width:50%"
+  alt="." />
 If you look in the start files for this project, you'll notice there's some images 
 and an index.html file. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 508.  (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image508.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 If you open up that index.html file in your code editor, you'll see that it's just 
 got some very basic markup inside of it that includes a div with an image, one of 
 the images in the folder, and a paragraph with two links, one for a previous link 
 and one for our next link. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 509.  (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image509.png?raw=true"
+  style="width:50%"
+  alt="." />
 Over here in my browser, I can see that it looks like this. When the user clicks 
 the "Next" link, it'll bring up the next picture and when they click the "Previous" 
 link, it'll bring up the previous picture. That's what we're going to make in this 
 particular exercise here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 510.  (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image510.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 There are lots of ways of going about creating this simple slideshow. But one 
 way of doing it is to make a variable that includes an array and a variable which 
 is an array, and it includes all of the images that we have in the folder. Let's 
@@ -8175,7 +8285,13 @@ which is actually image 2. It's a little bit confusing because these are labeled
 1, 2, 3, 4, 5 but they're actually in the array 0, 1, 2, 3, and 4. But let's 
 start by putting in the array into our script over here. Down here at the bottom 
 of the page, just add script tags like so. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 511.  (280) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image511.png?raw=true"
+  style="width:50%"
+  alt="." />
+
 In this script tag, we're going to add an array, var myImages equals square 
 brackets, and then each element goes inside quotes. It doesn't matter if 
 they're single quotes or double-quotes. It doesn't really matter. You can do it 
@@ -8187,120 +8303,462 @@ of the source attribute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-25">3.25 Simple JS Slideshow – Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 512.  (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image512.png?raw=true"
+  style="width:50%"
+  title=""
+  alt="." />
+</p>
+
 You will need some variables that we can adjust along the way 
 to capture which image that we're on in this array. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 513.  (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image513.png?raw=true"
+  style="width:50%"
+  alt="." />
+  
 I'm going to make a variable called currentImage and I'm 
 going to set it to zero because when the page loads, this 
 image is showing which is number 0 in the array. Images 
 square brackets zero would get that image. 
- 
-Let's set that over here. Let's make a variable here, our currentImage and set that to a value of zero to start with. 
- 
-Then from there, we need to create an event handler that will handle the clicking for the ''Next'' button. We'll do the next link first. This is what it will look like; document.getElementById('next'). It's going to go into our document and find that link that has the ID set to next. I'm using the Onclick event property. I'm going to run a function called nextPhoto. Notice it doesn't have parentheses at the end of it, but I'm going to assign it a function called nextPhoto, so then I can create that function nextPhoto. 
- 
-Let's go ahead and add this to our script. Document.getElementById. That's going to go in here and look for this link here that has the ID of next. It's going to go into our document link for that. Onclick equals nextPhoto;. Then down here we're going to make a function called nextPhoto. Notice that if we look at this image tag here, it has an ID that has a value set to myimage. That's what we want to get. We want to change the source attribute on that image, if this button has been clicked. Also, we want to take currentImage here and increment it. I'm going to say currentImage++. Now I'm going to come in here. I'm going to say, I need to go document.getElementById. What ID do I want? I want myimage up here. I want to set its dot source SRC equal to myimages, that array currentImage. That will go into this array here and find currentImage. 
-Now, the first time I click that link, currentImage is going to get incremented to one. It will come in here, that's zero, this is one. So it says, that's image2.jpg. This is going to be image2.jpg and I'm assigning that to this source attribute up here the source. Instead of saying image1.jpg, it's going to say image2.jpg. Let's save that and see if that works. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 514.  (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image514.png?raw=true"
+  style="width:50%"
+  alt="." />
+Let's set that over here. Let's make a variable here, our currentImage and set 
+that to a value of zero to start with. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 515.  (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image515.png?raw=true"
+  style="width:50%"
+  alt="." />
+
+Then from there, we need to create an event handler that will handle the 
+clicking for the ''Next'' button. We'll do the next link first. This is what 
+it will look like; document.getElementById('next'). It's going to go into our 
+document and find that link that has the ID set to next. I'm using the Onclick 
+event property. I'm going to run a function called nextPhoto. Notice it doesn't 
+have parentheses at the end of it, but I'm going to assign it a function called 
+nextPhoto, so then I can create that function nextPhoto. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 516.  (283) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image516.png?raw=true"
+  style="width:50%"
+  alt="." />
+
+Let's go ahead and add this to our script. Document.getElementById. That's 
+going to go in here and look for this link here that has the ID of next. It's 
+going to go into our document link for that. Onclick equals nextPhoto;. Then 
+down here we're going to make a function called nextPhoto. Notice that if we 
+look at this image tag here, it has an ID that has a value set to myimage. 
+That's what we want to get. We want to change the source attribute on that 
+image, if this button has been clicked. Also, we want to take currentImage here 
+and increment it. I'm going to say currentImage++. Now I'm going to come in 
+here. I'm going to say, I need to go document.getElementById. What ID do I 
+want? I want myimage up here. I want to set its dot source SRC equal to 
+myimages, that array currentImage. That will go into this array here and find 
+currentImage. 
+Now, the first time I click that link, currentImage is going to get incremented 
+to one. It will come in here, that's zero, this is one. So it says, that's 
+image2.jpg. This is going to be image2.jpg and I'm assigning that to this 
+source attribute up here the source. Instead of saying image1.jpg, it's going 
+to say image2.jpg. Let's save that and see if that works. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 517.  (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image517.png?raw=true"
+  style="width:50%"
+  alt="." />
 Come over here, refresh. If I click ''Next'', you can see that it's changed. 
- 
-If I do inspect down here, let me arrange this the way I want it. I'm going to put this down at the bottom. I'm going to turn off that button there. But if I come in here and look at this div, notice this source says image2.jpg. If I click ''Next'' again, notice that got changed to image3, image4, image5. 
- 
-What happened? We got to image5 because there are five images. Then I click ''Next'' again, and now I have undefined. You'll notice there's an error over here as well. I can go to my console log and see undefined error file not found. Could not find I've gotten beyond the end of my array. At a certain point, it ceases to work depending on how many pictures are in the array. That's what we're going to fix next.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 518.  (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image518.png?raw=true"
+  style="width:50%"
+  alt="." />
+If I do inspect down here, let me arrange this the way I want it. I'm going to 
+put this down at the bottom. I'm going to turn off that button there. But if I 
+come in here and look at this div, notice this source says image2.jpg. If I 
+click ''Next'' again, notice that got changed to image3, image4, image5. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 519.  (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image519.png?raw=true"
+  style="width:50%"
+  alt="." />
+
+What happened? We got to image5 because there are five images. Then I click 
+''Next'' again, and now I have undefined. You'll notice there's an error over 
+here as well. I can go to my console log and see undefined error file not 
+found. Could not find I've gotten beyond the end of my array. At a certain 
+point, it ceases to work depending on how many pictures are in the array. 
+That's what we're going to fix next.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-26">3.26 Simple JS Slideshow – Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 520.  (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image520.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+
 Let's think about this for a minute. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 521.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image521.png?raw=true"
+  style="width:50%"
+  alt="." />
  
-What we want to do is we need some code that says, if you're at the end of the array, go back to the beginning. Think about that for a minute. What do we know about JavaScript that will allow us to do this kind of thing? What logical flow control structure can we use to handle this? 
- 
-If you were thinking of something like this, you're on the right track. If current image is greater than four, because remember, the numbers in the array are 0, 1, 2, 3, and 4. If it gets greater than four, V becomes greater than four. 
-We can set current image back to zero, and then go and get the next image. With this if statement in place, you can make the slideshow effectively loop around. 
- 
-Let's go ahead and add this. I was just going to go in here, if parentheses currently rises. In the parentheses we want to say, if current image is greater than four. Current image equals zero. 
- 
-Let's test that. I come over here and refresh this, and I click "Next" and down here in the elements, I'm going to come down and see in my div, you'd see that's image 2. Next three, next four, five. Then if I click "Next" again, it should get set back to zero, which we get as image 1. That works. Now the next button is looping around through all of the images that we have. That's great. 
- 
-Now it would be a little bit better if we could generalize or script a little bit. Rather than greater than four here, I know that it's four because I know it 0, 1, 2, 3, 4. I can use my length property to get that. I could do, is less than myImages.length. The length of the array minus 1 is often what we want because arrays start counting at 0, 1, 2, 3, 4. So myImages.length minus 1 will give us 4. It's generalized that if I were to add more pictures, then the script would continue to function without having to make changes to the number of images.  .length will give it. 
-Next thing we need to do is handle the previous button. Maybe you can do that for yourself. It's great challenge. It's not that different than what we just did. It's a little bit different, but it's not that different. You might be able to do the previous button by yourself.
+What we want to do is we need some code that says, if you're at the end of the 
+array, go back to the beginning. Think about that for a minute. What do we know 
+about JavaScript that will allow us to do this kind of thing? What logical flow 
+control structure can we use to handle this? 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 522.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image522.png?raw=true"
+  style="width:50%"
+  alt="." />
+If you were thinking of something like this, you're on the right track. If 
+current image is greater than four, because remember, the numbers in the array 
+are 0, 1, 2, 3, and 4. If it gets greater than four, V becomes greater than 
+four. 
+We can set current image back to zero, and then go and get the next image. With 
+this if statement in place, you can make the slideshow effectively loop around. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 523.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image523.png?raw=true"
+  style="width:50%"
+  alt="." />
+Let's go ahead and add this. I was just going to go in here, if parentheses 
+currently rises. In the parentheses we want to say, if current image is greater 
+than four. Current image equals zero. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 524.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image524.png?raw=true"
+  style="width:50%"
+  alt="." />
+Let's test that. I come over here and refresh this, and I click "Next" and down 
+here in the elements, I'm going to come down and see in my div, you'd see 
+that's image 2. Next three, next four, five. Then if I click "Next" again, it 
+should get set back to zero, which we get as image 1. That works. Now the next 
+button is looping around through all of the images that we have. That's great. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 525.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image525.png?raw=true"
+  style="width:50%"
+  alt="." />
+Now it would be a little bit better if we could generalize or script a little 
+bit. Rather than greater than four here, I know that it's four because I know 
+it 0, 1, 2, 3, 4. I can use my length property to get that. I could do, is less 
+than myImages.length. The length of the array minus 1 is often what we want 
+because arrays start counting at 0, 1, 2, 3, 4. So myImages.length minus 1 will 
+give us 4. It's generalized that if I were to add more pictures, then the script 
+would continue to function without having to make changes to the number of 
+images. .length will give it. Next thing we need to do is handle the previous 
+button. Maybe you can do that for yourself. It's great challenge. It's not that 
+different than what we just did. It's a little bit different, but it's not that 
+different. You might be able to do the previous button by yourself.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-27">3.27 Simple JS Slideshow – Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
-To get started with the button for getting the previous photo, we first need a event handler that will go in and find that element with the idea of previous and add the unclick event property and run a function called Previous Photo, and then we can set up that function. 
- 
-Let's do that first. Up here and you can even copy and paste this if you wanted to. Sometimes, it's best to do that just to avoid making mistakes, but you have to be sure to change everything you need to change. 
- 
-Instead of next, this is previous instead of next photo, is going to be previous photo. Okay, so now we've got our event handler. 
-And now we need a function. Again copy and paste always good to make sure the names match function. Previous Photo, parentheses curly braces. There we go. Now the way to think about this the Previous Photo button is you have to think backwards. And the easiest way to do it is to think about what happens if you're on the last photo? Suppose we're showing on the screen image five, and current image is currently set to four. What do we want to have happen when we click the button previous photo? 
-We want current image to decrement. We wanted to go from 4 to 3. And then we want to go in and get this image. And then when we click it again, it goes from 3 to 2, and we get that image and then it goes from 2 to 1 and we get that image. And then it goes from one to zero and we get that image to zeros, okay? If you click it again, we don't do some sort of if statement, it's going to go from zero to minus one and that's not going to work. So if the value of current image is less than 0, we want to set it to what? Well, we could set it to 4. That would work or we could set it to myimages.length - 1, right? Let's take this piece by piece. Let's do this part first. I'm going to decrement current image, currentImage. That's the same as saying current image equals current image minus one. 
-We're going to decrement current image and then we can do this again. If we leave off the if statement all together, you'll see when we get down to the bottom of the images, we're going to have an error, but let's just do it just to see how that happens and what that looks like. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 526.  (289) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image526.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+To get started with the button for getting the previous photo, we first need a 
+event handler that will go in and find that element with the idea of previous 
+and add the unclick event property and run a function called Previous Photo, 
+and then we can set up that function. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 527.  (289) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image527.png?raw=true"
+  style="width:50%"
+  alt="." />
+Let's do that first. Up here and you can even copy and paste this if you wanted 
+to. Sometimes, it's best to do that just to avoid making mistakes, but you have 
+to be sure to change everything you need to change. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 528.  (290) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image528.png?raw=true"
+  style="width:50%"
+  alt="." />
+Instead of next, this is previous instead of next photo, is going to be previous 
+photo. Okay, so now we've got our event handler. 
+And now we need a function. Again copy and paste always good to make sure the 
+names match function. Previous Photo, parentheses curly braces. There we go. 
+Now the way to think about this the Previous Photo button is you have to think 
+backwards. And the easiest way to do it is to think about what happens if 
+you're on the last photo? Suppose we're showing on the screen image five, and 
+current image is currently set to four. What do we want to have happen when we 
+click the button previous photo? 
+We want current image to decrement. We wanted to go from 4 to 3. And then we 
+want to go in and get this image. And then when we click it again, it goes from 
+3 to 2, and we get that image and then it goes from 2 to 1 and we get that 
+image. And then it goes from one to zero and we get that image to zeros, 
+okay? If you click it again, we don't do some sort of if statement, it's 
+going to go from zero to minus one and that's not going to work. So if the 
+value of current image is less than 0, we want to set it to what? Well, we 
+could set it to 4. That would work or we could set it to myimages.length - 1, 
+right? Let's take this piece by piece. Let's do this part first. I'm going to 
+decrement current image, currentImage. That's the same as saying current 
+image equals current image minus one. 
+We're going to decrement current image and then we can do this again. If we 
+leave off the if statement all together, you'll see when we get down to the 
+bottom of the images, we're going to have an error, but let's just do it just 
+to see how that happens and what that looks like. 
 
-Over here, I can refresh this, and I'm going to click Next until I get to the end to the fifth photo here. Oops to summon four one more. So now I'm on five. And now I can click previous and it'll go to four. They'll go to three, it'll go to 2, it'll go to 1. 
-And now if I click it again going to have an error because current image is going to be minus one, and that's not going to work. Okay, undefined. So that's where we need our if statement. So let's come back here and see if we can write that if statement. It's going to look like this. So images will copy this one and pasted in here. But instead of current image is greater than my images. 
-Where I'm looking for is current image less than zero? Is current image less than zero? And if it is, I can set current image to four. And that would work because that puts it back at the end of the array. That'll work just fine. But even better is to use the my images dot length minus one. Again to keep the script generalized. My image is length minus one. So now you'll see if l do this. I'm going to come back here, refresh the page. And again, I'll go back up to the end of the list here. There's 2,3,4,5. Okay, now if I click previous, it should go to four And then to three, and then to two, and then to one. And now if I click it again, current image is now going to be minus one that's less than zero. That's going to kick off that if statement and say, all right, it's less than zero. So it's going to set it to the end of the array. And there it is. There's five again, because current images four which is getting image five from the array. So now I can loop through in either direction I can loop through, going frontwards and I can loop through going backwards.
+Over here, I can refresh this, and I'm going to click Next until I get to the 
+end to the fifth photo here. Oops to summon four one more. So now I'm on five. 
+And now I can click previous and it'll go to four. They'll go to three, it'll 
+go to 2, it'll go to 1. 
+And now if I click it again going to have an error because current image is 
+going to be minus one, and that's not going to work. Okay, undefined. So 
+that's where we need our if statement. So let's come back here and see if we 
+can write that if statement. It's going to look like this. So images will copy 
+this one and pasted in here. But instead of current image is greater than my 
+images. 
+Where I'm looking for is current image less than zero? Is current image less 
+than zero? And if it is, I can set current image to four. And that would work 
+because that puts it back at the end of the array. That'll work just fine. 
+But even better is to use the my images dot length minus one. Again to keep 
+the script generalized. My image is length minus one. So now you'll see if l do 
+this. I'm going to come back here, refresh the page. And again, I'll go back up 
+to the end of the list here. There's 2,3,4,5. Okay, now if I click previous, it 
+should go to four And then to three, and then to two, and then to one. And now 
+if I click it again, current image is now going to be minus one that's less 
+than zero. That's going to kick off that if statement and say, all right, it's 
+less than zero. So it's going to set it to the end of the array. And there it 
+is. There's five again, because current images four which is getting image 
+five from the array. So now I can loop through in either direction I can loop 
+through, going frontwards and I can loop through going backwards.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-28">3.28 Simple JS Slideshow – Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 529.  (292) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image529.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 Everything is working. 
+<!--~~~~~~~~~~~~~~~ 530/531.  (292) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image530.png?raw=true"
+  style="width:45%"
+  alt="." />
+<img src="./images/image531.png?raw=true"
+  style="width:45%"
+  alt="." />
+</p>
 
-Now all we need to do is clean up this script just a little bit, make it a little bit better. One way of doing that is to put it in a separate script file. For this script, it's short enough, you could leave it at the bottom of the page if you wanted to. But just to practice our best practices, let's move this script into a linked file. Over here, I could make a new file and call it script.js. 
+Now all we need to do is clean up this script just a little bit, make it a 
+little bit better. One way of doing that is to put it in a separate script 
+file. For this script, it's short enough, you could leave it at the bottom of 
+the page if you wanted to. But just to practice our best practices, let's move 
+this script into a linked file. Over here, I could make a new file and call it 
+script.js. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 532.  (293) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image532.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+On this file, I could put my function expression that will be immediately 
+invoked. We do that with parentheses, and then in the parentheses we put in 
+Function with its parentheses and its curly braces, and then one more set of 
+parentheses and a semicolon. Terrible syntax, but this will run when the script 
+loads. It's an immediately invoked function expression. It will keep us from 
+having any variables in the global scope, which is always to our benefit. 
+Because if you wanted to include the script on a web page with other things, 
+perhaps you've got other things going on in the web page, perhaps you've got 
+other JavaScript elements going on the web page. 
 
-On this file, I could put my function expression that will be immediately invoked. We do that with parentheses, and then in the parentheses we put in Function with its parentheses and its curly braces, and then one more set of parentheses and a semicolon. Terrible syntax, but this will run when the script loads. It's an immediately invoked function expression. It will keep us from having any variables in the global scope, which is always to our benefit. Because if you wanted to include the script on a web page with other things, perhaps you've got other things going on in the web page, perhaps you've got other JavaScript elements going on the web page. 
+You don't want current image to conflict with some other current image variable 
+for some other script. So you want to keep everything inside of this function. 
+I'm going to click between here and I'm going to also add my Use Strict 
+directive. Then in here, I can just paste my entire script from here. There it 
+is. Shift tab to move that back. Even better would be to replace these 
+variables with const.
 
-You don't want current image to conflict with some other current image variable for some other script. So you want to keep everything inside of this function. I'm going to click between here and I'm going to also add my Use Strict directive. Then in here, I can just paste my entire script from here. There it is. Shift tab to move that back. Even better would be to replace these variables with const.
+They're not going to change. Well, actually, this one can't be constrained 
+image, that one's going to change. That one needs to be let because current 
+image is going to get reassigned as we go through our scripts down here. But 
+these variables will now be local to this function and they won't be 
+available at the global scope. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 533.  (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image533.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
-They're not going to change. Well, actually, this one can't be constrained image, that one's going to change. That one needs to be let because current image is going to get reassigned as we go through our scripts down here. But these variables will now be local to this function and they won't be available at the global scope. 
+Over here, I'm going to remove that stuff and instead up here, just link src 
+equals script.js, it even pops up there in my menu. I still need this closing 
+tag, but I can move it up there. That should work just as well. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 534.  (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image534.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
-Over here, I'm going to remove that stuff and instead up here, just link src equals script.js, it even pops up there in my menu. I still need this closing tag, but I can move it up there. That should work just as well. 
+We should go back and test it, make sure that we didn't make any mistakes in 
+the process of moving stuff around. You can see that it still works just 
+exactly the same as before. Now, we could leave the script here at the bottom 
+of the page. There's nothing wrong with that, frequently I leave my scripts 
+there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 535.  (295) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image535.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
-We should go back and test it, make sure that we didn't make any mistakes in the process of moving stuff around. You can see that it still works just exactly the same as before. Now, we could leave the script here at the bottom of the page. There's nothing wrong with that, frequently I leave my scripts there. 
+But even better is to move it up into the head of the page and add a defer 
+attribute here. That will make the script load after the rest of the page is 
+loaded. It keeps it out of the body of my HTML, which I really want to keep my 
+HTML as clean as possible so it's easy to read, easy to understand, easy to 
+update, easy for Google to crawl. All of those reasons. I want to keep my HTML 
+as clean as I possibly can without any extra attributes, without any extra 
+code or anything else. But once I've got that all in there and working well, 
+I should always come back and just test it to make sure I did it right. Next, 
+previous, and that's working just fine. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 536.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image536.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 
-But even better is to move it up into the head of the page and add a defer attribute here. 
-That will make the script load after the rest of the page is loaded. It keeps it out of the body of my HTML, which I really want to keep my HTML as clean as possible so it's easy to read, easy to understand, easy to update, easy for Google to crawl. All of those reasons. I want to keep my HTML as clean as I possibly can without any extra attributes, without any extra code or anything else. But once I've got that all in there and working well, I should always come back and just test it to make sure I did it right. Next, previous, and that's working just fine. 
- 
-With that, we have a really nice script that's all set up and working well. In this lesson, we've combined a lot of the basics that you've learned in the course. We're using some control structures such as the sequence and the selection. We don't have a loop in this one, but we're using sequence and selection. We're using the custom functions. We've got event listeners. When there's event listeners trigger, we're affecting the DOM to change the web page. 
- 
-Now, what you could do to make the script even better, perhaps, or just to test what you know so far is go back to the script, and how could you replace using the Onclick event handler with using the Add Event handler method instead? I recommend giving that a try because that's a really good challenge to see if you can figure out something on your own without making it too hard, without going too far. 
+With that, we have a really nice script that's all set up and working well. In 
+this lesson, we've combined a lot of the basics that you've learned in the 
+course. We're using some control structures such as the sequence and the 
+selection. We don't have a loop in this one, but we're using sequence and 
+selection. We're using the custom functions. We've got event listeners. When 
+there's event listeners trigger, we're affecting the DOM to change the web 
+page. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 537.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image537.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+Now, what you could do to make the script even better, perhaps, or just to 
+test what you know so far is go back to the script, and how could you replace 
+using the Onclick event handler with using the Add Event handler method 
+instead? I recommend giving that a try because that's a really good challenge 
+to see if you can figure out something on your own without making it too hard, 
+without going too far. 
+
 3.28.Advanced-SlideShow-START-Files.zip (download)
 https://www.coursera.org/learn/javascript-basics/supplement/4Ljvq/advanced-slide-show-start-files
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-29">3.29 Slideshow with Cross Fade Effect – Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 538. slideshoiw with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image538.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
 Slideshow with crossfade effect: JavaScript with CSS animation. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 539. slideshoiw with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image539.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 For this version of the slideshow, we're going to do something very similar to 
 what we did before, but with a little bit of a twist. It's going to be a little 
 bit more sophisticated. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 540.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image540.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 I've got a little styling in here to make the slideshow look a little bit better. 
 But instead of just swapping out the source, we'll have a crossfade effect as we 
 go from one slide to the next, and we'll be using CSS to do that animation. It's 
 going to be a little bit different than what we did before, but very similar 
 otherwise. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 541.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image541.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 The HTML for this slideshow is very similar to what we had before. We just have 
 images, but now I have a folder called slides, so image source slide image 1. 
 Then I've got an alt tag and the ID for the image here, and then I've got my 
 next and previous links as I had before. You can see that over here in my HTML. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 542.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image542.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Very simple set-up with an image inside of a div called content. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 543.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image543.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 One thing that's different is that this time I'm using CSS to create, to tell 
 that content to be positioned relative. I'm absolutely positioning these slides 
 inside of here. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 544.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image544.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 So this content is set to 400 by 266 pixels, which is the exact size of the 
 images that I have, and over here you can see it here on the page. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 545.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image545.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 Now if I were to go into my CSS over here and adjust that, you'd see a little bit 
 better exactly what's going on here. So if I made this 500 wide instead of 400 
 wide, and 366 instead of 266, and save that, you'd see over here when I refresh 
@@ -8314,16 +8772,34 @@ fade it in so that you'll get that crossfade effect. But you can see the image
 here is position absolute, left 0, top 0. That what's putting that image inside 
 this parent element, this container at the top left corner, left 0, top 0, and 
 that's what's going on there. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 546.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image546.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 We can put these back because that's just for demo, and you'll see if I refresh 
 this that the image is now once again fitting inside that box perfectly. So it's 
 important to understand that setup before we start with this. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 547.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image547.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 The next thing we need is the actual CSS animation that's going to actually do 
 the crossfade effect. We need to add this to the style sheet. Go back to Visual 
 Studio Code and on the styles down here at the bottom, we can add these animation 
 styles. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 548.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image548.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 I'm going to add a class called fade in image. What is that class going to do? 
 It's going to, come over here and see here. We're going to run an animation 
 called fade in over two seconds. Two seconds is slow, you can make it one 
@@ -8359,19 +8835,76 @@ performance across all kinds of devices.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-30">3.30 Slideshow with Cross Fade Effect – Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Now we're all set up and ready to go, and ready to start writing our script. 
- 
-Our script is going to start with just a basic variable, again, for our current image and our array, same array that we had before, same current image variables. Then I've got variables for the container, which is going to go get that container that's holding our image, and then for the next and previous buttons as well. Let's go ahead and get these setup in our script. 
- 
-Going back to our index file here, I'm just going to add script tags at the bottom of our script here, our HTML script, like so. Then I'm going to add var currentImage, and I'm going to set that to a value of 0 initially. Then I'm going to have var. Then I'm just gonna copy this. Again, it doesn't matter if you use single quotes or double quotes. Then the next thing we need are to get some variables. Var Container equals document.getElementByID and the ID that we're getting again, is this one, content. It's always good to copy and paste so that you don't spell that wrong. That's going to get us that element. 
- 
-We also need the next and previous links. Var nextBtn equals document.getElementByID. Next, var prevBtn equals document.getElementByID previous. That's going to go into our document. We're going to get our Next button. We're going to get our previous button, and we're going to get our content div that we're going to be putting into these elements here. I have an extra space there that I shouldn't have, make sure you fix that if you have that in there. Document.getElementByID content next and previous. In the next lesson, we'll add the EventListener for when you click on this next link here to go to the next slide. Just like we did before, we'll build out the next one and then when we're done with that, when we get that all working or work on the previous one. We'll go ahead and work on that one first.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 549.  (303) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image549.png?raw=true"
+  style="width:40%"
+  alt="." />
+
+</p>Now we're all set up and ready to go, and ready to start writing our script. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 550.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image550.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+Our script is going to start with just a basic variable, again, for our current 
+image and our array, same array that we had before, same current image 
+variables. Then I've got variables for the container, which is going to go get 
+that container that's holding our image, and then for the next and previous 
+buttons as well. Let's go ahead and get these setup in our script. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 551.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image551.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+Going back to our index file here, I'm just going to add script tags at the 
+bottom of our script here, our HTML script, like so. Then I'm going to add var 
+currentImage, and I'm going to set that to a value of 0 initially. Then I'm 
+going to have var. Then I'm just gonna copy this. Again, it doesn't matter if 
+you use single quotes or double quotes. Then the next thing we need are to get 
+some variables. Var Container equals document.getElementByID and the ID that 
+we're getting again, is this one, content. It's always good to copy and paste 
+so that you don't spell that wrong. That's going to get us that element. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 552.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image552.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+We also need the next and previous links. Var nextBtn equals 
+document.getElementByID. Next, var prevBtn equals document.getElementByID 
+previous. That's going to go into our document. We're going to get our Next 
+button. We're going to get our previous button, and we're going to get our 
+content div that we're going to be putting into these elements here. I have an 
+extra space there that I shouldn't have, make sure you fix that if you have 
+that in there. Document.getElementByID content next and previous. In the next 
+lesson, we'll add the EventListener for when you click on this next link here 
+to go to the next slide. Just like we did before, we'll build out the next 
+one and then when we're done with that, when we get that all working or work 
+on the previous one. We'll go ahead and work on that one first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-31">3.31 Slideshow with Cross Fade Effect – Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 553.  (306) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image553.png?raw=true"
+  style="width:40%"
+  title=""
+  alt="." />
+</p>
 Here's our event listener for when we click on the the next button. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 554.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image554.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
 For this one we're using the add event listener method instead of the on click property. We'll look at this method and we're going to add the event listener right to that next button variable that we created. When it's clicked, we're going to run a function. This is an anonymous inline function, and we're going to pass in the event object so that we can prevent the default behavior of what happens when you click the link. We don't want the browser to handle clicking the links the way it normally would, we want to prevent that default behavior and prevent default will do that when we pass in this event object here, so it will prevent default. 
 Then just like before, we're going to increment the currentImage and then we're going to check once again if the current image is greater than the length of the array that we've got minus one. If that's true, we're going to set current image back to zero. That part’s the same as before. 
  
@@ -8380,7 +8913,13 @@ Current image plus plus same as we did before, and just like we did before, if c
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect – Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 556.  (308) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image556.png?raw=true"
+  style="width:40%"
+  title=""
+  alt="." />
+</p>
 Here's the new part. 
  
 Instead of just swapping the source attribute, which is what we did in the first slideshow. In this one, what we're going to do is we're going to create a new image element, document create element IMG, so that makes a new image tag. I'm going to put it into this variable called newSlide. And then I'm going to set the source newSlide.src = ‘slides/${myphotos[currentImage]}’;.
@@ -8395,30 +8934,78 @@ I'm going to go over to my slide show here, click refresh, and then click Next. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 560.  (308) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image560.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
+
+As you just saw, this is working, and the images are coming in, and they're 
+stacking one on top of the other invading in. 
  
-As you just saw, this is working, and the images are coming in, and they're stacking one on top of the other invading in. 
+But there's one thing that we can do to make this a little bit better. I don't 
+really like that every time I click the link, it's adding more images to the 
+DOM, especially when it starts adding the same images to the DOM over and over 
+and over again. I think that it could be a little bit more efficient, and a 
+little bit better, and a little bit cleaner. 
  
-But there's one thing that we can do to make this a little bit better. I don't really like that every time I click the link, it's adding more images to the DOM, especially when it starts adding the same images to the DOM over and over and over again. I think that it could be a little bit more efficient, and a little bit better, and a little bit cleaner. 
+What we're going to do is we're going to remove the extra images as the new 
+images come in. What we'll do is we'll say, okay, container, you have children, 
+the children of the container are the images, and if I have more than two 
+images, if children.length is greater than two, I'm going to remove the first 
+one in that container, the bottom image, I'm going to remove the one from the 
+very bottom of that list, which is not showing anyway, it's at the bottom of 
+the stack and it's not going to be seen anyway. 
+That means you'll have one image, and then you'll put another image on top, 
+and as soon as you click next and add a third image, then the one at the very 
+bottom of the list will go away, so that you never have more than two in the 
+list, and I think that that makes the script a little bit better, keeps our 
+DOM a little bit cleaner because we're not continuing to add more and more 
+elements every time somebody clicks the link for next. 
  
-What we're going to do is we're going to remove the extra images as the new images come in. What we'll do is we'll say, okay, container, you have children, the children of the container are the images, and if I have more than two images, if children.length is greater than two, I'm going to remove the first one in that container, the bottom image, I'm going to remove the one from the very bottom of that list, which is not showing anyway, it's at the bottom of the stack and it's not going to be seen anyway. 
-That means you'll have one image, and then you'll put another image on top, and as soon as you click next and add a third image, then the one at the very bottom of the list will go away, so that you never have more than two in the list, and I think that that makes the script a little bit better, keeps our DOM a little bit cleaner because we're not continuing to add more and more elements every time somebody clicks the link for next. 
+Let's go ahead and add this to our script over here. Down here I'm going to 
+say if, and in here I'm going to just put container.children.length, if that's 
+greater than two, then I want to do something, and what do I want to do if 
+it's greater than two? 
+
+What I want to do is I want to say, container.removeChild(container.children[0]);. 
+I want to remove a child. Which child do I want to remove? I want to remove the 
+bottom most child from the list. 
  
-Let's go ahead and add this to our script over here. Down here I'm going to say if, and in here I'm going to just put container.children.length, if that's greater than two, then I want to do something, and what do I want to do if it's greater than two? 
-What I want to do is I want to say, container.removeChild(container.children[0]);. I want to remove a child. Which child do I want to remove? I want to remove the bottom most child from the list. 
- 
-Again, up here the container is this thing, this div id=’content’, and it has children which are images. When we start off the page, there's just one, but as we've been clicking the link, it adds more and more and more and more in there, and we really don't want that to happen. This will keep us from adding more than two, because once we get more than two, it'll remove the bottom one from the list. 
+Again, up here the container is this thing, this div id=’content’, and it has 
+children which are images. When we start off the page, there's just one, but 
+as we've been clicking the link, it adds more and more and more and more in 
+there, and we really don't want that to happen. This will keep us from adding 
+more than two, because once we get more than two, it'll remove the bottom one 
+from the list. 
   
-Let's save this and see if I typed in all right, and test it over here. I'm going to look at my content. Here you can see I've got one image there, I add one, so that adds image number 2 on there. Coming in here, you can click next, and it's adding that on there. Now when I click the third one, it should add the third image, but also remove the first one at the top of this list. Now we've added image 3, but image 1 went away, and I can keep going, and it'll do image 4 on top of there, and then image 5, we've got four and five on the screen, four is in the bottom, five is in the top, and image 1 is now on the top. 
-You might be wondering why the one down here at the bottom is on the top. You have to remember the page renders from the top to the bottom, and the fact that these are set  to position absolute means that this one gets added to the page first, and then this one gets added to the page second, and because it gets added to the page second and because of the absolute positioning, that means it ends up on top, it's on top of the first image, so that's working just great.
+Let's save this and see if I typed in all right, and test it over here. I'm 
+going to look at my content. Here you can see I've got one image there, I add 
+one, so that adds image number 2 on there. Coming in here, you can click next, 
+and it's adding that on there. Now when I click the third one, it should add 
+the third image, but also remove the first one at the top of this list. Now 
+we've added image 3, but image 1 went away, and I can keep going, and it'll 
+do image 4 on top of there, and then image 5, we've got four and five on the 
+screen, four is in the bottom, five is in the top, and image 1 is now on the 
+top. 
+
+You might be wondering why the one down here at the bottom is on the top. You 
+have to remember the page renders from the top to the bottom, and the fact 
+that these are set  to position absolute means that this one gets added to 
+the page first, and then this one gets added to the page second, and because 
+it gets added to the page second and because of the absolute positioning, that 
+means it ends up on top, it's on top of the first image, so that's working just 
+great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-34">3.34 Slideshow with Cross Fade Effect – Part 6</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 567. slideshow with cross fade effect - part 6 (315) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/image567.png?raw=true"
   style="width:40%"
-  title="2.34 Slideshow with Cross Fade Effect - Part 6"
-  alt="2.34 Slideshow with Cross Fade Effect - Part 6." />
+  title="3.34 Slideshow with Cross Fade Effect - Part 6"
+  alt="3.34 Slideshow with Cross Fade Effect - Part 6." />
 </p> 
 We have our next button working just fine. 
  
