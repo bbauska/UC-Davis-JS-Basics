@@ -1,13 +1,16 @@
 /* styles.css of uc-davis-js-basics */
 
-  img.displayed {
+  img {
+    width: 400px;
+  }
+
+  .displayed {
     display: block;
     margin: 0 auto; }
 
   .border {
-    border-width: 1px;
-    border-color: #778899;  /* dark grayish blue */
-    border-style: solid; }
+    border: 2px solid #778899; 
+  }
 
   ol,ul li { 
 
