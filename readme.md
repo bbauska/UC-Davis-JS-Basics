@@ -8940,7 +8940,14 @@ default behavior so that when I click on this link, I don't actually get the
 hashtag coming up in the browser. It prevents even trying to go to this href 
 at all. Then what we're going to do is we're going to increment current image.</p>
 
-Current image plus plus same as we did before, and just like we did before, if current image is greater than myphotos.length - 1. So really a four; 0,1, 2, 3, 4, if it's greater than four, my photos length would be five. But I want to check to see if it's greater than four. If it's greater than four, then what I want to do is I want to move it back to current image equals 0.  That will put it back to where it was initially. Now current image is going to increment, it's going to go up, and it's going to go from zero to one, to two, to three, to four, and then back to zero.
+Current image plus plus same as we did before, and just like we did before, 
+if current image is greater than myphotos.length - 1. So really a four; 0, 1, 
+2, 3, 4, if it's greater than four, my photos length would be five. But I want 
+to check to see if it's greater than four. If it's greater than four, then what 
+I want to do is I want to move it back to current image equals 0.  That will 
+put it back to where it was initially. Now current image is going to increment, 
+it's going to go up, and it's going to go from zero to one, to two, to three, 
+to four, and then back to zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect – Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8961,11 +8968,29 @@ Here's the new part.
   alt="Example, Add the New Slide on Top." />
 </p>
 
-<p>Instead of just swapping the source attribute, which is what we did in the first slideshow. In this one, what we're going to do is we're going to create a new image element, document create element IMG, so that makes a new image tag. I'm going to put it into this variable called newSlide. And then I'm going to set the source newSlide.src = ‘slides/${myphotos[currentImage]}’;.</p>
+<p>Instead of just swapping the source attribute, which is what we did in the 
+first slideshow. In this one, what we're going to do is we're going to create 
+a new image element, document create element IMG, so that makes a new image 
+tag. I'm going to put it into this variable called newSlide. And then I'm 
+going to set the source newSlide.src = ‘slides/${myphotos[currentImage]}’;.</p>
 
-<p>Notice the use of the tick marks here. And the dollar sign curly braces can hold the variable for the my photos thing. That's getting the next photo from the slides folder. And then I'm going to also add a class name fadinimg. And you'll remember we just added that class to the CSS. So, we know what that does when we add that class. It runs that animation over two seconds of actually feeding in the image. And then we append the child to the slide, contaner.appendChild(newSlide). The new slide gets appended to the container. It gets appended with this source in this class. As soon as it gets appended to the container that animation runs and changes the opacity from 0, it starts at 0, and it goes to 1, completely transparent to completely opaque.</p>
+<p>Notice the use of the tick marks here. And the dollar sign curly braces 
+can hold the variable for the my photos thing. That's getting the next photo 
+from the slides folder. And then I'm going to also add a class name fadinimg. 
+And you'll remember we just added that class to the CSS. So, we know what 
+that does when we add that class. It runs that animation over two seconds 
+of actually feeding in the image. And then we append the child to the slide, 
+contaner.appendChild(newSlide). The new slide gets appended to the container. 
+It gets appended with this source in this class. As soon as it gets appended 
+to the container that animation runs and changes the opacity from 0, it 
+starts at 0, and it goes to 1, completely transparent to completely opaque.</p>
 
-<p>Because we're adding it into this container and the CSS for that container is to make these images position absolute, it's going to get put right on top of the previous image. And because it's the same size as the previous image, it will completely cover it. But because it comes in as transparent, you'll see the other image underneath it at first, and then over two seconds it'll become opaque and that's what will cause the fading effect.</p>
+<p>Because we're adding it into this container and the CSS for that container 
+is to make these images position absolute, it's going to get put right on top 
+of the previous image. And because it's the same size as the previous image, 
+it will completely cover it. But because it comes in as transparent, you'll 
+see the other image underneath it at first, and then over two seconds it'll 
+become opaque and that's what will cause the fading effect.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 558.  (309) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8975,11 +9000,27 @@ Here's the new part.
   alt="." />
 </p>
 
-So let's go ahead and add this to our code over here. var newSlide. And I'm going to set that to document.createElement(‘img’). And what am I going to create? I'm going to create an image, IMG. Now we've got a variable that's holding a new image element. The image element is not on the page, but it's there. And then I'm going to say newSlide.className = ‘fadeinimg’. Again, we do the dollar sign and the curly braces so we can do a variable. We want my photos, square brackets, current image. 
+So let's go ahead and add this to our code over here. var newSlide. And I'm 
+going to set that to document.createElement(‘img’). And what am I going to 
+create? I'm going to create an image, IMG. Now we've got a variable that's 
+holding a new image element. The image element is not on the page, but it's 
+there. And then I'm going to say newSlide.className = ‘fadeinimg’. Again, we 
+do the dollar sign and the curly braces so we can do a variable. We want my 
+photos, square brackets, current image. 
 
-So when we click the next button the first time it starts off at 0, when we click it the first time it gets incremented to 1. So when that gets incremented to 1, a new photo gets created and the source gets set to, this gets incremented to 1, so the source gets that to image two and that goes in there. So, it's slide slash, that'll be an image2 dot jpg, the first time you click it. The next time you click it, it will be an image3. And when you get to image5, if you click it again, that gets beyond the length here, so it gets set back to 0. So, it'll go back to 1. 
+So when we click the next button the first time it starts off at 0, when we 
+click it the first time it gets incremented to 1. So when that gets 
+incremented to 1, a new photo gets created and the source gets set to, this 
+gets incremented to 1, so the source gets that to image two and that goes in 
+there. So, it's slide slash, that'll be an image2 dot jpg, the first time you 
+click it. The next time you click it, it will be an image3. And when you get 
+to image5, if you click it again, that gets beyond the length here, so it 
+gets set back to 0. So, it'll go back to 1. 
 
-Now, the last thing we need to do here is append this to the container. And we created a variable here for the container. We can say container.appendChild(newSlide). That would take the new slide that we created here as an image, set the source, set the class and put it on in there. 
+Now, the last thing we need to do here is append this to the container. And we 
+created a variable here for the container. We can say 
+container.appendChild(newSlide). That would take the new slide that we created 
+here as an image, set the source, set the class and put it on in there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 559.  (310) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8989,7 +9030,14 @@ Now, the last thing we need to do here is append this to the container. And we c
   alt="." />
 </p>
  
-I'm going to go over to my slide show here, click refresh, and then click Next. And look at that, it's working. It's working just perfectly. Next, and I can see in here that it's adding the images one on top of the other. Put three on top of two. It put four on top of three, it put five on top of four and now it'll put one on top of five. And you'll see as you're adding them, that animation is taking place. In over two seconds the picture comes in as transparent and then over two seconds it fades to opaque, and that's what's creating that crossfade effect.
+I'm going to go over to my slide show here, click refresh, and then click Next. 
+And look at that, it's working. It's working just perfectly. Next, and I can 
+see in here that it's adding the images one on top of the other. Put three on 
+top of two. It put four on top of three, it put five on top of four and now 
+it'll put one on top of five. And you'll see as you're adding them, that 
+animation is taking place. In over two seconds the picture comes in as 
+transparent and then over two seconds it fades to opaque, and that's what's 
+creating that crossfade effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9110,7 +9158,12 @@ We have our next button working just fine.
   style="width:50%"
   alt="." />
 </p>
-I can click "Next" and it will go through the slides. Not only that, but it's nice and clean because it removes any extra slides we don't need as it's adding new slides on top. That's really neat and that's working. Now the question is, how do we get the previous button to work? Because currently clicking that does nothing but reset the page. Notice we're getting the hashtag up here. How do we get the previous button to work? 
+I can click "Next" and it will go through the slides. Not only that, but it's 
+nice and clean because it removes any extra slides we don't need as it's 
+adding new slides on top. That's really neat and that's working. Now the 
+question is, how do we get the previous button to work? Because currently 
+clicking that does nothing but reset the page. Notice we're getting the 
+hashtag up here. How do we get the previous button to work? 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 569.  (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9118,7 +9171,15 @@ I can click "Next" and it will go through the slides. Not only that, but it's ni
   style="width:50%"
   alt="." />
 </p>
-What we want to do is pretty much the same thing that we did with the next button but with the previous button. See if you can do that challenge on your own. You can even go ahead and take this function that we've written for the next button here, this one here, ''Copy and Paste'' it and see what you need to change to make it work for the previous button. Just like before, you can actually use the previous project, the earlier version of the slideshow to figure out how to do this. Because we're going to decrement the image and this is going to change, but all of this is going to remain exactly the same. 
+What we want to do is pretty much the same thing that we did with the next 
+button but with the previous button. See if you can do that challenge on 
+your own. You can even go ahead and take this function that we've written 
+for the next button here, this one here, ''Copy and Paste'' it and see what 
+you need to change to make it work for the previous button. Just like before, 
+you can actually use the previous project, the earlier version of the 
+slideshow to figure out how to do this. Because we're going to decrement 
+the image and this is going to change, but all of this is going to remain 
+exactly the same. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 570.  (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9126,7 +9187,15 @@ What we want to do is pretty much the same thing that we did with the next butto
   style="width:50%"
   alt="." />
 </p>
-Did you get something like this? Hopefully, you did. Let's take a look at what's changed here. What's changed is, here, we're putting the event listener on the previous button instead of the next button. So that's different. The rest of this is all the same. Instead of incrementing current image, we're decrementing it. So that's different. Then down here, the if-statement has changed a little bit. If the current image is less than zero, we're setting current image to photos length minus one, just like we did in the previous slideshow. Other than that, everything else is the same. Let's see if we can actually make this work. 
+Did you get something like this? Hopefully, you did. Let's take a look at 
+what's changed here. What's changed is, here, we're putting the event 
+listener on the previous button instead of the next button. So that's 
+different. The rest of this is all the same. Instead of incrementing current 
+image, we're decrementing it. So that's different. Then down here, the 
+if-statement has changed a little bit. If the current image is less than 
+zero, we're setting current image to photos length minus one, just like we 
+did in the previous slideshow. Other than that, everything else is the same. 
+Let's see if we can actually make this work. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 571.  (317) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9134,8 +9203,20 @@ Did you get something like this? Hopefully, you did. Let's take a look at what's
   style="width:50%"
   alt="." />
 </p>
-Over here. I'm going to copy this script and then paste it here and just change this to prevBtn, which is what I have up here. That's going to go into the DOM and get that button and add the event listener to it and all this stuff is the same. The only thing that's different is here, this gets decremented. Then down here, if this is less than zero, then we're going to set current image to myphotos.length minus one. That's going to set that all up there to work for the current image for that one. That should be it that's all we needed. The rest is going to be the same. 
-We're still going to create an image. We're still going to go get the image from the array based on the value of current image here. Then we're still going to apply that class to it, and we're going to stop put it on the page, and we're still going to remove the extra children. All the rest should be the same. 
+Over here. I'm going to copy this script and then paste it here and just change 
+this to prevBtn, which is what I have up here. That's going to go into the DOM 
+and get that button and add the event listener to it and all this stuff is the 
+same. The only thing that's different is here, this gets decremented. Then down 
+here, if this is less than zero, then we're going to set current image to 
+myphotos.length minus one. That's going to set that all up there to work for 
+the current image for that one. That should be it that's all we needed. The 
+rest is going to be the same. 
+
+We're still going to create an image. We're still going to go get the image 
+from the array based on the value of current image here. Then we're still 
+going to apply that class to it, and we're going to stop put it on the page, 
+and we're still going to remove the extra children. All the rest should be 
+the same. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 572/573.  (318) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9147,7 +9228,13 @@ We're still going to create an image. We're still going to go get the image from
   alt="." />
 </p>
  
-Let's see if this works. Come back and click "Refresh". Next works. I can add images, and over here you can see they're getting added. Image 2, Image 3, I could add one more Image 4. Now when I click "Previous", you can see Image 3 got put on top and Image 4 is down on the bottom. Image 2 is now on top, Image 3 is on the bottom. Image 1, and then Image 5, because we are going to the end of the array. Then back on down through the array like that. That's working perfectly. Just exactly what we want.
+Let's see if this works. Come back and click "Refresh". Next works. I can add 
+images, and over here you can see they're getting added. Image 2, Image 3, I 
+could add one more Image 4. Now when I click "Previous", you can see Image 3 
+got put on top and Image 4 is down on the bottom. Image 2 is now on top, Image 
+3 is on the bottom. Image 1, and then Image 5, because we are going to the end 
+of the array. Then back on down through the array like that. That's working 
+perfectly. Just exactly what we want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-35">3.35 Slideshow with Cross Fade Effect – Part 7</h2>
@@ -9159,7 +9246,8 @@ Let's see if this works. Come back and click "Refresh". Next works. I can add im
   style="width:50%"
   alt="." />
 </p>
-Your script is working great, and you could just leave it the way it is, it's totally fine. 
+Your script is working great, and you could just leave it the way it is, it's 
+totally fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 575.  (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9175,13 +9263,14 @@ But you'll notice that we have a fair amount of duplicate code.
   style="width:50%"
   alt="." />
 </p> 
-If we go over and look at our script, we've got this chunk of code in here. That's a 
-several lines of code which is exactly the same as this chunk of code up here. And 
-there's a concept in programming called Don't repeat yourself dry, don't repeat yourself. 
-What we want to do is, instead of repeat this code twice, pull it out and put it into a 
-separate function. We're going to make a function called swapImage. And that function is 
-going to have this chunk of code in it. We can run that function twice, once in the next 
-button event listener function, and one in the previous event listener button function. 
+If we go over and look at our script, we've got this chunk of code in here. 
+That's a several lines of code which is exactly the same as this chunk of code 
+up here. And there's a concept in programming called Don't repeat yourself 'DRY', 
+don't repeat yourself. What we want to do is, instead of repeat this code twice, 
+pull it out and put it into a separate function. We're going to make a function 
+called swapImage. And that function is going to have this chunk of code in it. 
+We can run that function twice, once in the next button event listener function, 
+and one in the previous event listener button function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 577.  (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9224,7 +9313,13 @@ that. And that's just part of the normal process for any programmer.
   style="width:50%"
   alt="." />
 </p>
-Now the very last thing to do here is to put it in a separate link file. I'm going to make a new file on here, click new file here and call it script.js. So make sure it's not inside the slides folder. On the script file, once again, I'm going to add my immediately invoked function, parentheses, curly braces, and then an additional set of parentheses and a semicolon. This function will run immediately when the page runs, and then click between the curly braces and move that down. 
+Now the very last thing to do here is to put it in a separate link file. I'm 
+going to make a new file on here, click new file here and call it script.js. 
+So make sure it's not inside the slides folder. On the script file, once again, 
+I'm going to add my immediately invoked function, parentheses, curly braces, 
+and then an additional set of parentheses and a semicolon. This function will 
+run immediately when the page runs, and then click between the curly braces 
+and move that down. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581.  (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9577,7 +9672,14 @@ We're all set up here and ready to write the rest of our script.
   title="test, alert(distance) = 5"
   alt="test, alert(distance) = 5." />
 </p>
-We have a variable here, get rid of this Is making variable are conversion. I've been assigned it the conversion, which is distance times one point 609344 and what that will give us is the actual distance converted. But it's going to give us a very large number or a number with a lot of numbers after the decimal point potentially. And test that you'll see what I mean. I put in a five here, I will get 8.04672. I don't want all these desperate numbers and they can get even longer than that. That's kind of long. I just want to three decimals. 
+We have a variable here, get rid of this Is making variable are conversion. 
+I've been assigned it the conversion, which is distance times .609344 and 
+what that will give us is the actual distance converted. But it's going to 
+give us a very large number or a number with a lot of numbers after the 
+decimal point potentially. And test that you'll see what I mean. I put in a 
+five here, I will get 8.04672. I don't want all these desperate numbers and 
+they can get even longer than that. That's kind of long. I just want to three 
+decimals. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 608. roundedconversion = math.round (337) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9586,7 +9688,15 @@ We have a variable here, get rid of this Is making variable are conversion. I've
   title="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;"
   alt="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;" />
 </p>
-There are a couple different ways of addressing this. In dealing with this, I'm going to show you the manual way and then the way that's a little bit easier. I think sometimes it's it's nice to see the manual way. I'm going to make another variable roundedVariable equals Math.round(conversion). What that's going to do is it's going to round it to the nearest whole number. I want some decimal points in there. What I want to do is take that number and multiply it by 1000 and then after the conversion, divide by 1000.  That's going to take the number round it and then divide it by 1000 for 3 decimal places.
+There are a couple different ways of addressing this. In dealing with this, 
+I'm going to show you the manual way and then the way that's a little bit 
+easier. I think sometimes it's it's nice to see the manual way. I'm going 
+to make another variable roundedVariable equals Math.round(conversion). What 
+that's going to do is it's going to round it to the nearest whole number. I 
+want some decimal points in there. What I want to do is take that number and 
+multiply it by 1000 and then after the conversion, divide by 1000.  That's 
+going to take the number round it and then divide it by 1000 for 3 decimal 
+places.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 609. test, rounded to 3 decimals (338) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9617,7 +9727,10 @@ surrounded to three decimal points.
   title="Test, 54.32 converts to 87.420 kilometers"
   alt="Test, 54.32 converts to 87.420 kilometers." />
 </p>
-Let's see what that does 54.32 and now I'm getting 87.420, which is the right thing there. That's actually rounding it and making it work exactly the way I wanted to go, giving me three decimal points. That's kind of the easiest method to work with years is to fixed. 
+Let's see what that does 54.32 and now I'm getting 87.420, which is the right 
+thing there. That's actually rounding it and making it work exactly the way I 
+wanted to go, giving me three decimal points. That's kind of the easiest method 
+to work with years is to fixed. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 612. calculate distance to 3 decimal places (339) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9720,18 +9833,31 @@ says please provide a number.
 <p align="center" width="100%">
 <img src="./images/image620.png?raw=true"
   style="width:50%"
-  title="4.05 Refactored script." />
+  title="4.05 Refactored script"
   alt="4.05 Refactored script." />
 </p>
-This is our entire script and it's working pretty well at this point. We've done a little bit of refactoring to get it to a little bit more compact and a little bit more readable. We've tried a few different methods to make that all work, and it's all working great. We could leave the script at the bottom of the page, there's not that much to it and it's fine. 
+This is our entire script and it's working pretty well at this point. We've 
+done a little bit of refactoring to get it to a little bit more compact and 
+a little bit more readable. We've tried a few different methods to make that 
+all work, and it's all working great. We could leave the script at the bottom 
+of the page, there's not that much to it and it's fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 621. move script to external file & invoke (343) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image621.png?raw=true"
   style="width:50%"
+  title="Move script to external file and invoke immediately"
   alt="Move script to external file and invoke immediately." />
 </p>
-But just for the sake of practice, let's move it to an external file and link it up and then use our scope and best practices for converting everything. I'm going to come over here, I'm going to need to make a folder. I'm going to make a file and call it script.js. On that file, I'm going to add my IIFE, my immediately invoked function expression. That starts with parentheses, and then in there I add a function with its parentheses and it's curly braces, and then another set of parentheses and a /semicolon. This thing will run when the script file loads, and my script is going to go inside the curly braces, so I'm going to move those down. 
+But just for the sake of practice, let's move it to an external file and link 
+it up and then use our scope and best practices for converting everything. 
+I'm going to come over here, I'm going to need to make a folder. I'm going 
+to make a file and call it script.js. On that file, I'm going to add my IIFE, 
+my immediately invoked function expression. That starts with parentheses, and 
+then in there I add a function with its parentheses and it's curly braces, and 
+then another set of parentheses and a /semicolon. This thing will run when the 
+script file loads, and my script is going to go inside the curly braces, so 
+I'm going to move those down. 
 
 Also I'm going to add in here my use strict directive, which is going to make 
 sure that I'm not defining any variables without the var keyword, they don't 
