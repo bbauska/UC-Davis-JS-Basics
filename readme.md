@@ -9254,29 +9254,37 @@ And then down in the swapImage we have a variable here. That one can also be con
 </p>
 Over here on written index file, we just need to get rid of that stuff and put it in here, src equals script.js, that's our file. And we can put this up here like so.We could leave it like that. Or even better, we could take this and move it up here into the header of the page and add the defer attribute here, save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 584.  (324) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 584. test,  (324) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image577.png?raw=true"
   style="width:50%"
   alt="." />
 </p>
-And then always check to make sure you didn't mess things up along the way. And look at that. It's working perfectly. Everything works great. 
+And then always check to make sure you didn't mess things up along the way. And 
+look at that. It's working perfectly. Everything works great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 585.  (325) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 585. finished script (325) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image585.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Finished, working script"
+  alt="Finished, working script." />
 </p>
-So there we go. We have finished our script, and we've cleaned it all up. And in this lesson you've learned a lot about some different ways of doing things, and how to add elements to the page, and remove them from the page. All with using our document object model as well as our event handlers. And this is a really great little slideshow that you could use on any webpage. 
-Week Four: Basic JavaScript Application Projects
+We have finished our script, and we've cleaned it up. And 
+in this lesson you've learned a lot about some different ways of doing things, 
+and how to add elements to the page, and remove them from the page. All with 
+using our document object model (DOM) as well as our event handlers. And this is a 
+great slideshow that you could use on any webpage. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1 id="ch4">Week Four: Basic JavaScript Application Projects</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-00-obj">4.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li>Capture user events.</li>
   <li>Change the DOM based on user events.</li>
-  <li>Employ appropriate logical flow control structures necessary to make the program function properly.</li>
+  <li>Employ appropriate logical flow control structures necessary to make the 
+    program function properly.</li>
   <li>Use array and variables to manage program data.</li>
   <li>Apply best practices to manage variable scope.</li>
   <li>Identify and fix errors in programs, when they are not running properly.</li>
@@ -9284,16 +9292,27 @@ Week Four: Basic JavaScript Application Projects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-00-intro">4.00 Module 4 Introduction (1:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 586.  (326) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 586. module 4 introduction (4.00) (326) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image586.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="4.00 Module 4 Introduction"
+  alt="4.00 Module 4 Introduction." />
 </p>
 
-<p>Hello, and welcome to the fourth module of this course. Congratulations for making it this far. You've learned a lot of JavaScript so far, and this fourth module is going to really help you push your skills even further. In this module, we'll be doing a lot of practice. To learn JavaScript, you really have to practice. You have to get used to the syntax. You have to think about how to break problems down into smaller pieces to actually make something that works. And we'll be doing that in this fourth module. </p>
+<p>Hello, and welcome to the fourth module of this course. Congratulations for 
+making it this far. You've learned a lot of JavaScript so far, and this fourth 
+module is going to really help you push your skills even further. In this module, 
+we'll be doing a lot of practice. To learn JavaScript, you really have to practice. 
+You have to get used to the syntax. You have to think about how to break problems 
+down into smaller pieces to actually make something that works. And we'll be doing 
+that in this fourth module. </p>
 
-<p>And by creating interactive elements and practicing what you've already learned, you'll be making some things that are interesting and fun, but also learning JavaScript along the way. So let's get to it. And hopefully, by the end of this module, you'll be excited about what you've learned so far in this course, and you'll be excited to go on to the next course and learn even more about JavaScript.</p>
+<p>And by creating interactive elements and practicing what you've already learned, 
+you'll be making some things that are interesting and fun, but also learning 
+JavaScript along the way. So let's get to it. And hopefully, by the end of this 
+module, you'll be excited about what you've learned so far in this course, and 
+you'll be excited to go on to the next course and learn even more about JavaScript.</p>
 
 <ul>
   <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files">4.00 Basic-Convert-START.zip</a></li>
@@ -9302,20 +9321,22 @@ Week Four: Basic JavaScript Application Projects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-01">4.01 Basic Distance Converter Project – Part 1 (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 587.  (327) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 587. basic distance converter (miles to kilometers) (327) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image587.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="4.01 Basic Distance Converter (Miles to Kilometers)"
+  alt="4.01 Basic Distance Converter (Miles to Kilometers)." />
 </p>
 In this project will take an interface that I've already created, and make it 
 work so that we end up with this little tool that will convert miles to kilometers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 588.  (327) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 588. project overview - basic miles to kilometer converter (327) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image588.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Project Overview - basic miles to kilometer converter"
+  alt="Project Overview - basic miles to kilometer converter." />
 </p>
  
 Through doing this project, you'll get to use a bunch of the pieces we've 
@@ -9325,11 +9346,11 @@ conversion down here. We'll do a bunch of the different types of things that
 we've been doing so far with JavaScript to create this little tool. The 
 interface is already created, you can see I have it over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 589.  (328) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 589. test, miles to kilometers (328) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image589.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Test, miles to kilometers screen image (does not function)." />
 </p>
 
 The HTML generates this interface, but at this point it doesn't function. Our 
@@ -9337,71 +9358,71 @@ job today is to make this thing actually function, and write the JavaScript to
 take the data that somebody types into distance and convert it to kilometers. 
 Let's take a quick look at the HTML that we have here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 590/591.  (328) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~ 590/591. index.html - head & two new divs with class containers (328) ~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image590.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="index.html - head." />
 <img src="./images/image591.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="index.html - body with two divs; top & bottom." />
 </p>
   
 Nothing too fancy here, we just have some basic HTML with a form, and in a 
 container down here where the answer is going to go when we convert the miles. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 592.  (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 592. styles.css - initial (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image592.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="styles.css - initially." />
 </p>
 Then I've got some styling over here already in place, probably more startling 
 than I really need, but that's okay. We don't need to touch any of that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 593.  (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 593. new script tag at bottom (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image593.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add script to bottom of index body"
+  alt="Add script to bottom of index body." />
 </p>
 At this point what we're going to do, is we're going to add a script tag down 
-at the bottom, and start figuring out how we're going to capture this. Let's 
-do that. Let's go ahead and add a script tag here. Then in here we want to 
-capture this submission of this form. You call it convert. We've got an Id for 
-the forms or converts. We have a document.getElementById. Then we want to get 
-the Id convert. We want to add an EventListener. The event we want to capture 
-is a submit event. When the form is submitted, we want to do something. We want 
-to run a function. Now, all the rest of the code for this script is going to 
+at the bottom, and start figuring out how we're going to capture this. Then in 
+here we want to capture this submission of this form. You call it convert. We've 
+got an Id for the forms or converts. We have a document.getElementById. Then we 
+want to get the Id convert. We want to add an EventListener. The event we want to 
+capture is a submit event. When the form is submitted, we want to do something. We 
+want to run a function. Now, all the rest of the code for this script is going to 
 go between these two curly braces here inside this anonymous function. We've 
 got our EventListener here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 594.  (330) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 594. event upon form submission (330) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image594.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="What happens when form is submitted?"
+  alt="What happens when form is submitted?" />
 </p>
 Now, normally, when events happen like a submission of a form, what happens is, 
-either the data from the form goes to, if you have an action in here, like we 
-do here in this form, it would go to some PHP file to be handled, or if you 
-don't have an action, if you don't have this attribute here at all, then what 
-it'll do is, it will actually refresh the web page. We don't want that to 
-happen. We want to stop the normal processing of the form. In that case we're 
-going to pass in the special event object, and we can pass it in as event or 
-some people pass it in as evt or some people will just use E. I'm going to 
-leave it as event just to make it clear that that's what it is. It's the 
-special event object. Then we're going to keep that form from being processed 
-by using event.preventDefault, which is a method that will keep that form 
-from getting processed, and from refreshing the page, or trying to go to 
+either the data from the form goes to some PHP file to be handled, or if you 
+don't have an action, then what it'll do is, it will actually refresh the web 
+page. We don't want that to happen. We want to stop the normal processing of the 
+form. In that case we're going to pass in the special event object, and we can 
+pass it in as event or some people pass it in as evt or some people will just 
+use E. I'm going to leave it as event just to make it clear that that's what it 
+is. It's the special event object. Then we're going to keep that form from being 
+processed by using event.preventDefault, which is a method that will keep that 
+form from getting processed, and from refreshing the page, or trying to go to 
 that PHP file when we submit the form. That's the thing we want to do first 
 here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 595.  (331) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 595. capture distance (331) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image595.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="document.getElementById('distance').value"
+  alt="document.getElementById('distance').value." />
 </p>
 The next thing that we want to do, is we want to capture the data that somebody 
 typed into this input field here, with the idea of distance. We want to capture 
@@ -9411,14 +9432,16 @@ Which Id do I want? I want this Id distance, and what do I want from there? I
 want the dot value. That's going to take whatever somebody is typed into the 
 field, and stick it into this variable distance. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 596/597.  (331) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 596/597. alert(distance) test 5 and 54 (331) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image596.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test 5 alert(distance)"
+  alt="Test 5 alert(distance)." />
 <img src="./images/image597.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test 54 alert(distance)"
+  alt="Test 54 alert(distance)." />
 </p>
 Let's give it a try real quick. If we do alert distance, we should get that 
 data coming up here. If I come back here and refresh this, and then type in 
@@ -9437,12 +9460,12 @@ getting that distance there, and we're often running here with our project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-02">4.02 Basic Distance Convert Project – Part 2 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 598.  (332) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 598. sample screen - distance converter (332) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image598.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Sample screen - distance converter"
+  alt="Sample screen - distance converter." />
 </p>
 The next thing that's important to understand is that when you type a number 
 in here, JavaScript sees that number as a string. If I type a five in there, 
@@ -9452,11 +9475,12 @@ method in JavaScript called parseInt. But what parseInt does is it will only
 capture the integer of the number rather than a decimal number. It's possible 
 that I would want to capture 5.5 miles and convert it to kilometers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 599.  (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 599. parsefloat to convert (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image599.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Use parseFloat to convert distance"
+  alt="Use parseFloat to convert distance." />
 </p>
 What we're going to use instead is parseFloat. What parseFloat will do is 
 it'll allow us to take that number and convert it to a floating decimal point. 
@@ -9465,11 +9489,12 @@ before that, I'm going to say distance equals parseFloat distance. I'm taking
 distance and running it through parseFloat, then assigning it back to distance 
 and I can alert that out. Let's just see what that gives us over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 600.  (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 600. test for number (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image600.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, chicken get Not A Number (NaN)"
+  alt="Test, chicken get Not A Number (NaN)." />
 </p>
 If I come back and refresh this, you have to refresh it, if I put in a five 
 and convert distance, it'll give me a five. But if I put in chicken, it'll 
@@ -9480,11 +9505,12 @@ Interestingly, zero won't, zero is still false. I don't know why you'd want
 to convert zero miles to kilometers since they're both just zero. But that's 
 what we need to do first to get that to turn into a number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 601.  (334) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 601. parsefloat distance value (334) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image601.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="parseFloat(distance) and verify is numeric"
+  alt="parseFloat(distance) and verify is numeric." />
 </p>
 Now, down here, we can actually combine these two lines into one line here by 
 instead of having this distance, and then assigning it back to itself, we 
@@ -9494,7 +9520,7 @@ line, that does the same thing all in one line. It takes the value from the
 distance field and then runs it through parseFloat and assigns it to distance. 
 Remember, JavaScript works from the inside out. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 602.  (335) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 602. example, see if distance contains a number (335) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image602.png?raw=true"
   style="width:50%"
@@ -9512,87 +9538,165 @@ getting a number here, then we're going to convert it around the distance and
 then put the answer down at the bottom, otherwise it will display an error 
 message down at the bottom. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 603.  (336) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 603. if distance valid, then ... else error (336) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image603.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Add if statement of distance as a number." />
 </p>
-Let's add this if statement down here. We probably don't need this alert for 
-right now, I might end up moving it in a minute. We're going to do something 
-there. We're going to convert and then display the answer. Else, display here. 
-Let's actually take this alert distance here and stick it in here, we don't 
-need it up here anymore. 
+Let's add this if statement down here. We're going to convert and then display 
+the answer. Let's take this alert(distance) and stick it in our if statement.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 604/605.  (336) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 604/605. test, 5 and chicken in converter (336) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image604.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, 5"
+  alt="Test, 5." />
 <img src="./images/image605.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, chicken"
+  alt="Test, chicken." />
 </p>
 You'll see now with that, if I test this, if I put a number in here, it'll 
 alert out the number that I put in there. If I put something other than a 
 number in there, it won't, because the else is running. We haven't actually 
 done anything with the else, but it is running and it's not doing that alert. 
-We're all set up here and ready to write the rest of our script. Let's go 
-ahead and work on that next.
+We're all set up here and ready to write the rest of our script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-03">4.03 Basic Distance Converter Project – Part 3 (6:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 606/607.  (337) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 606/607. conversion & test 5 (337) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image606.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="var conversion = distance * 1.609344"
+  alt="var conversion = distance * 1.609344." />
 <img src="./images/image607.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="test, alert(distance) = 5"
+  alt="test, alert(distance) = 5." />
 </p>
-So a variable here, get rid of this Is making variable are conversion. I've been assigned it the conversion, which is distance times one point 609344 and what that will give us is the actual distance converted. But it's going to give us a very large number or a number with a lot of numbers after the decimal point potentially. And test that you'll see what I mean. I put in a five here, I will get 8.04672. I don't want all these desperate numbers and they can get even longer than that. That's kind of long. I just want to three decimals. 
- 
-There are a couple different ways of addressing this. In dealing with this, I'm going to show you the manual way and then the way that's a little bit easier. I think sometimes it's it's nice to see the manual way. I'm going to make another variable roundedVariable equals Math.round(conversion). What that's going to do is it's going to round it to the nearest whole number. I want some decimal points in there. So what I want to do is I want to take that number and multiply it by 1000 and then after the conversion, divide by 1000.  That's going to take the number round it and then divide it by 1000 for 3 decimal places.
- 
-Now let's see what that gives us. We come back here now if I try to convert this 54.32, and you could see that it's cropping it off here after two decimal places here really wanted more decimal places than that. 
- 
-The other thing you can do that's easier, a little bit easier than this is to use, something called toFixed. It's a method called toFixed so I could say conversion and put toFixed and three in there and that will make sure I get surrounded to three decimal points. 
- 
+We have a variable here, get rid of this Is making variable are conversion. I've been assigned it the conversion, which is distance times one point 609344 and what that will give us is the actual distance converted. But it's going to give us a very large number or a number with a lot of numbers after the decimal point potentially. And test that you'll see what I mean. I put in a five here, I will get 8.04672. I don't want all these desperate numbers and they can get even longer than that. That's kind of long. I just want to three decimals. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 608. roundedconversion = math.round (337) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image608.png?raw=true"
+  style="width:50%"
+  title="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;"
+  alt="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;" />
+</p>
+There are a couple different ways of addressing this. In dealing with this, I'm going to show you the manual way and then the way that's a little bit easier. I think sometimes it's it's nice to see the manual way. I'm going to make another variable roundedVariable equals Math.round(conversion). What that's going to do is it's going to round it to the nearest whole number. I want some decimal points in there. What I want to do is take that number and multiply it by 1000 and then after the conversion, divide by 1000.  That's going to take the number round it and then divide it by 1000 for 3 decimal places.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 609. test, rounded to 3 decimals (338) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image609.png?raw=true"
+  style="width:50%"
+  title="Test, 54.32 converted & rounded to 3 decimal places"
+  alt="Test, 54.32 converted & rounded to 3 decimal places." />
+</p>
+Now let's see what that gives us. We come back here now if I try to convert 
+this 54.32, and you could see that it's cropping it off here after two decimal 
+places here really wanted more decimal places than that.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 610. round to 3 decimal using tofixed (338) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image610.png?raw=true"
+  style="width:50%"
+  alt="Use toFixed(3) to round to 3 decimal places." />
+</p>
+The other thing you can do that's easier, a little bit easier than this is to 
+use, something called toFixed. It's a method called toFixed so I could say 
+conversion and put toFixed and three in there and that will make sure I get 
+surrounded to three decimal points. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 611. test, 54.32 converts to 87.420 (339) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image611.png?raw=true"
+  style="width:50%"
+  title="Test, 54.32 converts to 87.420 kilometers"
+  alt="Test, 54.32 converts to 87.420 kilometers." />
+</p>
 Let's see what that does 54.32 and now I'm getting 87.420, which is the right thing there. That's actually rounding it and making it work exactly the way I wanted to go, giving me three decimal points. That's kind of the easiest method to work with years is to fixed. 
- 
-Now I can actually put this all together in one line also, so I could do a parenthesis e here in parenthesis e there, so does that first and then dug to fixed. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 612. calculate distance to 3 decimal places (339) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image612.png?raw=true"
+  style="width:50%"
+  title="Calculate distance to 3 decimal places using toFixed"
+  alt="Calculate distance to 3 decimal places using toFixed." />
+</p>
+Now I can calculate the distance variable in parentheses adding toFixed(3) for 3
+max decimal places.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-04">4.04 Basic Distance Convert Project – Part 4 (6:15)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~ 613/614. add invisible class for answer (340) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image613.png?raw=true"
+  style="width:45%"
+  title="index.html - h2 with class invisible"
+  alt="index.html - h2 with class invisible." />
+<img src="./images/image614.png?raw=true"
+  style="width:45%"
+  title="style.css - class of invisible"
+  alt="style.css - class of invisible." />
+</p>
 Okay, one thing we want to look at really quickly here before we go on with the 
 script, is at this h2 down here. Right now, I have an h2 in there with a class 
 of invisible. If you go look at the styles, you will notice that this class, 
 invisible, over here in the styles, it's basically setting the color of that 
 text to the same color as the background of this div. 
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 615. answer barely visible (340) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image615.png?raw=true"
+  style="width:50%"
+  title="Answer is barely visible"
+  alt="Answer is barely visible." />
+</p>
 Over here, if you go and actually look at this thing, you'll notice down here, 
 that the answers is in there. It's in there, you can't really see it, because 
 it's the same color, but it's actually there. Currently, what it says is, 
 answer goes here. 
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 616/617. define, display and test answer (341) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image616.png?raw=true"
+  style="width:45%"
+  title="Define answer and put on screen using innerHTML"
+  alt="Define answer and put on screen using innerHTML." />
+<img src="./images/image617.png?raw=true"
+  style="width:45%"
+  title="Test, answer displayed visibly"
+  alt="Test, answer displayed visibly." />
+</p>
 What we can do is, we can use innerHTML to replace this entire h2 in here, 
 with a new h2. That h2 that we put in there, won't have the class invisible, 
-so it will be visible. We want to get this div id answer here first. 
-First thing I'm going to do is, I'm going to have a variable var answer, and 
-set that to equal to document.getElementById(‘answer’). That's our element 
-there that we're getting. Then we want to get that element and we want to use 
-answer.innerHTML equals tick marks, like that, semicolon. h2 close h2. There 
-we go. This is going to be a string, literary when we're done here. In here, 
+so it will be visible. We want to get this div id answer here first.
+
+First, I'm going to define a variable var answer, and set that to equal to 
+document.getElementById(‘answer’). That's our element there that we're 
+getting. Then we want to get that element and we want to use answer.innerHTML 
+equals tick marks, like that, semicolon. h2 close h2. This is going to be a 
+string, literary when we're done here. In here, 
 I'm going to add the distance. I want to put in here distance, miles converts 
 to x kilometers, where distance is really this variable distance here. That's 
 going to be a variable. In there, I'm going to put curly braces, dollar sign, 
 curly braces, distance, because that's a variable. Miles converts to, and x is 
 going to be dollar sign, curly braces, conversion in there. 
-  
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 618/619. if..else statement, test for number (341) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image618.png?raw=true"
+  style="width:45%"
+  title="Add if..else statement for valid number"
+  alt="Add if..else statement for valid number." />
+<img src="./images/image619.png?raw=true"
+  style="width:45%"
+  title="Test, else error"
+  alt="Test, else error." />
+</p>
 The next thing we need to do is handle the error down here. We're going to put 
 it into this same element here, this answer element here. I could use 
 Document.getElementByID, and go get this answer div again, using innerHTML 
@@ -9604,6 +9708,7 @@ anywhere really. I'm going to just put it there. Then I can use the exact same
 variable down here. Answer.innerHTML equals. I can just use regular quotes, h2 
 close the H2. Always open and closed before it, then work on the inside from 
 that way. Please provide a number. That will handle the error. 
+
 Let's make sure that works. If we come back over here, and refresh this, if I 
 put a chicken in here, a chicken cannot get converted to kilometers, so it 
 says please provide a number.
@@ -9611,20 +9716,64 @@ says please provide a number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-05">4.05 Basic Distance Convert Project – Part 5 (4:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
- 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 620. refactored script (4.05) (343) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image620.png?raw=true"
+  style="width:50%"
+  title="4.05 Refactored script." />
+  alt="4.05 Refactored script." />
+</p>
 This is our entire script and it's working pretty well at this point. We've done a little bit of refactoring to get it to a little bit more compact and a little bit more readable. We've tried a few different methods to make that all work, and it's all working great. We could leave the script at the bottom of the page, there's not that much to it and it's fine. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 621. move script to external file & invoke (343) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image621.png?raw=true"
+  style="width:50%"
+  alt="Move script to external file and invoke immediately." />
+</p>
+But just for the sake of practice, let's move it to an external file and link it up and then use our scope and best practices for converting everything. I'm going to come over here, I'm going to need to make a folder. I'm going to make a file and call it script.js. On that file, I'm going to add my IIFE, my immediately invoked function expression. That starts with parentheses, and then in there I add a function with its parentheses and it's curly braces, and then another set of parentheses and a /semicolon. This thing will run when the script file loads, and my script is going to go inside the curly braces, so I'm going to move those down. 
 
-But just for the sake of practice, let's move it to an external file and link it up and then use our scope and best practices for converting everything. I'm going to come over here, I'm going to need to make a folder. I'm going to make a file and call it script.js. On that file, I'm going to add my IIFE, my immediately invoked function expression. That starts with parentheses, and then in there I add a function with its parentheses and it's curly braces, and then another set of parentheses and a /semicolon. This thing will run when the script file loads, and my script is going to go inside the curly braces, so I'm going to move those down. Also I'm going to add in here my use strict directive, which is going to make sure that I'm not defining any variables without the var keyword, they don't get put into the wrong scope. You don't really have to worry that much about scope here since it's all pretty much within this one event handler, but still it's a good idea to put it in. Then I'm going to just going to copy all of this stuff, or you can cut it and paste it over here. There we go. 
-
-There's our script. In here, I'm going to come in and change my vars to either 
+Also I'm going to add in here my use strict directive, which is going to make 
+sure that I'm not defining any variables without the var keyword, they don't 
+get put into the wrong scope. You don't really have to worry that much about 
+scope here since it's all pretty much within this one event handler, but still 
+it's a good idea to put it in. Then I'm going to just going to copy all of this 
+stuff, or you can cut it and paste it over here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 622.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image622.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+In here, I'm going to come in and change my vars to either 
 const or lat. I think they will all work with const. Distance is going to get 
 that once, and that's in distance is not going to change. Const is going to come 
 down here and answer is always going to be answer, and then this one here const 
-as well, conversion. We've got all of that set. Great. Over here on my HTML 
+as well, conversion. We've got all of that set. Great. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 623.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image623.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+
+Over here on my HTML 
 file, instead of having this script here, I can leave it at the bottom of the 
 screen if I want, that's fine, and just link to it here, src equals "scripts.js", 
 and that should work just fine. If I go ahead and test that, it should work 
-exactly the same as it worked before, and it works fine, that's great. Now, I 
+exactly the same as it worked before, and it works fine, that's great. 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 624.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image624.png?raw=true"
+  style="width:50%"
+  alt="." />
+</p>
+
+Now, I 
 could also move the script up into the head of the page. 
 
 Up here into the head, but I have to add the defer attribute here. If I come 
@@ -9645,6 +9794,13 @@ the project next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-06">4.06 Advanced Distance Converter Project – Part 1 (5:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 623.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image623.png?raw=true"
+  style="width:40%"
+  alt="." />
+</p>
  
 
 
