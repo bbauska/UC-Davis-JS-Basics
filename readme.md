@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/01/2024 6+pm"
+date last editted: "3/03/2024 3+pm"
 output: 
   markdown:
     with some style
