@@ -7134,31 +7134,34 @@ scroll event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-17">3.17 Window Resizing (4:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. window resizing (3.17) (239) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image425.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.17 Window Resizing"
+  alt="3.17 Window Resizing." />
 </p>
 
 Another simple example that we can look at is watching for a resize of
 the window, and this is useful in responsive design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426. example, window resizing (240) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image426.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Window Resizing"
+  alt="Example, Window Resizing." />
 </p>
 
 Down here, I can actually do another window.addEventListener. But in
 this case, the event we&apos;re going to look for is a resize.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 427.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 427. window add event resize function (240) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image427.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define window.addEventListener('resize', function() and console log innerWidth & innerHeight"
+  alt="Define window.addEventListener('resize', function() and console log innerWidth & innerHeight." />
 </p>
 
 I&apos;m looking for resize the window, and then we&apos;ll run a function And
@@ -7179,11 +7182,12 @@ go. And then I&apos;m going to resize this window. And as I do that, you can
 see that I&apos;m getting some comments over here about how wide and how
 window height is undefined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 428.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 428. test, resize window and log width/height to console (241) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image428.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, resize window and watch console log width/height"
+  alt="Test, resize window and watch console log width/height." />
 </p>
 
 Right, so now I&apos;m getting, the width is changing because I&apos;m changing
@@ -7195,7 +7199,7 @@ responsive design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-18">3.18 Key Down Event (6:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. key down event (3.18) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. key down event (3.18) (242) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image429.png?raw=true"
   style="width:40%"
@@ -7206,22 +7210,24 @@ responsive design.
 The next type of event that we&apos;re going capture is when you&apos;ve pressed
 a key on your keyboard.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. example, key down event (242) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image430.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Key Down Event"
+  alt="Example, Key Down Event." />
 </p>
 
 Imagine creating games that you could play where you&apos;re pressing keys
 on your keyboard and things happen in the browser or something like
 that. That would be fun.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 431.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 431. new script add event listener for keydown (243) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image431.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add script, document.addEventListener('keydown', function()"
+  alt="Add script, document.addEventListener('keydown', function()." />
 </p>
 
 Over here on your HTML page, we can just add a script. This time we&apos;re
@@ -7233,11 +7239,12 @@ down event. You could also look for key up or some other types of events
 that have to do with keys as well. Function. Then I&apos;m just going to
 alert, A key was pressed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 432.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert('a key was pressed') (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image432.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="alert('A key was pressed!')"
+  alt="alert('A key was pressed!')." />
 </p>
 
 Let&apos;s go over and give that a try over here. I refresh this page and
@@ -7245,20 +7252,21 @@ press key. I get a key was pressed. I can detect when a key was pressed.
 Now, we can check to see that a key was pressed but it would be nice to
 know which key was pressed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 433.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 433. example, which key was pressed (244) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image433.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Which Key was Pressed?"
+  alt="Example, Which Key was Pressed?" />
 </p>
 
 We can find that out through using the which property on our event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 434.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 434. which key number was pressed (244) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image434.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Which Key Number was Pressed?" />
 </p>
 
 Let&apos;s give that a try. I&apos;m going to pass in here my event object. Then
@@ -7267,11 +7275,12 @@ and say the event.which key was pressed. An event.which is a variable so
 I&apos;m going to put a dollar sign then a curly brace and then a curly
 brace.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 435.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 435. test, the ## key was pressed (245) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image435.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test Alert, The ## key was pressed"
+  alt="Test Alert, The ## key was pressed." />
 </p>
 
 Let&apos;s give that a try. Now, when I press the J key, I get the 74 key
@@ -7289,22 +7298,24 @@ From my understanding, the which property was deprecated because,
 keyboard layouts can change a lot all over the world. They decided that
 that was not the good way to go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 436.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 436. keyboard events (245) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image436.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Keyboard Events on MDM"
+  alt="Keyboard Events on MDM." />
 </p>
 
 If you come over here to this MDM page, you can actually find out a lot
 about the different events and down here, it&apos;ll actually say the
 keyboard which key has been deprecated.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 437.  (246) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 437. change which key to event key (246) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image437.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Change which key to event key"
+  alt="Change which key to event key." />
 </p>
 
 Now the reality is, is that browsers will support it for a long, long
@@ -7314,11 +7325,12 @@ give that a try real quick. Back here on my page, and I&apos;m going to
 change which to key. Because that&apos;s what the MDN says I should do and
 they&apos;re the most authoritative resource on this stuff.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438. test, keydown event (246) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438. test, keydown event (246) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image438.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="Test, keydown event"
+  alt="Test, keydown event." />
 </p>
 
 Let&apos;s go over and check that out over here. If I refresh my page, if I
@@ -7358,21 +7370,17 @@ Here are resources related to these lessons:
 <h3 id="ch3-18-add">3.18 Additional Resources</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
--   **3.18.[Introduction-to-Events-in-JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-    (shortcut)**
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
-
--   **3.18.[Event-Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
-    (shortcut)**
-
-https://developer.mozilla.org/en-US/docs/Web/Events
+<ul>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events">
+    3.18 Introduction-to-Events-in-JS (shortcut)</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/Events">
+    3.18 Event-Reference (shortcut)</a></li>
+</ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-18-22thru30">3.18.JavaScript-Event-Challenges-22thru30.pdf (download)</h3>
+<h3 id="ch3-18-22thru30"><a href="https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30">
+  3.18 JavaScript-Event-Challenges-22thru30.pdf (download)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-> https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-19">3.19 Scope in JavaScript (5:19)</h2>
@@ -7547,11 +7555,12 @@ One strategy that we can use to deal with the global scope and trying to
 prevent problems there is to just never use the global scope whenever
 possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 452.  (254) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 452. example, strategy 1 never use global scope (254) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image452.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Strategy 1 Never Use Global Scope"
+  alt="Example, Strategy 1 Never Use Global Scope." />
 </p>
 
 Here you can see I have a very simple script. That is doing what we&apos;ve
@@ -7562,11 +7571,12 @@ variable i is in the global scope. All of this stuff is in the global
 scope. That could be problematic. What can we do about that to keep it
 out of the global scope?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 453.  (254) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 453. example, namespacing and closures (254) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image453.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Namespacing and Closures"
+  alt="Example, Namespacing and Closures." />
 </p>
 
 One thing we can do is we can use what&apos;s called an eye FE or an
@@ -7577,14 +7587,16 @@ inside of one of these sort of self running functions and it will just
 run and do. It&apos;s thing inside the function, and it&apos;ll keep the
 variables local to that function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 454/455.  (255) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 454/455. define queryselectorall update with for loop (255) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image454.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define document.querySelectorAll('p')"
+  alt="Define document.querySelectorAll('p')." />
 <img src="./images/image455.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Set style color to red"
+  alt="Set style color to red." />
 </p>
 
 Let&apos;s take a look at how to do this really quickly. Over here, I have
@@ -7594,11 +7606,12 @@ And then if I come back here and actually run this thing, you can see
 that it&apos;s actually turned Use paragraphs, right. So that&apos;s all working
 and working as expected.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 456.  (255) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 456. define iife with parentheses around function (255) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image456.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define IIFE with parentheses around function"
+  alt="Define IIFE with parentheses around function." />
 </p>
 
 The way to use the the IIFE, the immediately invoked function expression
@@ -7611,25 +7624,28 @@ inside of that function. There we go.
 
 And now that function will run when the page loads.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 457.  (256) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 457. test, function runs when page loads (256) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image457.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, function runs when page loads"
+  alt="Test, function runs when page loads." />
 </p>
 
 If I come over and refresh it You&apos;ll see it just runs and it works just
 the same as before, but what&apos;s different now is that these variables
 are now local to this function and they&apos;re not in the global space.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 458/459.  (256) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 458/459. define and test global/local scope error (256) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image458.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define global and local scope variables"
+  alt="Define global and local scope variables." />
 <img src="./images/image459.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, variable error on global scope"
+  alt="Test, variable error on global scope." />
 </p>
 
 Down here, if I do console.log(myPs), I&apos;m going to get an error which
@@ -7643,11 +7659,12 @@ I&apos;m going to do that one more time because the syntax is just terrible.
 But it really is helpful for making sure everything stays in the
 **local** scope there of this function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 460.  (257) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 460. define and keep variable local only (257) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image460.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define and keep variable local only"
+  alt="Define and keep variable local only." />
 </p>
 
 I&apos;m going to get rid of that again. And just do this one more time. We
@@ -7663,15 +7680,16 @@ you&apos;ll get comfortable with it. And then that will work just fine and
 it keeps everything local to this function expression. There are a few
 more things that I want to say about this while we&apos;re here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 461.  (258) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 461. example, namespacing and closures (258) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image461.png?raw=true"
   style="width:50%"
-  alt="." />
+  test="Example, Namespacing and Closures"
+  alt="Example, Namespacing and Closures." />
 </p>
 
 This is also called namespacing because we are making sure that the
-space for the name for this variable is set to that it&apos;s within this
+space for the name for this variable is set so that it&apos;s within this
 function. That&apos;s actually a namespacing thing. And namespacing has to
 do with where things are available.
 
@@ -7800,29 +7818,31 @@ off the keyword. This newVar is going to get defined in the global
 scope, and it is in the global scope anyway, we&apos;re not inside of a
 function, but that&apos;s okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 470.  (260) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 470. variable defined without var keyword (262) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image470.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Variable defined without 'var' keyword"
+  alt="Variable defined without 'var' keyword." />
 </p>
 
 We can do this and we can console log that out. I can save that and go over it 
 and run it over here in my browser and you&apos;ll see that that variable gets 
 sent out to the console log as described there, which is fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 471.  (260) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 471. add 'use strict' to catch error (262) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image471.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add 'use strict' to script to catch undefined variables"
+  alt="Add 'use strict' to script to catch undefined variables." />
 </p>
 
 But if I add the "use strict" directive in here, "use strict" like so, and this 
 is a directive. We put that in there and then watch what happens if I come over 
 and try to run the script again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 472. use strict - global & local vars (261) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 472. use strict - global & local vars (263) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image472.png?raw=true"
   style="width:50%"
@@ -7836,7 +7856,7 @@ and this is so Basic. If I put that in, it&apos;ll work just fine. There we go.
 Now, again, this was something that came out as part of ES5 back in 2009. 
 That&apos;s an interesting and useful (?) tool to keep Basics from doing this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 473. iife - variable scope (261) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 473. iife - variable scope (263) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image473.png?raw=true"
   style="width:50%"
@@ -7904,16 +7924,17 @@ Let's take a look at a couple of these examples first. Let's look at const. So
 here I have cheese equals yummy and I can console log that out but if I try to 
 assign a different value to cheese, I'm going to get an error. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 477/478.  (266) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 477/478. const in scope testing (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image477.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define const cheese = 'cheese is yummy'"
+  alt="Define const cheese = 'cheese is yummy'." />
 <img src="./images/image478.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, console.log(cheese) for local and global scoping"
+  alt="Test, console.log(cheese) for local and global scoping." />
 </p>
-
 
 Let's say I have a script in my code editor. We can try to run that and see what 
 we get. We assign cheese as a constant variable to “cheese is yummy”.  Then 
@@ -7932,14 +7953,16 @@ variable when I don't want it to.
 The next thing we can look at is the let keyword and using that instead of art 
 and we'll do this with a for loop. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 480/481.  (267) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 480/481. define 'for' loop  using let (267) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image480.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define for loop using let"
+  alt="Define for loop using let." />
 <img src="./images/image481.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, for loop using let"
+  alt="Test, for loop using let." />
 </p>
 Let's go over to our code editor and put this one in. I'm going to just make a 
 quick “for group” here and instead of using var I'm going to use let behind 
@@ -7947,28 +7970,32 @@ equals zero. I'll see you around like what I equals zero While I is less than
 10, something like that. That there we go. I plus plus. And then curly braces, 
 console dot log. And if I test this, you’ll see that it will print 10 times.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 482/483.  (267) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 482/483. define variables to scope only locally (267) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image482.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define 'for' loop with let inside, display to console let value"
+  alt="Define 'for' loop with let inside, display to console let value." />
 <img src="./images/image483.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, given error with global variable outside the 'for' loop"
+  alt="Test, given error with global variable outside the 'for' loop." />
 </p>
 But if I come back here, if I try to do console that log, use my tick marks, 
 the value of i is i but make that a variable dollar sign, curly brace, curly 
 brace. That's going to generate an error because I've used the let keyword in 
 this as block level scope, let's see that in action i is not defined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 484/485.  (268) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 484/485. define for loop with var, test (268) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image484.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Define 'for' loop with var"
+  alt="Define 'for' loop with var." />
 <img src="./images/image485.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, 'for' loop local and global var, no error"
+  alt="Test, 'for' loop local and global var, no error." />
 </p>
 Whereas if I were to come back here and change this keyword to var, that doesn't 
 have block level scope. If I say that var of i is 10 because it's gone through 
@@ -7991,14 +8018,16 @@ meaning JavaScript looks at the file and it sees that variables have been used
 so it hoist them up to the top as well as functions as well, get hoisted up to 
 the top. Let's see an example of this really quickly. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 487/488.  (269) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 487/488. console log var before defined (269) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image487.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="console.log(cheese) then var cheese = 'yummy'"
+  alt="console.log(cheese) then var cheese = 'yummy'." />
 <img src="./images/image488.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, error 'undefined'"
+  alt="Test, error 'undefined'." />
 </p>
 For example, if I use the var keyword to define cheese, but I console log cheese 
 out first, see what happens. Over here in my code editor, I have console log 
@@ -8006,15 +8035,18 @@ cheese and then I'm defining the variable after I'm trying to run it in the
 console. Notice I get undefined because the variable has not been defined at 
 the point at which I'm using it, but it knows that exists because of the hoisting. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 489/490.  (269) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 489/490. define variable as const, gives error (269) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image489.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="console.log(cheese), then const cheese = 'yummy'"
+  alt="console.log(cheese), then const cheese = 'yummy'." />
 <img src="./images/image490.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, error 'cannot access cheese before initialization'"
+  alt="Test, error 'cannot access cheese before initialization'." />
 </p>
+
 Whereas if I change that variable declaration to const watch what happens now, 
 I get an error; Cannot access “cheese” before initialization. And you may be 
 thinking why would I want an error? Well really what we're trying to avoid is 
@@ -8042,23 +8074,28 @@ scripts are more bulletproof and less prone to bugs and mistakes.
   style="width:40%"
   title="3.23 Scope in JavaScript Summary"
   alt="3.23 Scope in JavaScript Summary." />
+</p>
+  
 The scope techniques that we just discussed take some getting used to. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 492.  (271) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 492. event challenges of scope techniques (271) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image492.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Event Challenges of Scope Techniques"
+  alt="Event Challenges of Scope Techniques." />
 
 I  strongly recommend you do this exercise to help you get used to 
 them and get comfortable with them. Previously, you had done some 
 event challenges, and I have that folder over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 493.  (271) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 493. challenges 22 thru 30 (271) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image493.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Challenges 22 thru 30"
+  alt="Challenges 22 thru 30." />
+</p>
 
 I have a folder here with challenges 22 through 30. And hopefully 
 you have those as well, with all the completed challenges in there. 
@@ -8066,21 +8103,25 @@ If you don't, you should go do those challenges first. Then I have
 my code editor here. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 494.  (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 494. folder of event challenges 22-30 (272) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image494.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Folder of event challenges 22 thru 30"
+  alt="Folder of event challenges 22 thru 30." />
+</p>
 
 I'm going to open that folder in my code editor by clicking, Open 
 Folder and I can open my event challenges folder here and it will 
 show up on the side over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 495.  (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 495. challenge 22, best practices (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image495.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Challenge 22, best practices"
+  alt="Challenge 22, best practices." />
+</p>
  
 Next, I'm going to do these best practices around scope and around 
 some stuff around file management as well. And working with scripts 
@@ -8133,6 +8174,7 @@ Might have to shift tab to move that over.
 <img src="./images/image500.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 The next thing I want to do is replace any variable declarations. 
 So they're not using the var keyword they're using either const. 
@@ -8169,6 +8211,7 @@ still functions just fine.
 <img src="./images/image503.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 Even more if you want you could even take this even further by 
 moving the declaration for the script here, up to the top of the 
@@ -8181,6 +8224,8 @@ bottom of the page. And you'll see that still works.
 <img src="./images/image504.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 If I take defer out of there, watch what happens. Refresh and, 
 it doesn't work. Because, addEventListener is null. What's going 
 on here, is that the page loads from the top to the bottom. So 
@@ -8232,6 +8277,7 @@ Simple JavaScript slideshow demonstrating basic DOM manipulation and event handl
 <img src="./images/image506.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 We've done a lot of the basics and you've learned a lot about how JavaScript works 
 and how you can manipulate the DOM and capture events. Now, it's time to put together 
@@ -8243,6 +8289,8 @@ test out what we know so far.
 <img src="./images/image507.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 If you look in the start files for this project, you'll notice there's some images 
 and an index.html file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8262,6 +8310,8 @@ and one for our next link.
 <img src="./images/image509.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Over here in my browser, I can see that it looks like this. When the user clicks 
 the "Next" link, it'll bring up the next picture and when they click the "Previous" 
 link, it'll bring up the previous picture. That's what we're going to make in this 
@@ -8272,6 +8322,7 @@ particular exercise here.
 <img src="./images/image510.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 There are lots of ways of going about creating this simple slideshow. But one 
 way of doing it is to make a variable that includes an array and a variable which 
@@ -8291,6 +8342,7 @@ of the page, just add script tags like so.
 <img src="./images/image511.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 In this script tag, we're going to add an array, var myImages equals square 
 brackets, and then each element goes inside quotes. It doesn't matter if 
@@ -8319,6 +8371,7 @@ to capture which image that we're on in this array.
 <img src="./images/image513.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
   
 I'm going to make a variable called currentImage and I'm 
 going to set it to zero because when the page loads, this 
@@ -8330,6 +8383,8 @@ square brackets zero would get that image.
 <img src="./images/image514.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Let's set that over here. Let's make a variable here, our currentImage and set 
 that to a value of zero to start with. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8338,6 +8393,7 @@ that to a value of zero to start with.
 <img src="./images/image515.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 Then from there, we need to create an event handler that will handle the 
 clicking for the ''Next'' button. We'll do the next link first. This is what 
@@ -8352,6 +8408,7 @@ nextPhoto, so then I can create that function nextPhoto.
 <img src="./images/image516.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 Let's go ahead and add this to our script. Document.getElementById. That's 
 going to go in here and look for this link here that has the ID of next. It's 
@@ -8376,6 +8433,8 @@ to say image2.jpg. Let's save that and see if that works.
 <img src="./images/image517.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Come over here, refresh. If I click ''Next'', you can see that it's changed. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 518.  (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8383,6 +8442,8 @@ Come over here, refresh. If I click ''Next'', you can see that it's changed.
 <img src="./images/image518.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 If I do inspect down here, let me arrange this the way I want it. I'm going to 
 put this down at the bottom. I'm going to turn off that button there. But if I 
 come in here and look at this div, notice this source says image2.jpg. If I 
@@ -8393,6 +8454,7 @@ click ''Next'' again, notice that got changed to image3, image4, image5.
 <img src="./images/image519.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
 
 What happened? We got to image5 because there are five images. Then I click 
 ''Next'' again, and now I have undefined. You'll notice there's an error over 
@@ -8419,6 +8481,7 @@ Let's think about this for a minute.
 <img src="./images/image521.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
  
 What we want to do is we need some code that says, if you're at the end of the 
 array, go back to the beginning. Think about that for a minute. What do we know 
@@ -8430,6 +8493,8 @@ control structure can we use to handle this?
 <img src="./images/image522.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 If you were thinking of something like this, you're on the right track. If 
 current image is greater than four, because remember, the numbers in the array 
 are 0, 1, 2, 3, and 4. If it gets greater than four, V becomes greater than 
@@ -8442,6 +8507,8 @@ this if statement in place, you can make the slideshow effectively loop around.
 <img src="./images/image523.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Let's go ahead and add this. I was just going to go in here, if parentheses 
 currently rises. In the parentheses we want to say, if current image is greater 
 than four. Current image equals zero. 
@@ -8451,6 +8518,8 @@ than four. Current image equals zero.
 <img src="./images/image524.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Let's test that. I come over here and refresh this, and I click "Next" and down 
 here in the elements, I'm going to come down and see in my div, you'd see 
 that's image 2. Next three, next four, five. Then if I click "Next" again, it 
@@ -8462,6 +8531,8 @@ button is looping around through all of the images that we have. That's great.
 <img src="./images/image525.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Now it would be a little bit better if we could generalize or script a little 
 bit. Rather than greater than four here, I know that it's four because I know 
 it 0, 1, 2, 3, 4. I can use my length property to get that. I could do, is less 
@@ -8493,6 +8564,8 @@ and then we can set up that function.
 <img src="./images/image527.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Let's do that first. Up here and you can even copy and paste this if you wanted 
 to. Sometimes, it's best to do that just to avoid making mistakes, but you have 
 to be sure to change everything you need to change. 
@@ -8502,6 +8575,8 @@ to be sure to change everything you need to change.
 <img src="./images/image528.png?raw=true"
   style="width:50%"
   alt="." />
+</p>
+
 Instead of next, this is previous instead of next photo, is going to be previous 
 photo. Okay, so now we've got our event handler. 
 And now we need a function. Again copy and paste always good to make sure the 
@@ -8840,6 +8915,7 @@ performance across all kinds of devices.
 <img src="./images/image549.png?raw=true"
   style="width:40%"
   alt="." />
+</p>
 
 </p>Now we're all set up and ready to go, and ready to start writing our script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9070,6 +9146,7 @@ little bit better, and a little bit cleaner.
   style="width:50%"
   alt="." />
 </p>
+
 What we're going to do is we're going to remove the extra images as the new 
 images come in. What we'll do is we'll say, okay, container, you have children, 
 the children of the container are the images, and if I have more than two 
@@ -9091,6 +9168,7 @@ elements every time somebody clicks the link for next.
   style="width:50%"
   alt="." />
 </p>
+
 Let's go ahead and add this to our script over here. Down here I'm going to 
 say if, and in here I'm going to just put container.children.length, if that's 
 greater than two, then I want to do something, and what do I want to do if 
@@ -9106,6 +9184,7 @@ bottom most child from the list.
   style="width:50%"
   alt="." />
 </p>
+
 Again, up here the container is this thing, this div id=’content’, and it has 
 children which are images. When we start off the page, there's just one, but 
 as we've been clicking the link, it adds more and more and more and more in 
@@ -9150,6 +9229,7 @@ great.
   title="3.34 Slideshow with Cross Fade Effect - Part 6"
   alt="3.34 Slideshow with Cross Fade Effect - Part 6." />
 </p> 
+
 We have our next button working just fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 568.  (315) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9158,6 +9238,7 @@ We have our next button working just fine.
   style="width:50%"
   alt="." />
 </p>
+
 I can click "Next" and it will go through the slides. Not only that, but it's 
 nice and clean because it removes any extra slides we don't need as it's 
 adding new slides on top. That's really neat and that's working. Now the 
@@ -9171,6 +9252,7 @@ hashtag up here. How do we get the previous button to work?
   style="width:50%"
   alt="." />
 </p>
+
 What we want to do is pretty much the same thing that we did with the next 
 button but with the previous button. See if you can do that challenge on 
 your own. You can even go ahead and take this function that we've written 
@@ -9187,6 +9269,7 @@ exactly the same.
   style="width:50%"
   alt="." />
 </p>
+
 Did you get something like this? Hopefully, you did. Let's take a look at 
 what's changed here. What's changed is, here, we're putting the event 
 listener on the previous button instead of the next button. So that's 
@@ -9246,6 +9329,7 @@ perfectly. Just exactly what we want.
   style="width:50%"
   alt="." />
 </p>
+
 Your script is working great, and you could just leave it the way it is, it's 
 totally fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9255,6 +9339,7 @@ totally fine.
   style="width:50%"
   alt="." />
 </p>
+
 But you'll notice that we have a fair amount of duplicate code. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 576.  (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9263,6 +9348,7 @@ But you'll notice that we have a fair amount of duplicate code.
   style="width:50%"
   alt="." />
 </p> 
+
 If we go over and look at our script, we've got this chunk of code in here. 
 That's a several lines of code which is exactly the same as this chunk of code 
 up here. And there's a concept in programming called Don't repeat yourself 'DRY', 
@@ -9278,6 +9364,7 @@ and one in the previous event listener button function.
   style="width:50%"
   alt="." />
 </p>
+
 So down here, I'm going to make a new function, function swapImage. And then that 
 function is going to contain all of this stuff in here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9287,6 +9374,7 @@ function is going to contain all of this stuff in here.
   style="width:50%"
   alt="." />
 </p>
+
 So now we've got a function called swapImage that will run twice. It'll run the same 
 function basically, if you're clicking the Next button or the Previous button, and that 
 cleans up our code because we can see here clearly that the next button is incrementing 
@@ -9298,6 +9386,7 @@ this variable and then checking with an if statement and then running function.
   style="width:50%"
   alt="." />
 </p>
+
 Let's test it and make sure we did it right. So over here, I'm going to refresh the 
 page. If I click Next, you can see that the script is working exactly the same as it did 
 before. Nothing else is changed really. We're not adding any new functionality. We're just 
@@ -9313,6 +9402,7 @@ that. And that's just part of the normal process for any programmer.
   style="width:50%"
   alt="." />
 </p>
+
 Now the very last thing to do here is to put it in a separate link file. I'm 
 going to make a new file on here, click new file here and call it script.js. 
 So make sure it's not inside the slides folder. On the script file, once again, 
@@ -9327,6 +9417,7 @@ and move that down.
   style="width:50%"
   alt="." />
 </p>
+
 And we're going to add use strict in here.  Now we can come over here to grab our script from the index file. I'm going to copy that. And I'm going to stick it over here and paste it in the script.js file.
 
 Now the last thing I want to do is I want to go through and fix the variables here. This one current image is going to change. That variable is going to change down here we can see that. 
@@ -9339,6 +9430,7 @@ There needs to be let, but the rest of these can all be const, const, const, con
   style="width:50%"
   alt="." />
 </p> 
+
 And then down in the swapImage we have a variable here. That one can also be constant. Great, so we got that. So now we've got our files and that's all looking good. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 583.  (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9347,6 +9439,7 @@ And then down in the swapImage we have a variable here. That one can also be con
   style="width:50%"
   alt="." />
 </p>
+
 Over here on written index file, we just need to get rid of that stuff and put it in here, src equals script.js, that's our file. And we can put this up here like so.We could leave it like that. Or even better, we could take this and move it up here into the header of the page and add the defer attribute here, save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 584. test,  (324) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9355,6 +9448,7 @@ Over here on written index file, we just need to get rid of that stuff and put i
   style="width:50%"
   alt="." />
 </p>
+
 And then always check to make sure you didn't mess things up along the way. And 
 look at that. It's working perfectly. Everything works great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9365,6 +9459,7 @@ look at that. It's working perfectly. Everything works great.
   title="Finished, working script"
   alt="Finished, working script." />
 </p>
+
 We have finished our script, and we've cleaned it up. And 
 in this lesson you've learned a lot about some different ways of doing things, 
 and how to add elements to the page, and remove them from the page. All with 
@@ -9423,6 +9518,7 @@ you'll be excited to go on to the next course and learn even more about JavaScri
   title="4.01 Basic Distance Converter (Miles to Kilometers)"
   alt="4.01 Basic Distance Converter (Miles to Kilometers)." />
 </p>
+
 In this project will take an interface that I've already created, and make it 
 work so that we end up with this little tool that will convert miles to kilometers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9472,6 +9568,7 @@ container down here where the answer is going to go when we convert the miles.
   style="width:50%"
   alt="styles.css - initially." />
 </p>
+
 Then I've got some styling over here already in place, probably more startling 
 than I really need, but that's okay. We don't need to touch any of that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9482,6 +9579,7 @@ than I really need, but that's okay. We don't need to touch any of that.
   title="Add script to bottom of index body"
   alt="Add script to bottom of index body." />
 </p>
+
 At this point what we're going to do, is we're going to add a script tag down 
 at the bottom, and start figuring out how we're going to capture this. Then in 
 here we want to capture this submission of this form. You call it convert. We've 
@@ -9499,18 +9597,18 @@ got our EventListener here.
   title="What happens when form is submitted?"
   alt="What happens when form is submitted?" />
 </p>
-Now, normally, when events happen like a submission of a form, what happens is, 
-either the data from the form goes to some PHP file to be handled, or if you 
-don't have an action, then what it'll do is, it will actually refresh the web 
-page. We don't want that to happen. We want to stop the normal processing of the 
-form. In that case we're going to pass in the special event object, and we can 
-pass it in as event or some people pass it in as evt or some people will just 
-use E. I'm going to leave it as event just to make it clear that that's what it 
-is. It's the special event object. Then we're going to keep that form from being 
-processed by using event.preventDefault, which is a method that will keep that 
-form from getting processed, and from refreshing the page, or trying to go to 
-that PHP file when we submit the form. That's the thing we want to do first 
-here. 
+
+Now, normally, when events happen like the submission of a form, either the data 
+from the form goes to some PHP file to be handled, or if you don't have an action, 
+it will actually refresh the web page. We don't want that to happen. We want to 
+stop the normal processing of the form. In that case we're going to pass in the 
+special event object, and we can pass it in as event or some people pass it in 
+as evt or some people will just use E. I'm going to leave it as event just to 
+make it clear that that's what it is. It's the special event object. Then we're 
+going to keep that form from being processed by using event.preventDefault, 
+which is a method that will keep that form from getting processed, and from 
+refreshing the page, or trying to go to that PHP file when we submit the form. 
+That's the thing we want to do first here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 595. capture distance (331) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9538,6 +9636,7 @@ field, and stick it into this variable distance.
   title="Test 54 alert(distance)"
   alt="Test 54 alert(distance)." />
 </p>
+
 Let's give it a try real quick. If we do alert distance, we should get that 
 data coming up here. If I come back here and refresh this, and then type in 
 five, and click convert distance, you can see that the alert pops up, and it 
@@ -9619,7 +9718,8 @@ Remember, JavaScript works from the inside out.
 <p align="center" width="100%">
 <img src="./images/image602.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, see if distance contains a number"
+  alt="Example, see if distance contains a number." />
 </p>
 The next thing we need to do is check to see if distance is an actual number. 
 If somebody put in something that's not a number, we can't convert that to 
@@ -9637,6 +9737,7 @@ message down at the bottom.
 <p align="center" width="100%">
 <img src="./images/image603.png?raw=true"
   style="width:50%"
+  title="Add if statement of distance as a number"
   alt="Add if statement of distance as a number." />
 </p>
 Let's add this if statement down here. We're going to convert and then display 
