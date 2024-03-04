@@ -29,16 +29,12 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <body>
+<body>
 
+<h1 align="center">JavaScript Basics</h1>
 
-<h1 align="center">
-JavaScript Basics
-</h1>
-<h6 align="center">
-(by William Mead, Lecturer - University of California <span
-class="citation" data-cites="Davis">@Davis</span>)
-</h6>
+<h6 align="center">(by William Mead, Lecturer - University of California 
+  <span class="citation" data-cites="Davis">@Davis</span>)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ index.html of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -47,16 +43,16 @@ class="citation" data-cites="Davis">@Davis</span>)
 <p align="center" width="100%">
 <img src="./images/image001.jpeg?raw=true"
   width="20%"
+  title="JavaScript coffee cup logo version"
   alt="JavaScript coffee cup logo version." />
 <img src="./images/image002.png?raw=true"
   width="20%"
+  title="UC Davis logo"
   alt="UC Davis logo." />
 </p>
-<h2 id="#about">
-About this Course
-</h2>
-<p>
-This course introduces the programming language JavaScript and shows the
+<h2 id="#about">About this Course</h2>
+
+<p>This course introduces the programming language JavaScript and shows the
 websites that include the type of interactions students will eventually
 be able to develop. Learners will understand the importance of how
 JavaScript was developed and why such history impacts the way JavaScript
@@ -65,177 +61,100 @@ first scripts, have their HTML and CSS skills assessed, create variables
 and arrays and assign values to them. If student’s skills are lacking,
 resources and recommendations are provided to improve these skills.
 There is ample opportunity for students to practice these first, core
-skills.
-</p>
+skills.</p>
+
 <!--~~ Hoverable Dropdown Menu ~~-->
-<h2>
-<a href="#table-of-contents">Table of Contents</a>
-</h2>
-<h2 id="week-1-getting-started-intro-to-js-variables-and-arrays"><a
-href="#ch1"><strong>Week 1: Getting Started, Intro to JS, Variables, and
-Arrays</strong></a></h2>
+
+<h2><a href="#table-of-contents">Table of Contents</a></h2>
+
+<h2><a href="#ch1"><strong>Week 1: Getting Started, Intro to JS, Variables, and Arrays</strong></a></h2>
+
+<blockquote>
+  <ul>
+    <li><h3><a href="#ch1-00-note"><strong>1.00 A Note from UC Davis</strong></a></h3></li>
+    <li><h3><a href="#ch1-00-obj"><strong>1.00 Learning Objectives</strong></a></h3></li>
+    <li><h3><a href="#ch1-00-intro"><strong>1.00 Welcome/Intro to this Course!</strong></a></h3></li>
+    <li><h3><a href="#ch1-01"><strong>1.01 Intro to JavaScript - Part 1</strong></a></h3></li>
+    <li><h3><a href="#ch1-02"><strong>1.02 Intro to JavaScript - Part 2</strong></a></h3></li>
+    <li><h3><a href="#ch1-03"><strong>1.03 Intro to JavaScript - Part 3</strong></a></h3></li>
+    <li><h3><a href="#ch1-04"><strong>1.04 Tools Needed for Success</strong></a></h3></li>
+    <li><h3><a href="#ch1-05"><strong>1.05 Skills Needed for Success</strong></a></h3></li>
+    <li><h3><a href="#ch1-05-assess"><strong>1.05.Assessing Your Skills</strong></a></h3></li>
+    <li><h3><a href="#ch1-05-add"><strong>1.05.Additional Resources</strong></a></h3></li>
+    <li><h3><a href="#ch1-06"><strong>1.06 JavaScript Variables</strong></a></h3></li>
+    <li><h3><a href="#ch1-07"><strong>1.07 JavaScript Variables Practice - Part 1</strong></a></h3></li>
+    <li><h3><a href="#ch1-08"><strong>1.08 JavaScript Variables Practice - Part 2</strong></a></h3></li>
+    <li><h3><a href="#ch1-09"><strong>1.09 JavaScript Variables Practice - Part 3</strong></a></h3></li>
+    <li><h3><a href="#ch1-10"><strong>1.10 JavaScript Arrays - Part 1</strong></a></h3></li>
+    <li><h3><a href="#ch1-11"><strong>1.11 JavaScript Arrays - Part 2</strong></a></h3></li>
+    <li><h3><a href="#ch1-12"><strong>1.12 JavaScript Arrays Practice</strong></a></h3></li>
+    <li><h3><a href="#ch1-12-add"><strong>1.12 Additional Resources</strong></a></h3></li>
+    <li><h3><a href="#ch1-12-res"><strong>1.12 Reserved Words</strong></a></h3></li>
+    <li><h3><a href="#ch1-12-array"><strong>1.12 Array Methods</strong></a></h3></li>
+  </ul>
+</blockquote>
+
+<h2><a href="#ch2"><strong>Week 2: Controlling Logical Flow in JavaScript</strong></a></h2>
+
 <blockquote>
 <ul>
-<li><h3 id="a-note-from-uc-davis"><a href="#ch1-00-note"><strong>1.00 A
-Note from UC Davis</strong></a></h3></li>
-<li><h3 id="learning-objectives"><a href="#ch1-00-obj"><strong>1.00
-Learning Objectives</strong></a></h3></li>
-<li><h3 id="welcomeintro-to-this-course"><a
-href="#ch1-00-intro"><strong>1.00 Welcome/Intro to this
-Course!</strong></a></h3>
-<h3 id="intro-to-javascript---part-1"><a href="#ch1-01"><strong>1.01
-Intro to JavaScript - Part 1</strong></a></h3>
-<h3 id="intro-to-javascript---part-2"><a href="#ch1-02"><strong>1.02
-Intro to JavaScript - Part 2</strong></a></h3>
-<h3 id="intro-to-javascript---part-3"><a href="#ch1-03"><strong>1.03
-Intro to JavaScript - Part 3</strong></a></h3>
-<h3 id="tools-needed-for-success"><a href="#ch1-04"><strong>1.04 Tools
-Needed for Success</strong></a></h3>
-<h3 id="skills-needed-for-success"><a href="#ch1-05"><strong>1.05 Skills
-Needed for Success</strong></a></h3></li>
-<li><h3 id="assessing-your-skills"><a
-href="#ch1-05-assess"><strong>1.05.Assessing Your
-Skills</strong></a></h3></li>
-<li><h3 id="additional-resources"><a
-href="#ch1-05-add"><strong>1.05.Additional Resources</strong></a></h3>
-<h3 id="javascript-variables"><a href="#ch1-06"><strong>1.06 JavaScript
-Variables</strong></a></h3>
-<h3 id="javascript-variables-practice---part-1"><a
-href="#ch1-07"><strong>1.07 JavaScript Variables Practice - Part
-1</strong></a></h3>
-<h3 id="javascript-variables-practice---part-2"><a
-href="#ch1-08"><strong>1.08 JavaScript Variables Practice - Part
-2</strong></a></h3>
-<h3 id="javascript-variables-practice---part-3"><a
-href="#ch1-09"><strong>1.09 JavaScript Variables Practice - Part
-3</strong></a></h3>
-<h3 id="javascript-arrays---part-1"><a href="#ch1-10"><strong>1.10
-JavaScript Arrays - Part 1</strong></a></h3>
-<h3 id="javascript-arrays---part-2"><a href="#ch1-11"><strong>1.11
-JavaScript Arrays - Part 2</strong></a></h3>
-<h3 id="javascript-arrays-practice"><a href="#ch1-12"><strong>1.12
-JavaScript Arrays Practice</strong></a></h3></li>
-<li><h3 id="additional-resources-1"><a
-href="#ch1-12-add"><strong>1.12.Additional
-Resources</strong></a></h3></li>
-<li><h3 id="reserved-words"><a href="#ch1-12-res"><strong>1.12.Reserved
-Words</strong></a></h3></li>
-<li><h3 id="array-methods"><a href="#ch1-12-array"><strong>1.12.Array
-Methods</strong></a></h3></li>
+  <li><h3><a href="#ch2-00-obj"><strong>2.00 Learning Objectives</strong></a></h3></li>
+  <li><h3><a href="#ch2-00-intro"><strong>2.00 Module 2 Introduction</strong></a></h3></li>
+  <li><h3><a href="#ch2-01"><strong>2.01 Visual Studio - Part 1</strong></a></h3></li>
+  <li><h3><a href="#ch2-02"><strong>2.02 Visual Studio - Part 2</strong></a></h3></li>
+  <li><h3><a href="#ch2-03"><strong>2.03 Visual Studio - Part 3</strong></a></h3></li>
+  <li><h3><a href="#ch2-04"><strong>2.04 Operators, Boolean &amp; Selection in JavaScript</strong></a></h3></li>
+  <li><h3><a href="#ch2-05"><strong>2.05 Try This!</strong></a></h3></li>
+  <li><h3><a href="#ch2-06"><strong>2.06 Comparing Values</strong></a></h3></li>
+  <li><h3><a href="#ch2-07"><strong>2.07 Else If</strong></a></h3></li>
+  <li><h3><a href="#ch2-08"><strong>2.08 Switch Statements</strong></a></h3></li>
+  <li><h3><a href="#ch2-09"><strong>2.09 Using &amp;&amp;</strong></a></h3></li>
+  <li><h3><a href="#ch2-09-add"><strong>2.09.Additional Resources</strong></a></h3></li>
+  <li><h3><a href="#ch2-10"><strong>2.10 Loops in JavaScript</strong></a></h3></li>
+  <li><h3><a href="#ch2-11"><strong>2.11 Working With Arrays</strong></a></h3></li>
+  <li><h3><a href="#ch2-12"><strong>2.12 The For…Of Loop</strong></a></h3></li>
+  <li><h3><a href="#ch2-13"><strong>2.13 While Loops</strong></a></h3></li>
+  <li><h3><a href="ch2-13-add"><strong>2.13.JavaScript-Loops Additional-Resources</strong></a></h3></li>
+  <li><h3><a href="#ch2-14"><strong>2.14 Structured Programming, Sequence - Part 1</strong></a></h3></li>
+  <li><h3><a href="#ch2-15"><strong>2.15 Sequence - Part 2</strong></a></h3></li>
+  <li><h3><a href="#ch2-16"><strong>2.16 Sequence - Part 3, Loop</strong></a></h3></li>
+  <li><h3><a href="#ch2-17"><strong>2.17 Loop + Selection</strong></a></h3></li>
+  <li><h3><a href="ch2-17-intro"><strong>2.17.JavaScript Basic Challenges Introduction 1-9</strong></a></h3></li>
+  <li><h3><a href="#ch2-18"><strong>2.18 JavaScript Basic Challenges</strong></a></h3></li>
+  <li><h3><a href="#ch2-19"><strong>2.19 JavaScript Basic Challenges</strong></a></h3></li>
+  <li><h3><a href="#ch2-20"><strong>2.20 JavaScript Basic Challenges</strong></a></h3></li>
+  <li><h3><a href="#ch2-21"><strong>2.21 Useful Example - Step 1</strong></a></h3></li>
+  <li><h3><a href="#ch2-22"><strong>2.22 Useful Example - Steps 2-4</strong></a></h3></li>
+  <li><h3><a href="#ch2-23"><strong>2.23 Useful Example - Step 5</strong></a></h3></li>
+  <li><h3><a href="#ch2-24"><strong>2.24 More on Functions</strong></a></h3></li>
+  <li><h3><a href="ch2-17-add"><strong>2.24.Additional Resources</strong></a></h3></li>
+  <li><h3><a href="ch2-17-func"><strong>2.24.JavaScript Function Challenges 10-16</strong></a></h3></li>
+  <li><h3><a href="ch2-24-refl"><strong>2.24.Module 2 Reflection</strong></a></h3></li>
 </ul>
 </blockquote>
-<h2 id="week-2-controlling-logical-flow-in-javascript"><a
-href="#ch2"><strong>Week 2: Controlling Logical Flow in
-JavaScript</strong></a></h2>
+
+<h2><a href="#ch3"><strong>Week 3: Using JavaScript in the Web Browser</strong></a></h2>
+
 <blockquote>
 <ul>
-<li><h3 id="learning-objectives-1"><a href="#ch2-00-obj"><strong>2.00
-Learning Objectives</strong></a></h3></li>
-<li><h3 id="module-2-introduction"><a href="#ch2-00-intro"><strong>2.00
-Module 2 Introduction</strong></a></h3>
-<h3 id="visual-studio---part-1"><a href="#ch2-01"><strong>2.01 Visual
-Studio - Part 1</strong></a></h3>
-<h3 id="visual-studio---part-2"><a href="#ch2-02"><strong>2.02 Visual
-Studio - Part 2</strong></a></h3>
-<h3 id="visual-studio---part-3"><a href="#ch2-03"><strong>2.03 Visual
-Studio - Part 3</strong></a></h3>
-<h3 id="operators-boolean-selection-in-javascript"><a
-href="#ch2-04"><strong>2.04 Operators, Boolean &amp; Selection in
-JavaScript</strong></a></h3>
-<h3 id="try-this"><a href="#ch2-05"><strong>2.05 Try
-This!</strong></a></h3>
-<h3 id="comparing-values"><a href="#ch2-06"><strong>2.06 Comparing
-Values</strong></a></h3>
-<h3 id="else-if"><a href="#ch2-07"><strong>2.07 Else
-If</strong></a></h3>
-<h3 id="switch-statements"><a href="#ch2-08"><strong>2.08 Switch
-Statements</strong></a></h3>
-<h3 id="using"><a href="#ch2-09"><strong>2.09 Using
-&amp;&amp;</strong></a></h3></li>
-<li><h3 id="additional-resources-2"><a
-href="#ch2-09-add"><strong>2.09.Additional Resources</strong></a></h3>
-<h3 id="loops-in-javascript"><a href="#ch2-10"><strong>2.10 Loops in
-JavaScript</strong></a></h3>
-<h3 id="working-with-arrays"><a href="#ch2-11"><strong>2.11 Working With
-Arrays</strong></a></h3>
-<h3 id="the-forof-loop"><a href="#ch2-12"><strong>2.12 The For…Of
-Loop</strong></a></h3>
-<h3 id="while-loops"><a href="#ch2-13"><strong>2.13 While
-Loops</strong></a></h3></li>
-<li><h3 id="javascript-loops-additional-resources"><a
-href="ch2-13-add"><strong>2.13.JavaScript-Loops
-Additional-Resources</strong></a></h3>
-<h3 id="structured-programming-sequence---part-1"><a
-href="#ch2-14"><strong>2.14 Structured Programming, Sequence - Part
-1</strong></a></h3>
-<h3 id="sequence---part-2"><a href="#ch2-15"><strong>2.15 Sequence -
-Part 2</strong></a></h3>
-<h3 id="sequence---part-3-loop"><a href="#ch2-16"><strong>2.16 Sequence
-- Part 3, Loop</strong></a></h3>
-<h3 id="loop-selection"><a href="#ch2-17"><strong>2.17 Loop +
-Selection</strong></a></h3></li>
-<li><h3 id="javascript-basic-challenges-introduction-1-9"><a
-href="ch2-17-intro"><strong>2.17.JavaScript Basic Challenges
-Introduction 1-9</strong></a></h3>
-<h3 id="javascript-basic-challenges"><a href="#ch2-18"><strong>2.18
-JavaScript Basic Challenges</strong></a></h3>
-<h3 id="javascript-basic-challenges-1"><a href="#ch2-19"><strong>2.19
-JavaScript Basic Challenges</strong></a></h3>
-<h3 id="javascript-basic-challenges-2"><a href="#ch2-20"><strong>2.20
-JavaScript Basic Challenges</strong></a></h3>
-<h3 id="useful-example---step-1"><a href="#ch2-21"><strong>2.21 Useful
-Example - Step 1</strong></a></h3>
-<h3 id="useful-example---steps-2-4"><a href="#ch2-22"><strong>2.22
-Useful Example - Steps 2-4</strong></a></h3>
-<h3 id="useful-example---step-5"><a href="#ch2-23"><strong>2.23 Useful
-Example - Step 5</strong></a></h3>
-<h3 id="more-on-functions"><a href="#ch2-24"><strong>2.24 More on
-Functions</strong></a></h3></li>
-<li><h3 id="additional-resources-3"><a
-href="ch2-17-add"><strong>2.24.Additional
-Resources</strong></a></h3></li>
-<li><h3 id="javascript-function-challenges-10-16"><a
-href="ch2-17-func"><strong>2.24.JavaScript Function Challenges
-10-16</strong></a></h3></li>
-<li><h3 id="module-2-reflection"><a
-href="ch2-24-refl"><strong>2.24.Module 2
-Reflection</strong></a></h3></li>
+  <li><h3><a href="#ch3-00-obj"><strong>3.00 Learning Objectives</strong></a></h3></li>
+  <li><h3><a href="#ch3-00-intro"><strong>3.00 Module 3 Introduction</strong></a></h3></li>
+  <li><h3><a href="#ch3-01"><strong>3.01 JavaScript and the DOM</strong></a></h3></li>
+  <li><h3><a href="#ch3-02"><strong>3.02 Dot Syntax and Methods</strong></a></h3></li>
+  <li><h3><a href="#ch3-03"><strong>3.03 DOM; getElementsByTagName();</strong></a></h3></li>
+  <li><h3><a href="#ch3-04"><strong>3.04 DOM; getElementsByClassName();</strong></a></h3></li>
+  <li><h3><a href="#ch3-05"><strong>3.05 DOM; querySelector()</strong></a></h3></li>
+  <li><h3><a href="#ch3-06"><strong>3.06 DOM; querySelectorAll();</strong></a></h3></li>
 </ul>
 </blockquote>
-<h2 id="week-3-using-javascript-in-the-web-browser"><a
-href="#ch3"><strong>Week 3: Using JavaScript in the Web
-Browser</strong></a></h2>
-<blockquote>
-<ul>
-<li><h3 id="learning-objectives-2"><a href="#ch3-00-obj"><strong>3.00
-Learning Objectives</strong></a></h3></li>
-<li><h3 id="module-3-introduction"><a href="#ch3-00-intro"><strong>3.00
-Module 3 Introduction</strong></a></h3>
-<h3 id="javascript-and-the-dom"><a href="#ch3-01"><strong>3.01
-JavaScript and the DOM</strong></a></h3>
-<h3 id="dot-syntax-and-methods"><a href="#ch3-02"><strong>3.02 Dot
-Syntax and Methods</strong></a></h3>
-<h3 id="dom-getelementsbytagname"><a href="#ch3-03"><strong>3.03 DOM;
-getElementsByTagName();</strong></a></h3>
-<h3 id="dom-getelementsbyclassname"><a href="#ch3-04"><strong>3.04 DOM;
-getElementsByClassName();</strong></a></h3>
-<h3 id="dom-queryselector"><a href="#ch3-05"><strong>3.05 DOM;
-querySelector()</strong></a></h3>
-<h3 id="dom-queryselectorall"><a href="#ch3-06"><strong>3.06 DOM;
-querySelectorAll();</strong></a></h3></li>
-</ul>
-</blockquote>
-<h2>
-Syllabus
-</h2>
-<h3>
-Week 1
-</h3>
-<h3>
-Getting Started, Introduction to JavaScript, Variables, and Arrays
-</h3>
-<p>
-In this module, you will be introduced to JavaScript and what it can do.
+
+<h2>Syllabus</h2>
+
+<h3>Week 1</h3>
+
+<h3>Getting Started, Introduction to JavaScript, Variables, and Arrays</h3>
+
+<p>In this module, you will be introduced to JavaScript and what it can do.
 You will be able to identify websites that include the types of
 interactions you will be able to produce at the end of the entire
 Specialization. You will also be able to discuss the history of
@@ -247,95 +166,56 @@ resources and recommendations for improving your skills in this area, if
 necessary. You will write simple JavaScript statements in the web
 browser console and be able to create variables and arrays. You will be
 able to assign values to these variables and arrays and be able to read
-values from them.
-</p>
-<h4>
-12 videos, 5 readings
-</h4>
+values from them.</p>
+
+<h4>12 videos, 5 readings</h4>
+
 <ul>
-<li>
-1.00.A Note From UC Davis
-</li>
-<li>
-1.00.Learning Objectives
-</li>
-<li>
-<a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">1.00.Welcome/Intro
-to this Course!</a>
-</li>
+  <li>1.00 A Note From UC Davis</li>
+  <li>1.00 Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">
+    1.00 Welcome/Intro to this Course!</a></li>
 </ul>
+
 <ol type="1">
-<li>
-Introduction to JavaScript - Part 1
-</li>
-<li>
-Introduction to JavaScript - Part 2
-</li>
-<li>
-Introduction to JavaScript - Part 3
-</li>
-<li>
-Tools Needed for Success
-</li>
-<li>
-Skills Needed for Success
-</li>
+  <li>Introduction to JavaScript - Part 1</li>
+  <li>Introduction to JavaScript - Part 2</li>
+  <li>Introduction to JavaScript - Part 3</li>
+  <li>Tools Needed for Success</li>
+  <li>Skills Needed for Success</li>
 </ol>
+
 <ul>
-<li>
-1.05.Assessing Your Skills
-</li>
-<li>
-1.05.Additional Resources
-</li>
+  <li>1.05 Assessing Your Skills</li>
+  <li>1.05 Additional Resources</li>
 </ul>
+
 <ol type="1" start="6">
-<li>
-JavaScript Variables
-</li>
-<li>
-JavaScript Variables Practice - Part 1
-</li>
-<li>
-JavaScript Variables Practice - Part 2
-</li>
-<li>
-JavaScript Variables Practice - Part 3
-</li>
-<li>
-JavaScript Arrays - Part 1
-</li>
-<li>
-JavaScript Arrays - Part 2
-</li>
-<li>
-JavaScript Arrays Practice
-</li>
+  <li>JavaScript Variables</li>
+  <li>JavaScript Variables Practice - Part 1</li>
+  <li>JavaScript Variables Practice - Part 2</li>
+  <li>JavaScript Variables Practice - Part 3</li>
+  <li>JavaScript Arrays - Part 1</li>
+  <li>JavaScript Arrays - Part 2</li>
+  <li>JavaScript Arrays Practice</li>
 </ol>
+
 <ul>
-<li>
-1.12.Additional Resources
-</li>
-<li>
-1.12.Module 1 Reflection
-</li>
+  <li>1.12 Additional Resources</li>
+  <li>1.12 Module 1 Reflection</li>
 </ul>
-<h3>
-Week 2
-</h3>
-<h3>
-Controlling Logical Flow in JavaScript
-</h3>
-<p>
-In this module, you will be able to download, install and use of a code
+
+<h3>Week 2</h3>
+
+<h3>Controlling Logical Flow in JavaScript</h3>
+
+<p>In this module, you will be able to download, install and use of a code
 editor as a tool for writing code, and properly save and manage their
 files. You will be introduced to the selection control structure. This
 basic control structure allows programs to follow a path based on
 conditions, and is one of the three major logic and flow control
-structures found in any modern programming language.
-</p>
-<p>
-You will be able to identify, write, and trouble shoot scripts using
+structures found in any modern programming language.</p>
+<p>You will be able to identify, write, and trouble shoot scripts using
 this basic control structure. You will be able to correctly identify
 loop structures and practice using some of the syntax available in
 JavaScript to create loops. You will then be able to put all three
@@ -343,134 +223,75 @@ logical flow control structures (sequence, selection, and loop) together
 to create basic JavaScript programs that can be tested. Finally you will
 be able to combine sets of program instructions into named functions and
 create custom functions that can be called to complete the instructions
-they contain.
-</p>
-<h4>
-25 lessons, 5 readings
-</h4>
+they contain.</p>
+
+<h4>25 lessons, 5 readings</h4>
+
 <ul>
-<li>
-2.00.Learning Objectives
-</li>
-<li>
-<a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">2.00.Module
-2 Introduction</a>
-</li>
+  <li>2.00.Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">
+    2.00 Module 2 Introduction</a></li>
 </ul>
+
 <ol>
-<li>
-Visual Studio - Part 1
-</li>
-<li>
-Visual Studio - Part 1
-</li>
-<li>
-Visual Studio - Part 2
-</li>
-<li>
-Visual Studio - Part 3
-</li>
-<li>
-Operators, Booleans &amp; Selection in JavaScript
-</li>
-<li>
-Try This!
-</li>
-<li>
-Comparing Values
-</li>
-<li>
-Else If
-</li>
-<li>
-Switch Statements
-</li>
-<li>
-Using &amp;&amp;
-</li>
+  <li>Visual Studio - Part 1</li>
+  <li>Visual Studio - Part 1</li>
+  <li>Visual Studio - Part 2</li>
+  <li>Visual Studio - Part 3</li>
+  <li>Operators, Booleans &amp; Selection in JavaScript</li>
+  <li>Try This!</li>
+  <li>Comparing Values</li>
+  <li>Else If</li>
+  <li>Switch Statements</li>
+  <li>Using &amp;&amp;</li>
 </ol>
+
 <ul>
-<li>
-2.09.Additional Resources
-</li>
+  <li>2.09.Additional Resources</li>
 </ul>
+
 <ol type="1" start="11">
-<li>
-Loops in JavaScript
-</li>
-<li>
-Working With Arrays
-</li>
-<li>
-The For..Of Loop
-</li>
-<li>
-While Loops
-</li>
+  <li>Loops in JavaScript</li>
+  <li>Working With Arrays</li>
+  <li>The For..Of Loop</li>
+  <li>While Loops</li>
 </ol>
+
 <ul>
-<li>
-2.13.JavaScript-LoopsAdditional-Resources
-</li>
+  <li>2.13.JavaScript-LoopsAdditional-Resources</li>
 </ul>
+
 <ol type="1" start="15">
-<li>
-Structured Programming, Sequence - Part 1
-</li>
-<li>
-Sequence - Part 2
-</li>
-<li>
-Sequence - Part 3, Loop
-</li>
-<li>
-Loop + Selection
-</li>
+  <li>Structured Programming, Sequence - Part 1</li>
+  <li>Sequence - Part 2</li>
+  <li>Sequence - Part 3, Loop</li>
+  <li>Loop + Selection</li>
 </ol>
+
 <ul>
-<li>
-2.17.JavaScript Basic Challenges Introduction 01-09
-</li>
+  <li>2.17 JavaScript Basic Challenges Introduction 01-09</li>
 </ul>
+
 <ol type="1" start="20">
-<li>
-Functions in JavaScript
-</li>
-<li>
-Passing In and Returning Data
-</li>
-<li>
-Useful Example - Step 1
-</li>
-<li>
-Useful Example - Steps 2-4
-</li>
-<li>
-Useful Example - Step 5
-</li>
-<li>
-More On Functions
-</li>
+  <li>Functions in JavaScript</li>
+  <li>Passing In and Returning Data</li>
+  <li>Useful Example - Step 1</li>
+  <li>Useful Example - Steps 2-4</li>
+  <li>Useful Example - Step 5</li>
+  <li>More On Functions</li>
 </ol>
+
 <ul>
-<li>
-2.24.Additional Resources
-</li>
-<li>
-2.24.JavaScript Function Challengs 10-16
-</li>
-<li>
-2.24.Module 2 Reflection
-</li>
+  <li>2.24 Additional Resources</li>
+  <li>2.24 JavaScript Function Challengs 10-16</li>
+  <li>2.24 Module 2 Reflection</li>
 </ul>
-<h3>
-Week 3
-</h3>
-<h3>
-Using JavaScript in the Web Browser
-</h3>
-<p>
-In this module, you will be introduced to the methods built into
+
+<h3>Week 3</h3>
+
+<h3>Using JavaScript in the Web Browser</h3>
+
+<p>In this module, you will be introduced to the methods built into
 JavaScript for accessing and manipulating DOM elements in the web
 browser. You will be able to capture user events with JavaScript and use
 those events to trigger changes to the DOM using the document methods
@@ -478,319 +299,168 @@ and element properties. You will be able to identify how scope works in
 JavaScript and be introduced to best practices for working with
 variables in JavaScript so that scope does not become a problem. You
 will be able to practice all the skills and techniques learned so far in
-the course by putting together a simple slideshow on a web page.
-</p>
-<h4>
-37 videos, 7 readings
-</h4>
+the course by putting together a simple slideshow on a web page.</p>
+
+<h4>37 videos, 7 readings</h4>
+
 <ul>
-<li>
-3.00.Learning Objectives
-</li>
-<li>
-<a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">3.00.Module
-3 Introduction</a>
-</li>
+  <li>3.00 Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">
+    3.00 Module 3 Introduction</a></li>
 </ul>
+
 <ol type="1">
-<li>
-JavaScript and the DOM
-</li>
-<li>
-Dot Syntax and Methods
-</li>
-<li>
-DOM: getElementsByTagName();
-</li>
-<li>
-DOM: getElementsByClassName();
-</li>
-<li>
-DOM: querySelector();
-</li>
-<li>
-DOM: querySelectorAll();
-</li>
-<li>
-innerHTML
-</li>
-<li>
-className
-</li>
-<li>
-Creating Elements and Text Nodes
-</li>
-<li>
-Removing Elements
-</li>
+  <li>JavaScript and the DOM</li>
+  <li>Dot Syntax and Methods</li>
+  <li>DOM: getElementsByTagName();</li>
+  <li>DOM: getElementsByClassName();</li>
+  <li>DOM: querySelector();</li>
+  <li>DOM: querySelectorAll();</li>
+  <li>innerHTML</li>
+  <li>className</li>
+  <li>Creating Elements and Text Nodes</li>
+  <li>Removing Elements</li>
 </ol>
+
 <ul>
-<li>
-3.10.Additional Resources
-</li>
-<li>
-3.10.JavaScript DOM Challengs 17-21
-</li>
+  <li>3.10 Additional Resources</li>
+  <li>3.10 JavaScript DOM Challengs 17-21</li>
 </ul>
+
 <ol type="1" start="11">
-<li>
-Capturing Events with JavaScript
-</li>
-<li>
-Event Listeners
-</li>
-<li>
-The Event Object
-</li>
-<li>
-More On Events
-</li>
-<li>
-Mouseover, Mouseover Events: HTML
-</li>
-<li>
-Scroll Events: HTML
-</li>
-<li>
-deo: Window Resizing
-</li>
-<li>
-Key Down Event
-</li>
+  <li>Capturing Events with JavaScript</li>
+  <li>Event Listeners</li>
+  <li>The Event Object</li>
+  <li>More On Events</li>
+  <li>Mouseover, Mouseover Events: HTML</li>
+  <li>Scroll Events: HTML</li>
+  <li>deo: Window Resizing</li>
+  <li>Key Down Event</li>
 </ol>
+
 <ul>
-<li>
-3.18.Additional Resources
-</li>
+  <li>3.18 Additional Resources</li>
 </ul>
+
 <ol type="1" start="19">
-<li>
-JavaScript Event Challenges 22-30
-</li>
-<li>
-Scope in JavaScript
-</li>
-<li>
-Strategy 1: Never Use Global Scope
-</li>
-<li>
-Strategy 2: “use strict;”
-</li>
-<li>
-Strategy 3: const and let
-</li>
-<li>
-Scope in JavaScript Summary
-</li>
+  <li>JavaScript Event Challenges 22-30</li>
+  <li>Scope in JavaScript</li>
+  <li>Strategy 1: Never Use Global Scope</li>
+  <li>Strategy 2: “use strict;”</li>
+  <li>Strategy 3: const and let</li>
+  <li>Scope in JavaScript Summary</li>
 </ol>
+
 <ul>
-<li>
-3.24.Additional Resources
-</li>
-<li>
-3.24.Simple Slide Show START Files
-</li>
+  <li>3.24 Additional Resources</li>
+  <li>3.24 Simple Slide Show START Files</li>
 </ul>
+
 <ol type="1" start="25">
-<li>
-Simple JS Slideshow - Part 1
-</li>
-<li>
-Simple JS Slideshow - Part 2
-</li>
-<li>
-Simple JS Slideshow - Part 3
-</li>
-<li>
-Simple JS Slideshow - Part 4
-</li>
-<li>
-Simple JS Slideshow - Part 5
-</li>
+  <li>Simple JS Slideshow - Part 1</li>
+  <li>Simple JS Slideshow - Part 2</li>
+  <li>Simple JS Slideshow - Part 3</li>
+  <li>Simple JS Slideshow - Part 4</li>
+  <li>Simple JS Slideshow - Part 5</li>
 </ol>
+
 <ul>
-<li>
-3.29.Simple JS Slideshow Open Discussion
-</li>
-<li>
-3.29.Advanced Slide Show START Files
-</li>
+  <li>3.29 Simple JS Slideshow Open Discussion</li>
+  <li>3.29 Advanced Slide Show START Files</li>
 </ul>
+
 <ol type="1" start="30">
-<li>
-Slideshow with Cross Fade Effect - Part 1
-</li>
-<li>
-Slideshow with Cross Fade Effect - Part 2
-</li>
-<li>
-Slideshow with Cross Fade Effect - Part 3
-</li>
-<li>
-Slideshow with Cross Fade Effect - Part 4
-</li>
-<li>
-Slideshow with Cross Fade Effect - Part 5
-</li>
-<li>
-Slideshow with Cross Fade Effect - Part 6
-</li>
-<li>
-Slideshow with Cross Fade Effect - Part 7
-</li>
+  <li>Slideshow with Cross Fade Effect - Part 1</li>
+  <li>Slideshow with Cross Fade Effect - Part 2</li>
+  <li>Slideshow with Cross Fade Effect - Part 3</li>
+  <li>Slideshow with Cross Fade Effect - Part 4</li>
+  <li>Slideshow with Cross Fade Effect - Part 5</li>
+  <li>Slideshow with Cross Fade Effect - Part 6</li>
+  <li>Slideshow with Cross Fade Effect - Part 7</li>
 </ol>
+
 <ul>
-<li>
-3.36.Slideshow With Cross Fade Effect Open Discussion
-</li>
-<li>
-3.36.Prompt: Module 3 Reflection
-</li>
+  <li>3.36 Slideshow With Cross Fade Effect Open Discussion</li>
+  <li>3.36 Prompt: Module 3 Reflection</li>
 </ul>
-<h3>
-Week 4
-</h3>
-<h3>
-Basic JavaScript Application Projects
-</h3>
-<p>
-In this module, you will be able to apply and practice the skills and
+
+<h3>Week 4</h3>
+
+<h3>Basic JavaScript Application Projects</h3>
+
+<p>In this module, you will be able to apply and practice the skills and
 techniques you have learned in the course by building a basic and a more
 advanced distance converter. You will be able to further apply and
 practice to extend your skills and techniques by building a simple
-vacation destination list application.
-</p>
-<h4>
-26 videos, 4 readings
-</h4>
+vacation destination list application.</p>
+
+<h4>26 videos, 4 readings</h4>
+
 <ol type="1" start="1">
-<li>
-<a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">Module
-4 Introduction</a>
-</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">
+    Module 4 Introduction</a></li>
 </ol>
+
 <ul>
-<li>
-4.00.Learning Objectives
-</li>
-<li>
-4.00.Module 4 Introduction
-</li>
-<li>
-4.00.Basic Distance Converter START Files
-</li>
+  <li>4.00 Learning Objectives</li>
+  <li>4.00 Module 4 Introduction</li>
+  <li>4.00 Basic Distance Converter START Files</li>
 </ul>
+
 <ol type="1" start="1">
-<li>
-Basic Distance Converter Project - Part 1
-</li>
-<li>
-Basic Distance Converter Project - Part 2
-</li>
-<li>
-Basic Distance Converter Project - Part 3
-</li>
-<li>
-Basic Distance Converter Project - Part 4
-</li>
-<li>
-Basic Distance Converter Project - Part 5
-</li>
+  <li>Basic Distance Converter Project - Part 1</li>
+  <li>Basic Distance Converter Project - Part 2</li>
+  <li>Basic Distance Converter Project - Part 3</li>
+  <li>Basic Distance Converter Project - Part 4</li>
+  <li>Basic Distance Converter Project - Part 5</li>
 </ol>
+
 <ul>
-<li>
-4.05.Basic Distance Converter Project Open Discussion
-</li>
-<li>
-4.05.Advanced Distance Converter START Files
-</li>
+  <li>4.05 Basic Distance Converter Project Open Discussion</li>
+  <li>4.05 Advanced Distance Converter START Files</li>
 </ul>
+
 <ol type="1" start="6">
-<li>
-Advanced Distance Converter Project - Part 1
-</li>
-<li>
-Advanced Distance Converter Project - Part 2
-</li>
-<li>
-Advanced Distance Converter Project - Part 3
-</li>
-<li>
-Advanced Distance Converter Project - Part 4
-</li>
-<li>
-Advanced Distance Converter Project - Part 5
-</li>
+  <li>Advanced Distance Converter Project - Part 1</li>
+  <li>Advanced Distance Converter Project - Part 2</li>
+  <li>Advanced Distance Converter Project - Part 3</li>
+  <li>Advanced Distance Converter Project - Part 4</li>
+  <li>Advanced Distance Converter Project - Part 5</li>
 </ol>
+
 <ul>
-<li>
-4.10.Advanced Distance Converter Project Open Discussion
-</li>
-<li>
-4.10.Vacation Destination Project - Part 1 START Files
-</li>
+  <li>4.10 Advanced Distance Converter Project Open Discussion</li>
+  <li>4.10 Vacation Destination Project - Part 1 START Files</li>
 </ul>
+
 <ol type="1" start="11">
-<li>
-Vacation Destination Project: HTML &amp; CSS - Part 1
-</li>
-<li>
-Vacation Destination Project: HTML &amp; CSS - Part 2
-</li>
-<li>
-Vacation Destination Project: HTML &amp; CSS - Part 3
-</li>
-<li>
-Vacation Destination Project: HTML &amp; CSS - Part 4
-</li>
-<li>
-Vacation Destination Project: HTML &amp; CSS - Part 5
-</li>
-<li>
-Vacation Destination Project: HTML &amp; CSS - Part 6
-</li>
+  <li>Vacation Destination Project: HTML &amp; CSS - Part 1</li>
+  <li>Vacation Destination Project: HTML &amp; CSS - Part 2</li>
+  <li>Vacation Destination Project: HTML &amp; CSS - Part 3</li>
+  <li>Vacation Destination Project: HTML &amp; CSS - Part 4</li>
+  <li>Vacation Destination Project: HTML &amp; CSS - Part 5</li>
+  <li>Vacation Destination Project: HTML &amp; CSS - Part 6</li>
 </ol>
+
 <ul>
-<li>
-4.16.Vacation Destination Project - Part 1 Open Discussion
-</li>
-<li>
-4.16.Vacation Destination Project - Part 2 START Files
-</li>
+  <li>4.16 Vacation Destination Project - Part 1 Open Discussion</li>
+  <li>4.16 Vacation Destination Project - Part 2 START Files</li>
 </ul>
+
 <ol type="1" start="17">
-<li>
-Vacation Destination Project: JavaScript - Part 1
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 2
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 3
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 4
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 5
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 6
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 7
-</li>
-<li>
-Vacation Destination Project: JavaScript - Part 8
-</li>
+  <li>Vacation Destination Project: JavaScript - Part 1</li>
+  <li>Vacation Destination Project: JavaScript - Part 2</li>
+  <li>Vacation Destination Project: JavaScript - Part 3</li>
+  <li>Vacation Destination Project: JavaScript - Part 4</li>
+  <li>Vacation Destination Project: JavaScript - Part 5</li>
+  <li>Vacation Destination Project: JavaScript - Part 6</li>
+  <li>Vacation Destination Project: JavaScript - Part 7</li>
+  <li>Vacation Destination Project: JavaScript - Part 8</li>
 </ol>
+
 <ul>
-<li>
-4.24.Vacation Destination Project: Part 2 Open Discussion
-</li>
-<li>
-4.24.Module 4 Reflection
-</li>
+  <li>4.24 Vacation Destination Project: Part 2 Open Discussion</li>
+  <li>4.24 Module 4 Reflection</li>
 </ul>
 
 <ol type="1" start="25">
@@ -798,30 +468,23 @@ Vacation Destination Project: JavaScript - Part 8
 </ol>
 
 <ul>
-  <li>4.25.Self-Reflection</li>
+  <li>4.25 Self-Reflection</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 name="ch1">
-Week 1
-</h1>
+<h1 name="ch1">Week 1</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 name="ch1-00-note">
-1.00. A Note From UC Davis
-</h2>
-<h3>
-Welcome to this course!
-</h3>
-<p>
-We are delighted to be a part of your continuing education. This course
+<h2 name="ch1-00-note">1.00. A Note From UC Davis</h2>
+
+<h3>Welcome to this course!</h3>
+
+<p>We are delighted to be a part of your continuing education. This course
 will provide you with a variety of tools and learning opportunities, to
 include video lectures, readings, assessments, peer reviews, and an
 opportunity to contribute to the Coursera learning community in the
-discussion forums.
-</p>
-<p>
-In each of the lesson sections, you’ll find learning objectives, lecture
+discussion forums.</p>
+<p>In each of the lesson sections, you’ll find learning objectives, lecture
 videos, readings, activities, and an opportunity to test your knowledge
 in quiz format. In some of the module sections you’ll also work on
 assignments and grade the work of your peers. A peer-review assignment,
@@ -873,26 +536,21 @@ link with more information on the discussion forums:
 <a href="https://learner.coursera.help/hc/en-us/articles/208279996-Get-help-with-course-content-in-the-discussion-forums">
 Discussion Forums</a>.
 </p>
-<p>
-Because of the self-paced nature of Coursera courses, this is an
+
+<p>Because of the self-paced nature of Coursera courses, this is an
 excellent opportunity to show your commitment to your work and the work
 of your peers through academic integrity. Be sure to read the Coursera
 guidelines and the <b>Coursera Honor Code</b> here:
 <a href="https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code">
-Coursera Honor Code</a>.
-</p>
-<p>
-We look forward to having you in this course. Happy learning!<br>
-<b><i>UC Davis Coursera Team</i></b>
-</p>
-<h3>
-Additional Links:
-</h3>
+Coursera Honor Code</a>.</p>
+<p>We look forward to having you in this course. Happy learning!<br>
+<b><i>UC Davis Coursera Team</i></b></p>
+
+<h3>Additional Links:</h3>
+
 <ul>
-<li>
-<a href="https://learner.coursera.help/hc/en-us">1.00.Coursera’s Learner
-Support/Help Center:</a>
-</li>
+  <li><a href="https://learner.coursera.help/hc/en-us">
+    1.00 Coursera’s Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One:</h1>
@@ -900,28 +558,14 @@ Support/Help Center:</a>
 <h2 id="ch1-00-obj">1.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
-<li>
-Identify interactions on web pages created with JavaScript.
-</li>
-<li>
-Articulate, in general terms, the importance of how JavaScript was
-developed and how that impacts the way JavaScript is written.
-</li>
-<li>
-Identify properly formed semantic HTML.
-</li>
-<li>
-Articulate major concepts in CSS.
-</li>
-<li>
-Identify properly formed CSS syntax.
-</li>
-<li>
-Write simple JavaScript statements in the web browser console.
-</li>
-<li>
-Assign and retrieve values from variables and arrays in JavaScript.
-</li>
+  <li>Identify interactions on web pages created with JavaScript.</li>
+  <li>Articulate, in general terms, the importance of how JavaScript was
+    developed and how that impacts the way JavaScript is written.</li>
+  <li>Identify properly formed semantic HTML.</li>
+  <li>Articulate major concepts in CSS.</li>
+  <li>Identify properly formed CSS syntax.</li>
+  <li>Write simple JavaScript statements in the web browser console.</li>
+  <li>Assign and retrieve values from variables and arrays in JavaScript.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-welcome">1.00 Welcome to JavaScript Basics (1:01)</h2>
@@ -930,10 +574,10 @@ Assign and retrieve values from variables and arrays in JavaScript.
 <p align="center" width="100%">
 <img src="./images/image003.png?raw=true"
   style="width:40%"
+  title="1.00 Welcome to JavaScript Basics"
   alt="1.00 Welcome to JavaScript Basics." />
 </p>
-<p>
-Hello, and welcome to our course on JavaScript. My name is Bill Mead,
+<p>Hello, and welcome to our course on JavaScript. My name is Bill Mead,
 and I've been teaching and learning about JavaScript for many years.
 Here I am in California, outside on this beautiful day not that many
 miles away from where JavaScript was invented over 25 years ago. It's a
@@ -941,20 +585,16 @@ fun programming language, I think you'll enjoy learning it. It can be
 frustrating and maddening at times when you can't get it to work, but
 when you do get things to work the way you want them to work, it's super
 satisfying. It's become one of the most popular programming languages in
-the planet.
-</p>
-<p>
-As we go through this course and through this specialization, I think
+the planet.</p>
+<p>As we go through this course and through this specialization, I think
 you'll start to understand why it's satisfying and easy to get started
 with and if you're new to programming, don't worry, we're going to start
 at the very beginning and get you going all on the right track. Buckle
-in and let's get started learning JavaScript.
-</p>
+in and let's get started learning JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-intro">1.00 Week 1 - Getting Started, Intro to JS, Variables &amp; Arrays(0:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>
-Welcome to the first module on JavaScript. In this module we'll get into
+<p>Welcome to the first module on JavaScript. In this module we'll get into
 the basics of the language. We'll talk about variables and arrays and
 these kinds of things that you see in a lot of programming languages.
 But we'll also talk about the history of JavaScript and do a real
@@ -965,43 +605,40 @@ developed and how that affects the way you write modern, up to date
 JavaScript. And I think you'll learn a lot from this and you'll be able
 to do some interesting things with JavaScript as you go along. So stick
 with me and we will have a lot of fun in this first module learning
-about JavaScript in the basics of the language.
-</p>
+about JavaScript in the basics of the language.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01 Intro to JavaScript – Part 1 (3:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 04. intro to javascript - part 1 (3:13) (10) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image004.png?raw=true"
   style="width:40%"
+  title="Introduction to JavaScript - Part 1"
   alt="Introduction to JavaScript - Part 1." />
 </p>
-<!-- ![](./images/image004.png){width="4.0in" height="2.261538713910761in"} -->
-<p>
-Unlike a pillbox which really can't hold much more than just pills, you
-can put anything into an array in JavaScript.
-</p>
+
+<p>Unlike a pillbox which really can't hold much more than just pills, you
+can put anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. arrays in javascript (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image005.png?raw=true"
   style="width:50%"
+  title="Arrays in JavaScript"
   alt="Arrays in JavaScript." />
 </p>
-<!-- ![](./images/image005.png){width="5.0in" height="2.8269225721784776in"} -->
-<p>
-You can even put in an array and an array. You think about a pillbox
-with a sub-container with even smaller divisions in it.
-</p>
+
+<p>You can even put in an array and an array. You think about a pillbox
+with a sub-container with even smaller divisions in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. inspect console arrays (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image006.png?raw=true"
   style="width:50%"
+  title="Inspect console and arrays"
   alt="Inspect console and arrays." />
 </p>
-<!-- ![](./images/image006.png){width="5.0in" height="3.0544870953630796in"} -->
+
 <p>
 Let's take a look at what that looks like. Let me switch back over to my
 tab here. I'm just going to paste this in, but you might want to type
@@ -1018,9 +655,7 @@ if you can. I'm going to paste this vehicle's array in here.
   style="width:45%"
   alt="Inspect console with array elements, #2." />
 </p>
-<!-- ![](./images/image007.png){width="3.5in" height="2.138140857392826in"}
-![](./images/image008.png){width="3.5in" height="2.138140857392826in"}
--->
+
 <p>
 Now if I do, if I want to access an element from this array, I could do
 vehicles, square bracket one. That's going to go and get the line that
@@ -1993,12 +1628,11 @@ semi colon and press Enter.
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. var cheese = "yummy"; (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <p><img src="./images/image058.png?raw=true"
   style="width:50%"
+  title="var cheese = 'yummy';"
   alt="var cheese = 'yummy';." />
-<!-- ![](./images/media/image58.png){width="5.0in" height="3.071581364829396in"} --></p>
 <p>
 Now before I do this, another thing that's useful is if this is seeming
 very small in your screen, you can use Ctrl on Windows or Cmd at Mac and
@@ -2016,12 +1650,12 @@ that variable name.
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 59. practice chrome inspect console (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<p><img src="./images/image059.png?raw=true"
+<img src="./images/image059.png?raw=true"
   style="width:50%"
+  title="myNum = 5; (no var)"
   alt="myNum = 5; (no var)." />
-<!-- ![](./images/media/image59.png){width="5.0in" height="3.071581364829396in"} --></p>
+
 <p>
 I'm going to make a new variable. Line and assign it a value of 5. And I
 get a 5 back. That returns the value of 5. So I could make another
