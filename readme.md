@@ -8467,20 +8467,22 @@ That's what we're going to fix next.
 <h2 id="ch3-26">3.26 Simple JS Slideshow – Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 520.  (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 520. simple js slideshow - part 3 (3.26) (285) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image520.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.26 Simple JS Slideshow - Part 3"
+  alt="3.26 Simple JS Slideshow - Part 3." />
 </p>
 
 Let's think about this for a minute. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 521.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 521. example, end of the array (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image521.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, End of the Array"
+  alt="Example, End of the Array." />
 </p>
  
 What we want to do is we need some code that says, if you're at the end of the 
@@ -8488,11 +8490,12 @@ array, go back to the beginning. Think about that for a minute. What do we know
 about JavaScript that will allow us to do this kind of thing? What logical flow 
 control structure can we use to handle this? 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 522.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 522. example, adding if (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image522.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Adding If"
+  alt="Example, Adding If." />
 </p>
 
 If you were thinking of something like this, you're on the right track. If 
@@ -8502,22 +8505,24 @@ four.
 We can set current image back to zero, and then go and get the next image. With 
 this if statement in place, you can make the slideshow effectively loop around. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 523.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 523. if current image > 4, current image = 0 (287) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image523.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="If current image > 4, set image to 0"
+  alt="If current image > 4, set image to 0." />
 </p>
 
 Let's go ahead and add this. I was just going to go in here, if parentheses 
 currently rises. In the parentheses we want to say, if current image is greater 
 than four. Current image equals zero. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 524.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 524. test, next image (287) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image524.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, next image"
+  alt="Test, next image." />
 </p>
 
 Let's test that. I come over here and refresh this, and I click "Next" and down 
@@ -8526,7 +8531,7 @@ that's image 2. Next three, next four, five. Then if I click "Next" again, it
 should get set back to zero, which we get as image 1. That works. Now the next 
 button is looping around through all of the images that we have. That's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 525.  (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 525. define image counter and current image (288) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image525.png?raw=true"
   style="width:50%"
@@ -8540,41 +8545,46 @@ than myImages.length. The length of the array minus 1 is often what we want
 because arrays start counting at 0, 1, 2, 3, 4. So myImages.length minus 1 will 
 give us 4. It's generalized that if I were to add more pictures, then the script 
 would continue to function without having to make changes to the number of 
-images. .length will give it. Next thing we need to do is handle the previous 
-button. Maybe you can do that for yourself. It's great challenge. It's not that 
-different than what we just did. It's a little bit different, but it's not that 
-different. You might be able to do the previous button by yourself.
+images. .length will give it. 
 
+Next thing we need to do is handle the previous button. Maybe you can do that 
+for yourself. It's great challenge. It's not that different than what we just 
+did. It's a little bit different, but it's not that different. You might be 
+able to do the previous button by yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-27">3.27 Simple JS Slideshow – Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 526.  (289) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 526. simple js slideshow - part 4 (3.27) (289) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image526.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.27 Simple JS Slideshow - Part 4"
+  alt="3.27 Simple JS Slideshow - Part 4." />
 </p>
+
 To get started with the button for getting the previous photo, we first need a 
 event handler that will go in and find that element with the idea of previous 
 and add the unclick event property and run a function called Previous Photo, 
 and then we can set up that function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 527.  (289) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 527. example, previous photo (289) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image527.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Previous Photo"
+  alt="Example, Previous Photo." />
 </p>
 
 Let's do that first. Up here and you can even copy and paste this if you wanted 
 to. Sometimes, it's best to do that just to avoid making mistakes, but you have 
 to be sure to change everything you need to change. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 528.  (290) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 528. define and test previous and nextphoto (290) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image528.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define and test previousPhoto and nextPhoto"
+  alt="Define and test previousPhoto and nextPhoto." />
 </p>
 
 Instead of next, this is previous instead of next photo, is going to be previous 
@@ -8630,15 +8640,16 @@ through, going frontwards and I can loop through going backwards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-28">3.28 Simple JS Slideshow – Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 529.  (292) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 529. simple js slideshow - part 5 (292) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image529.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.28 Simple JS Slideshow - Part 5"
+  alt="3.28 Simple JS Slideshow - Part 5." />
 </p>
 Everything is working. 
-<!--~~~~~~~~~~~~~~~ 530/531.  (292) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 530/531. cleaing up and separating functions (292) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image530.png?raw=true"
   style="width:45%"
@@ -8655,11 +8666,12 @@ the page if you wanted to. But just to practice our best practices, let's move
 this script into a linked file. Over here, I could make a new file and call it 
 script.js. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 532.  (293) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 532. external function with immediate call, IIEF (293) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image532.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Move functions to external file and call upon loading"
+  alt="Move functions to external file and call upon loading." />
 </p>
 On this file, I could put my function expression that will be immediately 
 invoked. We do that with parentheses, and then in the parentheses we put in 
@@ -8684,22 +8696,24 @@ image is going to get reassigned as we go through our scripts down here. But
 these variables will now be local to this function and they won't be 
 available at the global scope. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 533.  (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 533. script src='script.js' (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image533.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Move to script.js and link at bottom of body in index.html"
+  alt="Move to script.js and link at bottom of body in index.html." />
 </p>
 
 Over here, I'm going to remove that stuff and instead up here, just link src 
 equals script.js, it even pops up there in my menu. I still need this closing 
 tag, but I can move it up there. That should work just as well. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 534.  (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 534. test, move to script.js (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image534.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, move to script.js"
+  alt="Test, move to script.js." />
 </p>
 
 We should go back and test it, make sure that we didn't make any mistakes in 
@@ -8708,11 +8722,12 @@ exactly the same as before. Now, we could leave the script here at the bottom
 of the page. There's nothing wrong with that, frequently I leave my scripts 
 there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 535.  (295) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 535. move script to head with defer (295) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image535.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add script to head of index with 'defer' attribute"
+  alt="Add script to head of index with 'defer' attribute." />
 </p>
 
 But even better is to move it up into the head of the page and add a defer 
@@ -8725,11 +8740,12 @@ code or anything else. But once I've got that all in there and working well,
 I should always come back and just test it to make sure I did it right. Next, 
 previous, and that's working just fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 536.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 536. summary, simple javascript slideshow (296) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image536.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Summary, Simple JavaScript Slideshow"
+  alt="Summary, Simple JavaScript Slideshow." />
 </p>
 
 With that, we have a really nice script that's all set up and working well. In 
@@ -8740,11 +8756,12 @@ selection. We're using the custom functions. We've got event listeners. When
 there's event listeners trigger, we're affecting the DOM to change the web 
 page. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 537.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 537. replace onclick with add event handler (296) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image537.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Replace onclick with add event handler"
+  alt="Replace onclick with add event handler." />
 </p>
 Now, what you could do to make the script even better, perhaps, or just to 
 test what you know so far is go back to the script, and how could you replace 
@@ -8753,36 +8770,41 @@ instead? I recommend giving that a try because that's a really good challenge
 to see if you can figure out something on your own without making it too hard, 
 without going too far. 
 
-3.28.Advanced-SlideShow-START-Files.zip (download)
-https://www.coursera.org/learn/javascript-basics/supplement/4Ljvq/advanced-slide-show-start-files
+<ul>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/4Ljvq/advanced-slide-show-start-files">
+    3.28 Advanced-SlideShow-START-Files.zip (download)</a></li>
+</ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-29">3.29 Slideshow with Cross Fade Effect – Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 538. slideshoiw with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 538. slideshow with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image538.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.29 Slideshow with Cross Fade Effect - Part 1"
+  alt="3.29 Slideshow with Cross Fade Effect - Part 1." />
 </p>
 Slideshow with crossfade effect: JavaScript with CSS animation. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 539. slideshoiw with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 539. slideshow with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image539.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="3.29 Slideshow with Cross Fade Effect - Part 1"
+  alt="3.29 Slideshow with Cross Fade Effect - Part 1." />
 </p>
 For this version of the slideshow, we're going to do something very similar to 
 what we did before, but with a little bit of a twist. It's going to be a little 
 bit more sophisticated. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 540.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 540. example, the cross fade effect (298) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image540.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, The Cross Fade Effect"
+  alt="Example, The Cross Fade Effect." />
 </p>
 I've got a little styling in here to make the slideshow look a little bit better. 
 But instead of just swapping out the source, we'll have a crossfade effect as we 
@@ -8790,56 +8812,63 @@ go from one slide to the next, and we'll be using CSS to do that animation. It's
 going to be a little bit different than what we did before, but very similar 
 otherwise. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 541.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 541. example, html for the slideshow (298) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image541.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, HTML for the Slideshow"
+  alt="Example, HTML for the Slideshow." />
 </p>
 The HTML for this slideshow is very similar to what we had before. We just have 
 images, but now I have a folder called slides, so image source slide image 1. 
 Then I've got an alt tag and the ID for the image here, and then I've got my 
 next and previous links as I had before. You can see that over here in my HTML. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 542.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 542. image inside div called content (299) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image542.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define image inside a div called 'content'"
+  alt="Define image inside a div called 'content'." />
 </p>
 Very simple set-up with an image inside of a div called content. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 543.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 543. example, stacking the images (299) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image543.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Stacking the Images"
+  alt="Example, Stacking the Images." />
 </p>
 One thing that's different is that this time I'm using CSS to create, to tell 
 that content to be positioned relative. I'm absolutely positioning these slides 
 inside of here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 544.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 544. verify content size = image size (300) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image544.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Verify content size = image size"
+  alt="Verify content size = image size." />
 </p>
 So this content is set to 400 by 266 pixels, which is the exact size of the 
 images that I have, and over here you can see it here on the page. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 545.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 545. verify image fits in box (300) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image545.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define so image fits in box"
+  alt="Define so image fits in box." />
 </p>
+
 Now if I were to go into my CSS over here and adjust that, you'd see a little bit 
 better exactly what's going on here. So if I made this 500 wide instead of 400 
 wide, and 366 instead of 266, and save that, you'd see over here when I refresh 
 this, that the image is pinned to this upper left-hand corner. Before it was the 
 same size as the box that it was in, whereas now, I've made the box bigger. So 
 you get this empty space up here, but the image is pinned up into the corner. 
+
 It's important to understand that because the way this slideshow is going to 
 work is we're going to put a new image right on top of the old image, and then 
 we're going cross, we're going to put it in fully transparent, and then we'll 
@@ -8848,34 +8877,37 @@ here is position absolute, left 0, top 0. That what's putting that image inside
 this parent element, this container at the top left corner, left 0, top 0, and 
 that's what's going on there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 546.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 546. test, image fade in (301) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image546.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, image fade in"
+  alt="Test, image fade in." />
 </p>
 We can put these back because that's just for demo, and you'll see if I refresh 
 this that the image is now once again fitting inside that box perfectly. So it's 
 important to understand that setup before we start with this. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 547.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 547. example, css fade animation (302) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image547.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, CSS Fade Animation"
+  alt="Example, CSS Fade Animation." />
 </p>
 The next thing we need is the actual CSS animation that's going to actually do 
 the crossfade effect. We need to add this to the style sheet. Go back to Visual 
 Studio Code and on the styles down here at the bottom, we can add these animation 
 styles. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 548.  (296) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 548. styles.css; class fadeinimg & keyframes fadein (302) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image548.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add class fadeinimg and keyframes fadein to styles.css"
+  alt="Add class fadeinimg and keyframes fadein to styles.css." />
 </p>
-I'm going to add a class called fade in image. What is that class going to do? 
+I'm going to add a class called fadeinimg. What is that class going to do? 
 It's going to, come over here and see here. We're going to run an animation 
 called fade in over two seconds. Two seconds is slow, you can make it one 
 second, you can make it even slower. I'm making it slow so you can really see 
@@ -8910,20 +8942,22 @@ performance across all kinds of devices.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-30">3.30 Slideshow with Cross Fade Effect – Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 549.  (303) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 549. slideshow with cross fade effect - part 2 (3.30) (303) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image549.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.30 Slideshow with Cross Fade Effect - Part 2"
+  alt="3.30 Slideshow with Cross Fade Effect - Part 2." />
 </p>
 
 </p>Now we're all set up and ready to go, and ready to start writing our script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 550.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 550. example, starting the script (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image550.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Starting the Script"
+  alt="Example, Starting the Script." />
 </p>
 Our script is going to start with just a basic variable, again, for our current 
 image and our array, same array that we had before, same current image 
@@ -8931,11 +8965,12 @@ variables. Then I've got variables for the container, which is going to go get
 that container that's holding our image, and then for the next and previous 
 buttons as well. Let's go ahead and get these setup in our script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 551.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 551. define and initialize variables (304) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image551.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define and initialize variable"
+  alt="Define and initialize variable." />
 </p>
 Going back to our index file here, I'm just going to add script tags at the 
 bottom of our script here, our HTML script, like so. Then I'm going to add var 
@@ -8946,11 +8981,12 @@ some variables. Var Container equals document.getElementByID and the ID that
 we're getting again, is this one, content. It's always good to copy and paste 
 so that you don't spell that wrong. That's going to get us that element. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 552.  (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 552. define container, next, previous buttons (305) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image552.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define container, then next &amp; previous buttons"
+  alt="Define container, then next &amp; previous buttons." />
 </p>
 We also need the next and previous links. Var nextBtn equals 
 document.getElementByID. Next, var prevBtn equals document.getElementByID 
@@ -8998,12 +9034,12 @@ going to check once again if the current image is greater than the length of
 the array that we've got minus one. If that's true, we're going to set current 
 image back to zero. That part’s the same as before.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 555.  (307) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 555. define photo array, container & buttons (307) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/imageXXX.png?raw=true"
   style="width:50%"
-  title=""
-  alt="." />
+  title="Define variables; current image, photo array, container, next &amp; previous button"
+  alt="Define variables; current image, photo array, container, next &amp; previous button." />
 </p>
 
 <p>Let's put this in. I have my next button here which is already going and 
@@ -9068,12 +9104,12 @@ it will completely cover it. But because it comes in as transparent, you'll
 see the other image underneath it at first, and then over two seconds it'll 
 become opaque and that's what will cause the fading effect.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 558.  (309) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 558. define next slide & fade in (309) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image558.png?raw=true"
   style="width:50%"
-  title=""
-  alt="." />
+  title="Define next slide/image &amp; fade in"
+  alt="Define next slide/image &amp; fade in." />
 </p>
 
 So let's go ahead and add this to our code over here. var newSlide. And I'm 
@@ -9098,12 +9134,12 @@ created a variable here for the container. We can say
 container.appendChild(newSlide). That would take the new slide that we created 
 here as an image, set the source, set the class and put it on in there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 559.  (310) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 559. test next, append child (310) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image559.png?raw=true"
   style="width:50%"
-  title=""
-  alt="." />
+  title="Test next, append child image"
+  alt="Test next, append child image." />
 </p>
  
 I'm going to go over to my slide show here, click refresh, and then click Next. 
@@ -9117,21 +9153,23 @@ creating that crossfade effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 560.  (311) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 560. slideshow with cross fade effect - part 5 (3.33) (311) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image560.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.33 Slideshow with Cross Fade Effect - Part 5"
+  alt="3.33 Slideshow with Cross Fade Effect - Part 5." />
 </p>
 
 As you just saw, this is working, and the images are coming in, and they're 
 stacking one on top of the other invading in. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 561.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 561. example, the images are stacking (311) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image561.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, The Images are Stacking"
+  alt="Example, The Images are Stacking." />
 </p>
 
 But there's one thing that we can do to make this a little bit better. I don't 
@@ -9140,11 +9178,12 @@ DOM, especially when it starts adding the same images to the DOM over and over
 and over again. I think that it could be a little bit more efficient, and a 
 little bit better, and a little bit cleaner. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 562.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 562. example, remove extra children (312) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image562.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Remove Extra Children"
+  alt="Example, Remove Extra Children." />
 </p>
 
 What we're going to do is we're going to remove the extra images as the new 
@@ -9162,11 +9201,12 @@ list, and I think that that makes the script a little bit better, keeps our
 DOM a little bit cleaner because we're not continuing to add more and more 
 elements every time somebody clicks the link for next. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 563.  (312) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 563. check if > 2 children images (312) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image563.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Check if have more than two child images, if so remove bottom-most from queue"
+  alt="Check if have more than two child images, if so remove bottom-most from queue." />
 </p>
 
 Let's go ahead and add this to our script over here. Down here I'm going to 
@@ -9178,11 +9218,12 @@ What I want to do is I want to say, container.removeChild(container.children[0])
 I want to remove a child. Which child do I want to remove? I want to remove the 
 bottom most child from the list. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 564.  (313) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 564. no more than 2 children images (313) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image564.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Allow no more than two child images in queue"
+  alt="Allow no more than two child images in queue." />
 </p>
 
 Again, up here the container is this thing, this div id=’content’, and it has 
@@ -9192,14 +9233,16 @@ there, and we really don't want that to happen. This will keep us from adding
 more than two, because once we get more than two, it'll remove the bottom one 
 from the list. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 565/566.  (314) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 565/566. test, next image button (314) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image565.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, next image button"
+  alt="Test, next image button." />
 <img src="./images/image566.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Again Test, next image button"
+  alt="Again Test, next image button." />
 </p>
 
 Let's save this and see if I typed in all right, and test it over here. I'm 
@@ -9232,11 +9275,12 @@ great.
 
 We have our next button working just fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 568.  (315) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 568. test, next slide purging all but last two (315) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image568.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, next slide purging all but last two images"
+  alt="Test, next slide purging all but last two images." />
 </p>
 
 I can click "Next" and it will go through the slides. Not only that, but it's 
@@ -9246,11 +9290,12 @@ question is, how do we get the previous button to work? Because currently
 clicking that does nothing but reset the page. Notice we're getting the 
 hashtag up here. How do we get the previous button to work? 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 569.  (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 569. duplicate next for previous (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image569.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Duplicate next for previous"
+  alt="Duplicate next for previous." />
 </p>
 
 What we want to do is pretty much the same thing that we did with the next 
@@ -9263,11 +9308,12 @@ slideshow to figure out how to do this. Because we're going to decrement
 the image and this is going to change, but all of this is going to remain 
 exactly the same. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 570.  (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 570. example, previous button handler (316) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image570.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Previous Button Handler"
+  alt="Example, Previous Button Handler." />
 </p>
 
 Did you get something like this? Hopefully, you did. Let's take a look at 
@@ -9280,12 +9326,14 @@ zero, we're setting current image to photos length minus one, just like we
 did in the previous slideshow. Other than that, everything else is the same. 
 Let's see if we can actually make this work. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 571.  (317) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 571. update previous image code (317) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image571.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Update previous image code"
+  alt="Update previous image code." />
 </p>
+
 Over here. I'm going to copy this script and then paste it here and just change 
 this to prevBtn, which is what I have up here. That's going to go into the DOM 
 and get that button and add the event listener to it and all this stuff is the 
@@ -9301,14 +9349,16 @@ going to apply that class to it, and we're going to stop put it on the page,
 and we're still going to remove the extra children. All the rest should be 
 the same. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 572/573.  (318) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 572/573. test, previous command button (318) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image572.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, previous command & purge all but 2 images"
+  alt="Test, previous command & purge all but 2 images." />
 <img src="./images/image573.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Another Test, previous command & purge all but 2 images"
+  alt="Another Test, previous command & purge all but 2 images." />
 </p>
  
 Let's see if this works. Come back and click "Refresh". Next works. I can add 
@@ -9323,30 +9373,33 @@ perfectly. Just exactly what we want.
 <h2 id="ch3-35">3.35 Slideshow with Cross Fade Effect – Part 7</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 574.  (318) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 574. slideshow with cross fade effect - part 7 (318) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image574.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="3.35 Slideshow with Cross Fade Effect - Part 7"
+  alt="3.35 Slideshow with Cross Fade Effect - Part 7." />
 </p>
 
 Your script is working great, and you could just leave it the way it is, it's 
 totally fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 575.  (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 575. example, duplicate code (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image575.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Duplicate Code"
+  alt="Example, Duplicate Code." />
 </p>
 
 But you'll notice that we have a fair amount of duplicate code. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 576.  (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 576. new function to avoid duplicate code (319) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image576.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add swapImage function to avoid duplicate code"
+  alt="Add swapImage function to avoid duplicate code." />
 </p> 
 
 If we go over and look at our script, we've got this chunk of code in here. 
@@ -9358,21 +9411,23 @@ called swapImage. And that function is going to have this chunk of code in it.
 We can run that function twice, once in the next button event listener function, 
 and one in the previous event listener button function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 577.  (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 577. example, updated script (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image577.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Updated Script"
+  alt="Example, Updated Script." />
 </p>
 
 So down here, I'm going to make a new function, function swapImage. And then that 
 function is going to contain all of this stuff in here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 578.  (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 578. function swapimage added to script (320) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image578.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Function swapImage added to script"
+  alt="Function swapImage added to script." />
 </p>
 
 So now we've got a function called swapImage that will run twice. It'll run the same 
@@ -9380,11 +9435,12 @@ function basically, if you're clicking the Next button or the Previous button, a
 cleans up our code because we can see here clearly that the next button is incrementing 
 this variable and then checking with an if statement and then running function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 579.  (321) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 579. test, swapimage function (321) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image579.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, swapImage function"
+  alt="Test, swapImage function." />
 </p>
 
 Let's test it and make sure we did it right. So over here, I'm going to refresh the 
@@ -9396,11 +9452,12 @@ things you want to do. And often when you're working on projects, you'll find wa
 look at an old piece of code. You go, wow, I could have made that simpler. And you'll do 
 that. And that's just part of the normal process for any programmer. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 580.  (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 580. move script to external script.js (322) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image580.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Move all script functions to external script.js"
+  alt="Move all script functions to external script.js." />
 </p>
 
 Now the very last thing to do here is to put it in a separate link file. I'm 
@@ -9411,11 +9468,12 @@ and then an additional set of parentheses and a semicolon. This function will
 run immediately when the page runs, and then click between the curly braces 
 and move that down. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581.  (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581. add 'use strict' to index (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image581.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Add 'use strict' to index.html"
+  alt="Add 'use strict' to index.html." />
 </p>
 
 And we're going to add use strict in here.  Now we can come over here to grab our script from the index file. I'm going to copy that. And I'm going to stick it over here and paste it in the script.js file.
@@ -9424,25 +9482,27 @@ Now the last thing I want to do is I want to go through and fix the variables he
 
 There needs to be let, but the rest of these can all be const, const, const, const, const because those aren't going to change during the script at all during the running of the script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 582.  (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 582. update to constant and let (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image582.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Update variables to const and let whereever possible"
+  alt="Update variables to const and let whereever possible." />
 </p> 
 
 And then down in the swapImage we have a variable here. That one can also be constant. Great, so we got that. So now we've got our files and that's all looking good. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 583.  (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 583. call script.js defer in head of index.html (324) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image583.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Call script.js defer in head of index.html"
+  alt="Call script.js defer in head of index.html." />
 </p>
 
 Over here on written index file, we just need to get rid of that stuff and put it in here, src equals script.js, that's our file. And we can put this up here like so.We could leave it like that. Or even better, we could take this and move it up here into the header of the page and add the defer attribute here, save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 584. test,  (324) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 584. test, script.js defer changes in index.html (324) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image577.png?raw=true"
   style="width:50%"
@@ -9460,11 +9520,11 @@ look at that. It's working perfectly. Everything works great.
   alt="Finished, working script." />
 </p>
 
-We have finished our script, and we've cleaned it up. And 
-in this lesson you've learned a lot about some different ways of doing things, 
-and how to add elements to the page, and remove them from the page. All with 
-using our document object model (DOM) as well as our event handlers. And this is a 
-great slideshow that you could use on any webpage. 
+We have finished our script, and we've cleaned it up. And in this lesson you've 
+learned a lot about some different ways of doing things, and how to add elements 
+to the page, and remove them from the page. Using our document object model (DOM) 
+as well as our event handlers. And this is a great slideshow that you could use 
+on any webpage. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch4">Week Four: Basic JavaScript Application Projects</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
