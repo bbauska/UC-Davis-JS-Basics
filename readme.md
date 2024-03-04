@@ -8206,11 +8206,12 @@ And now I can come over to my file in the browser (right image)
 over here, refresh, test it and you can see it still works. It 
 still functions just fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 503.  (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 503. move script declaration to head of index.html (275) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image503.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Move script declaration to head of index.html"
+  alt="Move script declaration to head of index.html." />
 </p>
 
 Even more if you want you could even take this even further by 
@@ -8219,11 +8220,12 @@ file. I can put it in here the head, but I have to add the defer
 key word here. With defer it will make it run as if it's at the 
 bottom of the page. And you'll see that still works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504.  (275) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504. test, remove defer and error (276) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image504.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, remove 'defer' command and receive error"
+  alt="Test, remove 'defer' command and receive error." />
 </p>
 
 If I take defer out of there, watch what happens. Refresh and, 
@@ -8272,11 +8274,12 @@ out in the long run.
 </p>
 Simple JavaScript slideshow demonstrating basic DOM manipulation and event handling. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 506.  (277) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 506. simple js slideshow (277) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image506.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Simple JS Slideshow"
+  alt="Simple JS Slideshow." />
 </p>
 
 We've done a lot of the basics and you've learned a lot about how JavaScript works 
@@ -8284,32 +8287,35 @@ and how you can manipulate the DOM and capture events. Now, it's time to put tog
 some scripts that are actually doing some interesting things and will allow us to 
 test out what we know so far. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 507.  (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 507. example, the start file (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image507.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, The Start File"
+  alt="Example, The Start File." />
 </p>
 
 If you look in the start files for this project, you'll notice there's some images 
 and an index.html file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 508.  (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 508. example, simple html (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image508.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Simple HTML"
+  alt="Example, Simple HTML." />
 
 If you open up that index.html file in your code editor, you'll see that it's just 
 got some very basic markup inside of it that includes a div with an image, one of 
 the images in the folder, and a paragraph with two links, one for a previous link 
 and one for our next link. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 509.  (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 509. next and previous links (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image509.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Next and Previous links"
+  alt="Next and Previous links." />
 </p>
 
 Over here in my browser, I can see that it looks like this. When the user clicks 
@@ -8317,11 +8323,12 @@ the "Next" link, it'll bring up the next picture and when they click the "Previo
 link, it'll bring up the previous picture. That's what we're going to make in this 
 particular exercise here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 510.  (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 510. example, add script tags and array (279) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image510.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Add Script Tags &amp; Array"
+  alt="Example, Add Script Tags &amp; Array." />
 </p>
 
 There are lots of ways of going about creating this simple slideshow. But one 
@@ -8337,11 +8344,12 @@ which is actually image 2. It's a little bit confusing because these are labeled
 start by putting in the array into our script over here. Down here at the bottom 
 of the page, just add script tags like so. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 511.  (280) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 511. define array myimages (280) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image511.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define variable array myImages"
+  alt="Define variable array myImages." />
 </p>
 
 In this script tag, we're going to add an array, var myImages equals square 
@@ -8355,22 +8363,23 @@ of the source attribute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-25">3.25 Simple JS Slideshow – Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 512.  (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 512. simple js slideshow - part 2 (3.25) (281) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image512.png?raw=true"
   style="width:50%"
-  title=""
-  alt="." />
+  title="3.25 Simple JS Slideshow - Part 2"
+  alt="3.25 Simple JS Slideshow - Part 2." />
 </p>
 
 You will need some variables that we can adjust along the way 
 to capture which image that we're on in this array. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 513.  (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 513. example, the current image (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image513.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, The Current Image"
+  alt="Example, The Current Image." />
 </p>
   
 I'm going to make a variable called currentImage and I'm 
@@ -8378,21 +8387,23 @@ going to set it to zero because when the page loads, this
 image is showing which is number 0 in the array. Images 
 square brackets zero would get that image. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 514.  (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 514. define currentimage, set to 0 (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image514.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define currentImage = 0"
+  alt="Define currentImage = 0." />
 </p>
 
 Let's set that over here. Let's make a variable here, our currentImage and set 
 that to a value of zero to start with. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 515.  (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 515. example, handle the event (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image515.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Handle the Event"
+  alt="Example, Handle the Event." />
 </p>
 
 Then from there, we need to create an event handler that will handle the 
@@ -8403,11 +8414,12 @@ event property. I'm going to run a function called nextPhoto. Notice it doesn't
 have parentheses at the end of it, but I'm going to assign it a function called 
 nextPhoto, so then I can create that function nextPhoto. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 516.  (283) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 516. define next and current images (283) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image516.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Define and increment next, current images"
+  alt="Define and increment next, current images." />
 </p>
 
 Let's go ahead and add this to our script. Document.getElementById. That's 
@@ -8428,20 +8440,22 @@ image2.jpg. This is going to be image2.jpg and I'm assigning that to this
 source attribute up here the source. Instead of saying image1.jpg, it's going 
 to say image2.jpg. Let's save that and see if that works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 517.  (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 517. next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image517.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Next image"
+  alt="Next image." />
 </p>
 
 Come over here, refresh. If I click ''Next'', you can see that it's changed. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 518.  (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 518. test, inspect next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image518.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test Inspect, next image"
+  alt="Test Inspect, next image." />
 </p>
 
 If I do inspect down here, let me arrange this the way I want it. I'm going to 
@@ -8449,11 +8463,12 @@ put this down at the bottom. I'm going to turn off that button there. But if I
 come in here and look at this div, notice this source says image2.jpg. If I 
 click ''Next'' again, notice that got changed to image3, image4, image5. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 519.  (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 519. test, next image undefined (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image519.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Test, next image undefined"
+  alt="Test, next image undefined." />
 </p>
 
 What happened? We got to image5 because there are five images. Then I click 
