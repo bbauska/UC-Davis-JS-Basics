@@ -1045,7 +1045,7 @@ GIMP, which is free.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. gimp (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image032.png?raw=true"
+<img src="./images/image032.png"
   style="width:50%"
   alt="GIMP (GNU Image Manipulation Program) image editor." />
 
@@ -1059,7 +1059,7 @@ necessary, but it&apos;s really nice to have.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. computer and internet access (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image033.png?raw=true"
+<img src="./images/image033.png"
   style="width:40%"
   alt="A Computer and Internet Access." />
 
@@ -1079,7 +1079,7 @@ in order to really make this work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 34. skills needed for success with javascript (28) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image034.png?raw=true"
+<img src="./images/image034.png"
   style="width:40%"
   title="1.05 Skills needed for success with JavaScript"
   alt="1.05 Skills needed for success with JavaScript." />
@@ -1090,7 +1090,7 @@ JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. keyboarding skills (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image035.png?raw=true"
+<img src="./images/image035.png"
   style="width:40%"
   title="Keyboarding Skills"
   alt="Keyboarding Skills." />
@@ -1109,7 +1109,7 @@ if you don&apos;t have them already.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. file management (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image036.png?raw=true"
+<img src="./images/image036.png"
   style="width:40%"
   title="File Management"
   alt="File Management." />
@@ -1131,7 +1131,7 @@ be in that folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37. persistence (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image037.png?raw=true"
+<img src="./images/image037.png"
   style="width:40%"
   title="Persistence"
   alt="Persistence." />
@@ -1157,7 +1157,7 @@ progress with it, I promise.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 38. logic (not math) (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image038.png?raw=true"
+<img src="./images/image038.png"
   style="width:40%"
   title="Logic (not math)"
   alt="Logic (not math)." />
@@ -1177,7 +1177,7 @@ logic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. html and css (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image039.png?raw=true"
+<img src="./images/image039.png"
   style="width:40%"
   title="HTML and CSS"
   alt="HTML and CSS." />
@@ -1191,7 +1191,7 @@ have them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 40. interneting is hard: great place for learning (31) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image040.png?raw=true"
+<img src="./images/image040.png"
   style="width:40%"
   title="Interneting is hard: a Great Place for Learning HTML &amp; CSS"
   alt="Interneting is hard: a Great Place for Learning HTML &amp; CSS." />
@@ -1207,7 +1207,7 @@ take a course in HTML and CSS before diving into JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 41. summary: learn javascript for free (32) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image041.png?raw=true"
+<img src="./images/image041.png"
   style="width:40%"
   title="Summary: Learning JavaScript for Free"
   alt="Summary: Learning JavaScript for Free." />
@@ -1240,7 +1240,7 @@ with JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image042.png?raw=true"
+<img src="./images/image042.png"
   style="width:40%"
   title="1.06 JavaScript Variables"
   alt="1.06 JavaScript Variables." />
@@ -1393,7 +1393,7 @@ see variables that are using camel casing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 50. javascript variables practice - part 1 (38) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image050.png?raw=true"
+<img src="./images/image050.png"
   style="width:40%"
   title="1.07 JavaScript Variables Practice - Part 1"
   alt="1.07 JavaScript Variables Practice - Part 1." />
@@ -1406,7 +1406,7 @@ but we&apos;ll be working with the basics now. So let&apos;s get started with th
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 51. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image051.png?raw=true"
+<img src="./images/image051.png"
   style="width:50%"
   title="Practice chrome inspect console"
   alt="Practice chrome inspect console." />
@@ -1419,7 +1419,7 @@ And I&apos;m just going to right click and choose <b>inspect</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52. google chrome inspect console (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image052.png?raw=true"
+<img src="./images/image052.png"
   style="width:50%"
   title="Google chrome inspect console"
   alt="Google chrome inspect console." />
@@ -1429,7 +1429,7 @@ an element.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 53. inspect console right side (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image053.png?raw=true"
+<img src="./images/image053.png"
   style="width:50%"
   title="Inspect console right side of screen"
   alt="Inspect console right side of screen." />
@@ -1444,7 +1444,7 @@ allow me to choose where I want it to display.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 54. inspect console docking button (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image054.png?raw=true"
+<img src="./images/image054.png"
   style="width:50%"
   title="Inspect console docking button at bottom of screen"
   alt="Inspect console docking button at bottom of screen." />
@@ -1454,7 +1454,7 @@ put it on the bottom. I want it on the bottom in this case.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 55. inspect console dock to bottom (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image055.png?raw=true"
+<img src="./images/image055.png"
   style="width:50%"
   title="Inspect console dock to bottom"
   alt="Inspect console dock to bottom." />
@@ -1467,7 +1467,7 @@ here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 56. select elements tab to highlight (41) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image056.png?raw=true"
+<img src="./images/image056.png"
   style="width:50%"
   title="Select elements tab for HTML and CSS highlight"
   alt="Select elements tab for HTML and CSS highlight." />
@@ -1478,7 +1478,7 @@ you&apos;ll see different elements of the page will get highlighted.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 57. select console tab to write js (41) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image057.png?raw=true"
+<img src="./images/image057.png"
   style="width:50%"
   title="Select console tab to write JavaScript"
   alt="Select console tab to write JavaScript." />
@@ -1491,7 +1491,7 @@ semi colon and press Enter.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58. var cheese = "yummy"; (42) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image058.png?raw=true"
+<img src="./images/image058.png"
   style="width:50%"
   title="var cheese = 'yummy';"
   alt="var cheese = 'yummy';." />
@@ -1512,7 +1512,7 @@ that variable name.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 59. practice chrome inspect console (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image059.png?raw=true"
+<img src="./images/image059.png"
   style="width:50%"
   title="var cheese = 'yummy';"
   alt="var cheese = 'yummy';." />
@@ -1527,11 +1527,11 @@ called <b>myNum</b> and assigned it 5.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 60/61. without var, value is undefined (43) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image060.png?raw=true"
+<img src="./images/image060.png"
   style="width:45%"
   title="Defining variables with/without var command"
   alt="Defining variables with/without var command." />
-<img src="./images/image061.png?raw=true"
+<img src="./images/image061.png"
   style="width:45%"
   title="Without the var command, value is undefined"
   alt="Without the var command, value is undefined." />
@@ -1550,7 +1550,7 @@ arithmetic.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 62. examples utilizing console.log (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image062.png?raw=true"
+<img src="./images/image062.png"
   style="width:50%"
   title="Example variables utilizing console.log"
   alt="Example variables utilizing console.log." />
@@ -1569,7 +1569,7 @@ in the console, I don&apos;t actually need to use it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 63. javascript variables practice - part 2 (1.08) (45) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image063.png?raw=true"
+<img src="./images/image063.png"
   style="width:40%"
   title="1.08 JavaScript Variables Practice - Part 2"
   alt="1.08 JavaScript Variables Practice - Part 2." />
@@ -1581,7 +1581,7 @@ in the console, I don&apos;t actually need to use it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 64. click refresh to forget variable (45) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image064.png?raw=true"
+<img src="./images/image064.png"
   style="width:50%"
   title="In console.log click refresh to clear console & forget variables"
   alt="In console.log click refresh to clear console & forget variables." />
@@ -1591,7 +1591,7 @@ Refresh button up here that will actually forget everything.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 65. add number to string = string (46) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image065.png?raw=true"
+<img src="./images/image065.png"
   width="50%"
   title="newNum + notNum = concatinated string"
   alt="newNum + notNum = concatinated string." />
@@ -1625,7 +1625,7 @@ JavaScript works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 66. plus operator to add or concatenate (47) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image066.png?raw=true"
+<img src="./images/image066.png"
   style="width:50%"
   title="Plus (+) to add numbers or concatenate strings"
   alt="Plus (+) to add numbers or concatenate strings." />
@@ -1659,7 +1659,7 @@ We&apos;ll get into more detail about that as we go along.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 67. javascript variables practice - part 3 (1.09) (48) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image067.png?raw=true"
+<img src="./images/image067.png"
   style="width:40%"
   title="1.09 JavaScript Variables Practice - Part 3"
   alt="1.09 JavaScript Variables Practice - Part 3." />
@@ -1671,7 +1671,7 @@ We&apos;ll put that in there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 68. differentiating between num and string (48) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image068.png?raw=true"
+<img src="./images/image068.png"
   style="width:50%"
   title="Differentiating between numbers and string characters"
   alt="Differentiating between numbers and string characters." />
@@ -1695,7 +1695,7 @@ understand about JavaScript, but they do have type associated with them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69. var empty string (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image069.png?raw=true"
+<img src="./images/image069.png"
   style="width:50%"
   title="var empty string"
   alt="var empty string." />
@@ -1711,11 +1711,11 @@ JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70/71. mdn & w3schools.com (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image070.png?raw=true"
+<img src="./images/image070.png"
   style="width:45%"
   title="MDN - Mozilla Developer Network"
   alt="MDN - Mozilla Developer Network." />
-<img src="./images/image071.png?raw=true"
+<img src="./images/image071.png"
   style="width:45%"
   title="W3Schools.com - for learning HTML and CSS"
   alt="W3Schools.com - for learning HTML and CSS." />
@@ -1730,7 +1730,7 @@ information about different methods and different things you can use.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. console.log(typeof x) (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image072.png?raw=true"
+<img src="./images/image072.png"
   style="width:50%"
   title="console.log(typeof x); where x is string, number, bigint, boolean, 
     undefined, null, symbol or object.  Object is object, array or date"
@@ -1760,7 +1760,7 @@ and on websites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 73. javascript arrays - part 1 (1.10) (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image073.png?raw=true"
+<img src="./images/image073.png"
   style="width:40%"
   title="1.10 JavaScript Arrays - Part 1"
   alt="1.10 JavaScript Arrays - Part 1." />
@@ -1769,7 +1769,7 @@ and on websites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 74. an array is a container with sub-containers (51) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image074.png?raw=true"
+<img src="./images/image074.png"
   style="width:40%"
   title="An Array is a Container with Sub-containers"
   alt="An Array is a Container with Sub-containers." />
@@ -1786,7 +1786,7 @@ week. Frequently in JavaScript, we have to deal with groups of things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75. working with groups (52) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image075.png?raw=true"
+<img src="./images/image075.png"
   style="width:40%"
   title="Working with Groups"
   alt="Working with Groups." />
@@ -1802,7 +1802,7 @@ things with arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 76. creating an array in javascript (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image076.png?raw=true"
+<img src="./images/image076.png"
   style="width:50%"
   title="Creating an array in JavaScript"
   alt="Creating an array in JavaScript." />
@@ -1816,7 +1816,7 @@ actually see us create these elements.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 77. inspect, console.log new array example (53) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image077.png?raw=true"
+<img src="./images/image077.png"
   style="width:50%"
   title="Example variable array in console.log"
   alt="Example variable array in console.log." />
@@ -1847,7 +1847,7 @@ to be aware of.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 78. javascript arrays - part 2 (1.11) (54) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image078.png?raw=true"
+<img src="./images/image078.png"
   style="width:40%"
   title="1.11 JavaScript Arrays - Part 2"
   alt="1.11 JavaScript Arrays - Part 2." />
@@ -1857,7 +1857,7 @@ you can put anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 79. example, you can put anything in an array (55) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image079.png?raw=true"
+<img src="./images/image079.png"
   style="width:50%"
   title="Example, You can put an array (anything) within an array"
   alt="Example, You can put an array (anything) within an array." />
@@ -1868,7 +1868,7 @@ at what that looks like.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 80. example, array; vehicles, make and model (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image080.png?raw=true"
+<img src="./images/image080.png"
   style="width:50%"
   title="Example, array of vehicles by make and model"
   alt="Example, array of vehicles by make and model." />
@@ -1892,7 +1892,7 @@ that&apos;s very useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 81. example string variable as an array (56) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image081.png?raw=true"
+<img src="./images/image081.png"
   style="width:50%"
   title="A string variable can be treated like an array"
   alt="A string variable can be treated like an array." />
@@ -1911,7 +1911,7 @@ arrays as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 82. javascript arrays practice (1.12) (57) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image082.png?raw=true"
+<img src="./images/image082.png"
   style="width:40%"
   title="1.12 JavaScript Arrays Practice"
   alt="1.12 JavaScript Arrays Practice." />
@@ -1921,7 +1921,7 @@ variable bar Animals and assign an array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 83. define var animals = ['cat', 'dog', 'chicken']; (57) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image083.png?raw=true"
+<img src="./images/image083.png"
   style="width:50%"
   title="Define array; var animals = ['cat', 'dog', 'chicken'];"
   alt="Define array; var animals = ['cat', 'dog', 'chicken'];." />
@@ -1933,7 +1933,7 @@ methods that you can do to arrays specifically, so if I do animals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push('llama'); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image084.png?raw=true"
+<img src="./images/image084.png"
   style="width:50%"
   title="Add llama with animals.push('llama');"
   alt="Add llama with animals.push('llama');." />
@@ -1943,7 +1943,7 @@ cat, dog, chicken and the llama are all in the array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. example, push array method (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image085.png?raw=true"
+<img src="./images/image085.png"
   style="width:50%"
   title="Example, push array method"
   alt="Example, push array method." />
@@ -1960,7 +1960,7 @@ remembering that you can do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 86. example, splice array method to remove (59) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image086.png?raw=true"
+<img src="./images/image086.png"
   style="width:50%"
   title="Example, splice array method"
   alt="Example, splice array method." />
@@ -1972,7 +1972,7 @@ lama, but not the dog.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 87. example, push and sort array methods (59) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image087.png?raw=true"
+<img src="./images/image087.png"
   style="width:50%"
   title="Example, push and sort array methods"
   alt="Example, push and sort array methods." />
@@ -1986,14 +1986,14 @@ of array methods that you can use.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 88. w3schools javascript arrays methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image088.png?raw=true"
+<img src="./images/image088.png"
   style="width:50%"
   title="W3schools JS array methods; toString"
   alt="W3schools JS array methods; toString." />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 89. basic array methods (60) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image089.png?raw=true"
+<img src="./images/image089.png"
   style="width:50%"
   title="List of Basic Array Methods; length, toString, at, join, pop & push"
   alt="List of Basic Array Methods; length, toString, at, join, pop & push." />
@@ -2008,7 +2008,7 @@ learning sort of the basics of JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. array of four animals (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image090.png?raw=true"
+<img src="./images/image090.png"
   style="width:50%"
   title="Array of four animals"
   alt="Array of four animals." />
@@ -2072,7 +2072,7 @@ ways of getting elements out of arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 91. module 2 introduction (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image091.png?raw=true"
+<img src="./images/image091.png"
   style="width:40%"
   title="2.00 Module 2 introduction"
   alt="2.00 Module 2 introduction." />
@@ -2090,7 +2090,7 @@ as much of that as you possibly can.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 92. visual studio - part 1 (2.01) (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image092.png?raw=true"
+<img src="./images/image092.png"
   style="width:40%"
   title="2.01 Visual Studio - Part 1"
   alt="2.01 Visual Studio - Part 1." />
@@ -2107,7 +2107,7 @@ Code throughout this course, so it might be helpful for you to use that as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 93. visual studio editor on startup (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image093.png?raw=true"
+<img src="./images/image093.png"
   style="width:50%"
   title="VS Editor on startup"
   alt="VS Editor on startup." />
@@ -2121,7 +2121,7 @@ and choosing a new file, and that creates a new file here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image094.png?raw=true"
+<img src="./images/image094.png"
   style="width:50%"
   title="Visual Studio startup screen"
   alt="Visual Studio startup screen." />
@@ -2136,7 +2136,7 @@ and that will give me the basic structure for my page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 95. exclamation + [tab] startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image095.png?raw=true"
+<img src="./images/image095.png"
   style="width:50%"
   title="Exclamation + [tab] for startup screen"
   alt="Exclamation + [tab] for startup screen." />
@@ -2149,7 +2149,7 @@ The title shows up in the tab in the browser. That's important. Great. I can sav
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. visual studio startup screen (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image096.png?raw=true"
+<img src="./images/image096.png"
   style="width:50%"
   title="Visual Studio startup screen"
   alt="Visual Studio startup screen." />
@@ -2168,7 +2168,7 @@ again. That gives some basics of getting files and working in Visual Studio Code
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 97. windows users: show file extensions (67) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image097.png?raw=true"
+<img src="./images/image097.png"
   style="width:50%"
   title="Windows users: Show file extensions"
   alt="Windows users: Show file extensions." />
@@ -2185,7 +2185,7 @@ when you save files, the filename is always lowercase and never has a space in i
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 98. visual studio - part 2 (2.02) (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image098.png?raw=true"
+<img src="./images/image098.png"
   style="width:50%"
   title="2.02 Visual Studio - Part 2"
   alt="2.02 Visual Studio - Part 2." />
@@ -2196,7 +2196,7 @@ to this file. And we can see some JavaScript actually happened here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image099.png?raw=true"
+<img src="./images/image099.png"
   style="width:50%"
   title="Add 'My First Script' as an h1"
   alt="Add 'My First Script' as an h1." />
@@ -2210,7 +2210,7 @@ the cursor between the two, and I can move that down.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image100.png?raw=true"
+<img src="./images/image100.png"
   style="width:50%"
   title="Add a new variable; var hello"
   alt="Add a new variable; var hello." />
@@ -2227,7 +2227,7 @@ go over to Chrome over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. file open, my first script (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image101.png?raw=true"
+<img src="./images/image101.png"
   style="width:50%"
   title="File open, My First Script"
   alt="File open, My First Script." />
@@ -2239,7 +2239,7 @@ it's just a webpage and we're not even seeing the script run.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 102. test, inspect, my first script (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image102.png?raw=true"
+<img src="./images/image102.png"
   style="width:50%"
   title="Test, inspect, My First Script"
   alt="Test, inspect, My First Script." />
@@ -2253,7 +2253,7 @@ comments to your scripts so that when you come back to them later, you know what
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 103. comments with slash slash or slash, asterisk (70) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image103.png?raw=true"
+<img src="./images/image103.png"
   style="width:50%"
   title="Make Comments with two slashes or with slash, asterisk"
   alt="Make Comments with two slashes or with slash, asterisk." />
@@ -2269,7 +2269,7 @@ about anything that I want and it can go multiple lines. See example in image.</
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 104. make code larger with command/ctrl shift + (71) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image104.png?raw=true"
+<img src="./images/image104.png"
   style="width:50%"
   title="Make code larger with command/ctrl shift +"
   alt="Make code larger with command/ctrl shift +." />
@@ -2288,7 +2288,7 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 105. visual studio - part 3 (2.03) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image105.png?raw=true"
+<img src="./images/image105.png"
   style="width:40%"
   title="2.03 Visual Studio - Part 3"
   alt="2.03 Visual Studio - Part 3." />
@@ -2298,7 +2298,7 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. myfile.html (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image106.png?raw=true"
+<img src="./images/image106.png"
   style="width:50%"
   title="myfile.html"
   alt="myfile.html." />
@@ -2312,11 +2312,11 @@ file. That's not really very useful by itself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107/108. make folder and file (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image107.png?raw=true"
+<img src="./images/image107.png"
   style="width:45%"
   title="Make a folder"
   alt="Make a folder." />
-<img src="./images/image108.png?raw=true"
+<img src="./images/image108.png"
   style="width:45%"
   title="Make a file"
   alt="Make a file." />
@@ -2329,7 +2329,7 @@ and no folder opened. I can actually open that folder, myProject.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. visual studio welcome menu (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image109.png?raw=true"
+<img src="./images/image109.png"
   style="width:50%"
   title="Visual Studio welcome menu"
   alt="Visual Studio welcome menu." />
@@ -2344,7 +2344,7 @@ an HTML file. I can put that in my folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. myfolder and index.hmtl (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image110.png?raw=true"
+<img src="./images/image110.png"
   style="width:50%"
   title="Myfolder and index.html"
   alt="Myfolder and index.html." />
@@ -2356,7 +2356,7 @@ folder. I can manage my whole project from here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 111. blank index.html (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image111.png?raw=true"
+<img src="./images/image111.png"
   style="width:50%"
   title="Blank index.html"
   alt="Blank index.html." />
@@ -2367,7 +2367,7 @@ to have some styles for my webpage, and it's going to go into that file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 112. files in myproject (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image112.png?raw=true"
+<img src="./images/image112.png"
   style="width:50%"
   title="Files in myProject"
   alt="Files in myProject." />
@@ -2380,7 +2380,7 @@ files for a project stay in the folder. You might have other folders in the fold
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 113. empty visual studio screen (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image113.png?raw=true"
+<img src="./images/image113.png"
   style="width:50%"
   title="Empty visual studio screen"
   alt="Empty visual studio screen." />
@@ -2399,7 +2399,7 @@ projects and make sure that the files are in the correct places at all times.</p
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 114. empty visual studio menu screen, again (76) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image114.png?raw=true"
+<img src="./images/image114.png"
   style="width:50%"
   title="Describe how Visual Studio is customizable"
   alt="Describe how Visual Studio is customizable." />
@@ -2412,7 +2412,7 @@ extensions and other things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 115. visual studio extensions and settings (76) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image115.png?raw=true"
+<img src="./images/image115.png"
   style="width:50%"
   title="Visual Studio extensions and settings"
   alt="Visual Studio extensions and settings." />
@@ -2424,11 +2424,11 @@ your code editor, or perhaps you prefer a lighter theme.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 116/117. atom one light theme (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image116.png?raw=true"
+<img src="./images/image116.png"
   style="width:45%"
   title="Atom One Light Theme, #1"
   alt="Atom One Light Theme, #1." />
-<img src="./images/image117.png?raw=true"
+<img src="./images/image117.png"
   style="width:45%"
   title="Atom One Light Theme, #2"
   alt="Atom One Light Theme, #2." />
@@ -2439,7 +2439,7 @@ and currently it's disabled, but I can enable this theme.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. color theme editor (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image118.png?raw=true"
+<img src="./images/image118.png"
   style="width:50%"
   title="Color Theme Editor"
   alt="Color Theme Editor." />
@@ -2452,7 +2452,7 @@ to my files and here I am.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 119. new menu screen theme (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image119.png?raw=true"
+<img src="./images/image119.png"
   style="width:50%"
   title="Display new menu screen theme in Visual Studio"
   alt="Display new menu screen theme in Visual Studio." />
@@ -2465,7 +2465,7 @@ and click.</p>
  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. type exclamation, then tab (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image120.png?raw=true"
+<img src="./images/image120.png"
   style="width:50%"
   title="For html template, type exclamation followed by [tab]"
   alt="For html template, type exclamation followed by [tab]." />
@@ -2484,7 +2484,7 @@ can come back to the browser and test it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. test, here is a heading (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image121.png?raw=true"
+<img src="./images/image121.png"
   style="width:50%"
   title="Test, myProject, here is a heading"
   alt="Test, myProject, here is a heading." />
@@ -2511,7 +2511,7 @@ scripts.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 122. operators, booleans & selection in javascript (2.04) (80) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image122.png?raw=true"
+<img src="./images/image122.png"
   style="width:40%"
   title="2.04. Operators, Booleans & Selection in JavaScript"
   alt="2.04. Operators, Booleans & Selection in JavaScript." />
@@ -2521,7 +2521,7 @@ scripts.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 123. javascript operators (80) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image123.png?raw=true"
+<img src="./images/image123.png"
   style="width:50%"
   title="JavaScript Operators"
   alt="JavaScript Operators." />
@@ -2535,11 +2535,11 @@ to divide and the percent is a modules operator.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 124/125. comparison operators/bitwise operators (81) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image124.png?raw=true"
+<img src="./images/image124.png"
   style="width:45%"
   title="Comparison operators"
   alt="Comparison operators." />
-<img src="./images/image125.png?raw=true"
+<img src="./images/image125.png"
   style="width:45%"
   title="Bitwise operators"
   alt="Bitwise operators." />
@@ -2555,7 +2555,7 @@ languages. C, C++, C sharp, Objective C, and so forth.<p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. booleans in javascript (81) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image126.png?raw=true"
+<img src="./images/image126.png"
   style="width:50%"
   title="Booleans in JavaScript"
   alt="Booleans in JavaScript." />
@@ -2577,7 +2577,7 @@ And it would do this down here. So that gets us started with a little bit of tha
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. vs code editor customize (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image127.png?raw=true"
+<img src="./images/image127.png"
   style="width:50%"
   title="Customize the Visual Studio editor theme"
   alt="Customize the Visual Studio editor theme." />
@@ -2588,7 +2588,7 @@ some selections and Booleans and that kind of fun stuff.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. vs code editor, make file (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image128.png?raw=true"
+<img src="./images/image128.png"
   style="width:50%"
   title="Make a file in Visual Studio editor; selections.html"
   alt="Make a file in Visual Studio editor; selections.html." />
@@ -2601,7 +2601,7 @@ spaces in the dot html extension. I'm going to save that on the desktop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 129. exclamation/tab for basic structure (83) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image129.png?raw=true"
+<img src="./images/image129.png"
   style="width:50%"
   title="Type exclamation [tab] for basic html structure"
   alt="Type exclamation [tab] for basic html structure." />
@@ -2613,7 +2613,7 @@ and there we go. And then in here I'm just going to add an h1 testing selections
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. add script & two variables (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image130.png?raw=true"
+<img src="./images/image130.png"
   style="width:50%"
   title="Add script and two variables"
   alt="Add script and two variables." />
@@ -2627,7 +2627,7 @@ One is set to true and the other one is set to false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. if red, then do something (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image131.png?raw=true"
+<img src="./images/image131.png"
   style="width:50%"
   title="If red, then do statement in function"
   alt="If red, then do statement in function." />
@@ -2641,7 +2641,7 @@ this would not be true, in which case something else would happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 132. add else statement for false (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image132.png?raw=true"
+<img src="./images/image132.png"
   style="width:50%"
   title="Add an else statement for false"
   alt="Add an else statement for false." />
@@ -2652,7 +2652,7 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 133. test, inspect console boolean (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image133.png?raw=true"
+<img src="./images/image133.png"
   style="width:50%"
   title="Test, inspect console boolean"
   alt="Test, inspect console boolean." />
@@ -2665,7 +2665,7 @@ is true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 134. if blue (false) else statement (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image134.png?raw=true"
+<img src="./images/image134.png"
   style="width:50%"
   title="Add else statement"
   alt="Add else statement." />
@@ -2676,11 +2676,11 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 135/136. testing selections; red=true, blue=false (86) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image135.png?raw=true"
+<img src="./images/image135.png"
   style="width:45%"
   title="Testing Selections; new vars; red=true, blue=false"
   alt="Testing Selections; new vars; red=true, blue=false." />
-<img src="./images/image136.png?raw=true"
+<img src="./images/image136.png"
   style="width:45%"
   title="Testing Selections; new vars; red=true, blue=false"
   alt="Testing Selections; new vars; red=true, blue=false." />
@@ -2692,7 +2692,7 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. try this! (2.05) (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image137.png?raw=true"
+<img src="./images/image137.png"
   style="width:40%"
   title="2.05. Try This!"
   alt="2.05. Try This!" />
@@ -2702,11 +2702,11 @@ console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 138/139. types of boolean = false (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image138.png?raw=true"
+<img src="./images/image138.png"
   style="width:45%"
   title="Test, null is false, undefined is false, zero & false are also false"
   alt="Test, null is false, undefined is false, zero & false are also false." />
-<img src="./images/image139.png?raw=true"
+<img src="./images/image139.png"
   style="width:45%"
   title="Undefined, zero, null, and false are all false"
   alt="Undefined, zero, null, and false are all false." />
@@ -2727,11 +2727,11 @@ variables that are undefined as false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 140/141. green = null, green = 0 are both false (87) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image140.png?raw=true"
+<img src="./images/image140.png"
   style="width:45%"
   title="var green = null, equates to false"
   alt="var green = null, equates to false." />
-<img src="./images/image141.png?raw=true"
+<img src="./images/image141.png"
   style="width:45%"
   title="var green = 0, equates to false"
   alt="var green = 0, equates to false." />
@@ -2749,11 +2749,11 @@ false, <b>zero</b> is false. <b>False</b> is false. Other things are true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142/143. green = "cheese" is true (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image142.png?raw=true"
+<img src="./images/image142.png"
   style="width:45%"
   title="var green = 'cheese' is true"
   alt="var green = 'cheese' is true." />
-<img src="./images/image143.png?raw=true"
+<img src="./images/image143.png"
   style="width:45%"
   title="Test, var green = 'cheese' is true"
   alt="Test, var green = 'cheese' is true." />
@@ -2766,7 +2766,7 @@ about JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. comparing values (2.06) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image144.png?raw=true"
+<img src="./images/image144.png"
   style="width:40%"
   title="2.06. Comparing Values"
   alt="2.06. Comparing Values." />
@@ -2776,7 +2776,7 @@ about JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145. double equal comparison (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image145.png?raw=true"
+<img src="./images/image145.png"
   style="width:50%"
   title="Comparison with double equal sign"
   alt="Comparison with double equal sign." />
@@ -2787,7 +2787,7 @@ out if the value here is the same as the value somewhere else.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 146. test, mynum to othernum (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image146.png?raw=true"
+<img src="./images/image146.png"
   style="width:50%"
   title="Test, myNum == otherNum"
   alt="Test, myNum == otherNum." />
@@ -2803,7 +2803,7 @@ to see is myNum the same as the otherNum. In this case it is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 147. does mynum equal othernum? true (90) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image147.png?raw=true"
+<img src="./images/image147.png"
   style="width:50%"
   title="Test, myNum == otherNum is true"
   alt="Test, myNum == otherNum is true." />
@@ -2814,11 +2814,11 @@ because myNum is the same as the otherNum.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 148/149. change number, now statement is false (90) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image148.png?raw=true"
+<img src="./images/image148.png"
   style="width:45%"
   title="Change to 6.  Now one is 5, other is 6"
   alt="Change to 6.  Now one is 5, other is 6." />
-<img src="./images/image149.png?raw=true"
+<img src="./images/image149.png"
   style="width:45%"
   title="Test, statement is now false"
   alt="Test, statement is now false." />
@@ -2830,11 +2830,11 @@ same as.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 150/151. test, exclamation equal for false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image150.png?raw=true"
+<img src="./images/image150.png"
   style="width:45%"
   title="Use exclamation and equal for NOT"
   alt="Use exclamation and equal for NOT." />
-<img src="./images/image151.png?raw=true"
+<img src="./images/image151.png"
   style="width:45%"
   title="Test, not equal with exclamation + equal sign"
   alt="Test, not equal with exclamation + equal sign." />
@@ -2853,11 +2853,11 @@ use less than and greater than and check to see if that&apos;s true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 152/153. more testing of not equal & false (91) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image152.png?raw=true"
+<img src="./images/image152.png"
   style="width:45%"
   title="More test of not equal and false"
   alt="More test of not equal and false." />
-<img src="./images/image153.png?raw=true"
+<img src="./images/image153.png"
   style="width:45%"
   title="Test, not equal as false"
   alt="Test, not equal as false." />
@@ -2881,11 +2881,11 @@ happen in your programs, that&apos;s never a good thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 154/155. triple equal testing (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image154.png?raw=true"
+<img src="./images/image154.png"
   style="width:45%"
   title="Triple equal testing"
   alt="Triple equal testing." />
-<img src="./images/image155.png?raw=true"
+<img src="./images/image155.png"
   style="width:45%"
   title="Must be exactly the same to match as true"
   alt="Must be exactly the same to match as true." />
@@ -2914,7 +2914,7 @@ Again, this is an odd thing about JavaScript that you can do this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 156. explain undefined variables (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image156.png?raw=true"
+<img src="./images/image156.png"
   style="width:50%"
   title="Explain undefined or null variables as false"
   alt="Explain undefined or null variables as false." />
@@ -2930,11 +2930,11 @@ That&apos;s <b>false</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 157/158. test, not a number is false (93) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image157.png?raw=true"
+<img src="./images/image157.png"
   style="width:45%"
   title="Test, if not a number then statement is false"
   alt="Test, if not a number then statement is false." />
-<img src="./images/image158.png?raw=true"
+<img src="./images/image158.png"
   style="width:45%"
   title="Test, not a number (NaN) is false"
   alt="Test, not a number (NaN) is false." />
@@ -2954,7 +2954,7 @@ testing values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. else if (2.07) (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image159.png?raw=true"
+<img src="./images/image159.png"
   style="width:40%"
   title="2.07. Else If"
   alt="2.07. Else If." />
@@ -2964,7 +2964,7 @@ testing values.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 160. else if examples (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image160.png?raw=true"
+<img src="./images/image160.png"
   style="width:50%"
   title="Examples of Else If"
   alt="Examples of Else If." />
@@ -2978,11 +2978,11 @@ what happens when you get in here. Let's type this in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 161/162. example of else if with test (95) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image161.png?raw=true"
+<img src="./images/image161.png"
   style="width:45%"
   title="Example, else if"
   alt="Example, else if." />
-<img src="./images/image162.png?raw=true"
+<img src="./images/image162.png"
   style="width:45%"
   title="Test, example else if"
   alt="Test, example else if." />
@@ -3033,7 +3033,7 @@ scripts and see how they work and what they do. It&apos;s really helpful to do t
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 163. switch statements (2.08) (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image163.png?raw=true"
+<img src="./images/image163.png"
   style="width:40%"
   title="2.08. Switch Statements"
   alt="2.08. Switch Statements." />
@@ -3044,7 +3044,7 @@ and run it through a bunch of cases.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 164. switch statement with examples (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image164.png?raw=true"
+<img src="./images/image164.png"
   style="width:50%"
   title="Switch statement Examples"
   alt="Switch statement Examples." />
@@ -3058,11 +3058,11 @@ break will bump out of this switch when one of these true statements comes up.</
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 165/166. example, switch and case statement (97) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image165.png?raw=true"
+<img src="./images/image165.png"
   style="width:45%"
   title="Example, switch/case statements"
   alt="Example, switch/case statements." />
-<img src="./images/image166.png?raw=true"
+<img src="./images/image166.png"
   style="width:45%"
   title="Example, switch/case statements"
   alt="Example, switch/case statements." />
@@ -3094,7 +3094,7 @@ first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. test, there was an error (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image167.png?raw=true"
+<img src="./images/image167.png"
   style="width:50%"
   alt="Test, there was an error.  If outside of array, then gives error." />
 </p>
@@ -3118,7 +3118,7 @@ with your code in a way that&apos;s helpful and useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. using &amp; &amp; (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image168.png?raw=true"
+<img src="./images/image168.png"
   style="width:40%"
   alt="2.09. Using &amp;&amp;." />
 </p>
@@ -3128,7 +3128,7 @@ the ampersand operator, or the pipe operator.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. examples, using &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image169.png?raw=true"
+<img src="./images/image169.png"
   style="width:50%"
   alt="Examples, using &amp;&amp;." />
 </p>
@@ -3138,7 +3138,7 @@ ampersand operator, and we use two of them together here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 170. example, booleans with &amp;&amp; (99) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image170.png?raw=true"
+<img src="./images/image170.png"
   style="width:50%"
   alt="Example, boolean with &amp;&amp;." />
 </p>
@@ -3152,7 +3152,7 @@ to be grumpy.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 171. test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image171.png?raw=true"
+<img src="./images/image171.png"
   style="width:50%"
   title="Test, booleans with &amp;&amp;"
   alt="Test, booleans with &amp;&amp;." />
@@ -3163,11 +3163,11 @@ good idea to practice typing these.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 172/173. more test, booleans with &amp;&amp; (100) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image172.png?raw=true"
+<img src="./images/image172.png"
   style="width:45%"
   title="More test, booleans with &amp;&amp;"
   alt="More test, booleans with &amp;&amp;." />
-<img src="./images/image173.png?raw=true"
+<img src="./images/image173.png"
   style="width:45%"
   title="More test, booleans with &amp;&amp;"
   alt="More test, booleans with &amp;&amp;." />
@@ -3189,7 +3189,7 @@ going to have to happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 174. booleans with double pipe (or) (101) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image174.png?raw=true"
+<img src="./images/image174.png"
   style="width:50%"
   alt="." />
 </p>
@@ -3203,7 +3203,7 @@ as true. So they would all have to be false for me to be starving.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 175. add boolean and double pipe example (101) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image175.png?raw=true"
+<img src="./images/image175.png"
   style="width:50%"
   alt="Add boolean and double pipe example." />
 </p>
@@ -3216,7 +3216,7 @@ true, then <b>console.log(&quot;things are ok!&quot;</b>). Then down here, else
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 176. 1 or more false, therefore things are ok (102) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image176.png?raw=true"
+<img src="./images/image176.png"
   style="width:50%"
   alt="One or more variables are false, therefore things are ok." />
 </p>
@@ -3252,7 +3252,7 @@ starving, so you should go eat something.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. loops (2.10) (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image177.png?raw=true"
+<img src="./images/image177.png"
   style="width:40%"
   title="2.10 Loops"
   alt="2.10 Loops." />
@@ -3270,7 +3270,7 @@ And JavaScript, like many programming languages, will allow you to do
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. for loop (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image178.png?raw=true"
+<img src="./images/image178.png"
   style="width:50%"
   title="For loop"
   alt="For loop." />
@@ -3285,11 +3285,11 @@ me.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 179/180. loops.html - add incrementor to loop (105) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image179.png?raw=true"
+<img src="./images/image179.png"
   style="width:45%"
   title="Create loops.html and add incrementor"
   alt="Create loops.html and add incrementor." />
-<img src="./images/image180.png?raw=true"
+<img src="./images/image180.png"
   style="width:45%"
   title="Create a loop with incrementor"
   alt="Create a loop with incrementor." />
@@ -3330,7 +3330,7 @@ I have over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181. test, incrementor loop (106) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image181.png?raw=true"
+<img src="./images/image181.png"
   style="width:50%"
   title="Test, incrementor loop"
   alt="Test, incrementor loop." />
@@ -3357,7 +3357,7 @@ these expressions and that determines whether the loop runs or not.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. working with arrays (2.11) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image182.png?raw=true"
+<img src="./images/image182.png"
   style="width:40%"
   title="2.11 Working with Arrays"
   alt="2.11 Working with Arrays." />
@@ -3369,7 +3369,7 @@ iterate over that group of items to do something to them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 183. example, working with arrays (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image183.png?raw=true"
+<img src="./images/image183.png"
   style="width:50%"
   title="Examples, working with arrays"
   alt="Examples, working with arrays." />
@@ -3387,7 +3387,7 @@ Remember, arrays are zero-indexed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. add array with colors (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image184.png?raw=true"
+<img src="./images/image184.png"
   style="width:50%"
   title="Create an array of colors"
   alt="Create an array of colors." />
@@ -3409,7 +3409,7 @@ no longer less than four and my loop breaks out.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185. test, looping array (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image185.png?raw=true"
+<img src="./images/image185.png"
   style="width:50%"
   title="Test, looping array"
   alt="Test, looping array." />
@@ -3422,7 +3422,7 @@ works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186. looping using length (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image186.png?raw=true"
+<img src="./images/image186.png"
   style="width:50%"
   title="Looping using length"
   alt="Looping using length." />
@@ -3458,7 +3458,7 @@ the array that way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 187. the for..of loop (2.12)(110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image187.png?raw=true"
+<img src="./images/image187.png"
   style="width:40%"
   title="2.12 The For..Of Loop"
   alt="2.12 The For..Of Loop." />
@@ -3472,7 +3472,7 @@ loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 188. example of the for..of loop (110) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image188.png?raw=true"
+<img src="./images/image188.png"
   style="width:50%"
   title="Example, for..of loop"
   alt="Example, for..of loop." />
@@ -3494,11 +3494,11 @@ our code over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 189/190. example/test of for..of looping (111) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image189.png?raw=true"
+<img src="./images/image189.png"
   style="width:45%"
   title="Example for..of loop colors"
   alt="Example for..of loop colors." />
-<img src="./images/image190.png?raw=true"
+<img src="./images/image190.png"
   style="width:45%"
   title="Test, output of for ..of loop colors"
   alt="Test, output of for ..of loop colors." />
@@ -3520,7 +3520,7 @@ with arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. example, strings as arrays (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image191.png?raw=true"
+<img src="./images/image191.png"
   style="width:50%"
   title="Example, strings as arrays"
   alt="Example, strings as arrays." />
@@ -3534,11 +3534,11 @@ my <b>console.log</b> there. I can do that thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~ 192/193. example, test for using length (112) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image192.png?raw=true"
+<img src="./images/image192.png"
   style="width:45%"
   title="Example for loop with string length"
   alt="Example for loop with string length." />
-<img src="./images/image193.png?raw=true"
+<img src="./images/image193.png"
   style="width:45%"
   title="Test, output of example loop"
   alt="Test, output of example loop." />
@@ -3552,7 +3552,7 @@ I could do it that way, or I could even use the for of loop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 194. another example of for..of loop (113) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image194.png?raw=true"
+<img src="./images/image194.png"
   style="width:50%"
   title="Another example of for..of loop"
   alt="Another example of for..of loop." />
@@ -3565,7 +3565,7 @@ This will give the <b>myString</b> twice.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195. while loops (2.13) (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image195.png?raw=true"
+<img src="./images/image195.png"
   style="width:40%"
   title="2.13 While Loops"
   alt="2.13 While Loops." />
@@ -3577,7 +3577,7 @@ about.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. example, while loops (114) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image196.png?raw=true"
+<img src="./images/image196.png"
   style="width:50%"
   title="Example, while loops"
   alt="Example, while loops." />
@@ -3614,11 +3614,11 @@ stuff out. I don&apos;t really need that now.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 197/198. example/test while loops in js (115) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image197.png?raw=true"
+<img src="./images/image197.png"
   style="width:45%"
   title="Example while loop"
   alt="Example while loop." />
-<img src="./images/image198.png?raw=true"
+<img src="./images/image198.png"
   style="width:45%"
   title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
@@ -3645,11 +3645,11 @@ print the console log once with all the text in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 199/200. example/test while loop using text (116) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image199.png?raw=true"
+<img src="./images/image199.png"
   style="width:45%"
   title="Example while loop"
   alt="Example while loop." />
-<img src="./images/image200.png?raw=true"
+<img src="./images/image200.png"
   style="width:45%"
   title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
@@ -3666,7 +3666,7 @@ while loop works here.</p>p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. same example, while loops (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image201.png?raw=true"
+<img src="./images/image201.png"
   style="width:50%"
   title="Same example, while loops"
   alt="Same example, while loops." />
@@ -3691,7 +3691,7 @@ variables inside strings a little bit more easily.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. example, template literals (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image202.png?raw=true"
+<img src="./images/image202.png"
   style="width:50%"
   title="Example, template literals"
   alt="Example, template literals." />
@@ -3715,7 +3715,7 @@ this course quite a lot.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. example, while incrementor (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image203.png?raw=true"
+<img src="./images/image203.png"
   style="width:50%"
   title="Example, template literals"
   alt="Example, template literals." />
@@ -3736,7 +3736,7 @@ all that stuff if you do it this way.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204. test, while incrementor (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image204.png?raw=true"
+<img src="./images/image204.png"
   style="width:50%"
   title="Example, template literals"
   alt="Example, template literals." />
@@ -3749,11 +3749,11 @@ here. That is actually working.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 205/206. example/test while incrementor using text (119) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image205.png?raw=true"
+<img src="./images/image205.png"
   style="width:45%"
   title="Example while loop"
   alt="Example while loop." />
-<img src="./images/image206.png?raw=true"
+<img src="./images/image206.png"
   style="width:45%"
   title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
@@ -3766,7 +3766,7 @@ We&apos;ve got the template literals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 207. another example, while loop (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image207.png?raw=true"
+<img src="./images/image207.png"
   style="width:50%"
   title="Example, another while loop"
   alt="Example, another while loop." />
@@ -3779,11 +3779,11 @@ operations right in line with our string.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 208/209. example/test while incrementor using text (120) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image208.png?raw=true"
+<img src="./images/image208.png"
   style="width:45%"
   title="Example while loop"
   alt="Example while loop." />
-<img src="./images/image209.png?raw=true"
+<img src="./images/image209.png"
   style="width:45%"
   title="Test, inspect incrementor"
   alt="Test, inspect incrementor." />
@@ -3819,7 +3819,7 @@ Here is a resource related to these lessons:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image210.png?raw=true"
+<img src="./images/image210.png"
   style="width:40%"
   title="2.14. Structured Programming, Sequence - Part 1"
   alt="2.14. Structured Programming, Sequence - Part 1." />
@@ -3829,7 +3829,7 @@ Here is a resource related to these lessons:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 211. definition: structured programming (122) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image211.png?raw=true"
+<img src="./images/image211.png"
   style="width:50%"
   title="Definition Structured Programming; Sequence, selection &amp; loop"
   alt="Definition Structured Programming; Sequence, selection &amp; loop." />
@@ -3853,7 +3853,7 @@ to see the expressive power of JavaScript. </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 212. methods of text/string manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image212.png?raw=true"
+<img src="./images/image212.png"
   style="width:50%"
   title="Converting to Upper or Lower case and other text manipulations"
   alt="Converting to Upper or Lower case and other text manipulations." />
@@ -3868,7 +3868,7 @@ can convert it to lowercase.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 213. example substr() text manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image213.png?raw=true"
+<img src="./images/image213.png"
   style="width:50%"
   title="Example substr() text manipulation"
   alt="Example substr() text manipulation." />
@@ -3897,7 +3897,7 @@ it that way, which is pretty cool.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. example, sequence part 1 (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image214.png?raw=true"
+<img src="./images/image214.png"
   style="width:50%"
   title="Sequence Part 1, example"
   alt="Sequence Part 1, example." />
@@ -3916,7 +3916,7 @@ the video, and let&apos;s see if you got the same thing I got.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. sequence part 1, result (125) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image215.png?raw=true"
+<img src="./images/image215.png"
   style="width:50%"
   title="Sequence Part 1, result"
   alt="Sequence Part 1, result." />
@@ -3924,7 +3924,7 @@ the video, and let&apos;s see if you got the same thing I got.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 216. sequence part 1, result in script (125) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image216.png?raw=true"
+<img src="./images/image216.png"
   style="width:50%"
   title="Sequence Part 1, result in script"
   alt="Sequence Part 1, result in script." />
@@ -3943,7 +3943,7 @@ this and <b>console.log</b> that out. That works really great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. test, sequence part 1 (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image217.png?raw=true"
+<img src="./images/image217.png"
   style="width:50%"
   title="Test, Sequence Part 1"
   alt="Test, Sequence Part 1." />
@@ -3957,7 +3957,7 @@ That works great. Let&apos;s see, what should we do next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218. sequence - part 2 (2.15) (127) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image218.png?raw=true"
+<img src="./images/image218.png"
   style="width:50%"
   title="2.15 Sequence - Part 2"
   alt="2.15 Sequence - Part 2." />
@@ -3967,7 +3967,7 @@ That works great. Let&apos;s see, what should we do next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (128) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image219.png?raw=true"
+<img src="./images/image219.png"
   style="width:50%"
   alt="Example, Sequence Part 2." />
 </p>
@@ -3978,10 +3978,10 @@ method to find out where this word ''really'' in my string starts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (128) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image220.png?raw=true"
+<img src="./images/image220.png"
   style="width:45%"
   alt="Answer test, sequence part 2." />
-<img src="./images/image221.png?raw=true"
+<img src="./images/image221.png"
   style="width:45%"
   alt="Output test, sequence part 2." />
 </p>
@@ -4000,10 +4000,10 @@ going to do is it's going to pull out into this variable, special word, the word
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 222/223. string.substring & console (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image222.png?raw=true"
+<img src="./images/image222.png"
   style="width:45%"
   alt="substring." />
-<img src="./images/image223.png?raw=true"
+<img src="./images/image223.png"
   style="width:45%"
   alt="Console, myString." />
 </p>
@@ -4014,10 +4014,10 @@ see that what that's getting for me. It's myString.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 224/225. working with sequence, selection & loop (129) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image224.png?raw=true"
+<img src="./images/image224.png"
   style="width:45%"
   alt="Working with Sequence, Selection and Loop." />
-<img src="./images/image225.png?raw=true"
+<img src="./images/image225.png"
   style="width:45%"
   alt="Console, toUpperCase." />
 </p>
@@ -4034,7 +4034,7 @@ hungry for some, so I'm getting the capital word ''really'' there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. example, sequence 2 (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image226.png?raw=true"
+<img src="./images/image226.png"
   style="width:50%"
   alt="Example, Sequence 2, substr, toUpperCase, replace." />
 </p>
@@ -4052,7 +4052,7 @@ are available in JavaScript for doing string surgery.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 227. sequence - part 3, loop (2.16) (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image227.png?raw=true"
+<img src="./images/image227.png"
   style="width:50%"
   alt="2.16. Sequence, Part 3, Loop." />
 </p>
@@ -4061,7 +4061,7 @@ in the array. Then use the string literal syntax.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228. sequence, part 3 (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image228.png?raw=true"
+<img src="./images/image228.png"
   style="width:50%"
   alt="Sequence, Part 3." />
 </p>
@@ -4072,7 +4072,7 @@ then the first element in the foods array. See if you can do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. sequence, part 3 results (131) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image229.png?raw=true"
+<img src="./images/image229.png"
   style="width:50%"
   alt="Example, Sequence 3 Result." />
 </p>
@@ -4086,7 +4086,7 @@ literal thing. Let's do that part together.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. array of foods in script (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image230.png?raw=true"
+<img src="./images/image230.png"
   style="width:50%"
   alt="Create array of foods in script." />
 </p>
@@ -4102,7 +4102,7 @@ it easier for you to understand.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. for loop (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image231.png?raw=true"
+<img src="./images/image231.png"
   style="width:50%"
   alt="For loop." />
 </p>
@@ -4114,7 +4114,7 @@ for some cheese, for some pie, for some lunch, for some breakfast. All of these 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. for i=0; loop i++ (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image232.png?raw=true"
+<img src="./images/image232.png"
   style="width:50%"
   alt="For i=0; loop i++." />
 </p>
@@ -4129,7 +4129,7 @@ I can see that this is really working.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. test, loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image233.png?raw=true"
+<img src="./images/image233.png"
   style="width:50%"
   alt="Test, loop." />
 </p>
@@ -4145,7 +4145,7 @@ There we go. We're getting all of it there. That's great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. for var each loop (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image234.png?raw=true"
+<img src="./images/image234.png"
   style="width:50%"
   alt="For var each loop." />
 </p>
@@ -4158,7 +4158,7 @@ to be eachFood. I'm still going to print out myString, but now this is going to 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. test, for var each loop (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image235.png?raw=true"
+<img src="./images/image235.png"
   style="width:50%"
   alt="Test, for var each loop." />
 </p>
@@ -4172,7 +4172,7 @@ I get the same results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. loop + selection (2.17) (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image236.png?raw=true"
+<img src="./images/image236.png"
   style="width:50%"
   alt="2.17. Loop + Selection." />
 </p>
@@ -4181,7 +4181,7 @@ Next we'll bring selection into the mix.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. example, loop + selection (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image237.png?raw=true"
+<img src="./images/image237.png"
   style="width:50%"
   alt="Example, Loop + Selection." />
 </p>
@@ -4201,7 +4201,7 @@ something by two.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 238. for var i=0 length array i++ (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image238.png?raw=true"
+<img src="./images/image238.png"
   style="width:50%"
   alt="For var i=0, length of array, i++." />
 </p>
@@ -4212,7 +4212,7 @@ incrementor with numbers. So we can just work with i to do this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. example to console.log (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image239.png?raw=true"
+<img src="./images/image239.png"
   style="width:50%"
   alt="Example to console.log." />
 </p>
@@ -4231,7 +4231,7 @@ just do this. Save that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. test, loop + selection (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image240.png?raw=true"
+<img src="./images/image240.png"
   style="width:40%"
   alt="Test, loop + selection." />
 </p>
@@ -4241,7 +4241,7 @@ That's great. Did you get something like that? That's great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image241.png?raw=true"
+<img src="./images/image241.png"
   style="width:50%"
   alt="Example, Refacturing Code." />
 </p>
@@ -4259,7 +4259,7 @@ variable here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 242. example, sequence, selection & loop (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image242.png?raw=true"
+<img src="./images/image242.png"
   style="width:50%"
   alt="Example test, Sequence, Selection & Loop." />
 </p>
@@ -4275,7 +4275,7 @@ to just make sure that it still runs exactly the same way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 243. test, sequence, selection & loop (140) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image243.png?raw=true"
+<img src="./images/image243.png"
   style="width:50%"
   alt="Test, Sequence, Selection and Loop." />
 </p>
@@ -4284,7 +4284,7 @@ Make sure I did that right, and I did, so that's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. example, make comments (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image244.png?raw=true"
+<img src="./images/image244.png"
   style="width:50%"
   title="Example, Make Comments"
   alt="Example, Make Comments." />
@@ -4311,7 +4311,7 @@ along. Great, see you in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 245. javascript basic challenges introduction (141) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image245.png?raw=true"
+<img src="./images/image245.png"
   style="width:50%"
   title="2.18 JavaScript Basic Challenges Introduction"
   alt="2.18 JavaScript Basic Challenges Introduction." />
@@ -4325,7 +4325,7 @@ results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246. example, challenge 1 (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image246.png?raw=true"
+<img src="./images/image246.png"
   style="width:50%"
   title="Example, Challenge 1"
   alt="Example, Challenge 1." />
@@ -4337,7 +4337,7 @@ on the next line. Very basic challenge.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247. set up challenge 1 (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image247.png?raw=true"
+<img src="./images/image247.png"
   style="width:50%"
   title="Set up Challenge 1"
   alt="Set up Challenge 1." />
@@ -4349,7 +4349,7 @@ what the first thing is to do, and that's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 248. example, challenge 1 answer (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image248.png?raw=true"
+<img src="./images/image248.png"
   style="width:50%"
   title="Example, Challenge 1 Answer"
   alt="Example, Challenge 1 Answer." />
@@ -4365,7 +4365,7 @@ do a few things to really help you get good at JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. camel with 2 humps (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image249.png?raw=true"
+<img src="./images/image249.png"
   style="width:50%"
   title="Camel with 2 humps"
   alt="Camel with 2 humps." />
@@ -4383,7 +4383,7 @@ without looking at the answer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. example, challenge 2 (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image250.png?raw=true"
+<img src="./images/image250.png"
   style="width:50%"
   title="Example, Challenge 2"
   alt="Example, Challenge 2." />
@@ -4422,7 +4422,7 @@ and I promise, you'll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 251. functions in javascript (2.19) (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image251.png?raw=true"
+<img src="./images/image251.png"
   style="width:50%"
   title="2.19 Functions in JavaScript"
   alt="2.19 Functions in JavaScript." />
@@ -4432,7 +4432,7 @@ Functions in JavaScript. Functions are reusable sets of instructions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 252. example, reusable sets of instructions (146) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image252.png?raw=true"
+<img src="./images/image252.png"
   style="width:50%"
   title="Example, Reusable Sets of Instructions"
   alt="Example, Reusable Sets of Instructions." />
@@ -4448,7 +4448,7 @@ where functions can become very powerful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 253. function: upperstring, here is a string of text (146) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image253.png?raw=true"
+<img src="./images/image253.png"
   style="width:50%"
   title="function: upperString(myString)"
   alt="function: upperString(myString)." />
@@ -4463,7 +4463,7 @@ exercise.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 254. function to uppercase a string (147) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image254.png?raw=true"
+<img src="./images/image254.png"
   style="width:50%"
   title="doStuff - upperString using toUpperCase()"
   alt="doStuff - upperString using toUpperCase()." />
@@ -4477,7 +4477,7 @@ run the function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 255. example, uppercase a string (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image255.png?raw=true"
+<img src="./images/image255.png"
   style="width:50%"
   title="Example, toUpperCase()"
   alt="Example, toUpperCase()." />
@@ -4491,11 +4491,11 @@ nothing, because it'll be defined but it won't actually run. I have to run doStu
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 256/257. function/example enter a whole number (148) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image256.png?raw=true"
+<img src="./images/image256.png"
   style="width:45%"
   title="Try This, Uppercase and Enter a whole number"
   alt="Try This, Uppercase and Enter a whole number." />
-<img src="./images/image257.png?raw=true"
+<img src="./images/image257.png"
   style="width:45%"
   title="Test, Uppercase and Enter a whole number (greater than or less than 10?)"
   alt="Test, Uppercase and Enter a whole number (greater than or less than 10?)." />
@@ -4509,7 +4509,7 @@ bottom. I'm going to just paste it on in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. function checknum (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image258.png?raw=true"
+<img src="./images/image258.png"
   style="width:50%"
   title="function checkNum"
   alt="function checkNum." />
@@ -4529,7 +4529,7 @@ supposed to do, and all that code is now inside of a function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 259. passing in and returning data (2.20) (150) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image259.png?raw=true"
+<img src="./images/image259.png"
   style="width:50%"
   title="2.20 Passing In and Returning Data"
   alt="2.20 Passing In and Returning Data." />
@@ -4540,7 +4540,7 @@ with that data.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 260. example, passing in data (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image260.png?raw=true"
+<img src="./images/image260.png"
   style="width:50%"
   title="Example, Passing in Data"
   alt="Example, Passing in Data." />
@@ -4555,7 +4555,7 @@ uppercase, and console log it out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. function uppermessage (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image261.png?raw=true"
+<img src="./images/image261.png"
   style="width:50%"
   title="function upperMessage()"
   alt="function upperMessage()." />
@@ -4571,7 +4571,7 @@ but it's something that shows us how this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. test, here  is a message (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image262.png?raw=true"
+<img src="./images/image262.png"
   style="width:50%"
   title="Test, HERE IS A MESSAGE"
   alt="Test, HERE IS A MESSAGE." />
@@ -4586,11 +4586,11 @@ pass in whatever two numbers you want to add there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 263/264. function addnums, test addnums (152) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image263.png?raw=true"
+<img src="./images/image263.png"
   style="width:45%"
   title="function addNums"
   alt="function addNums." />
-<img src="./images/image264.png?raw=true"
+<img src="./images/image264.png"
   style="width:45%"
   title="Test, addNums"
   alt="Test, addNums." />
@@ -4614,7 +4614,7 @@ that we can then work with within our function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. example, returning data (153) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image265.png?raw=true"
+<img src="./images/image265.png"
   style="width:50%"
   title="Example, Returning Data"
   alt="Example, Returning Data." />
@@ -4635,7 +4635,7 @@ these two things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 266. function addnumbs & returnsum (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image266.png?raw=true"
+<img src="./images/image266.png"
   style="width:50%"
   title="Functions; addNumbs and returnSum"
   alt="Functions; addNumbs and returnSum." />
@@ -4649,11 +4649,11 @@ to the console log because that's all I've got access to at the moment.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 267/268. test, addnumbs & returnsum (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image267.png?raw=true"
+<img src="./images/image267.png"
   style="width:45%"
   title="Functions: addNumbs and returnSum"
   alt="Functions: addNumbs and returnSum." />
-<img src="./images/image268.png?raw=true"
+<img src="./images/image268.png"
   style="width:45%"
   title="Test, addNumbs and returnSum"
   alt="Test, addNumbs and returnSum." />
@@ -4683,7 +4683,7 @@ needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 269. useful example - step 1 (2.21) (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image269.png?raw=true"
+<img src="./images/image269.png"
   style="width:50%"
   title="2.21 Useful Example - Step 1"
   alt="2.21 Useful Example - Step 1." />
@@ -4693,7 +4693,7 @@ Let's take a look at a useful example.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 270. a useful example - generating random numbers (156) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image270.png?raw=true"
+<img src="./images/image270.png"
   style="width:50%"
   title="A Useful Example - Generating Random Numbers"
   alt="A Useful Example - Generating Random Numbers." />
@@ -4706,11 +4706,11 @@ a try over here on my file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 271/272. math.random number generator (0-.999999999) (156) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image271.png?raw=true"
+<img src="./images/image271.png"
   style="width:45%"
   title="Math.random number generator (0-.999999999)"
   alt="Math.random number generator (0-.999999999)." />
-<img src="./images/image272.png?raw=true"
+<img src="./images/image272.png"
   style="width:45%"
   title="Math.random number generator (0-.999999999)"
   alt="Math.random number generator (0-.999999999)." />
@@ -4723,7 +4723,7 @@ refreshing my screen and I'll keep getting numbers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image273.png?raw=true"
+<img src="./images/image273.png"
   style="width:50%"
   title="Test, Functions in JavaScript"
   alt="Test, Functions in JavaScript." />
@@ -4751,7 +4751,7 @@ That's worth mentioning as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 274. example, useful example - step 1 (158) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image274.png?raw=true"
+<img src="./images/image274.png"
   style="width:50%"
   title="Example, Useful Example - Step 1"
   alt="Example, Useful Example - Step 1." />
@@ -4772,11 +4772,11 @@ this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 275/276. test, randomint between 5-10 inclusive (158) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image275.png?raw=true"
+<img src="./images/image275.png"
   style="width:45%"
   title="Test, randomInt between 5 and 10 (inclusive)"
   alt="Test, randomInt between 5 and 10 (inclusive)." />
-<img src="./images/image276.png?raw=true"
+<img src="./images/image276.png"
   style="width:45%"
   title="Test, randomInt between 5 and 10 (inclusive)"
   alt="Test, randomInt between 5 and 10 (inclusive)." />
@@ -4802,7 +4802,7 @@ correct. Then, we'll go on from there to the next step.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 277. useful example - steps 2-4 (2.22) (159) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image277.png?raw=true"
+<img src="./images/image277.png"
   style="width:50%"
   title="2.22 Useful Example 2-4"
   alt="2.22 Useful Example 2-4." />
@@ -4811,7 +4811,7 @@ In the second step for a random integer generator, I'm going to actually generat
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. useful example - step 2 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 p align="center" width="100%">
-<img src="./images/image278.png?raw=true"
+<img src="./images/image278.png"
   style="width:50%"
   title="Useful Example - Step 2 - randomInt (0-1)"
   alt="Useful Example - Step 2 - randomInt (0-1)." />
@@ -4821,11 +4821,11 @@ it by the number of values and see what I get.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 279/280. test, function randomint with min & max (160) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image279.png?raw=true"
+<img src="./images/image279.png"
   style="width:45%"
   title="Function randomInt accepting min and max"
   alt="Function randomInt accepting min and max." />
-<img src="./images/image280.png?raw=true"
+<img src="./images/image280.png"
   style="width:45%"
   title="Test, function randomInt with min and max of 0 to 6 (exclusive)"
   alt="Test, function randomInt with min and max of 0 to 6 (exclusive)." />
@@ -4842,10 +4842,10 @@ but it won't go all the way up to six, and that's interesting.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~ 281/282. test, function randomint round down to whole number (160) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image281.png?raw=true"
+<img src="./images/image281.png"
   style="width:45%"
   alt="Function randomInt with Math.floor." />
-<img src="./images/image282.png?raw=true"
+<img src="./images/image282.png"
   style="width:45%"
   alt="Test, function randomInt with Math.floor." />
 </p>
@@ -4866,7 +4866,7 @@ long variable names wrong.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 283. useful example - step 4 (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image283.png?raw=true"
+<img src="./images/image283.png"
   style="width:50%"
   alt="Useful Example - Step 4." />
 </p>
@@ -4876,10 +4876,10 @@ number, and we're going to take the min and add it to that randomVal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 284/285. test, add min to random value (161) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image284.png?raw=true"
+<img src="./images/image284.png"
   style="width:45%"
   alt="Add min to roundedRandomVal." />
-<img src="./images/image285.png?raw=true"
+<img src="./images/image285.png"
   style="width:45%"
   alt="Test output, new roundedRandomVal." />
 </p>
@@ -4896,7 +4896,7 @@ is great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (2.23) (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image286.png?raw=true"
+<img src="./images/image286.png"
   style="width:50%"
   title="2.23 Useful Example - Step 5"
   alt="2.23 Useful Example - Step 5." />
@@ -4906,7 +4906,7 @@ generator a little bit more useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 287. example, random select from array (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image287.png?raw=true"
+<img src="./images/image287.png"
   style="width:50%"
   title="Example, random selection from array"
   alt="Example, random selection from array." />
@@ -4919,11 +4919,11 @@ the final number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 288/289. function randomint of array (163) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image288.png?raw=true"
+<img src="./images/image288.png"
   style="width:45%"
   title="Generate a random int"
   alt="Generate a random int." />
-<img src="./images/image289.png?raw=true"
+<img src="./images/image289.png"
   style="width:45%"
   title="Select from array using random int"
   alt="Select from array using random int." />
@@ -4942,7 +4942,7 @@ get me either a cheese, a chicken, or grapes, or hamburgers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 290. console, hamburgers (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image290.png?raw=true"
+<img src="./images/image290.png"
   style="width:50%"
   title="Console, hamburgers"
   alt="Console, hamburgers." />
@@ -4953,7 +4953,7 @@ actually do something with another program.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 291. randomint with 4 options (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image291.png?raw=true"
+<img src="./images/image291.png"
   style="width:50%"
   title="randomInt array with four options"
   alt="randomInt array with four options." />
@@ -4968,7 +4968,7 @@ little bit more interesting than what we've been doing so far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. randomint with no vars (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image292.png?raw=true"
+<img src="./images/image292.png"
   style="width:50%"
   title="randomInt without variables"
   alt="randomInt without variables." />
@@ -4976,7 +4976,7 @@ little bit more interesting than what we've been doing so far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 293. refactor function randomint (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image293.png?raw=true"
+<img src="./images/image293.png"
   style="width:50%"
   title="Refactor function randomInt"
   alt="Refactor function randomInt." />
@@ -4996,7 +4996,7 @@ version of all of this stuff.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 294. test, function randomint (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image294.png?raw=true"
+<img src="./images/image294.png"
   style="width:50%"
   title="Test, function randomInt with console"
   alt="Test, function randomInt with console." />
@@ -5018,7 +5018,7 @@ actually worked.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 295. more on functions (2.24) (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image295.png?raw=true"
+<img src="./images/image295.png"
   style="width:40%"
   title="2.24 More on Functions"
   alt="2.24 More on Functions." />
@@ -5027,7 +5027,7 @@ We have a few more things to talk about in terms of functions before we're done 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 296. functions can be anonymous (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image296.png?raw=true"
+<img src="./images/image296.png"
   style="width:50%"
   title="Example, Functions Can Be Anonymous"
   alt="Example, Functions Can Be Anonymous." />
@@ -5083,7 +5083,7 @@ assign a function to a variable just as if it were data.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. example, arrow functions (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image297.png?raw=true"
+<img src="./images/image297.png"
   style="width:50%"
   title="Example, Arrow Functions"
   alt="Example, Arrow Functions." />
@@ -5126,7 +5126,7 @@ that really they're just a different syntax for writing functions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. 'function' and 'methods' (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image298.png?raw=true"
+<img src="./images/image298.png"
   style="width:50%"
   title="'Functions' and 'Methods' in JavaScript"
   alt="'Functions' and 'Methods' in JavaScript." />
@@ -5140,7 +5140,7 @@ to know a little bit about what the two terms mean and why they're interchangeab
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299. touppercase method (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image299.png?raw=true"
+<img src="./images/image299.png"
   style="width:50%"
   title="toUpperCase method"
   alt="toUpperCase method." />
@@ -5162,11 +5162,11 @@ window.doStuff and that will actually work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 300/301. window.dostuff with console (170) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image300.png?raw=true"
+<img src="./images/image300.png"
   style="width:45%"
   title="window.doStuff belongs to the window object"
   alt="window.doStuff belongs to the window object." />
-<img src="./images/image301.png?raw=true"
+<img src="./images/image301.png"
   style="width:45%"
   title="console.log window.doStuff"
   alt="console.log window.doStuff." />
@@ -5226,7 +5226,7 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. introduction (3.00) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image302.png?raw=true"
+<img src="./images/image302.png"
   style="width:40%"
   title="3.00 Introduction; Using JavaScript in the Web Browsers"
   alt="3.00 Introduction; Using JavaScript in the Web Browsers." />
@@ -5253,7 +5253,7 @@ end you&apos;ll have learned quite a lot of JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 303. javascript and the dom (3.01) (175) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image303.png?raw=true"
+<img src="./images/image303.png"
   style="width:40%"
   title="3.01 JavaScript and the DOM"
   alt="3.01 JavaScript and the DOM." />
@@ -5263,7 +5263,7 @@ JavaScript and the DOM.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 304. example, the web page is an object (175) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image304.png?raw=true"
+<img src="./images/image304.png"
   style="width:50%"
   title="Example, The Web Page is an Object"
   alt="Example, The Web Page is an Object." />
@@ -5291,7 +5291,7 @@ over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 305. nodes on a tree; child & sibling (174) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image305.png?raw=true"
+<img src="./images/image305.png"
   style="width:50%"
   title="Nodes on a Tree; child and siblings"
   alt="Nodes on a Tree; child and siblings." />
@@ -5336,7 +5336,7 @@ browsers with JavaScript, but we&apos;re pretty close to there these days.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 306. dot syntax and methods (3.02) (177) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image306.png?raw=true"
+<img src="./images/image306.png"
   style="width:40%"
   title="3.02 Dot Syntax and Methods"
   alt="3.02 Dot Syntax and Methods." />
@@ -5346,7 +5346,7 @@ The dot syntax and methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 307. example, dot syntax and methods (178) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image307.png?raw=true"
+<img src="./images/image307.png"
   style="width:50%"
   title="Example, Dot Syntax and Methods"
   alt="Example, Dot Syntax and Methods." />
@@ -5370,7 +5370,7 @@ document there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 308. getelementbyid(); (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image308.png?raw=true"
+<img src="./images/image308.png"
   style="width:50%"
   title="Example, getElementById();"
   alt="Example, getElementById();" />
@@ -5397,7 +5397,7 @@ unique. Let&apos;s give this a try.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 309. document.getelementbyid(); (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image309.png?raw=true"
+<img src="./images/image309.png"
   style="width:50%"
   title="document.getElementById();"
   alt="document.getElementById();" />
@@ -5417,7 +5417,7 @@ it&apos;s going to match this ID here, and I can set the style.color to red.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 310. console, dom examples (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image310.png?raw=true"
+<img src="./images/image310.png"
   style="width:50%"
   title="console, DOM Examples"
   alt="console, DOM Examples." />
@@ -5431,7 +5431,7 @@ that after the fact. It&apos;s really important to understand this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 311. dom example (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image311.png?raw=true"
+<img src="./images/image311.png"
   style="width:50%"
   title="DOM Example"
   alt="DOM Example." />
@@ -5460,7 +5460,7 @@ document, find that ID, and then effect it on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 312. dom: getelementsbytagname(); (181) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image312.png?raw=true"
+<img src="./images/image312.png"
   style="width:40%"
   title="3.03 DOM; getElementsByTagName();"
   alt="3.03 DOM; getElementsByTagName();" />
@@ -5471,7 +5471,7 @@ page and do something with them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 313. example, getelementsbytagname(); (182) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image313.png?raw=true"
+<img src="./images/image313.png"
   style="width:50%"
   title="Example, getElementsByTagName();"
   alt="Example, getElementsByTagName();" />
@@ -5485,11 +5485,11 @@ we can do something with that collection of elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 314/315. dom.html - document.getelementsbytagname (182) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image314.png?raw=true"
+<img src="./images/image314.png"
   style="width:45%"
   title="dom.html - document.getElementsByTagName('p') - get all paragraphs"
   alt="dom.html - document.getElementsByTagName('p') - get all paragraphs." />
-<img src="./images/image315.png?raw=true"
+<img src="./images/image315.png"
   style="width:45%"
   title="Test, display paragraphs from document.getElementsByTagName"
   alt="Test, display paragraphs from document.getElementsByTagName." />
@@ -5518,7 +5518,7 @@ HTMLCollection of elements that I need to then do something else with.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 316. example, seeing the loop in action (183) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image316.png?raw=true"
+<img src="./images/image316.png"
   style="width:50%"
   alt="Example, Seeing the Loop in Action." />
 </p>
@@ -5532,10 +5532,10 @@ let&apos;s go ahead and do this over here rather than console log this out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 317/318. dom.html - update paragraph style color (184) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image317.png?raw=true"
+<img src="./images/image317.png"
   style="width:45%"
   alt="dom.html - for(var i=0; i<ps.length; i++) {ps[i].style.color='red';}." />
-<img src="./images/image318.png?raw=true"
+<img src="./images/image318.png"
   style="width:45%"
   alt="Test console output, 3 red paragraphs." />
 </p>
@@ -5556,10 +5556,10 @@ refresh this, you can see all my paragraphs generate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 319/320. dom.html - adding alert command (184) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image319.png?raw=true"
+<img src="./images/image319.png"
   style="width:45%"
   alt="dom.html - alert('showing paragraph ${i}');." />
-<img src="./images/image320.png?raw=true"
+<img src="./images/image320.png"
   style="width:45%"
   alt="Test, output from alert command, showing paragraph i." />
 </p>
@@ -5585,7 +5585,7 @@ one at a time in the collection.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 321. dom: getelementsbyclassname(); (3.04) (185) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image321.png?raw=true"
+<img src="./images/image321.png"
   style="width:40%"
   title="3.04 DOM: getElementsByClassName();"
   alt="3.04 DOM: getElementsByClassName();" />
@@ -5596,7 +5596,7 @@ The next document method that we&apos;re going to look at is
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 322. example, getelementsbyclassname(); (186) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image322.png?raw=true"
+<img src="./images/image322.png"
   style="width:50%"
   title="Example, getElementsByClassName();"
   alt="Example, getElementsByClassName();" />
@@ -5608,11 +5608,11 @@ name.  Then put them into an **HTMLCollection**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 323/324. dom.html - document.getelementsbyclassname (186) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image323.png?raw=true"
+<img src="./images/image323.png"
   style="width:45%"
   title="dom.html - document.getElementsByClassName('special');"
   alt="dom.html - document.getElementsByClassName('special');" />
-<img src="./images/image324.png?raw=true"
+<img src="./images/image324.png"
   style="width:45%"
   title="Test, output from document.getElementsByClassName('special');"
   alt="Test, output from document.getElementsByClassName('special');" />
@@ -5642,11 +5642,11 @@ time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 325/326. dom.html - for loop in getelementsbyclass name (187) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image325.png?raw=true"
+<img src="./images/image325.png"
   style="width:45%"
   title="DOM.HTML - Using for loop to identify elements by class name"
   alt="DOM.HTML - Using for loop to identify elements by class name." />
-<img src="./images/image326.png?raw=true"
+<img src="./images/image326.png"
   style="width:45%"
   title="Test, example output of for loop"
   alt="Test, example output of for loop." />
@@ -5658,11 +5658,11 @@ know it&apos;s going to be element zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 327/328. dom.html - getelementsbyclassname('classname') (187) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image327.png?raw=true"
+<img src="./images/image327.png"
   style="width:45%"
   title="myClass[0].style.color='red';"
   alt="myClass[0].style.color='red';" />
-<img src="./images/image328.png?raw=true"
+<img src="./images/image328.png"
   style="width:45%"
   alt="Test, output from myClass[0].style.color='red' command." />
 </p>
@@ -5694,7 +5694,7 @@ that&apos;s an important thing to understand about
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 329. dom: queryselector(); (3.05) (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image329.png?raw=true"
+<img src="./images/image329.png"
   style="width:40%"
   title="3.05 DOM: querySelector();"
   alt="3.05 DOM: querySelector();" />
@@ -5705,7 +5705,7 @@ The next document method that we&apos;re going to look at is
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. example, dom: queryselector(); (189) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image330.png?raw=true"
+<img src="./images/image330.png"
   style="width:50%"
   title="Example, DOM: querySelectorAll();"
   alt="Example, DOM: querySelectorAll();" />
@@ -5732,10 +5732,10 @@ methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 331/332.  (190) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image331.png?raw=true"
+<img src="./images/image331.png"
   style="width:45%"
   alt="." />
-<img src="./images/image332.png?raw=true"
+<img src="./images/image332.png"
   style="width:45%"
   alt="." />
 </p>
@@ -5749,7 +5749,7 @@ would put either dots or I could put **.someclass.**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (190) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image333.png?raw=true"
+<img src="./images/image333.png"
   style="width:50%"
   alt="." />
 </p>
@@ -5777,7 +5777,7 @@ important with **querySelector**. Let&apos;s take a look at the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 334. dom: queryselectorall(); (3.06) (191) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image334.png?raw=true"
+<img src="./images/image334.png"
   style="width:40%"
   title="3.06 DOM: querySelectorAll();"
   alt="3.06 DOM: querySelectorAll();" />
@@ -5790,7 +5790,7 @@ using the newer, more updated **DOM API querySelectorAll.**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 335. example, queryselectorall(); (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image335.png?raw=true"
+<img src="./images/image335.png"
   style="width:50%"
   title="Example, querySelectorAll();"
   alt="Example, querySelectorAll();" />
@@ -5800,11 +5800,11 @@ Let&apos;s give that a try really quickly here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 336/337. define, test queryselectorall() (192) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image336.png?raw=true"
+<img src="./images/image336.png"
   style="width:45%"
   title="Define a div id, select using document.querySelectorAll()"
   alt="Define a div id, select using document.querySelectorAll()." />
-<img src="./images/image337.png?raw=true"
+<img src="./images/image337.png"
   style="width:45%"
   title="Test, console document.querySelectorAll, set p style color to red"
   alt="Test, console document.querySelectorAll, set p style color to red." />
@@ -5841,7 +5841,7 @@ the document elements that allow us to add elements to the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 338. example, working with properties (193) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image338.png?raw=true"
+<img src="./images/image338.png"
   style="width:50%"
   title="Example, Working with Properties; element.style.property"
   alt="Example, Working with Properties; element.style.property." />
@@ -5870,7 +5870,7 @@ page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 339. working with element methods (193) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image339.png?raw=true"
+<img src="./images/image339.png"
   style="width:50%"
   title="Working with Element Methods; .setAttribute('attributeName','value');"
   alt="Working with Element Methods; .setAttribute('attributeName','value');" />
@@ -5884,11 +5884,11 @@ we can pass in an attribute name and then set its value.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 340/341. working with properties/element methods (194) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image340.png?raw=true"
+<img src="./images/image340.png"
   style="width:45%"
   title="Working with Properties"
   alt="Working with Properties." />
-<img src="./images/image341.png?raw=true"
+<img src="./images/image341.png"
   style="width:45%"
   title="Working with Element Methods"
   alt="Working with Element Methods." />
@@ -5917,7 +5917,7 @@ our web pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 342. innerhtml (3.07) (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image342.png?raw=true"
+<img src="./images/image342.png"
   style="width:40%"
   title="3.07 innerHTML"
   alt="3.07 innerHTML." />
@@ -5929,7 +5929,7 @@ talked about in the previous video and see how powerful it is.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 343. example, innerhtml (195) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image343.png?raw=true"
+<img src="./images/image343.png"
   style="width:50%"
   title="Example, innerHTML"
   alt="Example, innerHTML." />
@@ -5944,11 +5944,11 @@ completely different. And that&apos;s something else could have HTML in it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 344/345. define, test console getelementbyid (196) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image344.png?raw=true"
+<img src="./images/image344.png"
   style="width:45%"
   title="Define div, myDiv = document.getElementById('special'), add using myDiv.innerHTML"
   alt="Define div, myDiv = document.getElementById('special'), add using myDiv.innerHTML." />
-<img src="./images/image345.png?raw=true"
+<img src="./images/image345.png"
   style="width:45%"
   title="Test, console document.getElementById and myDiv.innerHTML"
   alt="Test, console document.getElementById and myDiv.innerHTML." />
@@ -5978,11 +5978,11 @@ doing. Now, here, I&apos;m using **getElementById(&apos;special&apos;).**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 346/347. document.queryselector using css syntax (197) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image346.png?raw=true"
+<img src="./images/image346.png"
   style="width:45%"
   title="document.querySelector('#special');"
   alt="document.querySelector('#special');" />
-<img src="./images/image347.png?raw=true"
+<img src="./images/image347.png"
   style="width:45%"
   title="Test console, replace 3 paragraphs with 1 new paragraph"
   alt="Test console, replace 3 paragraphs with 1 new paragraph." />
@@ -6000,7 +6000,7 @@ element here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 348. define document query selector using innerhtml (197) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image348.png?raw=true"
+<img src="./images/image348.png"
   style="width:50%"
   title="document.querySelector('#special').innerHTML = '&lt;p&gt;Here is my new paragraph&lt;/p&gt;';"
   alt="document.querySelector('#special').innerHTML = '&lt;p&gt;Here is my new paragraph&lt;/p&gt;';" />
@@ -6026,7 +6026,7 @@ stuff, images. All kinds of things can go in there using **innerHTML**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 349. classname (3.08) (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image349.png?raw=true"
+<img src="./images/image349.png"
   style="width:40%"
   title="3.08 className"
   alt="3.08 className." />
@@ -6037,7 +6037,7 @@ useful is the className element property.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 350. example, classname (198) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image350.png?raw=true"
+<img src="./images/image350.png"
   style="width:50%"
   title="Example, className"
   alt="Example, className." />
@@ -6054,7 +6054,7 @@ a class blue here to my document. So let&apos;s see how this works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (199) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image351.png?raw=true"
+<img src="./images/image351.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6074,10 +6074,10 @@ well. Class name equals blue.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 352/353.  (199) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image352.png?raw=true"
+<img src="./images/image352.png"
   style="width:45%"
   alt="." />
-<img src="./images/image353.png?raw=true"
+<img src="./images/image353.png"
   style="width:45%"
   alt="." />
 </p>
@@ -6106,7 +6106,7 @@ allows us to put a class name on things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 354. example, setattribute(); (201) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image354.png?raw=true"
+<img src="./images/image354.png"
   style="width:50%"
   title="Example, setAttribute();"
   alt="Example, setAttribute();" />
@@ -6119,7 +6119,7 @@ one we&apos;ll look at is **setAttribute**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (201) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image355.png?raw=true"
+<img src="./images/image355.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6137,10 +6137,10 @@ checked, which will make the check box checked by default.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 356/357.  (202) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image356.png?raw=true"
+<img src="./images/image356.png"
   style="width:45%"
   alt="." />
-<img src="./images/image357.png?raw=true"
+<img src="./images/image357.png"
   style="width:45%"
   alt="." />
 </p>
@@ -6163,7 +6163,7 @@ content on our webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 358. creating elements and text nodes (3.09) (203) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image358.png?raw=true"
+<img src="./images/image358.png"
   style="width:40%"
   title="3.09 Creating Elements and Text Nodes"
   alt="3.09 Creating Elements and Text Nodes." />
@@ -6174,7 +6174,7 @@ the element properties in this lesson and there are lots more.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 359. example, creating elements and text nodes (203) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image359.png?raw=true"
+<img src="./images/image359.png"
   style="width:50%"
   title="Example, Creating Elements and Text Nodes"
   alt="Example, Creating Elements and Text Nodes." />
@@ -6197,7 +6197,7 @@ doing it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 360. define variable using document.createelement (204) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image360.png?raw=true"
+<img src="./images/image360.png"
   style="width:50%"
   title="Define variable using document.createElement('p');"
   alt="Define variable using document.createElement('p');" />
@@ -6227,7 +6227,7 @@ appending it to the end of the paragraph here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 361. test output console, new paragraph (205) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image361.png?raw=true"
+<img src="./images/image361.png"
   style="width:50%"
   title="Test output console, new paragraph using document.createTextNode();"
   alt="Test output console, new paragraph using document.createTextNode();" />
@@ -6252,7 +6252,7 @@ to go than using innerHTML in certain circumstances.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 362. removing elements (3.10) (206) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image362.png?raw=true"
+<img src="./images/image362.png"
   style="width:40%"
   title="3.10 Removing Elements"
   alt="3.10 Removing Elements." />
@@ -6264,7 +6264,7 @@ an element from another element.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 363. example, removing elements with removechild() (206) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image363.png?raw=true"
+<img src="./images/image363.png"
   style="width:50%"
   title="Example, removing elements with removeChild();"
   alt="Example, removing elements with removeChild();" />
@@ -6277,7 +6277,7 @@ this example really quickly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 364. example removechild method (207) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image364.png?raw=true"
+<img src="./images/image364.png"
   style="width:50%"
   title="Define myDiv = document.querySelector('div'); &amp; removeChild(myDiv.children[1]);"
   alt="Define myDiv = document.querySelector('div'); &amp; removeChild(myDiv.children[1]);" />
@@ -6297,11 +6297,11 @@ semicolon there, save that, and then let&apos;s go over to our browser here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 365/366. test console output after removechild (207) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image366.png?raw=true"
+<img src="./images/image366.png"
   style="width:45%"
   title="Test console output, removeChild method"
   alt="Test console output, removeChild method." />
-<img src="./images/image365.png?raw=true"
+<img src="./images/image365.png"
   style="width:45%"
   title="After test console output, removeChild method"
   alt="After test console output, removeChild method." />
@@ -6315,7 +6315,7 @@ elements from the page, if you need to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 367. summary, removechild method (208) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image367.png?raw=true"
+<img src="./images/image367.png"
   style="width:50%"
   title="Summary, removeChild element method"
   alt="Summary, removeChild element method." />
@@ -6347,7 +6347,7 @@ to create all kinds of interactive elements in our webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 368. capturing events with js (3.11) (209) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image368.png?raw=true"
+<img src="./images/image368.png"
   style="width:40%"
   title="3.11 Capturing Events with JavaScript"
   alt="3.11 Capturing Events with JavaScript." />
@@ -6357,7 +6357,7 @@ Capturing Events with JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 369. events happen, listen for events (209) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image369.png?raw=true"
+<img src="./images/image369.png"
   style="width:40%"
   title="Events Happen, listen for events"
   alt="Events Happen, listen for events." />
@@ -6379,7 +6379,7 @@ that&apos;s how we can get interactive webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 370. example, event basics (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image370.png?raw=true"
+<img src="./images/image370.png"
   style="width:50%"
   title="Example, Event Basics"
   alt="Example, Event Basics." />
@@ -6392,7 +6392,7 @@ that you actually clicked the button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 371. add button to html (210) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image371.png?raw=true"
+<img src="./images/image371.png"
   style="width:50%"
   title="Add &lt;button&gt; which says 'Don&apos;t Press Me!'"
   alt="Add &lt;button&gt; which says 'Don&apos;t Press Me!'." />
@@ -6404,7 +6404,7 @@ methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 372. define var btn = document.queryselector('button'); (211) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image372.png?raw=true"
+<img src="./images/image372.png"
   style="width:50%"
   title="Define var btn = document.querySelector('button');"
   alt="Define var btn = document.querySelector('button');" />
@@ -6425,7 +6425,7 @@ special property that will capture the click event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 373.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image373.png?raw=true"
+<img src="./images/image373.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6442,7 +6442,7 @@ Instead, it&apos;s going to run right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 374.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image374.png?raw=true"
+<img src="./images/image374.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6461,7 +6461,7 @@ anonymous function to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 375.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image375.png?raw=true"
+<img src="./images/image375.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6471,7 +6471,7 @@ you&apos;ll see of capturing event is using the addEventListener method.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image376.png?raw=true"
+<img src="./images/image376.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6487,10 +6487,10 @@ we&apos;ll use the **addEventListener** instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 377/378.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image377.png?raw=true"
+<img src="./images/image377.png"
   style="width:45%"
   alt="." />
-<img src="./images/image378.png?raw=true"
+<img src="./images/image378.png"
   style="width:45%"
   alt="." />
 </p>
@@ -6509,7 +6509,7 @@ here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 379.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image379.png?raw=true"
+<img src="./images/image379.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6519,7 +6519,7 @@ before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 380.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image380.png?raw=true"
+<img src="./images/image380.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6530,7 +6530,7 @@ take a look at that instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 381.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image381.png?raw=true"
+<img src="./images/image381.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6552,7 +6552,7 @@ appropriate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 382.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image382.png?raw=true"
+<img src="./images/image382.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6562,7 +6562,7 @@ the page. Don&apos;t press me and I get my alert.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image383.png?raw=true"
+<img src="./images/image383.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6590,7 +6590,7 @@ help you with making sure that your syntax is clean.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384. the event object (3.13) (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image384.png?raw=true"
+<img src="./images/image384.png"
   style="width:40%"
   title="3.13 The Event Object"
   alt="3.13 The Event Object." />
@@ -6600,7 +6600,7 @@ The next thing to look at is the event object.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 385.  (219) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image385.png?raw=true"
+<img src="./images/image385.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6611,7 +6611,7 @@ Let&apos;s take a look and see what it does.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386.  (219) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image386.png?raw=true"
+<img src="./images/image386.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6627,7 +6627,7 @@ like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387.  (220) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image387.png?raw=true"
+<img src="./images/image387.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6641,7 +6641,7 @@ was triggering this event, and then we can do something with that
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 388.  (220) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image388.png?raw=true"
+<img src="./images/image388.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6651,7 +6651,7 @@ want, it represents.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 389. example, preventing default behavior (221) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image389.png?raw=true"
+<img src="./images/image389.png"
   style="width:50%"
   title="Example, Preventing Default Behavior"
   alt="Example, Preventing Default Behavior." />
@@ -6666,7 +6666,7 @@ before it&apos;s submitted, and so we&apos;ll use that frequently.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 390.  (221) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image390.png?raw=true"
+<img src="./images/image390.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6685,7 +6685,7 @@ so I could do alert. Sorry, no Google for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 391.  (222) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image391.png?raw=true"
+<img src="./images/image391.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6698,7 +6698,7 @@ Google for you,&quot; and the page does not go to Google. But it&apos;s the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392.  (222) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image392.png?raw=true"
+<img src="./images/image392.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6716,7 +6716,7 @@ projects.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 393. more on events (3.14) (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image393.png?raw=true"
+<img src="./images/image393.png"
   style="width:40%"
   title="3.14 More on Events"
   alt="3.14 More on Events." />
@@ -6726,11 +6726,11 @@ There&apos;s a lot more on events.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 394/395. more introduction to events (223) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image394.png?raw=true"
+<img src="./images/image394.png"
   style="width:45%"
   title="More on Events"
   alt="More on Events." />
-<img src="./images/image395.png?raw=true"
+<img src="./images/image395.png"
   style="width:45%"
   title="Introduction to More Events"
   alt="Introduction to More Events." />
@@ -6748,7 +6748,7 @@ JavaScript here as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 396. example, submit event (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image396.png?raw=true"
+<img src="./images/image396.png"
   style="width:50%"
   title="Example, Submit Event"
   alt="Example, Submit Event." />
@@ -6765,7 +6765,7 @@ have these scripts to reference.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 397.  (224) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image397.png?raw=true"
+<img src="./images/image397.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6811,7 +6811,7 @@ just alert out alert form data and now if we go try this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 398.  (226) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image398.png?raw=true"
+<img src="./images/image398.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6824,10 +6824,10 @@ happening. So if I comment this out watch what happens here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 399/400.  (226) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image399.png?raw=true"
+<img src="./images/image399.png"
   style="width:45%"
   alt="." />
-<img src="./images/image400.png?raw=true"
+<img src="./images/image400.png"
   style="width:45%"
   alt="." />
 </p>
@@ -6838,7 +6838,7 @@ that up here because I use the get variable.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 401.  (227) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image401.png?raw=true"
+<img src="./images/image401.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6850,7 +6850,7 @@ the action here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402.  (227) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image402.png?raw=true"
+<img src="./images/image402.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6861,7 +6861,7 @@ case, it won&apos;t be able to because that page doesn&apos;t exist.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403.  (228) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image403.png?raw=true"
+<img src="./images/image403.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6873,7 +6873,7 @@ want to use JavaScript to capture this data and do something with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404.  (228) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image404.png?raw=true"
+<img src="./images/image404.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6889,7 +6889,7 @@ with JavaScript in here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 405. mouseover, mouseover events: html (3.15) (229) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image405.png?raw=true"
+<img src="./images/image405.png"
   style="width:40%"
   title="3.15 Mouseover, Mouseover Events: HTML"
   alt="3.15 Mouseover, Mouseover Events: HTML." />
@@ -6900,7 +6900,7 @@ with the submit event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 406. example, mouseover, mouseover events: html (229) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image406.png?raw=true"
+<img src="./images/image406.png"
   style="width:50%"
   title="Example, Mouseover, Mouseover Events: HTML"
   alt="Example, Mouseover, Mouseover Events: HTML." />
@@ -6915,7 +6915,7 @@ and mouseout.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 407. example, mouseover, mouseover events: js (230) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image407.png?raw=true"
+<img src="./images/image407.png"
   style="width:50%"
   title="Example, Mouseover, Mouseover Events: JS"
   alt="Example, Mouseover, Mouseover Events: JS." />
@@ -6927,7 +6927,7 @@ variables for my heading and for the box to get those two elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408.  (230) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image408.png?raw=true"
+<img src="./images/image408.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6940,7 +6940,7 @@ Let&apos;s do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409.  (231) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image409.png?raw=true"
+<img src="./images/image409.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6951,7 +6951,7 @@ mouse over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410.  (231) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image410.png?raw=true"
+<img src="./images/image410.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6971,7 +6971,7 @@ change it to something like the mouse is over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411.  (232) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image411.png?raw=true"
+<img src="./images/image411.png"
   style="width:40%"
   alt="." />
 </p>
@@ -6983,7 +6983,7 @@ content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412.  (232) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image412.png?raw=true"
+<img src="./images/image412.png"
   style="width:50%"
   alt="." />
 </p>
@@ -6999,10 +6999,10 @@ left the box. Cool, that&apos;s great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 413/414.  (233) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image413.png?raw=true"
+<img src="./images/image413.png"
   style="width:45%"
   alt="." />
-<img src="./images/image414.png?raw=true"
+<img src="./images/image414.png"
   style="width:45%"
   alt="." />
 </p>
@@ -7015,7 +7015,7 @@ having to click the refresh button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415.  (233) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image415.png?raw=true"
+<img src="./images/image415.png"
   style="width:50%"
   alt="." />
 </p>
@@ -7031,7 +7031,7 @@ its default state of where it was before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416.  (234) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image416.png?raw=true"
+<img src="./images/image416.png"
   style="width:40%"
   alt="." />
 </p>
@@ -7050,7 +7050,7 @@ console.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 417. scroll events: html (3.16) (234) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image417.png?raw=true"
+<img src="./images/image417.png"
   style="width:40%"
   title="3.16 Scroll Events: HTML"
   alt="3.16 Scroll Events: HTML." />
@@ -7060,7 +7060,7 @@ The next event type that we can look at capturing our scroll events.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 418. example, scroll events: html (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image418.png?raw=true"
+<img src="./images/image418.png"
   style="width:50%"
   title="Example, Scroll Events: HTML"
   alt="Example, Scroll Events: HTML." />
@@ -7075,7 +7075,7 @@ can&apos;t really capture that event, okay, great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 419. example, scroll events: js (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image419.png?raw=true"
+<img src="./images/image419.png"
   style="width:50%"
   title="Example, Scroll Events: JS"
   alt="Example, Scroll Events: JS." />
@@ -7086,7 +7086,7 @@ we can do with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420.  (236) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image420.png?raw=true"
+<img src="./images/image420.png"
   style="width:50%"
   alt="." />
 </p>
@@ -7109,7 +7109,7 @@ see what&apos;s going on as we&apos;re scrolling the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421.  (237) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image421.png?raw=true"
+<img src="./images/image421.png"
   style="width:50%"
   alt="." />
 </p>
@@ -7121,7 +7121,7 @@ actually see, as I scroll my page it&apos;s capturing that counter.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 422.  (237) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image422.png?raw=true"
+<img src="./images/image422.png"
   style="width:50%"
   alt="." />
 </p>
@@ -7138,7 +7138,7 @@ frequently.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423.  (238) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image423.png?raw=true"
+<img src="./images/image423.png"
   style="width:50%"
   alt="." />
 </p>
@@ -7150,7 +7150,7 @@ from scratch.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 424.  (238) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image424.png?raw=true"
+<img src="./images/image424.png"
   style="width:50%"
   alt="." />
 </p>
@@ -7185,7 +7185,7 @@ scroll event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 425. window resizing (3.17) (239) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image425.png?raw=true"
+<img src="./images/image425.png"
   style="width:40%"
   title="3.17 Window Resizing"
   alt="3.17 Window Resizing." />
@@ -7196,7 +7196,7 @@ the window, and this is useful in responsive design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426. example, window resizing (240) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image426.png?raw=true"
+<img src="./images/image426.png"
   style="width:50%"
   title="Example, Window Resizing"
   alt="Example, Window Resizing." />
@@ -7207,7 +7207,7 @@ this case, the event we&apos;re going to look for is a resize.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 427. window add event resize function (240) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image427.png?raw=true"
+<img src="./images/image427.png"
   style="width:50%"
   title="Define window.addEventListener('resize', function() and console log innerWidth & innerHeight"
   alt="Define window.addEventListener('resize', function() and console log innerWidth & innerHeight." />
@@ -7233,7 +7233,7 @@ window height is undefined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 428. test, resize window and log width/height to console (241) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image428.png?raw=true"
+<img src="./images/image428.png"
   style="width:50%"
   title="Test, resize window and watch console log width/height"
   alt="Test, resize window and watch console log width/height." />
@@ -7250,7 +7250,7 @@ responsive design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 429. key down event (3.18) (242) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image429.png?raw=true"
+<img src="./images/image429.png"
   style="width:40%"
   title="3.18 Key Down Event"
   alt="3.18 Key Down Event." />
@@ -7261,7 +7261,7 @@ a key on your keyboard.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. example, key down event (242) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image430.png?raw=true"
+<img src="./images/image430.png"
   style="width:50%"
   title="Example, Key Down Event"
   alt="Example, Key Down Event." />
@@ -7273,7 +7273,7 @@ that. That would be fun.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 431. new script add event listener for keydown (243) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image431.png?raw=true"
+<img src="./images/image431.png"
   style="width:50%"
   title="Add script, document.addEventListener('keydown', function()"
   alt="Add script, document.addEventListener('keydown', function()." />
@@ -7290,7 +7290,7 @@ alert, A key was pressed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert('a key was pressed') (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image432.png?raw=true"
+<img src="./images/image432.png"
   style="width:50%"
   title="alert('A key was pressed!')"
   alt="alert('A key was pressed!')." />
@@ -7303,7 +7303,7 @@ know which key was pressed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 433. example, which key was pressed (244) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image433.png?raw=true"
+<img src="./images/image433.png"
   style="width:50%"
   title="Example, Which Key was Pressed?"
   alt="Example, Which Key was Pressed?" />
@@ -7313,7 +7313,7 @@ We can find that out through using the which property on our event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 434. which key number was pressed (244) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image434.png?raw=true"
+<img src="./images/image434.png"
   style="width:50%"
   alt="Which Key Number was Pressed?" />
 </p>
@@ -7326,7 +7326,7 @@ brace.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 435. test, the ## key was pressed (245) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image435.png?raw=true"
+<img src="./images/image435.png"
   style="width:50%"
   title="Test Alert, The ## key was pressed"
   alt="Test Alert, The ## key was pressed." />
@@ -7349,7 +7349,7 @@ that was not the good way to go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 436. keyboard events (245) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image436.png?raw=true"
+<img src="./images/image436.png"
   style="width:50%"
   title="Keyboard Events on MDM"
   alt="Keyboard Events on MDM." />
@@ -7361,7 +7361,7 @@ keyboard which key has been deprecated.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 437. change which key to event key (246) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image437.png?raw=true"
+<img src="./images/image437.png"
   style="width:50%"
   title="Change which key to event key"
   alt="Change which key to event key." />
@@ -7376,7 +7376,7 @@ they&apos;re the most authoritative resource on this stuff.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438. test, keydown event (246) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image438.png?raw=true"
+<img src="./images/image438.png"
   style="width:40%"
   title="Test, keydown event"
   alt="Test, keydown event." />
@@ -7387,7 +7387,7 @@ press the F key, now I&apos;m getting &quot;the F key was pressed&quot;.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 439. summary - capture events (247) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image439.png?raw=true"
+<img src="./images/image439.png"
   style="width:40%"
   title="Summary - Capture Events"
   alt="Summary - Capture Events." />
@@ -7436,7 +7436,7 @@ Here are resources related to these lessons:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 440. scope in javascript (3.19) (248) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image440.png?raw=true"
+<img src="./images/image440.png"
   style="width:40%"
   title="3.19 Scope in JavaScript"
   alt="3.19 Scope in JavaScript." />
@@ -7446,7 +7446,7 @@ The next topic we need to get into is the way scope works in JavaScript.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 441. example, global and local scope (248) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image441.png?raw=true"
+<img src="./images/image441.png"
   style="width:50%"
   title="Example, Global and Local Scope"
   alt="Example, Global and Local Scope." />
@@ -7469,7 +7469,7 @@ code because that&apos;s no fun. Let&apos;s talk about how scope works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 442. define same named variable globally and locally (249) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image442.png?raw=true"
+<img src="./images/image442.png"
   style="width:50%"
   title="Define same named variable globally and locally"
   alt="Define same named variable globally and locally." />
@@ -7487,7 +7487,7 @@ Let&apos;s see if that actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 443. inspect local and global scoped variables (250) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image443.png?raw=true"
+<img src="./images/image443.png"
   style="width:50%"
   title="Inspect, local and global scoped variables"
   alt="Inspect, local and global scoped variables." />
@@ -7505,7 +7505,7 @@ there. But you can do that thing with JavaScript and it&apos;s not great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 444. example, what does local scope mean? (250) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image444.png?raw=true"
+<img src="./images/image444.png"
   style="width:50%"
   title="Example, what does local scope mean?"
   alt="Example, what does local scope mean?" />
@@ -7515,11 +7515,11 @@ What does local scope mean? Well, let&apos;s do this for a second.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 445/446. example, local vs global variable scope (251) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image445.png?raw=true"
+<img src="./images/image445.png"
   style="width:45%"
   title="Example function, local vs global variable scope"
   alt="Example function, local vs global variable scope." />
-<img src="./images/image446.png?raw=true"
+<img src="./images/image446.png"
   style="width:45%"
   title="Example error with global vs local variable scope"
   alt="Example error with global vs local variable scope." />
@@ -7531,7 +7531,7 @@ one that says aVariable is not defined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 447. variable in a local scope function (251) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image447.png?raw=true"
+<img src="./images/image447.png"
   style="width:50%"
   title="Variable, aVariable, in a local scope function"
   alt="Variable, aVariable, in a local scope function." />
@@ -7547,7 +7547,7 @@ sure that we don&apos;t have problems with the variables.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 448. even worse example (252) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image448.png?raw=true"
+<img src="./images/image448.png"
   style="width:50%"
   title="Make a variable without the 'var' keyword"
   alt="Make a variable without the 'var' keyword." />
@@ -7560,7 +7560,7 @@ scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 449. global variable defined (252) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image449.png?raw=true"
+<img src="./images/image449.png"
   style="width:50%"
   title="Global variable defined by no 'var'"
   alt="Global variable defined by no 'var'." />
@@ -7575,7 +7575,7 @@ defined inside the function. It belongs to the window.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 450. local and global variable scoping (253) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image450.png?raw=true"
+<img src="./images/image450.png"
   style="width:50%"
   title="Console example, local and global variable scoping"
   alt="Console example, local and global variable scoping." />
@@ -7594,7 +7594,7 @@ kinds of problems.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 451. strategy 1: never use global scope (3.20) (253) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image451.png?raw=true"
+<img src="./images/image451.png"
   style="width:40%"
   title="3.20 Strategy 1: Never Use Global Scope"
   alt="3.20 Strategy 1: Never Use Global Scope." />
@@ -7606,7 +7606,7 @@ possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 452. example, strategy 1 never use global scope (254) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image452.png?raw=true"
+<img src="./images/image452.png"
   style="width:50%"
   title="Example, Strategy 1 Never Use Global Scope"
   alt="Example, Strategy 1 Never Use Global Scope." />
@@ -7622,7 +7622,7 @@ out of the global scope?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 453. example, namespacing and closures (254) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image453.png?raw=true"
+<img src="./images/image453.png"
   style="width:50%"
   title="Example, Namespacing and Closures"
   alt="Example, Namespacing and Closures." />
@@ -7638,11 +7638,11 @@ variables local to that function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 454/455. define queryselectorall update with for loop (255) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image454.png?raw=true"
+<img src="./images/image454.png"
   style="width:45%"
   title="Define document.querySelectorAll('p')"
   alt="Define document.querySelectorAll('p')." />
-<img src="./images/image455.png?raw=true"
+<img src="./images/image455.png"
   style="width:45%"
   title="Set style color to red"
   alt="Set style color to red." />
@@ -7657,7 +7657,7 @@ and working as expected.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 456. define iife with parentheses around function (255) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image456.png?raw=true"
+<img src="./images/image456.png"
   style="width:50%"
   title="Define IIFE with parentheses around function"
   alt="Define IIFE with parentheses around function." />
@@ -7675,7 +7675,7 @@ And now that function will run when the page loads.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 457. test, function runs when page loads (256) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image457.png?raw=true"
+<img src="./images/image457.png"
   style="width:50%"
   title="Test, function runs when page loads"
   alt="Test, function runs when page loads." />
@@ -7687,11 +7687,11 @@ are now local to this function and they&apos;re not in the global space.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 458/459. define and test global/local scope error (256) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image458.png?raw=true"
+<img src="./images/image458.png"
   style="width:45%"
   title="Define global and local scope variables"
   alt="Define global and local scope variables." />
-<img src="./images/image459.png?raw=true"
+<img src="./images/image459.png"
   style="width:45%"
   title="Test, variable error on global scope"
   alt="Test, variable error on global scope." />
@@ -7710,7 +7710,7 @@ But it really is helpful for making sure everything stays in the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 460. define and keep variable local only (257) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image460.png?raw=true"
+<img src="./images/image460.png"
   style="width:50%"
   title="Define and keep variable local only"
   alt="Define and keep variable local only." />
@@ -7731,7 +7731,7 @@ more things that I want to say about this while we&apos;re here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 461. example, namespacing and closures (258) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image461.png?raw=true"
+<img src="./images/image461.png"
   style="width:50%"
   test="Example, Namespacing and Closures"
   alt="Example, Namespacing and Closures." />
@@ -7776,7 +7776,7 @@ stuff, but any function because it can be immediately invoked.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 462. function dostuff defined (259) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image462.png?raw=true"
+<img src="./images/image462.png"
   style="width:50%"
   title="Define function doStuff"
   alt="Define function doStuff." />
@@ -7787,11 +7787,11 @@ just going to define the function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 463/464. function dostuff immediately invoked (259) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image463.png?raw=true"
+<img src="./images/image463.png"
   style="width:45%"
   title="Function doStuff with parenthesis around entire function to immediately invoke"
   alt="Function doStuff with parenthesis around entire function to immediately invoke." />
-<img src="./images/image464.png?raw=true"
+<img src="./images/image464.png"
   style="width:45%"
   title="Testing, immediately invoked function expression"
   alt="Testing, immediately invoked function expression." />
@@ -7829,7 +7829,7 @@ technique that we have at our disposal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: 'use strict;' (3.21) (260) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image467.png?raw=true"
+<img src="./images/image467.png"
   style="width:40%"
   title="3.21 Strategy 2: 'use strict;'"
   alt="3.21 Strategy 2: 'use strict;'." />
@@ -7840,7 +7840,7 @@ sure that variables stay out of the global scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 'use strict;' (261) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image468.png?raw=true"
+<img src="./images/image468.png"
   style="width:50%"
   title="Example, Strategy 2: 'use strict;'"
   alt="Example, Strategy 2: 'use strict;'." />
@@ -7855,7 +7855,7 @@ have that not happen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 469. define newvar as a global variable (261) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image469.png?raw=true"
+<img src="./images/image469.png"
   style="width:50%"
   title="Define newVar as a global variable"
   alt="Define newVar as a global variable." />
@@ -7869,7 +7869,7 @@ function, but that&apos;s okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 470. variable defined without var keyword (262) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image470.png?raw=true"
+<img src="./images/image470.png"
   style="width:50%"
   title="Variable defined without 'var' keyword"
   alt="Variable defined without 'var' keyword." />
@@ -7881,7 +7881,7 @@ sent out to the console log as described there, which is fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 471. add 'use strict' to catch error (262) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image471.png?raw=true"
+<img src="./images/image471.png"
   style="width:50%"
   title="Add 'use strict' to script to catch undefined variables"
   alt="Add 'use strict' to script to catch undefined variables." />
@@ -7893,7 +7893,7 @@ and try to run the script again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 472. use strict - global & local vars (263) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image472.png?raw=true"
+<img src="./images/image472.png"
   style="width:50%"
   title="use strict - global &amp; local variables"
   alt="use strict - global &amp; local variables." />
@@ -7907,7 +7907,7 @@ That&apos;s an interesting and useful (?) tool to keep Basics from doing this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 473. iife - variable scope (263) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image473.png?raw=true"
+<img src="./images/image473.png"
   style="width:50%"
   title="IIFE or the closure - variable scope"
   alt="IIFE or the closure - variable scope." />
@@ -7926,7 +7926,7 @@ scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 474. strategy 3: const and let (264) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image474.png?raw=true"
+<img src="./images/image474.png"
   style="width:40%"
   title="3.22 Strategy 3: const and let"
   alt="3.22 Strategy 3: const and let." />
@@ -7936,7 +7936,7 @@ let as keywords for defining variables instead of verb.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 475. example, strategy 3: const & let (264) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image475.png?raw=true"
+<img src="./images/image475.png"
   style="width:50%"
   title="Example, Strategy 3: const and let"
   alt="Example, Strategy 3: const and let." />
@@ -7963,7 +7963,7 @@ but we didn't have any block level scope. Now we've got a block level scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 476. example, const (265) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image476.png?raw=true"
+<img src="./images/image476.png"
   style="width:50%"
   title="Example, Const"
   alt="Example, Const." />
@@ -7975,11 +7975,11 @@ assign a different value to cheese, I'm going to get an error.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 477/478. const in scope testing (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image477.png?raw=true"
+<img src="./images/image477.png"
   style="width:45%"
   title="Define const cheese = 'cheese is yummy'"
   alt="Define const cheese = 'cheese is yummy'." />
-<img src="./images/image478.png?raw=true"
+<img src="./images/image478.png"
   style="width:45%"
   title="Test, console.log(cheese) for local and global scoping"
   alt="Test, console.log(cheese) for local and global scoping." />
@@ -7994,7 +7994,7 @@ variable when I don't want it to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 479. example, let (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image479.png?raw=true"
+<img src="./images/image479.png"
   style="width:50%"
   title="Example, let"
   alt="Example, let." />
@@ -8004,11 +8004,11 @@ and we'll do this with a for loop.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 480/481. define 'for' loop  using let (267) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image480.png?raw=true"
+<img src="./images/image480.png"
   style="width:45%"
   title="Define for loop using let"
   alt="Define for loop using let." />
-<img src="./images/image481.png?raw=true"
+<img src="./images/image481.png"
   style="width:45%"
   title="Test, for loop using let"
   alt="Test, for loop using let." />
@@ -8021,11 +8021,11 @@ console dot log. And if I test this, you’ll see that it will print 10 times.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 482/483. define variables to scope only locally (267) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image482.png?raw=true"
+<img src="./images/image482.png"
   style="width:45%"
   title="Define 'for' loop with let inside, display to console let value"
   alt="Define 'for' loop with let inside, display to console let value." />
-<img src="./images/image483.png?raw=true"
+<img src="./images/image483.png"
   style="width:45%"
   title="Test, given error with global variable outside the 'for' loop"
   alt="Test, given error with global variable outside the 'for' loop." />
@@ -8037,11 +8037,11 @@ this as block level scope, let's see that in action i is not defined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 484/485. define for loop with var, test (268) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image484.png?raw=true"
+<img src="./images/image484.png"
   style="width:45%"
   title="Define 'for' loop with var"
   alt="Define 'for' loop with var." />
-<img src="./images/image485.png?raw=true"
+<img src="./images/image485.png"
   style="width:45%"
   title="Test, 'for' loop local and global var, no error"
   alt="Test, 'for' loop local and global var, no error." />
@@ -8055,7 +8055,7 @@ general use const whenever you can. Use constant by default.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 486. example, hoisting (268) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image486.png?raw=true"
+<img src="./images/image486.png"
   style="width:50%"
   title="Example, hoisting"
   alt="Example, hoisting." />
@@ -8069,11 +8069,11 @@ the top. Let's see an example of this really quickly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 487/488. console log var before defined (269) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image487.png?raw=true"
+<img src="./images/image487.png"
   style="width:45%"
   title="console.log(cheese) then var cheese = 'yummy'"
   alt="console.log(cheese) then var cheese = 'yummy'." />
-<img src="./images/image488.png?raw=true"
+<img src="./images/image488.png"
   style="width:45%"
   title="Test, error 'undefined'"
   alt="Test, error 'undefined'." />
@@ -8086,11 +8086,11 @@ the point at which I'm using it, but it knows that exists because of the hoistin
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 489/490. define variable as const, gives error (269) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image489.png?raw=true"
+<img src="./images/image489.png"
   style="width:45%"
   title="console.log(cheese), then const cheese = 'yummy'"
   alt="console.log(cheese), then const cheese = 'yummy'." />
-<img src="./images/image490.png?raw=true"
+<img src="./images/image490.png"
   style="width:45%"
   title="Test, error 'cannot access cheese before initialization'"
   alt="Test, error 'cannot access cheese before initialization'." />
@@ -8119,7 +8119,7 @@ scripts are more bulletproof and less prone to bugs and mistakes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 491. scope in javascript summary (270) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image491.png?raw=true"
+<img src="./images/image491.png"
   style="width:40%"
   title="3.23 Scope in JavaScript Summary"
   alt="3.23 Scope in JavaScript Summary." />
@@ -8129,7 +8129,7 @@ The scope techniques that we just discussed take some getting used to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 492. event challenges of scope techniques (271) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image492.png?raw=true"
+<img src="./images/image492.png"
   style="width:50%"
   title="Event Challenges of Scope Techniques"
   alt="Event Challenges of Scope Techniques." />
@@ -8140,7 +8140,7 @@ event challenges, and I have that folder over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 493. challenges 22 thru 30 (271) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image493.png?raw=true"
+<img src="./images/image493.png"
   style="width:50%"
   title="Challenges 22 thru 30"
   alt="Challenges 22 thru 30." />
@@ -8154,7 +8154,7 @@ my code editor here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 494. folder of event challenges 22-30 (272) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image494.png?raw=true"
+<img src="./images/image494.png"
   style="width:50%"
   title="Folder of event challenges 22 thru 30"
   alt="Folder of event challenges 22 thru 30." />
@@ -8166,7 +8166,7 @@ show up on the side over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 495. challenge 22, best practices (272) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image495.png?raw=true"
+<img src="./images/image495.png"
   style="width:50%"
   title="Challenge 22, best practices"
   alt="Challenge 22, best practices." />
@@ -8185,10 +8185,10 @@ want to switch my keywords from var to either const or let wherever
 I possibly can. 
 <!--~~~~~~~~~~~~~~~ 496/497.  (273) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image496.png?raw=true"
+<img src="./images/image496.png"
   style="width:45%"
   alt="." />
-<img src="./images/image497.png?raw=true"
+<img src="./images/image497.png"
   style="width:45%"
   alt="." />
 </p>
@@ -8199,10 +8199,10 @@ it script 22.js to go with challenge 22 here.
 
 <!--~~~~~~~~~~~~~~~ 498/499.  (273) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image498.png?raw=true"
+<img src="./images/image498.png"
   style="width:45%"
   alt="." />
-<img src="./images/image499.png?raw=true"
+<img src="./images/image499.png"
   style="width:45%"
   alt="." />
 </p>
@@ -8220,7 +8220,7 @@ Might have to shift tab to move that over.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 500.  (274) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image500.png?raw=true"
+<img src="./images/image500.png"
   style="width:50%"
   alt="." />
 </p>
@@ -8239,10 +8239,10 @@ thing. And I've changed my variables declarations from using var to
 const. 
 <!--~~~~~~~~~~~~~~~ 501/502.  (274) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image501.png?raw=true"
+<img src="./images/image501.png"
   style="width:45%"
   alt="." />
-<img src="./images/image502.png?raw=true"
+<img src="./images/image502.png"
   style="width:45%"
   alt="." />
 </p>
@@ -8257,7 +8257,7 @@ still functions just fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 503. move script declaration to head of index.html (275) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image503.png?raw=true"
+<img src="./images/image503.png"
   style="width:50%"
   title="Move script declaration to head of index.html"
   alt="Move script declaration to head of index.html." />
@@ -8271,7 +8271,7 @@ bottom of the page. And you'll see that still works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504. test, remove defer and error (276) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image504.png?raw=true"
+<img src="./images/image504.png"
   style="width:50%"
   title="Test, remove 'defer' command and receive error"
   alt="Test, remove 'defer' command and receive error." />
@@ -8316,7 +8316,7 @@ out in the long run.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 505. simplage js slideshow - part 1 (3.24) (277) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image505.png?raw=true"
+<img src="./images/image505.png"
   style="width:40%"
   title="3.24 Simple JS Slideshow - Part 1"
   alt="3.24 Simple JS Slideshow - Part 1." />
@@ -8325,7 +8325,7 @@ Simple JavaScript slideshow demonstrating basic DOM manipulation and event handl
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 506. simple js slideshow (277) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image506.png?raw=true"
+<img src="./images/image506.png"
   style="width:50%"
   title="Simple JS Slideshow"
   alt="Simple JS Slideshow." />
@@ -8338,7 +8338,7 @@ test out what we know so far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 507. example, the start file (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image507.png?raw=true"
+<img src="./images/image507.png"
   style="width:50%"
   title="Example, The Start File"
   alt="Example, The Start File." />
@@ -8349,7 +8349,7 @@ and an index.html file.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 508. example, simple html (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image508.png?raw=true"
+<img src="./images/image508.png"
   style="width:50%"
   title="Example, Simple HTML"
   alt="Example, Simple HTML." />
@@ -8361,7 +8361,7 @@ and one for our next link.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 509. next and previous links (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image509.png?raw=true"
+<img src="./images/image509.png"
   style="width:50%"
   title="Next and Previous links"
   alt="Next and Previous links." />
@@ -8374,7 +8374,7 @@ particular exercise here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 510. example, add script tags and array (279) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image510.png?raw=true"
+<img src="./images/image510.png"
   style="width:50%"
   title="Example, Add Script Tags &amp; Array"
   alt="Example, Add Script Tags &amp; Array." />
@@ -8395,7 +8395,7 @@ of the page, just add script tags like so.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 511. define array myimages (280) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image511.png?raw=true"
+<img src="./images/image511.png"
   style="width:50%"
   title="Define variable array myImages"
   alt="Define variable array myImages." />
@@ -8414,7 +8414,7 @@ of the source attribute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 512. simple js slideshow - part 2 (3.25) (281) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image512.png?raw=true"
+<img src="./images/image512.png"
   style="width:50%"
   title="3.25 Simple JS Slideshow - Part 2"
   alt="3.25 Simple JS Slideshow - Part 2." />
@@ -8425,7 +8425,7 @@ to capture which image that we're on in this array.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 513. example, the current image (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image513.png?raw=true"
+<img src="./images/image513.png"
   style="width:50%"
   title="Example, The Current Image"
   alt="Example, The Current Image." />
@@ -8438,7 +8438,7 @@ square brackets zero would get that image.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 514. define currentimage, set to 0 (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image514.png?raw=true"
+<img src="./images/image514.png"
   style="width:50%"
   title="Define currentImage = 0"
   alt="Define currentImage = 0." />
@@ -8449,7 +8449,7 @@ that to a value of zero to start with.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 515. example, handle the event (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image515.png?raw=true"
+<img src="./images/image515.png"
   style="width:50%"
   title="Example, Handle the Event"
   alt="Example, Handle the Event." />
@@ -8465,7 +8465,7 @@ nextPhoto, so then I can create that function nextPhoto.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 516. define next and current images (283) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image516.png?raw=true"
+<img src="./images/image516.png"
   style="width:50%"
   title="Define and increment next, current images"
   alt="Define and increment next, current images." />
@@ -8491,7 +8491,7 @@ to say image2.jpg. Let's save that and see if that works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 517. next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image517.png?raw=true"
+<img src="./images/image517.png"
   style="width:50%"
   title="Next image"
   alt="Next image." />
@@ -8501,7 +8501,7 @@ Come over here, refresh. If I click ''Next'', you can see that it's changed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 518. test, inspect next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image518.png?raw=true"
+<img src="./images/image518.png"
   style="width:50%"
   title="Test Inspect, next image"
   alt="Test Inspect, next image." />
@@ -8514,7 +8514,7 @@ click ''Next'' again, notice that got changed to image3, image4, image5.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 519. test, next image undefined (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image519.png?raw=true"
+<img src="./images/image519.png"
   style="width:50%"
   title="Test, next image undefined"
   alt="Test, next image undefined." />
@@ -8533,7 +8533,7 @@ That's what we're going to fix next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 520. simple js slideshow - part 3 (3.26) (285) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image520.png?raw=true"
+<img src="./images/image520.png"
   style="width:40%"
   title="3.26 Simple JS Slideshow - Part 3"
   alt="3.26 Simple JS Slideshow - Part 3." />
@@ -8543,7 +8543,7 @@ Let's think about this for a minute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 521. example, end of the array (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image521.png?raw=true"
+<img src="./images/image521.png"
   style="width:50%"
   title="Example, End of the Array"
   alt="Example, End of the Array." />
@@ -8556,7 +8556,7 @@ control structure can we use to handle this?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 522. example, adding if (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image522.png?raw=true"
+<img src="./images/image522.png"
   style="width:50%"
   title="Example, Adding If"
   alt="Example, Adding If." />
@@ -8571,7 +8571,7 @@ this if statement in place, you can make the slideshow effectively loop around.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 523. if current image > 4, current image = 0 (287) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image523.png?raw=true"
+<img src="./images/image523.png"
   style="width:50%"
   title="If current image > 4, set image to 0"
   alt="If current image > 4, set image to 0." />
@@ -8583,7 +8583,7 @@ than four. Current image equals zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 524. test, next image (287) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image524.png?raw=true"
+<img src="./images/image524.png"
   style="width:50%"
   title="Test, next image"
   alt="Test, next image." />
@@ -8597,7 +8597,7 @@ button is looping around through all of the images that we have. That's great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 525. define image counter and current image (288) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image525.png?raw=true"
+<img src="./images/image525.png"
   style="width:50%"
   alt="." />
 </p>
@@ -8620,7 +8620,7 @@ able to do the previous button by yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 526. simple js slideshow - part 4 (3.27) (289) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image526.png?raw=true"
+<img src="./images/image526.png"
   style="width:40%"
   title="3.27 Simple JS Slideshow - Part 4"
   alt="3.27 Simple JS Slideshow - Part 4." />
@@ -8633,7 +8633,7 @@ and then we can set up that function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 527. example, previous photo (289) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image527.png?raw=true"
+<img src="./images/image527.png"
   style="width:50%"
   title="Example, Previous Photo"
   alt="Example, Previous Photo." />
@@ -8645,7 +8645,7 @@ to be sure to change everything you need to change.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 528. define and test previous and nextphoto (290) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image528.png?raw=true"
+<img src="./images/image528.png"
   style="width:50%"
   title="Define and test previousPhoto and nextPhoto"
   alt="Define and test previousPhoto and nextPhoto." />
@@ -8706,7 +8706,7 @@ through, going frontwards and I can loop through going backwards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 529. simple js slideshow - part 5 (292) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image529.png?raw=true"
+<img src="./images/image529.png"
   style="width:40%"
   title="3.28 Simple JS Slideshow - Part 5"
   alt="3.28 Simple JS Slideshow - Part 5." />
@@ -8715,10 +8715,10 @@ Everything is working.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 530/531. cleaing up and separating functions (292) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image530.png?raw=true"
+<img src="./images/image530.png"
   style="width:45%"
   alt="." />
-<img src="./images/image531.png?raw=true"
+<img src="./images/image531.png"
   style="width:45%"
   alt="." />
 </p>
@@ -8732,7 +8732,7 @@ script.js.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 532. external function with immediate call, IIEF (293) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image532.png?raw=true"
+<img src="./images/image532.png"
   style="width:50%"
   title="Move functions to external file and call upon loading"
   alt="Move functions to external file and call upon loading." />
@@ -8762,7 +8762,7 @@ available at the global scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 533. script src='script.js' (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image533.png?raw=true"
+<img src="./images/image533.png"
   style="width:50%"
   title="Move to script.js and link at bottom of body in index.html"
   alt="Move to script.js and link at bottom of body in index.html." />
@@ -8774,7 +8774,7 @@ tag, but I can move it up there. That should work just as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 534. test, move to script.js (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image534.png?raw=true"
+<img src="./images/image534.png"
   style="width:50%"
   title="Test, move to script.js"
   alt="Test, move to script.js." />
@@ -8788,7 +8788,7 @@ there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 535. move script to head with defer (295) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image535.png?raw=true"
+<img src="./images/image535.png"
   style="width:50%"
   title="Add script to head of index with 'defer' attribute"
   alt="Add script to head of index with 'defer' attribute." />
@@ -8806,7 +8806,7 @@ previous, and that's working just fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 536. summary, simple javascript slideshow (296) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image536.png?raw=true"
+<img src="./images/image536.png"
   style="width:50%"
   title="Summary, Simple JavaScript Slideshow"
   alt="Summary, Simple JavaScript Slideshow." />
@@ -8822,7 +8822,7 @@ page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 537. replace onclick with add event handler (296) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image537.png?raw=true"
+<img src="./images/image537.png"
   style="width:50%"
   title="Replace onclick with add event handler"
   alt="Replace onclick with add event handler." />
@@ -8845,7 +8845,7 @@ without going too far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 538. slideshow with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image538.png?raw=true"
+<img src="./images/image538.png"
   style="width:40%"
   title="3.29 Slideshow with Cross Fade Effect - Part 1"
   alt="3.29 Slideshow with Cross Fade Effect - Part 1." />
@@ -8854,7 +8854,7 @@ Slideshow with crossfade effect: JavaScript with CSS animation.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 539. slideshow with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image539.png?raw=true"
+<img src="./images/image539.png"
   style="width:50%"
   title="3.29 Slideshow with Cross Fade Effect - Part 1"
   alt="3.29 Slideshow with Cross Fade Effect - Part 1." />
@@ -8865,7 +8865,7 @@ bit more sophisticated.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 540. example, the cross fade effect (298) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image540.png?raw=true"
+<img src="./images/image540.png"
   style="width:50%"
   title="Example, The Cross Fade Effect"
   alt="Example, The Cross Fade Effect." />
@@ -8878,7 +8878,7 @@ otherwise.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 541. example, html for the slideshow (298) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image541.png?raw=true"
+<img src="./images/image541.png"
   style="width:50%"
   title="Example, HTML for the Slideshow"
   alt="Example, HTML for the Slideshow." />
@@ -8890,7 +8890,7 @@ next and previous links as I had before. You can see that over here in my HTML.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 542. image inside div called content (299) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image542.png?raw=true"
+<img src="./images/image542.png"
   style="width:50%"
   title="Define image inside a div called 'content'"
   alt="Define image inside a div called 'content'." />
@@ -8899,7 +8899,7 @@ Very simple set-up with an image inside of a div called content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 543. example, stacking the images (299) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image543.png?raw=true"
+<img src="./images/image543.png"
   style="width:50%"
   title="Example, Stacking the Images"
   alt="Example, Stacking the Images." />
@@ -8910,7 +8910,7 @@ inside of here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 544. verify content size = image size (300) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image544.png?raw=true"
+<img src="./images/image544.png"
   style="width:50%"
   title="Verify content size = image size"
   alt="Verify content size = image size." />
@@ -8920,7 +8920,7 @@ images that I have, and over here you can see it here on the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 545. verify image fits in box (300) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image545.png?raw=true"
+<img src="./images/image545.png"
   style="width:50%"
   title="Define so image fits in box"
   alt="Define so image fits in box." />
@@ -8943,7 +8943,7 @@ that's what's going on there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 546. test, image fade in (301) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image546.png?raw=true"
+<img src="./images/image546.png"
   style="width:50%"
   title="Test, image fade in"
   alt="Test, image fade in." />
@@ -8954,7 +8954,7 @@ important to understand that setup before we start with this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 547. example, css fade animation (302) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image547.png?raw=true"
+<img src="./images/image547.png"
   style="width:50%"
   title="Example, CSS Fade Animation"
   alt="Example, CSS Fade Animation." />
@@ -8966,7 +8966,7 @@ styles.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 548. styles.css; class fadeinimg & keyframes fadein (302) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image548.png?raw=true"
+<img src="./images/image548.png"
   style="width:50%"
   title="Add class fadeinimg and keyframes fadein to styles.css"
   alt="Add class fadeinimg and keyframes fadein to styles.css." />
@@ -9008,7 +9008,7 @@ performance across all kinds of devices.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 549. slideshow with cross fade effect - part 2 (3.30) (303) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image549.png?raw=true"
+<img src="./images/image549.png"
   style="width:40%"
   title="3.30 Slideshow with Cross Fade Effect - Part 2"
   alt="3.30 Slideshow with Cross Fade Effect - Part 2." />
@@ -9018,7 +9018,7 @@ performance across all kinds of devices.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 550. example, starting the script (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image550.png?raw=true"
+<img src="./images/image550.png"
   style="width:50%"
   title="Example, Starting the Script"
   alt="Example, Starting the Script." />
@@ -9031,7 +9031,7 @@ buttons as well. Let's go ahead and get these setup in our script.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 551. define and initialize variables (304) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image551.png?raw=true"
+<img src="./images/image551.png"
   style="width:50%"
   title="Define and initialize variable"
   alt="Define and initialize variable." />
@@ -9047,7 +9047,7 @@ so that you don't spell that wrong. That's going to get us that element.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 552. define container, next, previous buttons (305) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image552.png?raw=true"
+<img src="./images/image552.png"
   style="width:50%"
   title="Define container, then next &amp; previous buttons"
   alt="Define container, then next &amp; previous buttons." />
@@ -9068,7 +9068,7 @@ on the previous one. We'll go ahead and work on that one first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 553. slideshow with cross fade effect - part 3 (3.31) (306) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image553.png?raw=true"
+<img src="./images/image553.png"
   style="width:40%"
   title="3.31 Slideshow with Cross Fade Effect - Part 3"
   alt="3.31 Slideshow with Cross Fade Effect - Part 3." />
@@ -9077,7 +9077,7 @@ Here's our event listener for when we click on the the next button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 554. example, add the next button event listener (306) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image554.png?raw=true"
+<img src="./images/image554.png"
   style="width:50%"
   title="Example, Add the Next Button Event Listener"
   alt="Example, Add the Next Button Event Listener." />
@@ -9100,7 +9100,7 @@ image back to zero. That part’s the same as before.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 555. define photo array, container & buttons (307) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/imageXXX.png"
   style="width:50%"
   title="Define variables; current image, photo array, container, next &amp; previous button"
   alt="Define variables; current image, photo array, container, next &amp; previous button." />
@@ -9129,7 +9129,7 @@ to four, and then back to zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 556. slideshow with cross fade effect - part 4 (3.32) (308) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image556.png?raw=true"
+<img src="./images/image556.png"
   style="width:40%"
   title="3.32 Slideshow with Cross Fade Effect - Part 4"
   alt="3.32 Slideshow with Cross Fade Effect - Part 4." />
@@ -9138,7 +9138,7 @@ Here's the new part.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 557. example, add the new slide on top (308) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image557.png?raw=true"
+<img src="./images/image557.png"
   style="width:50%"
   title="Example, Add the New Slide on Top"
   alt="Example, Add the New Slide on Top." />
@@ -9170,7 +9170,7 @@ become opaque and that's what will cause the fading effect.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 558. define next slide & fade in (309) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image558.png?raw=true"
+<img src="./images/image558.png"
   style="width:50%"
   title="Define next slide/image &amp; fade in"
   alt="Define next slide/image &amp; fade in." />
@@ -9200,7 +9200,7 @@ here as an image, set the source, set the class and put it on in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 559. test next, append child (310) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image559.png?raw=true"
+<img src="./images/image559.png"
   style="width:50%"
   title="Test next, append child image"
   alt="Test next, append child image." />
@@ -9219,7 +9219,7 @@ creating that crossfade effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 560. slideshow with cross fade effect - part 5 (3.33) (311) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image560.png?raw=true"
+<img src="./images/image560.png"
   style="width:40%"
   title="3.33 Slideshow with Cross Fade Effect - Part 5"
   alt="3.33 Slideshow with Cross Fade Effect - Part 5." />
@@ -9230,7 +9230,7 @@ stacking one on top of the other invading in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 561. example, the images are stacking (311) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image561.png?raw=true"
+<img src="./images/image561.png"
   style="width:50%"
   title="Example, The Images are Stacking"
   alt="Example, The Images are Stacking." />
@@ -9244,7 +9244,7 @@ little bit better, and a little bit cleaner.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 562. example, remove extra children (312) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image562.png?raw=true"
+<img src="./images/image562.png"
   style="width:50%"
   title="Example, Remove Extra Children"
   alt="Example, Remove Extra Children." />
@@ -9267,7 +9267,7 @@ elements every time somebody clicks the link for next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 563. check if > 2 children images (312) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image563.png?raw=true"
+<img src="./images/image563.png"
   style="width:50%"
   title="Check if have more than two child images, if so remove bottom-most from queue"
   alt="Check if have more than two child images, if so remove bottom-most from queue." />
@@ -9284,7 +9284,7 @@ bottom most child from the list.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 564. no more than 2 children images (313) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image564.png?raw=true"
+<img src="./images/image564.png"
   style="width:50%"
   title="Allow no more than two child images in queue"
   alt="Allow no more than two child images in queue." />
@@ -9299,11 +9299,11 @@ from the list.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 565/566. test, next image button (314) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image565.png?raw=true"
+<img src="./images/image565.png"
   style="width:45%"
   title="Test, next image button"
   alt="Test, next image button." />
-<img src="./images/image566.png?raw=true"
+<img src="./images/image566.png"
   style="width:45%"
   title="Again Test, next image button"
   alt="Again Test, next image button." />
@@ -9331,7 +9331,7 @@ great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 567. slideshow with cross fade effect - part 6 (315) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image567.png?raw=true"
+<img src="./images/image567.png"
   style="width:40%"
   title="3.34 Slideshow with Cross Fade Effect - Part 6"
   alt="3.34 Slideshow with Cross Fade Effect - Part 6." />
@@ -9341,7 +9341,7 @@ We have our next button working just fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 568. test, next slide purging all but last two (315) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image568.png?raw=true"
+<img src="./images/image568.png"
   style="width:50%"
   title="Test, next slide purging all but last two images"
   alt="Test, next slide purging all but last two images." />
@@ -9356,7 +9356,7 @@ hashtag up here. How do we get the previous button to work?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 569. duplicate next for previous (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image569.png?raw=true"
+<img src="./images/image569.png"
   style="width:50%"
   title="Duplicate next for previous"
   alt="Duplicate next for previous." />
@@ -9374,7 +9374,7 @@ exactly the same.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 570. example, previous button handler (316) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image570.png?raw=true"
+<img src="./images/image570.png"
   style="width:50%"
   title="Example, Previous Button Handler"
   alt="Example, Previous Button Handler." />
@@ -9392,7 +9392,7 @@ Let's see if we can actually make this work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 571. update previous image code (317) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image571.png?raw=true"
+<img src="./images/image571.png"
   style="width:50%"
   title="Update previous image code"
   alt="Update previous image code." />
@@ -9415,11 +9415,11 @@ the same.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 572/573. test, previous command button (318) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image572.png?raw=true"
+<img src="./images/image572.png"
   style="width:45%"
   title="Test, previous command & purge all but 2 images"
   alt="Test, previous command & purge all but 2 images." />
-<img src="./images/image573.png?raw=true"
+<img src="./images/image573.png"
   style="width:45%"
   title="Another Test, previous command & purge all but 2 images"
   alt="Another Test, previous command & purge all but 2 images." />
@@ -9439,7 +9439,7 @@ perfectly. Just exactly what we want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 574. slideshow with cross fade effect - part 7 (318) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image574.png?raw=true"
+<img src="./images/image574.png"
   style="width:50%"
   title="3.35 Slideshow with Cross Fade Effect - Part 7"
   alt="3.35 Slideshow with Cross Fade Effect - Part 7." />
@@ -9450,7 +9450,7 @@ totally fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 575. example, duplicate code (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image575.png?raw=true"
+<img src="./images/image575.png"
   style="width:50%"
   title="Example, Duplicate Code"
   alt="Example, Duplicate Code." />
@@ -9460,7 +9460,7 @@ But you'll notice that we have a fair amount of duplicate code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 576. new function to avoid duplicate code (319) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image576.png?raw=true"
+<img src="./images/image576.png"
   style="width:50%"
   title="Add swapImage function to avoid duplicate code"
   alt="Add swapImage function to avoid duplicate code." />
@@ -9477,7 +9477,7 @@ and one in the previous event listener button function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 577. example, updated script (320) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image577.png?raw=true"
+<img src="./images/image577.png"
   style="width:50%"
   title="Example, Updated Script"
   alt="Example, Updated Script." />
@@ -9488,7 +9488,7 @@ function is going to contain all of this stuff in here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 578. function swapimage added to script (320) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image578.png?raw=true"
+<img src="./images/image578.png"
   style="width:50%"
   title="Function swapImage added to script"
   alt="Function swapImage added to script." />
@@ -9501,7 +9501,7 @@ this variable and then checking with an if statement and then running function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 579. test, swapimage function (321) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image579.png?raw=true"
+<img src="./images/image579.png"
   style="width:50%"
   title="Test, swapImage function"
   alt="Test, swapImage function." />
@@ -9518,7 +9518,7 @@ that. And that's just part of the normal process for any programmer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 580. move script to external script.js (322) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image580.png?raw=true"
+<img src="./images/image580.png"
   style="width:50%"
   title="Move all script functions to external script.js"
   alt="Move all script functions to external script.js." />
@@ -9534,7 +9534,7 @@ and move that down.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581. add 'use strict' to index (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image581.png?raw=true"
+<img src="./images/image581.png"
   style="width:50%"
   title="Add 'use strict' to index.html"
   alt="Add 'use strict' to index.html." />
@@ -9548,7 +9548,7 @@ There needs to be let, but the rest of these can all be const, const, const, con
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 582. update to constant and let (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image582.png?raw=true"
+<img src="./images/image582.png"
   style="width:50%"
   title="Update variables to const and let whereever possible"
   alt="Update variables to const and let whereever possible." />
@@ -9558,7 +9558,7 @@ And then down in the swapImage we have a variable here. That one can also be con
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 583. call script.js defer in head of index.html (324) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image583.png?raw=true"
+<img src="./images/image583.png"
   style="width:50%"
   title="Call script.js defer in head of index.html"
   alt="Call script.js defer in head of index.html." />
@@ -9568,7 +9568,7 @@ Over here on written index file, we just need to get rid of that stuff and put i
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 584. test, script.js defer changes in index.html (324) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image577.png?raw=true"
+<img src="./images/image577.png"
   style="width:50%"
   alt="." />
 </p>
@@ -9578,7 +9578,7 @@ look at that. It's working perfectly. Everything works great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 585. finished script (325) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image585.png?raw=true"
+<img src="./images/image585.png"
   style="width:50%"
   title="Finished, working script"
   alt="Finished, working script." />
@@ -9608,7 +9608,7 @@ on any webpage.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 586. module 4 introduction (4.00) (326) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image586.png?raw=true"
+<img src="./images/image586.png"
   style="width:40%"
   title="4.00 Module 4 Introduction"
   alt="4.00 Module 4 Introduction." />
@@ -9637,7 +9637,7 @@ you'll be excited to go on to the next course and learn even more about JavaScri
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 587. basic distance converter (miles to kilometers) (327) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image587.png?raw=true"
+<img src="./images/image587.png"
   style="width:40%"
   title="4.01 Basic Distance Converter (Miles to Kilometers)"
   alt="4.01 Basic Distance Converter (Miles to Kilometers)." />
@@ -9648,7 +9648,7 @@ work so that we end up with this little tool that will convert miles to kilomete
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 588. project overview - basic miles to kilometer converter (327) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image588.png?raw=true"
+<img src="./images/image588.png"
   style="width:50%"
   title="Project Overview - basic miles to kilometer converter"
   alt="Project Overview - basic miles to kilometer converter." />
@@ -9663,7 +9663,7 @@ interface is already created, you can see I have it over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 589. test, miles to kilometers (328) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image589.png?raw=true"
+<img src="./images/image589.png"
   style="width:50%"
   alt="Test, miles to kilometers screen image (does not function)." />
 </p>
@@ -9675,10 +9675,10 @@ Let's take a quick look at the HTML that we have here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~ 590/591. index.html - head & two new divs with class containers (328) ~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image590.png?raw=true"
+<img src="./images/image590.png"
   style="width:45%"
   alt="index.html - head." />
-<img src="./images/image591.png?raw=true"
+<img src="./images/image591.png"
   style="width:45%"
   alt="index.html - body with two divs; top & bottom." />
 </p>
@@ -9688,7 +9688,7 @@ container down here where the answer is going to go when we convert the miles.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 592. styles.css - initial (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image592.png?raw=true"
+<img src="./images/image592.png"
   style="width:50%"
   alt="styles.css - initially." />
 </p>
@@ -9698,7 +9698,7 @@ than I really need, but that's okay. We don't need to touch any of that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 593. new script tag at bottom (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image593.png?raw=true"
+<img src="./images/image593.png"
   style="width:50%"
   title="Add script to bottom of index body"
   alt="Add script to bottom of index body." />
@@ -9716,7 +9716,7 @@ got our EventListener here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 594. event upon form submission (330) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image594.png?raw=true"
+<img src="./images/image594.png"
   style="width:50%"
   title="What happens when form is submitted?"
   alt="What happens when form is submitted?" />
@@ -9736,7 +9736,7 @@ That's the thing we want to do first here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 595. capture distance (331) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image595.png?raw=true"
+<img src="./images/image595.png"
   style="width:50%"
   title="document.getElementById('distance').value"
   alt="document.getElementById('distance').value." />
@@ -9751,11 +9751,11 @@ field, and stick it into this variable distance.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 596/597. alert(distance) test 5 and 54 (331) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image596.png?raw=true"
+<img src="./images/image596.png"
   style="width:45%"
   title="Test 5 alert(distance)"
   alt="Test 5 alert(distance)." />
-<img src="./images/image597.png?raw=true"
+<img src="./images/image597.png"
   style="width:45%"
   title="Test 54 alert(distance)"
   alt="Test 54 alert(distance)." />
@@ -9780,7 +9780,7 @@ getting that distance there, and we're often running here with our project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 598. sample screen - distance converter (332) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image598.png?raw=true"
+<img src="./images/image598.png"
   style="width:50%"
   title="Sample screen - distance converter"
   alt="Sample screen - distance converter." />
@@ -9795,7 +9795,7 @@ that I would want to capture 5.5 miles and convert it to kilometers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 599. parsefloat to convert (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image599.png?raw=true"
+<img src="./images/image599.png"
   style="width:50%"
   title="Use parseFloat to convert distance"
   alt="Use parseFloat to convert distance." />
@@ -9809,7 +9809,7 @@ and I can alert that out. Let's just see what that gives us over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 600. test for number (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image600.png?raw=true"
+<img src="./images/image600.png"
   style="width:50%"
   title="Test, chicken get Not A Number (NaN)"
   alt="Test, chicken get Not A Number (NaN)." />
@@ -9825,7 +9825,7 @@ what we need to do first to get that to turn into a number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 601. parsefloat distance value (334) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image601.png?raw=true"
+<img src="./images/image601.png"
   style="width:50%"
   title="parseFloat(distance) and verify is numeric"
   alt="parseFloat(distance) and verify is numeric." />
@@ -9840,7 +9840,7 @@ Remember, JavaScript works from the inside out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 602. example, see if distance contains a number (335) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image602.png?raw=true"
+<img src="./images/image602.png"
   style="width:50%"
   title="Example, see if distance contains a number"
   alt="Example, see if distance contains a number." />
@@ -9859,7 +9859,7 @@ message down at the bottom.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 603. if distance valid, then ... else error (336) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image603.png?raw=true"
+<img src="./images/image603.png"
   style="width:50%"
   title="Add if statement of distance as a number"
   alt="Add if statement of distance as a number." />
@@ -9869,11 +9869,11 @@ the answer. Let's take this alert(distance) and stick it in our if statement.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 604/605. test, 5 and chicken in converter (336) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image604.png?raw=true"
+<img src="./images/image604.png"
   style="width:45%"
   title="Test, 5"
   alt="Test, 5." />
-<img src="./images/image605.png?raw=true"
+<img src="./images/image605.png"
   style="width:45%"
   title="Test, chicken"
   alt="Test, chicken." />
@@ -9888,11 +9888,11 @@ We're all set up here and ready to write the rest of our script.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 606/607. conversion & test 5 (337) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image606.png?raw=true"
+<img src="./images/image606.png"
   style="width:45%"
   title="var conversion = distance * 1.609344"
   alt="var conversion = distance * 1.609344." />
-<img src="./images/image607.png?raw=true"
+<img src="./images/image607.png"
   style="width:45%"
   title="test, alert(distance) = 5"
   alt="test, alert(distance) = 5." />
@@ -9908,7 +9908,7 @@ decimals.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 608. roundedconversion = math.round (337) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image608.png?raw=true"
+<img src="./images/image608.png"
   style="width:50%"
   title="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;"
   alt="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;" />
@@ -9925,7 +9925,7 @@ places.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 609. test, rounded to 3 decimals (338) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image609.png?raw=true"
+<img src="./images/image609.png"
   style="width:50%"
   title="Test, 54.32 converted & rounded to 3 decimal places"
   alt="Test, 54.32 converted & rounded to 3 decimal places." />
@@ -9936,7 +9936,7 @@ places here really wanted more decimal places than that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 610. round to 3 decimal using tofixed (338) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image610.png?raw=true"
+<img src="./images/image610.png"
   style="width:50%"
   alt="Use toFixed(3) to round to 3 decimal places." />
 </p>
@@ -9947,7 +9947,7 @@ surrounded to three decimal points.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 611. test, 54.32 converts to 87.420 (339) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image611.png?raw=true"
+<img src="./images/image611.png"
   style="width:50%"
   title="Test, 54.32 converts to 87.420 kilometers"
   alt="Test, 54.32 converts to 87.420 kilometers." />
@@ -9959,7 +9959,7 @@ to work with years is to fixed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 612. calculate distance to 3 decimal places (339) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image612.png?raw=true"
+<img src="./images/image612.png"
   style="width:50%"
   title="Calculate distance to 3 decimal places using toFixed"
   alt="Calculate distance to 3 decimal places using toFixed." />
@@ -9971,11 +9971,11 @@ max decimal places.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 613/614. add invisible class for answer (340) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image613.png?raw=true"
+<img src="./images/image613.png"
   style="width:45%"
   title="index.html - h2 with class invisible"
   alt="index.html - h2 with class invisible." />
-<img src="./images/image614.png?raw=true"
+<img src="./images/image614.png"
   style="width:45%"
   title="style.css - class of invisible"
   alt="style.css - class of invisible." />
@@ -9988,7 +9988,7 @@ text to the same color as the background of this div.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 615. answer barely visible (340) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image615.png?raw=true"
+<img src="./images/image615.png"
   style="width:50%"
   title="Answer is barely visible"
   alt="Answer is barely visible." />
@@ -10000,11 +10000,11 @@ answer goes here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 616/617. define, display and test answer (341) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image616.png?raw=true"
+<img src="./images/image616.png"
   style="width:45%"
   title="Define answer and put on screen using innerHTML"
   alt="Define answer and put on screen using innerHTML." />
-<img src="./images/image617.png?raw=true"
+<img src="./images/image617.png"
   style="width:45%"
   title="Test, answer displayed visibly"
   alt="Test, answer displayed visibly." />
@@ -10026,11 +10026,11 @@ going to be dollar sign, curly braces, conversion in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 618/619. if..else statement, test for number (341) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image618.png?raw=true"
+<img src="./images/image618.png"
   style="width:45%"
   title="Add if..else statement for valid number"
   alt="Add if..else statement for valid number." />
-<img src="./images/image619.png?raw=true"
+<img src="./images/image619.png"
   style="width:45%"
   title="Test, else error"
   alt="Test, else error." />
@@ -10056,7 +10056,7 @@ says please provide a number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 620. refactored script (4.05) (343) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image620.png?raw=true"
+<img src="./images/image620.png"
   style="width:50%"
   title="4.05 Refactored script"
   alt="4.05 Refactored script." />
@@ -10069,7 +10069,7 @@ of the page, there's not that much to it and it's fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 621. move script to external file & invoke (343) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image621.png?raw=true"
+<img src="./images/image621.png"
   style="width:50%"
   title="Move script to external file and invoke immediately"
   alt="Move script to external file and invoke immediately." />
@@ -10093,7 +10093,7 @@ stuff, or you can cut it and paste it over here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 622.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image622.png?raw=true"
+<img src="./images/image622.png"
   style="width:50%"
   alt="." />
 </p>
@@ -10105,7 +10105,7 @@ as well, conversion. We've got all of that set. Great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 623.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image623.png?raw=true"
+<img src="./images/image623.png"
   style="width:50%"
   alt="." />
 </p>
@@ -10119,7 +10119,7 @@ exactly the same as it worked before, and it works fine, that's great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 624.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image624.png?raw=true"
+<img src="./images/image624.png"
   style="width:50%"
   alt="." />
 </p>
@@ -10148,12 +10148,20 @@ the project next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 623. advanced distance converter project - part 1 (4.06) (344) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image623.png?raw=true"
+<img src="./images/image623.png"
   style="width:40%"
   title="4.06 Advanced Distance Converter Project - Part 1"
   alt="4.06 Advanced Distance Converter Project - Part 1." />
 </p>
- 
+<!-- 
+LAST CHANGED March, 2024 - going through entire document (389 pages) to more clearly identify images
+and give a clearer description of JavaScript and it's many nuances. For example, ECMA 2023, and what it
+can do in comparison to ECMA 2017.
+Currently at 4.09 with 4.10 thru 4.25 to complete this class. That will add approximately 50 pages to
+the Word document this markdown was created from.
+
+Bear with me.  It does get convoluted as hell. Time and practice. Practice and time.
+--> 
 
 
 
@@ -10161,10 +10169,10 @@ the project next.
 <!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/imageXXX.png"
   style="width:45%"
   alt="." />
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/imageXXX.png"
   style="width:45%"
   alt="." />
 </p>
@@ -10173,7 +10181,7 @@ the project next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center" width="100%">
-<img src="./images/imageXXX.png?raw=true"
+<img src="./images/imageXXX.png"
   style="width:50%"
   alt="." />
 </p>
