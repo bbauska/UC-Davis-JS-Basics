@@ -3210,9 +3210,9 @@ starving, so you should go eat something.</p>
 
 <ul>
   <li id="ch2-09-oper"><a href="https://www.w3schools.com/js/js_operators.asp">
-    2.09.JavaScript Operators (shortcut)</a></li>
-  <li id="ch2-09-bool><a href="https://www.w3schools.com/js/js_booleans.asp">
-    2.09.JavaScript Booleans (shortcut)</a></li>
+    2.09 JavaScript Operators (shortcut)</a></li>
+  <li id="ch2-09-bool"><a href="https://www.w3schools.com/js/js_booleans.asp">
+    2.09 JavaScript Booleans (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-10">2.10 Loops (6:23)</h2>
@@ -4270,8 +4270,8 @@ as pretty much every script that we write will have some combination of them as 
 along. Great, see you in the next lesson.
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09">
-    2.17.JS-BasicChallenges-01thru09.pdf (download)</a></li>
+  <li id="ch2-17-01thru09"><a href="https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09">
+    2.17 JavaScript Basic Challenges 01thru09.pdf (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-18">2.18 JavaScript Basic Challenges Introduction (5:02)</h2>
@@ -5138,6 +5138,7 @@ window.doStuff and that will actually work.
   title="console.log window.doStuff"
   alt="console.log window.doStuff." />
 </p>
+
 If we go back to our code here, and I come in here and put window.doStuff, you'll see 
 if I save that and come back and test it over here, it actually functions. Because 
 ultimately my doStuff function belongs to the window object. 
@@ -5159,9 +5160,11 @@ manipulating web pages. So this course only gets more fun from here. So stick wi
 it and keep working on the lessons, and I can't wait to see you in the next one.
 
 <ul>
-  <li>2.24.JS-Functions (shortcut)  https://www.w3schools.com/js/js_functions.asp</li>
-  <li>2.24.JS-FunctionChallenges-10thru16.pdf (download)  https://www.w3schools.com/js/js_functions.asp
-
+  <li id="ch2-24-func"><a href="https://www.w3schools.com/js/js_functions.asp">
+    2.24 JavaScript Functions (shortcut)</a></li>
+  <li id="ch2-24-10thru16"><a href="https://www.w3schools.com/js/js_functions.asp">
+    2.24 JavaScrip Function Challenges 10thru16.pdf (download)</a></li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3">Week Three: Using JavaScript in the Web Browser</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5186,7 +5189,7 @@ it and keep working on the lessons, and I can't wait to see you in the next one.
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-00">3.00 Introduction; Using JavaScript in the Web Browsers</h2>
+<h2 id="ch3-00-intro">3.00 Introduction; Using JavaScript in the Web Browsers</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 302. introduction (3.00) (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -6297,19 +6300,15 @@ different **methods** and **properties**, and that&apos;s how we&apos;re going
 to create all kinds of interactive elements in our webpages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-10-dom">3.10.JavaScript-and-the-DOM.html (shortcut)</h3>
+<h3 id="ch3-10-dom"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">
+3.10 JavaScript-and-the-DOM.html (shortcut)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 > <https://www.coursera.org/learn/javascript-basics/supplement/DCOHD/additional-resource>
->
-> <https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3id="ch3-10-17thru21">3.10.JavaScript-DOM-Challenges-17thru21.pdf (download)</h3>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-### https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21 {#httpswww.coursera.orglearnjavascript-basicssupplementjjf7ejavascript-dom-challenges-17-21 .unnumbered}
-
+<h3 id="ch3-10-17thru21"><a href="https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21">
+3.10 JavaScript DOM Challenges 17thru21.pdf (download)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-11">3.11 Capturing Events with JavaScript (5:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7396,7 +7395,7 @@ Here are resources related to these lessons:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch3-18-22thru30"><a href="https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30">
-  3.18 JavaScript-Event-Challenges-22thru30.pdf (download)</a></h3>
+  3.18 JavaScript Event Challenges 22thru30.pdf (download)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10108,17 +10107,18 @@ during this course, and we'll look at a slightly more advanced version of
 the project next.
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
+  <li id="ch4-05-start"><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-06">4.06 Advanced Distance Converter Project – Part 1 (5:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 623.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 623. advanced distance converter project - part 1 (4.06) (344) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image623.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="4.06 Advanced Distance Converter Project - Part 1"
+  alt="4.06 Advanced Distance Converter Project - Part 1." />
 </p>
  
 
