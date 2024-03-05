@@ -5447,14 +5447,16 @@ getElementByID, but this is getElements, so this is going to get more
 than one element, it&apos;s going to get a collection of elements, and then
 we can do something with that collection of elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 314/315.  (180) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 314/315. dom.html - document.getelementsbytagname (182) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image314.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="dom.html - document.getElementsByTagName('p') - get all paragraphs"
+  alt="dom.html - document.getElementsByTagName('p') - get all paragraphs." />
 <img src="./images/image315.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, display paragraphs from document.getElementsByTagName"
+  alt="Test, display paragraphs from document.getElementsByTagName." />
 </p>
 
 Let&apos;s give this a try. Here I have my page, I have some paragraphs on
@@ -5478,11 +5480,11 @@ getElementByID gives me always just one thing. It&apos;ll always give me one
 because IDs are unique. Whereas **getElementsByTagName** will give me an
 HTMLCollection of elements that I need to then do something else with.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 316.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 316. example, seeing the loop in action (183) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image316.png?raw=true"
   style="width:50%"
-  alt="." />
+  alt="Example, Seeing the Loop in Action." />
 </p>
 
 If I wanted to set the color of these paragraphs to red, then I would
@@ -5492,14 +5494,14 @@ that collection. I need to use a loop to loop through each of the
 elements in that collection, so I&apos;m going to use a for Loop here, and
 let&apos;s go ahead and do this over here rather than console log this out.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 317/318.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 317/318. dom.html - update paragraph style color (184) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image317.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="dom.html - for(var i=0; i<ps.length; i++) {ps[i].style.color='red';}." />
 <img src="./images/image318.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Test console output, 3 red paragraphs." />
 </p>
 
 I&apos;m going to use a shorter variable here. MyParagraphs is long, I&apos;m
@@ -5516,14 +5518,14 @@ through the Loop, this thing has three paragraphs and it&apos;s going to get
 paragraph 0. Let&apos;s give that a try. Let&apos;s run that over here. If I
 refresh this, you can see all my paragraphs generate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 319/320.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 319/320. dom.html - adding alert command (184) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image319.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="dom.html - alert('showing paragraph ${i}');." />
 <img src="./images/image320.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Test, output from alert command, showing paragraph i." />
 </p>
 
 I&apos;m going to come in here and I&apos;m going to add alert. I&apos;m going to
@@ -5565,18 +5567,19 @@ The next document method that we&apos;re going to look at is
 </p>
 
 This method will do exactly what you think it will do. It will allow us
-to go into our document, and get elements that have a particular class
-name, and put them into an **HTMLCollection**. So that&apos;s very useful as
-well.
+to go into our document, and retrieve elements which have a particular class
+name.  Then put them into an **HTMLCollection**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 323/324.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 323/324. dom.html - document.getelementsbyclassname (186) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image323.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="dom.html - document.getElementsByClassName('special');"
+  alt="dom.html - document.getElementsByClassName('special');" />
 <img src="./images/image324.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, output from document.getElementsByClassName('special');"
+  alt="Test, output from document.getElementsByClassName('special');" />
 </p>
 
 Let&apos;s give it a try real quick. Here, you can see I&apos;ve added class
@@ -5601,28 +5604,31 @@ of getting to the element inside that collection, even though there&apos;s
 only one. You&apos;ll see the loop will still work. It&apos;ll just run only one
 time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 325/326.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 325/326. dom.html - for loop in getelementsbyclass name (187) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image325.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="DOM.HTML - Using for loop to identify elements by class name"
+  alt="DOM.HTML - Using for loop to identify elements by class name." />
 <img src="./images/image326.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Test, example output of for loop"
+  alt="Test, example output of for loop." />
 </p>
 
 A little bit easier way of doing this, I don&apos;t really need a loop here
 because I know that there&apos;s only one element in this collection, so I
 know it&apos;s going to be element zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 327/328.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 327/328. dom.html - getelementsbyclassname('classname') (187) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image327.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="myClass[0].style.color='red';"
+  alt="myClass[0].style.color='red';" />
 <img src="./images/image328.png?raw=true"
   style="width:45%"
-  alt="." />
+  alt="Test, output from myClass[0].style.color='red' command." />
 </p>
 
 So I don&apos;t need a loop, I can just make this zero and get rid of the
@@ -6550,7 +6556,7 @@ help you with making sure that your syntax is clean.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-13">3.13 The Event Object (5:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384. the event object (3.13) (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 384. the event object (3.13) (218) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image384.png?raw=true"
   style="width:40%"
@@ -6560,7 +6566,7 @@ help you with making sure that your syntax is clean.
 
 The next thing to look at is the event object.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 385.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 385.  (219) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image385.png?raw=true"
   style="width:50%"
@@ -6571,7 +6577,7 @@ The event object can be passed into the function that runs when an event
 listener happens, and it&apos;s a very useful object to have access to.
 Let&apos;s take a look and see what it does.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386.  (219) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image386.png?raw=true"
   style="width:50%"
@@ -6587,7 +6593,7 @@ event.target. The event.target will say what is the thing that triggered
 this event? Event.target.style.backgroundcolor equals red, something
 like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387.  (220) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image387.png?raw=true"
   style="width:40%"
@@ -6601,7 +6607,7 @@ use the event object and the event target to actually know which element
 was triggering this event, and then we can do something with that
 **event.target**. This is often very useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 388.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 388.  (220) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image388.png?raw=true"
   style="width:50%"
@@ -6611,11 +6617,12 @@ was triggering this event, and then we can do something with that
 Now, this "event" is just a variable. You could call it whatever you
 want, it represents.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 389.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 389. example, preventing default behavior (221) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image389.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Preventing Default Behavior"
+  alt="Example, Preventing Default Behavior." />
 </p>
 
 One of the ways the event object is used most frequently is to prevent
@@ -6625,7 +6632,7 @@ submission of the form so that we can do something with that form data
 before it&apos;s submitted, and so we&apos;ll use that frequently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 390.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 390.  (221) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image390.png?raw=true"
   style="width:50%"
@@ -6644,7 +6651,7 @@ that default action from happening. In this case, we won&apos;t go to Google
 so I could do alert. Sorry, no Google for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 391.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 391.  (222) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image391.png?raw=true"
   style="width:40%"
@@ -6657,7 +6664,7 @@ Google for you,&quot; and the page does not go to Google. But it&apos;s the
 **event.preventDefault** that&apos;s keeping it from going into Google.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392.  (222) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image392.png?raw=true"
   style="width:50%"
@@ -6675,23 +6682,26 @@ projects.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-14">3.14 More on Events (7:54)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 393.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 393. more on events (3.14) (223) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image393.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.14 More on Events"
+  alt="3.14 More on Events." />
 </p>
 
 There&apos;s a lot more on events.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 394/395.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 394/395. more introduction to events (223) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image394.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="More on Events"
+  alt="More on Events." />
 <img src="./images/image395.png?raw=true"
   style="width:45%"
-  alt="." />
+  title="Introduction to More Events"
+  alt="Introduction to More Events." />
 </p>
 
 And if you want another take on the basics, you can go to this MDN web
@@ -6704,11 +6714,12 @@ the course. But this will give you a thorough introduction to events in
 JavaScript here as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 396.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 396. example, submit event (224) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image396.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Submit Event"
+  alt="Example, Submit Event." />
 </p>
 
 What we&apos;re going to do next is actually capture some different types of
@@ -6720,7 +6731,7 @@ coming up, for some of our other projects, it&apos;ll be helpful for you to
 have these scripts to reference.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 397.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 397.  (224) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image397.png?raw=true"
   style="width:50%"
@@ -6766,7 +6777,7 @@ value property since I&apos;m not adding the property there explicitly,
 it&apos;ll be Whatever somebody types into the field, okay, so then I can
 just alert out alert form data and now if we go try this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 398.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 398.  (226) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image398.png?raw=true"
   style="width:50%"
@@ -6779,7 +6790,7 @@ data is not processed but the the prevent default, has kept this from
 happening. So if I comment this out watch what happens here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 399/400.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 399/400.  (226) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image399.png?raw=true"
   style="width:45%"
@@ -6793,7 +6804,7 @@ Refresh this. If I take no again and now if I click submit you&apos;ll
 notice. Does that but then it actually processes the form. And I can see
 that up here because I use the get variable.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 401.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 401.  (227) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image401.png?raw=true"
   style="width:50%"
@@ -6805,7 +6816,7 @@ that field up in the URL, by default, a form a form element when you
 submit it. The default behavior is that it will go to whatever you set
 the action here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402.  (227) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image402.png?raw=true"
   style="width:50%"
@@ -6816,7 +6827,7 @@ If I had an **action="processor.PHP"**, some other file that&apos;s going to
 process the data, it would go to that page where we tried to, in this
 case, it won&apos;t be able to because that page doesn&apos;t exist.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403.  (228) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image403.png?raw=true"
   style="width:40%"
@@ -6828,7 +6839,7 @@ it just refreshes if I don&apos;t put an action attribute up here, it will
 just refresh this page. And often I don&apos;t want to refresh the page. I
 want to use JavaScript to capture this data and do something with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404.  (228) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image404.png?raw=true"
   style="width:50%"
@@ -6844,21 +6855,23 @@ with JavaScript in here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-15">3.15 Mouseover, Mouseover Events: HTML (7:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 405.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 405. mouseover, mouseover events: html (3.15) (229) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image405.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.15 Mouseover, Mouseover Events: HTML"
+  alt="3.15 Mouseover, Mouseover Events: HTML." />
 </p>
 
 You know how to work with the click event, and now you know how to work
 with the submit event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 406.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 406. example, mouseover, mouseover events: html (229) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image406.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Mouseover, Mouseover Events: HTML"
+  alt="Example, Mouseover, Mouseover Events: HTML." />
 </p>
 
 Now we can work with, have some fun with mouseover and mouseout events
@@ -6868,18 +6881,19 @@ The Boxes" and a **div** here. We can roll our mouse over these two
 elements. We can apply the style and do some fun stuff with mouseover
 and mouseout.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 407.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 407. example, mouseover, mouseover events: js (230) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image407.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Mouseover, Mouseover Events: JS"
+  alt="Example, Mouseover, Mouseover Events: JS." />
 </p>
 
 Now, let&apos;s take a look at the script we can actually write to do this
 here. Let&apos;s do this over here. To begin with, I&apos;m going to make some
 variables for my heading and for the box to get those two elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408.  (230) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image408.png?raw=true"
   style="width:50%"
@@ -6892,7 +6906,7 @@ document.querySelector **div**. That will get those two elements there.
 I also want to change this text to, &quot;Roll Your Mouse Over The Box.&quot;
 Let&apos;s do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409.  (231) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image409.png?raw=true"
   style="width:40%"
@@ -6903,7 +6917,7 @@ Then let&apos;s just go see with this page is looking like. If I come over
 here and refresh this, I have a box and I have directions to roll my
 mouse over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410.  (231) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image410.png?raw=true"
   style="width:50%"
@@ -6923,10 +6937,10 @@ that box, we&apos;re going to go get the heading and change its inner HTML.
 Remember that&apos;s a property so we use the equal sign and we&apos;re going to
 change it to something like the mouse is over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411.  (232) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image411.png?raw=true"
-  style="width:50%"
+  style="width:40%"
   alt="." />
 </p>
 
@@ -6935,7 +6949,7 @@ here, refresh, when I roll over the box, the mouse is over the box.
 Great, so that works, but now it&apos;s stuck there. It changed that
 content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412.  (232) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image412.png?raw=true"
   style="width:50%"
@@ -6951,7 +6965,7 @@ that. When I come back here and rather than type this off from scratch,
 I&apos;m just going to copy, paste, change this to mouseout, the mouse has
 left the box. Cool, that&apos;s great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 413/414.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 413/414.  (233) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image413.png?raw=true"
   style="width:45%"
@@ -6967,7 +6981,7 @@ over the box, mouse has left the box, so I can go back and forth. But
 it&apos;d be nice if I could return the page to its default state without
 having to click the refresh button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415.  (233) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image415.png?raw=true"
   style="width:50%"
@@ -6983,7 +6997,7 @@ put it on heading, addEventListener mouseover and I&apos;m going to put the
 same texts that I have here and here to the heading, to put it back to
 its default state of where it was before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416.  (234) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image416.png?raw=true"
   style="width:40%"
@@ -7002,20 +7016,22 @@ console.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-16">3.16 Scroll Events: HTML (7:41)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 417.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 417. scroll events: html (3.16) (234) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image417.png?raw=true"
   style="width:40%"
-  alt="." />
+  title="3.16 Scroll Events: HTML"
+  alt="3.16 Scroll Events: HTML." />
 </p>
 
 The next event type that we can look at capturing our scroll events.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 418.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 418. example, scroll events: html (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image418.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Scroll Events: HTML"
+  alt="Example, Scroll Events: HTML." />
 </p>
 
 Change the HTML on the page that we just had to something like this,
@@ -7025,17 +7041,18 @@ set to 5000 pixels high and I&apos;ve set it to 5000 pixels high so we have
 something to scroll. Otherwise there&apos;s nothing to really scroll and we
 can&apos;t really capture that event, okay, great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 419.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 419. example, scroll events: js (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image419.png?raw=true"
   style="width:50%"
-  alt="." />
+  title="Example, Scroll Events: JS"
+  alt="Example, Scroll Events: JS." />
 </p>
 
 I&apos;ve got a script that's going to capture the scroll event and see what
 we can do with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420.  (236) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image420.png?raw=true"
   style="width:50%"
@@ -7058,7 +7075,7 @@ to **window.pageYOffset**. We&apos;re going to set it to that and then I&apos;m
 going to console log out **pagetop**. For now, just so we can kind of
 see what&apos;s going on as we&apos;re scrolling the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421.  (237) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image421.png?raw=true"
   style="width:50%"
@@ -7070,7 +7087,7 @@ going to refresh that and here&apos;s my div that&apos;s 5000 pixels tall. I
 have my inspector open in the console selected over here so I can
 actually see, as I scroll my page it&apos;s capturing that counter.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 422.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 422.  (237) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image422.png?raw=true"
   style="width:50%"
@@ -7087,7 +7104,7 @@ things that JavaScript is doing. So you need to be very careful with the
 window add event listener scroll event because it&apos;s going to fire
 frequently.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423.  (238) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image423.png?raw=true"
   style="width:50%"
@@ -7099,7 +7116,7 @@ Instead of defining it here, but every time I scroll just a tiny little
 bit, it&apos;s going to ask JavaScript to recreate the page top variable
 from scratch.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 424.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 424.  (238) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image424.png?raw=true"
   style="width:50%"
@@ -7210,7 +7227,7 @@ responsive design.
 The next type of event that we&apos;re going capture is when you&apos;ve pressed
 a key on your keyboard.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. example, key down event (242) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. example, key down event (242) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image430.png?raw=true"
   style="width:50%"
