@@ -871,8 +871,8 @@ it was different.</p>
 <p align="center" width="100%">
 <img src="./images/image020.png?raw=true"
   style="width:40%"
-  title="Intro to JavaScript - Part 3"
-  alt="Intro to JavaScript - Part 3." />
+  title="1.03 Intro to JavaScript - Part 3"
+  alt="1.03 Intro to JavaScript - Part 3." />
 </p>
 
 <p>It&apos;s really important to understand the development of JavaScript over
@@ -1081,7 +1081,8 @@ in order to really make this work.</p>
 <p align="center" width="100%">
 <img src="./images/image034.png?raw=true"
   style="width:40%"
-  alt="Skills needed for success with JavaScript." />
+  title="1.05 Skills needed for success with JavaScript"
+  alt="1.05 Skills needed for success with JavaScript." />
 </p>
 
 <p>Let&apos;s talk about some of the skills you need in order to be successful learning 
@@ -1091,6 +1092,7 @@ JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image035.png?raw=true"
   style="width:40%"
+  title="Keyboarding Skills"
   alt="Keyboarding Skills." />
 
 <p><b>First and foremost</b>, you need to be able to type. I mean typing with 10 fingers 
@@ -1109,6 +1111,7 @@ if you don&apos;t have them already.</p>
 <p align="center" width="100%">
 <img src="./images/image036.png?raw=true"
   style="width:40%"
+  title="File Management"
   alt="File Management." />
 
 <p>The <b>second</b> thing that you need is you need to be able to manage your
@@ -1130,6 +1133,7 @@ be in that folder.</p>
 <p align="center" width="100%">
 <img src="./images/image037.png?raw=true"
   style="width:40%"
+  title="Persistence"
   alt="Persistence." />
 
 <p>The <b>third</b> thing that you need is persistence. Learning JavaScript is
@@ -1155,6 +1159,7 @@ progress with it, I promise.</p>
 <p align="center" width="100%">
 <img src="./images/image038.png?raw=true"
   style="width:40%"
+  title="Logic (not math)"
   alt="Logic (not math)." />
 
 <p>The <b>fourth</b> skill that you need is to be good with logic. And logic
@@ -1174,6 +1179,7 @@ logic.</p>
 <p align="center" width="100%">
 <img src="./images/image039.png?raw=true"
   style="width:40%"
+  title="HTML and CSS"
   alt="HTML and CSS." />
 
 <p>The next thing is, you really should know HTML and CSS as well as you
@@ -1187,6 +1193,7 @@ have them.</p>
 <p align="center" width="100%">
 <img src="./images/image040.png?raw=true"
   style="width:40%"
+  title="Interneting is hard: a Great Place for Learning HTML &amp; CSS"
   alt="Interneting is hard: a Great Place for Learning HTML &amp; CSS." />
 
 <p>And a good place to go is this <a href="https://internetishard.com">
@@ -1202,6 +1209,7 @@ take a course in HTML and CSS before diving into JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image041.png?raw=true"
   style="width:40%"
+  title="Summary: Learning JavaScript for Free"
   alt="Summary: Learning JavaScript for Free." />
 
 <p>In summary, there&apos;s a low barrier for entry to this class. The software
@@ -1216,8 +1224,8 @@ with JavaScript.</p>
 <ul>
   <li><h3 id="ch1-05-assess">
   <a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
-  1.05.Assessing your Skills in HTML & CSS</a></h3></li>
-  <li><h3 id="ch1-05-add">1.05.Additional Resources;</a></h3>
+  1.05 Assessing your Skills in HTML & CSS</a></h3></li>
+  <li><h3 id="ch1-05-add">1.05 Additional Resources;</a></h3>
     <ul>
       <li><a href="https://www.awwwards.com/">Awwwards website</a></li>
       <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
@@ -1234,7 +1242,8 @@ with JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image042.png?raw=true"
   style="width:40%"
-  alt="1.06. JavaScript Variables." />
+  title="1.06 JavaScript Variables"
+  alt="1.06 JavaScript Variables." />
 
 <p>JavaScript variables.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1242,6 +1251,7 @@ with JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image043.png?raw=true"
   style="width:40%"
+  title="JavaScript variables"
   alt="JavaScript variables." />
 
 <p>It&apos;s good practice when programming to write code that is as
@@ -1254,6 +1264,7 @@ have to teach it how to do your chores.</p>
 <p align="center" width="100%">
 <img src="./images/image044.png?raw=true"
   style="width:40%"
+  title="Washing the dishes"
   alt="Washing the dishes." />
 
 <p>What if you wanted to teach it to wash the dishes? That would be great.
@@ -1266,6 +1277,7 @@ That wouldn&apos;t be so great.</p>
 <p align="center" width="100%">
 <img src="./images/image045.png?raw=true"
   style="width:40%"
+  title="Using a Variable"
   alt="Using a Variable." />
 
 <p>What we can do with a variable is that we can treat it as like a
@@ -1283,6 +1295,7 @@ instructions more modular and more reusable and that&apos;s really helpful.</p>
 <p align="center" width="100%">
 <img src="./images/image046.png?raw=true"
   style="width:40%"
+  title="Declaring a variable in JavaScript"
   alt="Declaring a variable in JavaScript." />
 
 <p>There are many ways of declaring a variable in JavaScript. We&apos;ll start
@@ -1308,6 +1321,7 @@ inside quotes because JavaScript knows what a 25 is.</p>
 <p align="center" width="100%">
 <img src="./images/image047.png?raw=true"
   style="width:40%"
+  title="Variables are case sensitive"
   alt="Variables are case sensitive." />
 
 <p>In JavaScript, variables are case-sensitive. They have to follow certain
@@ -1331,6 +1345,7 @@ there.</p>
 <p align="center" width="100%">
 <img src="./images/image048.png?raw=true"
   style="width:50%"
+  title="Keywords in JavaScript"
   alt="Keywords in JavaScript." />
 
 <p>Finally, there are certain keywords in JavaScript that you can use as
@@ -1355,6 +1370,7 @@ use as names for variables in JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image049.png?raw=true"
   style="width:40%"
+  title="Variable rules and examples"
   alt="Variable rules and examples." />
 
 <p>Over on the right in this image here you&apos;ll see we have variable cat
@@ -1375,7 +1391,8 @@ see variables that are using camel casing.</p>
 <p align="center" width="100%">
 <img src="./images/image050.png?raw=true"
   style="width:40%"
-  alt="1.07. JavaScript Variables Practice - Part 1." />
+  title="1.07 JavaScript Variables Practice - Part 1"
+  alt="1.07 JavaScript Variables Practice - Part 1." />
 
 <p>We&apos;ve been talking long enough about JavaScript. So now it&apos;s time to
 actually get down and write some. And I hope you&apos;re ready to do that
@@ -1388,6 +1405,7 @@ get started with that.</p>
 <p align="center" width="100%">
 <img src="./images/image051.png?raw=true"
   style="width:50%"
+  title="Practice chrome inspect console"
   alt="Practice chrome inspect console." />
 
 <p>And what we can do with our browser is we can actually open just a new
@@ -1401,6 +1419,7 @@ to right click and choose <b>inspect</b>.</p>
 <p align="center" width="100%">
 <img src="./images/image052.png?raw=true"
   style="width:50%"
+  title="Google chrome inspect console"
   alt="Google chrome inspect console." />
 
 <p>And you have to right click on the white area, you can&apos;t right click on
@@ -1410,6 +1429,7 @@ an element.</p>
 <p align="center" width="100%">
 <img src="./images/image053.png?raw=true"
   style="width:50%"
+  title="Inspect console right side of screen"
   alt="Inspect console right side of screen." />
 
 <p>Right click on the white area and choose inspect. And that&apos;ll bring up
@@ -1425,6 +1445,7 @@ display.</p>
 <p align="center" width="100%">
 <img src="./images/image054.png?raw=true"
   style="width:50%"
+  title="Inspect console docking button to bottom of screen"
   alt="Inspect console docking button to bottom of screen." />
 
 <p>Right now, it&apos;s on the right but I could put it on the left or I could
@@ -1434,6 +1455,7 @@ put it on the bottom. I want it on the bottom in this case.</p>
 <p align="center" width="100%">
 <img src="./images/image055.png?raw=true"
   style="width:50%"
+  title="Inspect console dock to bottom"
   alt="Inspect console dock to bottom." />
 
 <p>Sometimes, it&apos;s helpful to tear it off entirely into a different
@@ -1446,6 +1468,7 @@ here.</p>
 <p align="center" width="100%">
 <img src="./images/image056.png?raw=true"
   style="width:50%"
+  title="Select elements tab for HTML and CSS highlight"
   alt="Select elements tab for HTML and CSS highlight." />
 
 <p>And right now and on the elements tab, and I can see the HTML that is
@@ -1456,6 +1479,7 @@ you&apos;ll see different elements of the page will get highlighted.</p>
 <p align="center" width="100%">
 <img src="./images/image057.png?raw=true"
   style="width:50%"
+  title="Select console tab to write JavaScript"
   alt="Select console tab to write JavaScript." />
 
 <p>But what I really want to do to write some JavaScript is the console. So
@@ -1468,6 +1492,7 @@ semi colon and press Enter.</p>
 <p align="center" width="100%">
 <img src="./images/image058.png?raw=true"
   style="width:50%"
+  title="var cheese = 'yummy';"
   alt="var cheese = 'yummy';." />
 
 <p>Now before I do this, another thing that&apos;s useful is if this is seeming
@@ -1488,7 +1513,8 @@ that variable name.</p>
 <p align="center" width="100%">
 <img src="./images/image059.png?raw=true"
   style="width:50%"
-  alt="myNum = 5; (no var)." />
+  title="var cheese = 'yummy';"
+  alt="var cheese = 'yummy';." />
 
 <p>I&apos;m going to make a new variable. Line and assign it a value of 5. And
 I get a 5 back. That returns the value of 5. So I could make another
@@ -1502,9 +1528,11 @@ called <b>myNum</b> and assigned it 5.</p>
 <p align="center" width="100%">
 <img src="./images/image060.png?raw=true"
   style="width:45%"
+  title="Defining variables with/without var command"
   alt="Defining variables with/without var command." />
 <img src="./images/image061.png?raw=true"
   style="width:45%"
+  title="Without the var command, value is undefined"
   alt="Without the var command, value is undefined." />
 </p>
 
@@ -1523,6 +1551,7 @@ arithmetic.</p>
 <p align="center" width="100%">
 <img src="./images/image062.png?raw=true"
   style="width:50%"
+  title="Example variables utilizing console.log"
   alt="Example variables utilizing console.log." />
 
 <p>I can also use a method called <b>console.log</b>. <b>Console.log</b>, and I
@@ -1541,8 +1570,8 @@ in the console, I don&apos;t actually need to use it.</p>
 <p align="center" width="100%">
 <img src="./images/image063.png?raw=true"
   style="width:40%"
-  title="1.08. JavaScript Variables Practice - Part 2"
-  alt="1.08. JavaScript Variables Practice - Part 2." />
+  title="1.08 JavaScript Variables Practice - Part 2"
+  alt="1.08 JavaScript Variables Practice - Part 2." />
 
 <p>Here you can see a cleared out the console by clicking this clear thing here.</p>
 
@@ -1563,6 +1592,7 @@ Refresh button up here that will actually forget everything.</p>
 <p align="center" width="100%">
 <img src="./images/image065.png?raw=true"
   width="50%"
+  title="newNum + notNum = concatinated string"
   alt="newNum + notNum = concatinated string." />
 
 <p>Now I&apos;m getting the error that came back just with the Google page, but
@@ -1630,7 +1660,8 @@ We&apos;ll get into more detail about that as we go along.</p>
 <p align="center" width="100%">
 <img src="./images/image067.png?raw=true"
   style="width:40%"
-  alt="1.09. JavaScript Variables Practice - Part 3." />
+  title="1.09 JavaScript Variables Practice - Part 3"
+  alt="1.09 JavaScript Variables Practice - Part 3." />
 </p>
 
 <p>I&apos;m going to clear out my console here, press the clear button there,
@@ -1641,6 +1672,7 @@ We&apos;ll put that in there.</p>
 <p align="center" width="100%">
 <img src="./images/image068.png?raw=true"
   style="width:50%"
+  title="Differentiating between numbers and string characters"
   alt="Differentiating between numbers and string characters." />
 </p>
 
@@ -1729,8 +1761,8 @@ and on websites.</p>
 <p align="center" width="100%">
 <img src="./images/image073.png?raw=true"
   style="width:40%"
-  title="1.10. JavaScript Arrays - Part 1"
-  alt="1.10. JavaScript Arrays - Part 1." />
+  title="1.10 JavaScript Arrays - Part 1"
+  alt="1.10 JavaScript Arrays - Part 1." />
 
 <p>JavaScript arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1770,7 +1802,7 @@ things with arrays.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 76. creating an array in javascript (53) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image076.png?raw=true"
-  style="width:40%"
+  style="width:50%"
   title="Creating an array in JavaScript"
   alt="Creating an array in JavaScript." />
 
@@ -1816,28 +1848,29 @@ to be aware of.</p>
 <p align="center" width="100%">
 <img src="./images/image078.png?raw=true"
   style="width:40%"
-  title="1.11. JavaScript Arrays - Part 2"
-  alt="1.11. JavaScript Arrays - Part 2." />
+  title="1.11 JavaScript Arrays - Part 2"
+  alt="1.11 JavaScript Arrays - Part 2." />
 
 <p>Unlike a pill box, which really can&apos;t hold much more than just pills,
 you can put anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 79. you can put anything in an array (55) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 79. example, you can put anything in an array (55) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image079.png?raw=true"
   style="width:50%"
-  title="You can put an array within an array"
-  alt="You can put an array within an array." />
+  title="Example, You can put an array (anything) within an array"
+  alt="Example, You can put an array (anything) within an array." />
 
 <p>You can even put in an array in array. So you think about a pillbox with
 a sub container with even smaller divisions in it. So let&apos;s take a look
 at what that looks like.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 80. example array; vehicles, make and model (55) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 80. example, array; vehicles, make and model (55) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image080.png?raw=true"
   style="width:50%"
-  alt="Example array of vehicles by make and model." />
+  title="Example, array of vehicles by make and model"
+  alt="Example, array of vehicles by make and model." />
 
 <p>Let me switch back over to my tab here. And I&apos;m going to clear out this
 tab by clicking the clear button there. And I&apos;m just going to paste
@@ -1860,6 +1893,7 @@ that&apos;s very useful.</p>
 <p align="center" width="100%">
 <img src="./images/image081.png?raw=true"
   style="width:50%"
+  title="A string variable can be treated like an array"
   alt="A string variable can be treated like an array." />
 
 <p>Another thing that&apos;s interesting is that a regular variable holding a
@@ -1878,8 +1912,8 @@ arrays as well.</p>
 <p align="center" width="100%">
 <img src="./images/image082.png?raw=true"
   style="width:40%"
-  title="1.12. JavaScript Arrays Practice"
-  alt="1.12. JavaScript Arrays Practice." />
+  title="1.12 JavaScript Arrays Practice"
+  alt="1.12 JavaScript Arrays Practice." />
 
 <p>Let&apos;s do a little bit of practice with arrays, so I can make a new
 variable bar Animals and assign an array.</p>
@@ -1906,12 +1940,12 @@ methods that you can do to arrays specifically, so if I do animals.</p>
 <p>That push llama, now there are four elements in the animals array. The
 cat, dog, chicken and the llama are all in the array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. push array method (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85. example, push array method (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image085.png?raw=true"
   style="width:50%"
-  title="Example push array method"
-  alt="Example push array method." />
+  title="Example, push array method"
+  alt="Example, push array method." />
 
 Remember, we can use the console log method we don&apos;t really need to
 hear in the console, but we will when we go to using file shortly. So
@@ -1923,24 +1957,24 @@ there, it&apos;ll give me the chicken. I don&apos;t really need to use the
 console log method here in the console. But you can, and it&apos;s worth
 remembering that you can do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 86. splice array method to remove (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 86. example, splice array method to remove (59) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image086.png?raw=true"
   style="width:50%"
-  title="Example splice array method"
-  alt="Example splice array method." />
+  title="Example, splice array method"
+  alt="Example, splice array method." />
 
 <p>Now, what if I wanted to remove an element from the array or we could do
 animals that splice (1, 1) and that will take the dog out of the array.
 Now, if I do animals, you can see it&apos;s got the cat, chicken, and the
 lama, but not the dog.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 87. push and sort array methods (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 87. example, push and sort array methods (59) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image087.png?raw=true"
   style="width:50%"
-  title="Example push and sort array methods"
-  alt="Example push and sort array methods." />
+  title="Example, push and sort array methods"
+  alt="Example, push and sort array methods." />
 
 And I could do push and push the dog back into the array. Let&apos;s do
 that, animals don&apos;t push, dog and now the dog is back in the array.
@@ -2003,9 +2037,9 @@ ways of getting elements out of arrays.</p>
 
 <ul>
   <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp">
-    1.12.Reserved Words</a></li>
+    1.12 Reserved Words</a></li>
   <li id="ch1-12-array"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
-    1.12.Array Methods</a></li>
+    1.12 Array Methods</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch2">Week Two: Controlling Logical Flow in JavaScript</h1>
@@ -2039,8 +2073,8 @@ ways of getting elements out of arrays.</p>
 <p align="center" width="100%">
 <img src="./images/image091.png?raw=true"
   style="width:40%"
-  title="2.00. Module 2 introduction"
-  alt="2.00. Module 2 introduction." />
+  title="2.00 Module 2 introduction"
+  alt="2.00 Module 2 introduction." />
 </p>
 
 <p>Welcome to the second module. In this module, we'll get further into the basics of the 
@@ -2057,8 +2091,8 @@ as much of that as you possibly can.</p>
 <p align="center" width="100%">
 <img src="./images/image092.png?raw=true"
   style="width:40%"
-  title="2.01. Visual Studio - Part 1"
-  alt="2.01. Visual Studio - Part 1." />
+  title="2.01 Visual Studio - Part 1"
+  alt="2.01 Visual Studio - Part 1." />
 </p>
  
 <p>In this lesson, we're going to be talking about working with the code editor and I'm 
@@ -2113,14 +2147,14 @@ and then press "Tab" and then you can come in here and give your document a name
 The title shows up in the tab in the browser. That's important. Great. I can save that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. visual studio startup screen (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<p align="center" width="100%">
 <img src="./images/image096.png?raw=true"
   style="width:50%"
   title="Visual Studio startup screen"
   alt="Visual Studio startup screen." />
 </p>
 
-<p>Now, one thing to notice really quickly while we're here, see this dot up here, 
+<p>Now, one thing to notice while we're here, see this dot up here, 
 that means this file has changed and it has not yet been saved. One of the frequent 
 mistakes I see at the beginning with users getting started with, working with HTML 
 and CSS and JavaScript is they'll add things to the file and then they'll forget to 
@@ -2129,8 +2163,7 @@ aren't showing up, so watch out for that little dot. You can get that to go away
 doing "File", "Save" over here or "Command S", "Control S" in windows, and then it'll 
 go back to just the X, which you would use to close that tab and close that window app, 
 and then I can open this back up again by dropping it here and that will open that file 
-back up again. That gets me some basics of getting files opened and working here in 
-Visual Studio Code.</p>
+again. That gives some basics of getting files and working in Visual Studio Code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 97. windows users: show file extensions (67) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2144,9 +2177,8 @@ Visual Studio Code.</p>
 "View" tab and then go over and verify box is checked in "File name extensions". That 
 way when you save your files, you'll see the ".html" file extension, and that's important. 
 But here I have a screenshot of it so please make sure you do that. Also. Make sure that 
-when you save files, make sure that the filename is always lowercase and never has a 
-space in it so I have "myfile" all as one word here. Do not put spaces in filenames, 
-they cannot be more explicit about that.</p>
+when you save files, the filename is always lowercase and never has a space in it so I have 
+"myfile" all as one word here. Do not put spaces in filenames.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-02">2.02 Visual Studio – Part 2 (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2154,11 +2186,11 @@ they cannot be more explicit about that.</p>
 <p align="center" width="100%">
 <img src="./images/image098.png?raw=true"
   style="width:50%"
-  title="2.02. Visual Studio - Part 2"
-  alt="2.02. Visual Studio - Part 2." />
+  title="2.02 Visual Studio - Part 2"
+  alt="2.02 Visual Studio - Part 2." />
 </p>
 
-<p>I'm back in my code editor. And now, I'm ready to add a script. So let's add a script 
+<p>I'm back in my code editor. And now, I'm ready to add a script. Let's add a script 
 to this file. And we can see some JavaScript actually happened here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2170,9 +2202,9 @@ to this file. And we can see some JavaScript actually happened here.</p>
 </p>
  
 <p>First, I'm going to put some HTML on the page, My First Script. And then you can 
-actually put scripts really anywhere inside this file. Sometimes they go in the head 
+put scripts really anywhere inside this file. Sometimes they go in the head 
 of the page here inside the head tag. Frequently, you'll see them down here just 
-before the closing body tag. So I'm going to make a script tag. And then it puts 
+before the closing body tag. I'm going to make a script tag. And then it puts 
 the cursor between the two, and I can move that down.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2185,7 +2217,7 @@ the cursor between the two, and I can move that down.</p>
 
 <p>And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order 
 to get it to do something currently what we have to work with is the console. because 
-that's what I've shown you so far in the other videos, we'll get to other things later. 
+that's what I've shown you so far in the other lessons, we'll get to other things later. 
 And really pretty soon, but for right now we just have the console. So I can use 
 console.log, remember, we talked about this method before. (hello) to put that variable 
 or really the string associated with that variable into the console. So I can save this 
@@ -2234,12 +2266,12 @@ line here. If you want to have a longer comment, you can use the slash and a sta
 and then end comment with a star and a slash */. And then I can put a longer comment 
 about anything that I want and it can go multiple lines. See example in image.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 104. make code larger with shift + (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 104. make code larger with command/ctrl shift + (71) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image104.png?raw=true"
   style="width:50%"
-  title="Make code larger with shift +"
-  alt="Make code larger with shift +." />
+  title="Make code larger with command/ctrl shift +"
+  alt="Make code larger with command/ctrl shift +." />
 </p>
 
 <p>While we're here, another thing that's important is I can actually make the code in the 
@@ -2257,8 +2289,8 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
 <p align="center" width="100%">
 <img src="./images/image105.png?raw=true"
   style="width:40%"
-  title="2.03. Visual Studio - Part 3"
-  alt="2.03. Visual Studio - Part 3." />
+  title="2.03 Visual Studio - Part 3"
+  alt="2.03 Visual Studio - Part 3." />
 </p>
 
 <p>The next thing to talk about is folders and working with folders for projects.</p>
