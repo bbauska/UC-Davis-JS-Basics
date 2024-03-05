@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/04/2024 7+pm"
+date last editted: "3/05/2024 11+am"
 output: 
   markdown:
     with some style
@@ -17,11 +17,11 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / uc davis log (01) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image001.jpeg?raw=true"
+<img src="./images/image001.jpeg"
   style="width:20%"
   title="JavaScript coffee cup logo version"
   alt="JavaScript coffee cup logo version." />
-<img src="./images/image002.png?raw=true"
+<img src="./images/image002.png"
   style="width:20%"
   title="UC Davis logo"
   alt="UC Davis logo." />
@@ -203,9 +203,9 @@ values to these variables and arrays and be able to read values from them.</p>
 
 <ul>
   <li>1.00.A Note From UC Davis</li>
-  <li>1.00.Learning Objectives</li>
+  <li>1.00 Learning Objectives</li>
   <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">
-    1.00.Welcome/Intro to this Course!</a></li>
+    1.00 Welcome/Intro to this Course!</a></li>
 </ul>
 
 <ol type="1">
@@ -426,9 +426,9 @@ vacation destination list application.</p>
 <h4>25 lessons/videos, 4 readings, 4 zip uploadable files</h4>
 
 <ul>
-  <li>4.00.Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">4.00.Module 4 - Intro to Basic JS Application Projects</a></li>
-  <li>4.00.Basic Distance Converter START Files</li>
+  <li>4.00 Learning Objectives</li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">4.00 Module 4 - Intro to Basic JS Application Projects</a></li>
+  <li>4.00 Basic Distance Converter START Files</li>
 </ul>
 
 <ol type="1" start="1">
@@ -440,7 +440,7 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.05.Advanced Distance Converter START Files</li>
+  <li>4.05 Advanced Distance Converter START Files</li>
 </ul>
 
 <ol type="1" start="6">
@@ -452,7 +452,7 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.10.Vacation Destination Project - Part 1 START Files</li>
+  <li>4.10 Vacation Destination Project - Part 1 START Files</li>
 </ul>
 
 <ol type="1" start="11">
@@ -480,7 +480,7 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.24.Module 4 Reflection - Basic Application Projects</li>
+  <li>4.24 Module 4 Reflection - Basic Application Projects</li>
 </ul>
 
 <ol type="1" start="25">
@@ -488,7 +488,7 @@ vacation destination list application.</p>
 </ol>
 
 <ul>
-  <li>4.25.Self-Reflection - What Next?</li>
+  <li>4.25 Self-Reflection - What Next?</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~ start of course: uc-davis - javascript basics ~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -579,7 +579,7 @@ Coursera Honor Code</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 03. module 1 welcome to js basics (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image003.png?raw=true"
+<img src="./images/image003.png"
   style="width:40%"
   title="1.00 Welcome to JavaScript Basics"
   alt="1.00 Welcome to JavaScript Basics." />
@@ -593,7 +593,7 @@ fun programming language, I think you&apos;ll enjoy learning it. It can be
 frustrating and maddening at times when you can&apos;t get it to work, but
 when you do get things to work the way you want them to work, it&apos;s
 super satisfying. It&apos;s become one of the most popular programming
-languages in the planet.</p>
+languages on the planet.</p>
 
 <p>As we go through this course and through this specialization, I think
 you&apos;ll start to understand why it&apos;s satisfying and easy to get started
@@ -607,8 +607,8 @@ Buckle in and let&apos;s get started learning JavaScript.</p>
 into the basics of the language. We&apos;ll talk about variables and arrays
 and these kinds of things that you see in a lot of programming
 languages. But we&apos;ll also talk about the history of JavaScript and do a
-real introduction to the language. And the history of JavaScript is
-super interesting because it has an impact on how we write JavaScript.
+real introduction to the language. And the history of JavaScript is 
+interesting because it has an impact on how we write JavaScript.
 And that&apos;s really interesting to see how a language has evolved and
 developed and how that affects the way you write modern, up to date
 JavaScript. And I think you&apos;ll learn a lot from this and you&apos;ll be
@@ -621,7 +621,7 @@ learning about JavaScript in the basics of the language.</p>
 <!--~~~~~~~~~~~~~~~~~~~ 04. intro to javascript - part 1 (1.01) (3:13) (10) ~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image004.png?raw=true"
+<img src="./images/image004.png"
   style="width:40%"
   title="1.01 Introduction to JavaScript - Part 1"
   alt="1.01 Introduction to JavaScript - Part 1." />
@@ -633,18 +633,18 @@ anything into an array in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. arrays in javascript (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image005.png?raw=true"
+<img src="./images/image005.png"
   style="width:50%"
   title="Arrays in JavaScript"
   alt="Arrays in JavaScript." />
 </p>
 
-<p>You can even put in an array and an array. You think about a pillbox with a sub-container 
+<p>You can even put an array in an array. You think about a pillbox with a sub-container 
 with even smaller divisions in it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06. inspect console arrays (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image006.png?raw=true"
+<img src="./images/image006.png"
   style="width:50%"
   title="Inspect console and arrays"
   alt="Inspect console and arrays." />
@@ -657,11 +657,11 @@ trying if you can. I&apos;m going to paste this vehicle&apos;s array in here.</p
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 07/08. console inspect array elements (12) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image007.png?raw=true"
+<img src="./images/image007.png"
   style="width:45%"
   title="Inspect console with array elements, #1"
   alt="Inspect console with array elements, #1." />
-<img src="./images/image008.png?raw=true"
+<img src="./images/image008.png"
   style="width:45%"
   title="Inspect console with array elements, #2"
   alt="Inspect console with array elements, #2." />
@@ -683,7 +683,7 @@ can use to hold groups of data, and that&apos;s very useful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 09. console inspect array elements, #3 (12) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image009.png?raw=true"
+<img src="./images/image009.png"
   style="width:50%"
   title="Inspect console array element, #3"
   alt="Inspect console array element, #3." />
@@ -701,7 +701,7 @@ in that string. That&apos;s kind of an interesting thing to understand about arr
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 10. inro to javascript - part 2 (1.02) (13) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image010.png?raw=true"
+<img src="./images/image010.png"
   style="width:40%"
   title="1.02 Introduction to JavaScript - Part 2"
   alt="1.02 Introduction to JavaScript - Part 2." />
@@ -712,7 +712,7 @@ interact with the website is this Awwwards website with the extra w&apos;s in he
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 11. javascript interaction: awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image011.png?raw=true"
+<img src="./images/image011.png"
   style="width:50%"
   title="JavaScript Interaction: awwwards.com website"
   alt="JavaScript Interaction: awwwards.com website." />
@@ -724,7 +724,7 @@ awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 12. taptaro example in awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image012.png?raw=true"
+<img src="./images/image012.png"
   style="width:50%"
   title="TapTaro example from awwwards.com website"
   alt="TapTaro example from awwwards.com website." />
@@ -736,7 +736,7 @@ or the way these images pop in, this is all being done with JavaScript, this kin
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 13. javascript example, no longer there (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image013.png?raw=true"
+<img src="./images/image013.png"
   style="width:50%"
   title="NASA example from awwwards.com website.  No longer active"
   alt="NASA example from awwwards.com website.  No longer active." />
@@ -748,7 +748,7 @@ some other interactions including some sounds as you work around it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 14. boyntonyards.com - awwwards.com (15) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image014.png?raw=true"
+<img src="./images/image014.png"
   style="width:50%"
   title="Boyntonyards.com website from awwwards.com"
   alt="Boyntonyards.com website from awwwards.com." />
@@ -759,7 +759,7 @@ interactions as you&apos;re scrolling through the website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont'd (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image015.png?raw=true"
+<img src="./images/image015.png"
   style="width:50%"
   title="Boyntonyards website from awwwards.com, cont'd"
   alt="Boyntonyards website from awwwards.com, cont'd." />
@@ -772,7 +772,7 @@ websites or you&apos;ve gone off and found your own.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. why learn javascript? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image016.png?raw=true"
+<img src="./images/image016.png"
   style="width:50%"
   title="Why Learn JavaScript?"
   alt="Why Learn JavaScript?" />
@@ -798,7 +798,7 @@ place to start with programming.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 17. 1995 - beginnings of javascript (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image017.png?raw=true"
+<img src="./images/image017.png"
   style="width:50%"
   title="1995 - The Beginnings of JavaScript"
   alt="1995 - The Beginnings of JavaScript." />
@@ -825,7 +825,7 @@ get confused between Java and JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. javascript rough beginnings (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image018.png?raw=true"
+<img src="./images/image018.png"
   style="width:50%"
   title="JavaScript's rough beginnings"
   alt="JavaScript's rough beginnings." />
@@ -840,7 +840,7 @@ as a language and its strengths as well as its weaknesses.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 19. javascript - the good and the bad  (19) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image019.png?raw=true"
+<img src="./images/image019.png"
   style="width:50%"
   title="JavaScript - The Good and the Bad"
   alt="JavaScript - The Good and the Bad." />
@@ -869,7 +869,7 @@ it was different.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. intro to javascript - part 3 (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image020.png?raw=true"
+<img src="./images/image020.png"
   style="width:40%"
   title="1.03 Intro to JavaScript - Part 3"
   alt="1.03 Intro to JavaScript - Part 3." />
@@ -881,7 +881,7 @@ really impacted the way that we write JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. javascript versions (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image021.png?raw=true"
+<img src="./images/image021.png"
   style="width:50%"
   title="JavaScript Versions"
   alt="JavaScript Versions." />
@@ -950,7 +950,7 @@ learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 22. tools needed for success in learning javascript (23) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image022.png?raw=true"
+<img src="./images/image022.png"
   style="width:40%"
   title="1.04 Tools needed for success in learning JavaScript"
   alt="1.04 Tools needed for success in learning JavaScript." />
@@ -961,7 +961,7 @@ learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 23. tools and skills needed for success (23) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image023.png?raw=true"
+<img src="./images/image023.png"
   style="width:40%"
   title="Tools and Skills Needed for Success"
   alt="Tools and Skills Needed for Success." />
@@ -971,17 +971,17 @@ learning about JavaScript as we go along here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24/25. code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image024.png?raw=true"
+<img src="./images/image024.png"
   style="width:40%"
   alt="Code editor." />
-<img src="./images/image025.png?raw=true"
+<img src="./images/image025.png"
   style="width:40%"
   alt="Visual Studio Code editor." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. visual studio code editor (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image026.png?raw=true"
+<img src="./images/image026.png"
   style="width:50%"
   alt="Visual Studio Code." />
 </p>
@@ -995,10 +995,10 @@ very popular these days. There are plenty of other code editors out there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27/28. atom and sublime (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image027.png?raw=true"
+<img src="./images/image027.png"
   style="width:45%"
   alt="Atom web editor." />
-<img src="./images/image028.png?raw=true"
+<img src="./images/image028.png"
   style="width:45%"
   alt="Sublime web text editor." />
 </p>
@@ -1008,7 +1008,7 @@ use that as a code editor.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. adobe dreamweaver (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image029.png?raw=true"
+<img src="./images/image029.png"
   style="width:50%"
   alt="Adobe's Dreamweaver Web Editor." />
 
@@ -1017,7 +1017,7 @@ perfectly fine as code editor if you want to use that as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. web browser (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image030.png?raw=true"
+<img src="./images/image030.png"
   style="width:40%"
   alt="Web Browser; Chrome Preferred. Also, Brave, Safari and Firefox." />
 
@@ -1034,7 +1034,7 @@ Unless you LOVE advertisements and poor coding techniques.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. image editor - nice to have (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image031.png?raw=true"
+<img src="./images/image031.png"
   style="width:40%"
   alt="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView." />
 
@@ -1249,7 +1249,7 @@ with JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43. javascript variables (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image043.png?raw=true"
+<img src="./images/image043.png"
   style="width:40%"
   title="JavaScript variables"
   alt="JavaScript variables." />
@@ -1262,7 +1262,7 @@ have to teach it how to do your chores.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44. washing the dishes (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image044.png?raw=true"
+<img src="./images/image044.png"
   style="width:40%"
   title="Washing the dishes"
   alt="Washing the dishes." />
@@ -1275,8 +1275,8 @@ That wouldn&apos;t be so great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 45. using a variable (34) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image045.png?raw=true"
-  style="width:40%"
+<img src="./images/image045.png"
+  style="width:50%"
   title="Using a Variable"
   alt="Using a Variable." />
 
@@ -1293,8 +1293,8 @@ instructions more modular and more reusable and that&apos;s really helpful.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 46. declaring a variable in javascript (35) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image046.png?raw=true"
-  style="width:40%"
+<img src="./images/image046.png"
+  style="width:50%"
   title="Declaring a variable in JavaScript"
   alt="Declaring a variable in JavaScript." />
 
@@ -1319,8 +1319,8 @@ inside quotes because JavaScript knows what a 25 is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 47. variables are case sensitive (35) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image047.png?raw=true"
-  style="width:40%"
+<img src="./images/image047.png"
+  style="width:50%"
   title="Variables are case sensitive"
   alt="Variables are case sensitive." />
 
@@ -1343,7 +1343,7 @@ there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 48. reserved keywords in javascript (36) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image048.png?raw=true"
+<img src="./images/image048.png"
   style="width:50%"
   title="Keywords in JavaScript"
   alt="Keywords in JavaScript." />
@@ -1353,7 +1353,7 @@ names of variables like <b>new</b> is a keyword. Up here I have some of the
 keywords pulled up on the W3Schools website. W3Schools is one of the
 places you can go to get a lot of information about JavaScript, basic
 information. We&apos;ll also look a lot at the MDN, the Mozilla Developer
-Network, which is really the most authoritative place to get information
+Network, which is the most authoritative place to get information
 about JavaScript, but it can be a little bit overwhelming at first as
 well. The W3Schools is a little bit easier to understand.</p>
 
@@ -1363,26 +1363,30 @@ new in <b>ECMAScript 5 and 6</b>. Remember, we talked about the versions of
 JavaScript, so now when you see <b>ECMAScript 5 and 6,</b> you know that
 we&apos;re talking about <b>ECMAScript 5</b> which was released in 2009, that
 was the big release then, and <b>ECMAScript 6</b> or <b>ES6</b> was the
-version that was released in 2015. These are all keywords that you can
-use as names for variables in JavaScript.</p>
+version that was released in 2015. Then in 2022 came ECMAScript 7 & 8. Lastly,
+ECMAScript 2023, the 14th edition of JavaScript. Try 
+<a href="https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/">
+freecodecamp</a> for examples. Or, try 
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">MDN</a>. 
+These are all keywords that you can use as names for variables in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. variable rules and examples (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image049.png?raw=true"
-  style="width:40%"
+<img src="./images/image049.png"
+  style="width:50%"
   title="Variable rules and examples"
   alt="Variable rules and examples." />
 
-<p>Over on the right in this image here you&apos;ll see we have variable cat
-with lowercase c, variable cat all in uppercase letters, and variable
-Cat with a capital C. These are three different variables that hold
-three different values. It&apos;s generally better practice to use lowercase
-letters when creating variables or to do what&apos;s called camel casing
-like we have done at the bottom here; myCat with a capital C in the
-middle, so it&apos;s like a hump in the middle. We like camels in
-JavaScript. That&apos;s called camel casing. That&apos;s not specific to
-JavaScript but it&apos;s something that is in a lot of programming
-languages. But we use that frequently in JavaScript. You&apos;ll frequently
+<p>Over on the right in this image here you&apos;ll see we have variable cat 
+with lowercase c, variable cat all in uppercase letters, and variable Cat with 
+a capital C. These are three different variables that hold three different 
+values. It&apos;s generally better practice to use lowercase letters when 
+creating variables or to do what&apos;s called camel casing like we have done 
+at the bottom here; myCat with a capital C in the middle, so it&apos;s like a 
+hump in the middle. We like camels in JavaScript. That&apos;s called camel 
+casing. That&apos;s not specific to JavaScript but it&apos;s something that is 
+in a lot of programming languages. For example, Pascal uses camel casing 
+frequently. But we use that frequently in JavaScript. You&apos;ll frequently 
 see variables that are using camel casing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 JavaScript Variables Practice -- Part 1 (7:12)</h2>
@@ -1394,12 +1398,11 @@ see variables that are using camel casing.</p>
   title="1.07 JavaScript Variables Practice - Part 1"
   alt="1.07 JavaScript Variables Practice - Part 1." />
 
-<p>We&apos;ve been talking long enough about JavaScript. So now it&apos;s time to
-actually get down and write some. And I hope you&apos;re ready to do that
-because it&apos;s pretty exciting to start seeing you come alive on web
-pages. And it&apos;ll be a little while before we start making really
-interesting things, but we&apos;ll be working with the basics now. So let&apos;s
-get started with that.</p>
+<p>We&apos;ve been talking long enough about JavaScript. So now it&apos;s time to 
+actually get down and write some. And I hope you&apos;re ready to do that 
+because it&apos;s pretty exciting to start seeing you come alive on web pages. 
+And it&apos;ll be a little while before we start making truly interesting things, 
+but we&apos;ll be working with the basics now. So let&apos;s get started with that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 51. practice chrome inspect console (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1408,12 +1411,11 @@ get started with that.</p>
   title="Practice chrome inspect console"
   alt="Practice chrome inspect console." />
 
-<p>And what we can do with our browser is we can actually open just a new
-browser tab and use the console to write some JavaScript. Because
-JavaScript is native to the browser, we can write it right into the
-browser and it&apos;ll actually do stuff in the browser. I have a new tab
-over here and you can create a new tab for yourself. And I&apos;m just going
-to right click and choose <b>inspect</b>.</p>
+<p>And what we can do with our browser is we can open a new browser tab and use 
+the console to write some JavaScript. Because JavaScript is native to the browser, 
+we can write it right into the browser and it&apos;ll actually do stuff in the 
+browser. I have a new tab over here and you can create a new tab for yourself. 
+And I&apos;m just going to right click and choose <b>inspect</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 52. google chrome inspect console (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1433,20 +1435,19 @@ an element.</p>
   alt="Inspect console right side of screen." />
 
 <p>Right click on the white area and choose inspect. And that&apos;ll bring up
-the inspector in Chrome. And again, I&apos;m in Chrome. And when I do that,
-it might put the inspector over here it might do some different kinds of
-things. Some different buttons might be selected. But what you can do is
-you can use these buttons here. You can arrange this thing, make it
-bigger or smaller. You can use these buttons to move this inspector
-around. So this button here will allow me to choose where I want it to
-display.</p>
+the inspector in Chrome. And again, I&apos;m in Chrome. And when I do that, it 
+might put the inspector over here it might do some different kinds of things. 
+Some different buttons might be selected. But what you can do is you can use 
+these buttons here. You can arrange this thing, make it bigger or smaller. You 
+can use these buttons to move this inspector around. So this button here will 
+allow me to choose where I want it to display.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 54. inspect console docking button (40) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image054.png?raw=true"
   style="width:50%"
-  title="Inspect console docking button to bottom of screen"
-  alt="Inspect console docking button to bottom of screen." />
+  title="Inspect console docking button at bottom of screen"
+  alt="Inspect console docking button at bottom of screen." />
 
 <p>Right now, it&apos;s on the right but I could put it on the left or I could
 put it on the bottom. I want it on the bottom in this case.</p>
