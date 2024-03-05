@@ -6997,14 +6997,16 @@ that. When I come back here and rather than type this off from scratch,
 I&apos;m just going to copy, paste, change this to mouseout, the mouse has
 left the box. Cool, that&apos;s great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 413/414.  (233) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 413/414. test, roll over the box, left the box (233) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image413.png"
   style="width:45%"
-  alt="." />
+  title="Roll mouse over red box"
+  alt="Roll mouse over red box." />
 <img src="./images/image414.png"
   style="width:45%"
-  alt="." />
+  title="The mouse has left the box"
+  alt="The mouse has left the box." />
 </p>
 
 Let&apos;s go give that a try. Roll your mouse over the box. So the mouse is
@@ -7013,11 +7015,12 @@ over the box, mouse has left the box, so I can go back and forth. But
 it&apos;d be nice if I could return the page to its default state without
 having to click the refresh button.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 415.  (233) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 415. event listener, mouseover box function (233) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image415.png"
   style="width:50%"
-  alt="." />
+  title="Add event listener, mouseover red box."
+  alt="Add event listener, mouseover red box." />
 </p>
 
 I&apos;m going to add one more event listener for the header. So when I roll
@@ -7029,11 +7032,12 @@ put it on heading, addEventListener mouseover and I&apos;m going to put the
 same texts that I have here and here to the heading, to put it back to
 its default state of where it was before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416.  (234) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416. roll over and off red box (234) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image416.png"
   style="width:40%"
-  alt="." />
+  title="Roll over and off red box"
+  alt="Roll over and off red box." />
 </p>
 
 But now I can roll over them up, box roll off it and the event listeners
@@ -7084,11 +7088,12 @@ can&apos;t really capture that event, okay, great.
 I&apos;ve got a script that's going to capture the scroll event and see what
 we can do with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 420.  (236) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 420. event listener, scroll, update pagetop (236) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image420.png"
   style="width:50%"
-  alt="." />
+  title="Event listener for scroll, then update pagetop to pageYOffset"
+  alt="Event listener for scroll, then update pagetop to pageYOffset." />
 </p>
 
 Over here on my script, the first thing I&apos;m going to do is create a
@@ -7107,11 +7112,12 @@ to **window.pageYOffset**. We&apos;re going to set it to that and then I&apos;m
 going to console log out **pagetop**. For now, just so we can kind of
 see what&apos;s going on as we&apos;re scrolling the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 421.  (237) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 421. console inspect, counter increments as you scroll (237) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image421.png"
   style="width:50%"
-  alt="." />
+  title="Console inspect, counter increments as you scroll"
+  alt="Console inspect, counter increments as you scroll." />
 </p>
 
 I&apos;m going to go over to My browser over here and here&apos;s my page, I&apos;m
@@ -7119,11 +7125,12 @@ going to refresh that and here&apos;s my div that&apos;s 5000 pixels tall. I
 have my inspector open in the console selected over here so I can
 actually see, as I scroll my page it&apos;s capturing that counter.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 422.  (237) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 422. event listener for scroll, update pagetop (237) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image422.png"
   style="width:50%"
-  alt="." />
+  title="Event listener for scroll, then update pagetop"
+  alt="Event listener for scroll, then update pagetop." />
 </p>
 
 Now, one thing to note here is that this **EventListener** is firing
@@ -7136,11 +7143,12 @@ things that JavaScript is doing. So you need to be very careful with the
 window add event listener scroll event because it&apos;s going to fire
 frequently.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 423.  (238) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 423. every time you scroll update pagetop (238) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image423.png"
   style="width:50%"
-  alt="." />
+  title="Each time you scroll, update pagetop variable"
+  alt="Each time you scroll, update pagetop variable." />
 </p>
 
 That brings me back to this, I could have just put var page top here.
@@ -7148,11 +7156,12 @@ Instead of defining it here, but every time I scroll just a tiny little
 bit, it&apos;s going to ask JavaScript to recreate the page top variable
 from scratch.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 424.  (238) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 424. update value in pagetop to window.payyoffset (238) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image424.png"
   style="width:50%"
-  alt="." />
+  title="Update pagetop to window.pageYOffset;"
+  alt="Update pagetop to window.pageYOffset;" />
 </p>
 
 And then assign a value to it whereas if I do it up here, it&apos;s a little
@@ -8183,28 +8192,33 @@ as well as the use strict directive that will keep me from accidentally
 having variables that don't have a keyword starting them. And then I 
 want to switch my keywords from var to either const or let wherever 
 I possibly can. 
-<!--~~~~~~~~~~~~~~~ 496/497.  (273) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 496/497. create script22.js and move variables/functions (273) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image496.png"
   style="width:45%"
-  alt="." />
+  title="Add functions and variables to script22.js"
+  alt="Add functions and variables to script22.js." />
 <img src="./images/image497.png"
   style="width:45%"
-  alt="." />
+  title="Challenge 22, move code to script22.js"
+  alt="Challenge 22, move code to script22.js." />
 </p>
 
 So let's do that. Over here, I'm going to make a new file and you 
 can click this button here to make a new file. I'm going to call 
-it script 22.js to go with challenge 22 here. 
-
-<!--~~~~~~~~~~~~~~~ 498/499.  (273) ~~~~~~~~~~~~~~~~~~~-->
+it <b>script22.js</b> to go with challenge 22 here. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~ 498/499. wrap entire script with parentheses to invoke immediately (273) ~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image498.png"
   style="width:45%"
-  alt="." />
+  title="Select entire script and move to script22.js"
+  alt="Select entire script and move to script22.js." />
 <img src="./images/image499.png"
   style="width:45%"
-  alt="." />
+  title="In script22.js, add 'use strict' and wrap with parentheses to invoke immediately"
+  alt="In script22.js, add 'use strict' and wrap with parentheses to invoke immediately." />
 </p>
 And on script 22 js I'm going to start by adding my immediately 
 invoked function expression by starting with the parentheses. And 
@@ -8218,11 +8232,12 @@ or cut, I can actually just cut Command x or Control x. Cut this
 script right from here, and instead I'm going to paste it in here. 
 Might have to shift tab to move that over. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 500.  (274) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 500. replace var with const (274) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image500.png"
   style="width:50%"
-  alt="." />
+  title="Replace var with const wherever possible"
+  alt="Replace var with const wherever possible." />
 </p>
 
 The next thing I want to do is replace any variable declarations. 
@@ -8237,14 +8252,17 @@ using the use strict directive, if I forgot to put const here that
 will catch that problem and tell me explicitly that I've done a bad 
 thing. And I've changed my variables declarations from using var to 
 const. 
-<!--~~~~~~~~~~~~~~~ 501/502.  (274) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 501/502. script src='script22.js' to end of body (274) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image501.png"
   style="width:45%"
-  alt="." />
+  title="Add script src='script22.js' to end of body in index.html"
+  alt="Add script src='script22.js' to end of body in index.html." />
 <img src="./images/image502.png"
   style="width:45%"
-  alt="." />
+  title="Test console, turn green dammit!"
+  alt="Test console, turn green dammit!." />
 </p>
 
 Now over here in my file, instead of having the script here I'm 
@@ -8713,14 +8731,15 @@ through, going frontwards and I can loop through going backwards.
 </p>
 Everything is working. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 530/531. cleaing up and separating functions (292) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 530/531. cleaning up and separating functions (292) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image530.png"
   style="width:45%"
-  alt="." />
+  alt="Cleanup Up script.js." />
 <img src="./images/image531.png"
   style="width:45%"
-  alt="." />
+  title="Index.html with script within, before moving to script.js"
+  alt="Index.html with script within, before moving to script.js." />
 </p>
 
 Now all we need to do is clean up this script just a little bit, make it a 
@@ -9540,11 +9559,16 @@ and move that down.
   alt="Add 'use strict' to index.html." />
 </p>
 
-And we're going to add use strict in here.  Now we can come over here to grab our script from the index file. I'm going to copy that. And I'm going to stick it over here and paste it in the script.js file.
+And we're going to add <b>use strict</b> in here.  Now we can come over here to grab 
+our script from the index file. I'm going to copy that. And I'm going to stick 
+it over here and paste it in the script.js file.
 
-Now the last thing I want to do is I want to go through and fix the variables here. This one current image is going to change. That variable is going to change down here we can see that. 
+Now the last thing I want to do is I want to go through and fix the variables 
+here. This one current image is going to change. That variable is going to 
+change down here we can see that. 
 
-There needs to be let, but the rest of these can all be const, const, const, const, const because those aren't going to change during the script at all during the running of the script. 
+There needs to be let, but the rest of these can all be const, because those 
+aren't going to change during the script at all during it&amp;s running.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 582. update to constant and let (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9554,7 +9578,8 @@ There needs to be let, but the rest of these can all be const, const, const, con
   alt="Update variables to const and let whereever possible." />
 </p> 
 
-And then down in the swapImage we have a variable here. That one can also be constant. Great, so we got that. So now we've got our files and that's all looking good. 
+And then down in the swapImage we have a variable here. That one can also be 
+constant. Now we've got our files and that's all looking good. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 583. call script.js defer in head of index.html (324) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9564,7 +9589,10 @@ And then down in the swapImage we have a variable here. That one can also be con
   alt="Call script.js defer in head of index.html." />
 </p>
 
-Over here on written index file, we just need to get rid of that stuff and put it in here, src equals script.js, that's our file. And we can put this up here like so.We could leave it like that. Or even better, we could take this and move it up here into the header of the page and add the defer attribute here, save that. 
+Over here on written index file, we need to get rid of that stuff and put it in 
+here, src equals script.js, that's our file. And we can put this up here like 
+so. We could leave it like that. Or even better, we could take this and move it 
+up here into the header of the page and add the defer attribute here, save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 584. test, script.js defer changes in index.html (324) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9665,6 +9693,7 @@ interface is already created, you can see I have it over here.
 <p align="center" width="100%">
 <img src="./images/image589.png"
   style="width:50%"
+  title="Test, miles to kilometers screen image (does not function)"
   alt="Test, miles to kilometers screen image (does not function)." />
 </p>
 
@@ -9677,6 +9706,7 @@ Let's take a quick look at the HTML that we have here.
 <p align="center" width="100%">
 <img src="./images/image590.png"
   style="width:45%"
+  title="index.html - head"
   alt="index.html - head." />
 <img src="./images/image591.png"
   style="width:45%"
@@ -9690,6 +9720,7 @@ container down here where the answer is going to go when we convert the miles.
 <p align="center" width="100%">
 <img src="./images/image592.png"
   style="width:50%"
+  title="styles.css - initially"
   alt="styles.css - initially." />
 </p>
 
@@ -10009,7 +10040,7 @@ answer goes here.
   title="Test, answer displayed visibly"
   alt="Test, answer displayed visibly." />
 </p>
-What we can do is, we can use innerHTML to replace this entire h2 in here, 
+What we can do is, we can use <b>innerHTML</b> to replace this entire h2 in here, 
 with a new h2. That h2 that we put in there, won't have the class invisible, 
 so it will be visible. We want to get this div id answer here first.
 
@@ -10037,20 +10068,19 @@ going to be dollar sign, curly braces, conversion in there.
 </p>
 The next thing we need to do is handle the error down here. We're going to put 
 it into this same element here, this answer element here. I could use 
-Document.getElementByID, and go get this answer div again, using innerHTML 
+document.getElementById, and go get this answer div again, using innerHTML 
 again. Since we've already gotten this and put it into this variable here, it 
 makes more sense to move this variable out of the if statement and stick it up 
 here somewhere, go anywhere really, I'll stick it here. That's going to get 
 defined to begin with. It could even go after the preventDefault, it go 
 anywhere really. I'm going to just put it there. Then I can use the exact same 
 variable down here. Answer.innerHTML equals. I can just use regular quotes, h2 
-close the H2. Always open and closed before it, then work on the inside from 
+close the h2. Always open and closed before it, then work on the inside from 
 that way. Please provide a number. That will handle the error. 
 
 Let's make sure that works. If we come back over here, and refresh this, if I 
 put a chicken in here, a chicken cannot get converted to kilometers, so it 
 says please provide a number.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-05">4.05 Basic Distance Convert Project – Part 5 (4:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10091,41 +10121,41 @@ scope here since it's all pretty much within this one event handler, but still
 it's a good idea to put it in. Then I'm going to just going to copy all of this 
 stuff, or you can cut it and paste it over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 622.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 622. example, add two event listeners (344) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image622.png"
   style="width:50%"
-  alt="." />
+  title="Example, Add Two Event Listeners"
+  alt="Example, Add Two Event Listeners." />
 </p>
-In here, I'm going to come in and change my vars to either 
-const or lat. I think they will all work with const. Distance is going to get 
+In here, I'm going to come in and change my vars to either <b>const</b> or 
+<b>let</b>. I think they will all work with <b>const</b>. Distance is going to get 
 that once, and that's in distance is not going to change. Const is going to come 
 down here and answer is always going to be answer, and then this one here const 
-as well, conversion. We've got all of that set. Great. 
+as well, conversion. We've got all of that set.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 623.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 623. script - 1st half (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image623.png"
   style="width:50%"
-  alt="." />
+  title="First half of script"
+  alt="First half of script." />
 </p>
 
-Over here on my HTML 
-file, instead of having this script here, I can leave it at the bottom of the 
-screen if I want, that's fine, and just link to it here, src equals "scripts.js", 
-and that should work just fine. If I go ahead and test that, it should work 
-exactly the same as it worked before, and it works fine, that's great. 
-
+Over here on my HTML file, instead of having this script here, I can leave it at 
+the bottom of the screen if I want, that's fine, and just link to it here, src 
+equals "scripts.js", and that should work just fine. If I go ahead and test that, 
+it should work exactly the same as it worked before, and it works fine, that's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 624.  (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 624. script - 2nd half (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image624.png"
   style="width:50%"
-  alt="." />
+  title="Second half of script"
+  alt="Second half of script." />
 </p>
 
-Now, I 
-could also move the script up into the head of the page. 
+Now, I could also move the script up into the head of the page. 
 
 Up here into the head, but I have to add the defer attribute here. If I come 
 back and test it, you'll see that it still works. If you forget the defer 
