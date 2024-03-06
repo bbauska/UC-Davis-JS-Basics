@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/05/2024 9+pm"
+date last editted: "3/05/2024 10+pm"
 output: 
   markdown:
     with some style
@@ -35,7 +35,7 @@ be able to develop. Learners will understand the importance of how
 JavaScript was developed and why such history impacts the way JavaScript
 is currently written and in future releases. Learners will write their
 first scripts, have their HTML and CSS skills assessed, create variables
-and arrays and assign values to them. If student's skills are lacking,
+and arrays and assign values to them. If student&apos;s skills are lacking,
 resources and recommendations are provided to improve these skills.
 There is ample opportunity for students to practice these first, core
 skills.</p>
@@ -127,7 +127,7 @@ skills.</p>
 >	- #### [**3.18 JavaScript Event Challenges 22-30**](#ch3-18-22thru30)
 >#### [**3.19 Scope in JavaScript**](#ch3-19)
 >#### [**3.20 Strategy 1: Never Use Global Scope**](#ch3-20)
->#### [**3.21 Strategy 2: 'use strict;'**](#ch3-21)
+>#### [**3.21 Strategy 2: &apos;use strict;&apos;**](#ch3-21)
 >#### [**3.22 Strategy 3: const and let**](#ch3-22)
 >#### [**3.23 Scope in JavaScript Summary**](#ch3-23)
 >	- #### [**3.23 Additional Resources**](ch#3-23-add)
@@ -181,7 +181,7 @@ skills.</p>
 >	- #### [**4.25 Self-Reflection - What Next?**](#ch4-25-refl)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ syllabus for javascript basics ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2><a href="#syllabus">Syllabus - what's in store?</a></h2>
+<h2><a href="#syllabus">Syllabus - what&apos;s in store?</a></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Week 1</h3>
 
@@ -505,11 +505,11 @@ with a variety of tools and learning opportunities, to include video lectures, r
 assessments, peer reviews, and an opportunity to contribute to the Coursera learning 
 community in the discussion forums.</p>
 
-<p>In each of the lesson sections, you'll find learning objectives, lecture videos, readings, 
+<p>In each of the lesson sections, you&apos;ll find learning objectives, lecture videos, readings, 
 activities, and an opportunity to test your knowledge in quiz format. In some of the module 
-sections you'll also work on assignments and grade the work of your peers. A peer-review 
+sections you&apos;ll also work on assignments and grade the work of your peers. A peer-review 
 assignment, is one where you and your fellow learners have an opportunity to review and 
-grade each other's work. We'll dive more into peer reviews later on in this course.</p>
+grade each other&apos;s work. We&apos;ll dive more into peer reviews later on in this course.</p>
 
 <p>When navigating the course, you can find available <b>course resources</b> under each of 
 the lecture videos in a section labeled "[Downloads]" -- here you can download the lecture 
@@ -517,7 +517,7 @@ video, view transcripts, PDFs of the lecture slides, and <b>find additional read
 files</b>.</p>
 
 <p>If you run into any issues during this course, <b>learner support</b> is available to all 
-Coursera students. The link for Coursera's Learner support is included below. The 
+Coursera students. The link for Coursera&apos;s Learner support is included below. The 
 <a href="https://learner.coursera.help/hc/en-us">Help Center/Learner Support</a> includes 
 topics such as account setup, payments, enrollment questions, and troubleshooting common problems.</p>
 
@@ -558,7 +558,7 @@ Coursera Honor Code</a>.</p>
 <h3>Additional Links:</h3>
 
 <ul>
-  <li><a href="https://learner.coursera.help/hc/en-us">1.00.Coursera's Learner Support/Help Center:</a></li>
+  <li><a href="https://learner.coursera.help/hc/en-us">1.00.Coursera&apos;s Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One:</h1>
@@ -757,12 +757,12 @@ some other interactions including some sounds as you work around it.</p>
 <p>Or <a href="https://boyntonyards.com/">this website</a> which has some interesting 
 interactions as you&apos;re scrolling through the website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont'd (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont&apos;d (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image015.png"
   style="width:50%"
-  title="Boyntonyards website from awwwards.com, cont'd"
-  alt="Boyntonyards website from awwwards.com, cont'd." />
+  title="Boyntonyards website from awwwards.com, cont&apos;d"
+  alt="Boyntonyards website from awwwards.com, cont&apos;d." />
 </p>
 
 <p>Yeah, look around on the web and wherever you see interactions happening, whether it&apos;s 
@@ -827,8 +827,8 @@ get confused between Java and JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image018.png"
   style="width:50%"
-  title="JavaScript's rough beginnings"
-  alt="JavaScript's rough beginnings." />
+  title="JavaScript&apos;s rough beginnings"
+  alt="JavaScript&apos;s rough beginnings." />
 </p>
 
 <p>As I said before, JavaScript had some rough beginnings. The early years
@@ -973,9 +973,11 @@ learning about JavaScript as we go along here.</p>
 <p align="center" width="100%">
 <img src="./images/image024.png"
   style="width:40%"
+  title="Code editor"
   alt="Code editor." />
 <img src="./images/image025.png"
   style="width:40%"
+  title="Visual Studio Code editor"
   alt="Visual Studio Code editor." />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -983,6 +985,7 @@ learning about JavaScript as we go along here.</p>
 <p align="center" width="100%">
 <img src="./images/image026.png"
   style="width:50%"
+  title="Visual Studio Code"
   alt="Visual Studio Code." />
 </p>
 
@@ -997,9 +1000,11 @@ very popular these days. There are plenty of other code editors out there.</p>
 <p align="center" width="100%">
 <img src="./images/image027.png"
   style="width:45%"
+  title="Atom web editor"
   alt="Atom web editor." />
 <img src="./images/image028.png"
   style="width:45%"
+  title="Sublime web text editor"
   alt="Sublime web text editor." />
 </p>
 
@@ -1010,7 +1015,8 @@ use that as a code editor.</p>
 <p align="center" width="100%">
 <img src="./images/image029.png"
   style="width:50%"
-  alt="Adobe's Dreamweaver Web Editor." />
+  title="Adobe&apos;s Dreamweaver Web Editor"
+  alt="Adobe&apos;s Dreamweaver Web Editor." />
 
 <p>Dreamweaver has a lot of other stuff built into it that you don&apos;t need, but it works 
 perfectly fine as code editor if you want to use that as well.</p>
@@ -1019,6 +1025,7 @@ perfectly fine as code editor if you want to use that as well.</p>
 <p align="center" width="100%">
 <img src="./images/image030.png"
   style="width:40%"
+  title="Web Browser; Chrome Preferred. Also, Brave, Safari and Firefox"
   alt="Web Browser; Chrome Preferred. Also, Brave, Safari and Firefox." />
 
 <p>The second thing you&apos;re going to need is a web browser, and I&apos;m going
@@ -1036,6 +1043,7 @@ Unless you LOVE advertisements and poor coding techniques.</p>
 <p align="center" width="100%">
 <img src="./images/image031.png"
   style="width:40%"
+  title="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView"
   alt="Image Editor: Would be nice to have - photoshop, GIMP, or IrfanView." />
 
 <p>You&apos;re also going to need an image editor. If you have access to
@@ -1047,6 +1055,7 @@ GIMP, which is free.</p>
 <p align="center" width="100%">
 <img src="./images/image032.png"
   style="width:50%"
+  title="GIMP (GNU Image Manipulation Program) image editor"
   alt="GIMP (GNU Image Manipulation Program) image editor." />
 
 <p>You can go download <b>GIMP</b> and I have that pulled up here. You can actually download 
@@ -1061,6 +1070,7 @@ necessary, but it&apos;s really nice to have.</p>
 <p align="center" width="100%">
 <img src="./images/image033.png"
   style="width:40%"
+  title="A Computer and Internet Access"
   alt="A Computer and Internet Access." />
 
 <p>Next, you&apos;re going to need a computer and internet access. It may sound
@@ -1493,8 +1503,8 @@ semi colon and press Enter.</p>
 <p align="center" width="100%">
 <img src="./images/image058.png"
   style="width:50%"
-  title="var cheese = 'yummy';"
-  alt="var cheese = 'yummy';." />
+  title="var cheese = &apos;yummy&apos;;"
+  alt="var cheese = &apos;yummy&apos;;." />
 
 <p>Now before I do this, another thing that&apos;s useful is if this is seeming
 very small in your screen, you can use Ctrl on Windows or Cmd at Mac and
@@ -1514,8 +1524,8 @@ that variable name.</p>
 <p align="center" width="100%">
 <img src="./images/image059.png"
   style="width:50%"
-  title="var cheese = 'yummy';"
-  alt="var cheese = 'yummy';." />
+  title="var cheese = &apos;yummy&apos;;"
+  alt="var cheese = &apos;yummy&apos;;." />
 
 <p>I&apos;m going to make a new variable. Line and assign it a value of 5. And
 I get a 5 back. That returns the value of 5. So I could make another
@@ -1919,24 +1929,24 @@ arrays as well.</p>
 <p>Let&apos;s do a little bit of practice with arrays, so I can make a new
 variable bar Animals and assign an array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 83. define var animals = ['cat', 'dog', 'chicken']; (57) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 83. define var animals = [&apos;cat&apos;, &apos;dog&apos;, &apos;chicken&apos;]; (57) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image083.png"
   style="width:50%"
-  title="Define array; var animals = ['cat', 'dog', 'chicken'];"
-  alt="Define array; var animals = ['cat', 'dog', 'chicken'];." />
+  title="Define array; var animals = [&apos;cat&apos;, &apos;dog&apos;, &apos;chicken&apos;];"
+  alt="Define array; var animals = [&apos;cat&apos;, &apos;dog&apos;, &apos;chicken&apos;];." />
 
 <p>Cat, dog, chicken and all of those animals will be in the array. So if I
 just do animals. You&apos;ll see that I get back an array with three
 elements, cat, dog and chicken. Now, arrays come with certain array
 methods that you can do to arrays specifically, so if I do animals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push('llama'); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push(&apos;llama&apos;); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image084.png"
   style="width:50%"
-  title="Add llama with animals.push('llama');"
-  alt="Add llama with animals.push('llama');." />
+  title="Add llama with animals.push(&apos;llama&apos;);"
+  alt="Add llama with animals.push(&apos;llama&apos;);." />
 
 <p>That push llama, now there are four elements in the animals array. The
 cat, dog, chicken and the llama are all in the array.</p>
@@ -2078,11 +2088,11 @@ ways of getting elements out of arrays.</p>
   alt="2.00 Module 2 introduction." />
 </p>
 
-<p>Welcome to the second module. In this module, we'll get further into the basics of the 
-JavaScript language. There are certain things that you'll find in many modern programming 
+<p>Welcome to the second module. In this module, we&apos;ll get further into the basics of the 
+JavaScript language. There are certain things that you&apos;ll find in many modern programming 
 languages, such as control structures, such as being able to figure out if something is 
-true or how to handle something in a <b><i>loop</i></b> and these kinds of things. We'll be doing that 
-sort of work in this second module. There's a lot of practice and there's a lot of 
+true or how to handle something in a <b><i>loop</i></b> and these kinds of things. We&apos;ll be doing that 
+sort of work in this second module. There&apos;s a lot of practice and there&apos;s a lot of 
 opportunities along the way to get used to the JavaScript syntax. I encourage you to do 
 as much of that as you possibly can.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2096,13 +2106,13 @@ as much of that as you possibly can.</p>
   alt="2.01 Visual Studio - Part 1." />
 </p>
  
-<p>In this lesson, we're going to be talking about working with the code editor and I'm 
+<p>In this lesson, we&apos;re going to be talking about working with the code editor and I&apos;m 
 going to be specifically looking at Visual Studio Code, which I have pictured here 
 on this slide (see below). But I also have it open over here in this tab and you 
-can go down the download Visual Studio Code for Mac or Windows for free and it's a 
+can go down the download Visual Studio Code for Mac or Windows for free and it&apos;s a 
 great code editor if you prefer to use a different code editor such as Atom or Sublime 
-Text or something else. That's fine too. As long as it's got great features for editing 
-code and it's not a word processor like Microsoft Word. But I'll be using Visual Studio 
+Text or something else. That&apos;s fine too. As long as it&apos;s got great features for editing 
+code and it&apos;s not a word processor like Microsoft Word. But I&apos;ll be using Visual Studio 
 Code throughout this course, so it might be helpful for you to use that as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 93. visual studio editor on startup (64) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2113,10 +2123,10 @@ Code throughout this course, so it might be helpful for you to use that as well.
   alt="VS Editor on startup." />
 </p>
  
-<p>Sometimes when you open Visual Studio Code, you'll get these tabs open with the Welcome 
-or with new release notes if they've come out with a new version and you can just close 
-those tabs by clicking on the "X". You'll notice I have Visual Studio Code open in running 
-here, but I don't have any of those editors open and I can make a new file by just going 
+<p>Sometimes when you open Visual Studio Code, you&apos;ll get these tabs open with the Welcome 
+or with new release notes if they&apos;ve come out with a new version and you can just close 
+those tabs by clicking on the "X". You&apos;ll notice I have Visual Studio Code open in running 
+here, but I don&apos;t have any of those editors open and I can make a new file by just going 
 and choosing a new file, and that creates a new file here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94. visual studio startup screen (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2127,9 +2137,9 @@ and choosing a new file, and that creates a new file here.</p>
   alt="Visual Studio startup screen." />
 </p>
  
-<p>It's important with Visual Studio Code that before you do anything else, you save your 
-file. That way it knows what type of file you're working with. I'm going to choose file 
-save as, and I'm going to just save this as "myfile.hml". I'm going to save an HTML file, 
+<p>It&apos;s important with Visual Studio Code that before you do anything else, you save your 
+file. That way it knows what type of file you&apos;re working with. I&apos;m going to choose file 
+save as, and I&apos;m going to just save this as "myfile.hml". I&apos;m going to save an HTML file, 
 to begin with on my desktop. Once I have an HTML file, then I can get the basic HTML 
 structure by holding down "Shift", pressing an exclamation point, and then pressing "Tab" 
 and that will give me the basic structure for my page.</p>
@@ -2142,10 +2152,10 @@ and that will give me the basic structure for my page.</p>
   alt="Exclamation + [tab] for startup screen." />
 </p>
 
-<p>If you take an HTML class, you'll learn to type the doctype and to type all these tags, 
-we can use the shortcut. Again, what you did to get it, I'll just type exclamation point 
+<p>If you take an HTML class, you&apos;ll learn to type the doctype and to type all these tags, 
+we can use the shortcut. Again, what you did to get it, I&apos;ll just type exclamation point 
 and then press "Tab" and then you can come in here and give your document a name, "My File". 
-The title shows up in the tab in the browser. That's important. Great. I can save that.</p>
+The title shows up in the tab in the browser. That&apos;s important. Great. I can save that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96. visual studio startup screen (66) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2155,13 +2165,13 @@ The title shows up in the tab in the browser. That's important. Great. I can sav
   alt="Visual Studio startup screen." />
 </p>
 
-<p>Now, one thing to notice while we're here, see this dot up here, 
+<p>Now, one thing to notice while we&apos;re here, see this dot up here, 
 that means this file has changed and it has not yet been saved. One of the frequent 
 mistakes I see at the beginning with users getting started with, working with HTML 
-and CSS and JavaScript is they'll add things to the file and then they'll forget to 
-save them, and then they're going to run the file and they realize their changes 
-aren't showing up, so watch out for that little dot. You can get that to go away by 
-doing "File", "Save" over here or "Command S", "Control S" in windows, and then it'll 
+and CSS and JavaScript is they&apos;ll add things to the file and then they&apos;ll forget to 
+save them, and then they&apos;re going to run the file and they realize their changes 
+aren&apos;t showing up, so watch out for that little dot. You can get that to go away by 
+doing "File", "Save" over here or "Command S", "Control S" in windows, and then it&apos;ll 
 go back to just the X, which you would use to close that tab and close that window app, 
 and then I can open this back up again by dropping it here and that will open that file 
 again. That gives some basics of getting files and working in Visual Studio Code.</p>
@@ -2174,9 +2184,9 @@ again. That gives some basics of getting files and working in Visual Studio Code
   alt="Windows users: Show file extensions." />
 </p>
 
-<p>A important note, if you're on Windows is, open up any Explorer Window. Click on the 
+<p>A important note, if you&apos;re on Windows is, open up any Explorer Window. Click on the 
 "View" tab and then go over and verify box is checked in "File name extensions". That 
-way when you save your files, you'll see the ".html" file extension, and that's important. 
+way when you save your files, you&apos;ll see the ".html" file extension, and that&apos;s important. 
 But here I have a screenshot of it so please make sure you do that. Also. Make sure that 
 when you save files, the filename is always lowercase and never has a space in it so I have 
 "myfile" all as one word here. Do not put spaces in filenames.</p>
@@ -2191,21 +2201,21 @@ when you save files, the filename is always lowercase and never has a space in i
   alt="2.02 Visual Studio - Part 2." />
 </p>
 
-<p>I'm back in my code editor. And now, I'm ready to add a script. Let's add a script 
+<p>I&apos;m back in my code editor. And now, I&apos;m ready to add a script. Let&apos;s add a script 
 to this file. And we can see some JavaScript actually happened here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add &apos;my first script&apos; as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image099.png"
   style="width:50%"
-  title="Add 'My First Script' as an h1"
-  alt="Add 'My First Script' as an h1." />
+  title="Add &apos;My First Script&apos; as an h1"
+  alt="Add &apos;My First Script&apos; as an h1." />
 </p>
  
-<p>First, I'm going to put some HTML on the page, My First Script. And then you can 
+<p>First, I&apos;m going to put some HTML on the page, My First Script. And then you can 
 put scripts really anywhere inside this file. Sometimes they go in the head 
-of the page here inside the head tag. Frequently, you'll see them down here just 
-before the closing body tag. I'm going to make a script tag. And then it puts 
+of the page here inside the head tag. Frequently, you&apos;ll see them down here just 
+before the closing body tag. I&apos;m going to make a script tag. And then it puts 
 the cursor between the two, and I can move that down.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. add new variable var hello (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2218,11 +2228,11 @@ the cursor between the two, and I can move that down.</p>
 
 <p>And here I can make a variable, var hello = “Good Morning Bill!”;. And then in order 
 to get it to do something currently what we have to work with is the console. because 
-that's what I've shown you so far in the other lessons, we'll get to other things later. 
+that&apos;s what I&apos;ve shown you so far in the other lessons, we&apos;ll get to other things later. 
 And really pretty soon, but for right now we just have the console. So I can use 
 console.log, remember, we talked about this method before. (hello) to put that variable 
 or really the string associated with that variable into the console. So I can save this 
-file and there's the data up here, I have to save it. I can save the file and then I can 
+file and there&apos;s the data up here, I have to save it. I can save the file and then I can 
 go over to Chrome over here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101. file open, my first script (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2234,8 +2244,8 @@ go over to Chrome over here.</p>
 </p>
  
 <p>And I can go to File and open, or on Windows, you can do Cmd+O. And then here I am on my 
-desktop and I can open this file. And it comes up and it doesn't really look like much, 
-it's just a webpage and we're not even seeing the script run.</p>
+desktop and I can open this file. And it comes up and it doesn&apos;t really look like much, 
+it&apos;s just a webpage and we&apos;re not even seeing the script run.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 102. test, inspect, my first script (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2245,11 +2255,11 @@ it's just a webpage and we're not even seeing the script run.</p>
   alt="Test, inspect, My First Script." />
 </p>
 
-<p>But if we go and choose Inspect and then click on the Console, you'll see that it comes 
-up here. And my JavaScript is actually running. We've gotten our first script to run. 
+<p>But if we go and choose Inspect and then click on the Console, you&apos;ll see that it comes 
+up here. And my JavaScript is actually running. We&apos;ve gotten our first script to run. 
 The next thing to talk about is how we can make some comments in JavaScript in case we 
-want to remind ourselves exactly what we're doing. It's always good practice to add 
-comments to your scripts so that when you come back to them later, you know what's going on.</p>
+want to remind ourselves exactly what we&apos;re doing. It&apos;s always good practice to add 
+comments to your scripts so that when you come back to them later, you know what&apos;s going on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 103. comments with slash slash or slash, asterisk (70) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2261,7 +2271,7 @@ comments to your scripts so that when you come back to them later, you know what
 
 <p>There are two ways of making comments in JavaScript. I can use the slash twice, two 
 slashes, and I can type the variable is below, something like that, or the variable 
-below, I don't know we could say something else about it. But putting two slashes //, 
+below, I don&apos;t know we could say something else about it. But putting two slashes //, 
 two forward slashes here, will keep JavaScript from trying to do anything with this 
 line here. If you want to have a longer comment, you can use the slash and a star /* 
 and then end comment with a star and a slash */. And then I can put a longer comment 
@@ -2275,14 +2285,14 @@ about anything that I want and it can go multiple lines. See example in image.</
   alt="Make code larger with command/ctrl shift +." />
 </p>
 
-<p>While we're here, another thing that's important is I can actually make the code in the 
+<p>While we&apos;re here, another thing that&apos;s important is I can actually make the code in the 
 browser larger or smaller by pressing the Cmd plus or Ctrl plus in Windows on my keyboard 
-here, let's click on that. And that will make the code larger or smaller. And I can make 
+here, let&apos;s click on that. And that will make the code larger or smaller. And I can make 
 this window over here smaller too if the code is getting squished in there, you can close 
 it all together. This thing opens and closes that Explorer. But I can make the code 
 larger or smaller. And depending on how good your eyes are, you might want the code to be 
 larger or smaller, Cmd+0 will put it at its default size, but command minus will make it 
-smaller. So make sure you're setting your code to a size that's comfortable for you to read.</p>
+smaller. So make sure you&apos;re setting your code to a size that&apos;s comfortable for you to read.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-03">2.03 Visual Studio – Part 3 (9:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2304,11 +2314,11 @@ smaller. So make sure you're setting your code to a size that's comfortable for 
   alt="myfile.html." />
 </p>
 
-<p>This file, myfile.html, this file here is just sitting on my desktop. That's fine for a 
-single file, but usually, if I'm working on a project, I'm going to have a folder with a 
+<p>This file, myfile.html, this file here is just sitting on my desktop. That&apos;s fine for a 
+single file, but usually, if I&apos;m working on a project, I&apos;m going to have a folder with a 
 bunch of related files. I might have an HTML file. I might have a CSS file, I might have 
 multiple JavaScript files as we get going here. But for right now this is just a single 
-file. That's not really very useful by itself.</p>
+file. That&apos;s not really very useful by itself.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107/108. make folder and file (73) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2322,8 +2332,8 @@ file. That's not really very useful by itself.</p>
   alt="Make a file." />
 </p>
 
-<p>Over here I'm going to make a folder, and I'm going to give the folder a name, myProject. 
-Notice there are no spaces in that folder name. Also all the letters or lowercase. It doesn't 
+<p>Over here I&apos;m going to make a folder, and I&apos;m going to give the folder a name, myProject. 
+Notice there are no spaces in that folder name. Also all the letters or lowercase. It doesn&apos;t 
 have to be, so myProject. Then over here, close this file, and open up the sidebar here, 
 and no folder opened. I can actually open that folder, myProject.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2335,11 +2345,11 @@ and no folder opened. I can actually open that folder, myProject.</p>
   alt="Visual Studio welcome menu." />
 </p>
 
-<p>Now you can see I've got my welcome screen again and I've got MYPROJECT here. There's 
-no files in this folder currently. I just made a folder and it's empty, but I can put 
+<p>Now you can see I&apos;ve got my welcome screen again and I&apos;ve got MYPROJECT here. There&apos;s 
+no files in this folder currently. I just made a folder and it&apos;s empty, but I can put 
 a file in that folder and close that welcome screen.</p>
 
-<p>If I make a new file, suppose I make a file and call it index.html. That's going to be 
+<p>If I make a new file, suppose I make a file and call it index.html. That&apos;s going to be 
 an HTML file. I can put that in my folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 110. myfolder and index.hmtl (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2350,7 +2360,7 @@ an HTML file. I can put that in my folder.</p>
   alt="Myfolder and index.html." />
 </p>
  
-<p>Now you'll notice it's created the index file. Not only that, but if I look in 
+<p>Now you&apos;ll notice it&apos;s created the index file. Not only that, but if I look in 
 myProject folder over here, you can see that index.html has been created in that 
 folder. I can manage my whole project from here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2362,8 +2372,8 @@ folder. I can manage my whole project from here.</p>
   alt="Blank index.html." />
 </p>
 
-<p>Perhaps I have another file in here. I'm going to have styles.css. Maybe that's going 
-to have some styles for my webpage, and it's going to go into that file.</p>
+<p>Perhaps I have another file in here. I&apos;m going to have styles.css. Maybe that&apos;s going 
+to have some styles for my webpage, and it&apos;s going to go into that file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 112. files in myproject (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2373,7 +2383,7 @@ to have some styles for my webpage, and it's going to go into that file.</p>
   alt="Files in myProject." />
 </p>
 <p>Now that file is in the folder over here. In this way, I can control and keep track 
-of all the files for myProject and they're all in one place. Remember I said earlier, 
+of all the files for myProject and they&apos;re all in one place. Remember I said earlier, 
 you have to get really good at file management and you have to make sure that all the 
 files for a project stay in the folder. You might have other folders in the folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2387,11 +2397,11 @@ files for a project stay in the folder. You might have other folders in the fold
 </p>
 
 <p>If I come back here, I might make a folder for images. Now this is a folder, and currently 
-there's nothing in the folder, but if I look in this folder over here, you can see that the 
-folder images is here, and I can put images in there. Be careful when you're creating files, 
-not to accidentally put the file inside the folder if you don't mean to. If I click "New File" 
-here, it's going to create this file inside of Images, oops.html. This file is actually inside 
-the Images folder here, and I can see it over here as well. If I decide I don't want that file, 
+there&apos;s nothing in the folder, but if I look in this folder over here, you can see that the 
+folder images is here, and I can put images in there. Be careful when you&apos;re creating files, 
+not to accidentally put the file inside the folder if you don&apos;t mean to. If I click "New File" 
+here, it&apos;s going to create this file inside of Images, oops.html. This file is actually inside 
+the Images folder here, and I can see it over here as well. If I decide I don&apos;t want that file, 
 I can right-click here and choose "Delete". It will ask me, do I really want to move it to the 
 trash? and sure enough, from over here, that file is now not inside that folder and folder is 
 empty again. By working with this Explorer, we can create files and manage files for our 
@@ -2435,7 +2445,7 @@ your code editor, or perhaps you prefer a lighter theme.</p>
 </p>
 
 <p>I installed this Extension here called Atom One Light Theme. You can click on that, 
-and currently it's disabled, but I can enable this theme.</p>
+and currently it&apos;s disabled, but I can enable this theme.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 118. color theme editor (77) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2444,9 +2454,9 @@ and currently it's disabled, but I can enable this theme.</p>
   title="Color Theme Editor"
   alt="Color Theme Editor." />
 </p>
-<p>Select Color Theme. There we go. Here I've got the Color Themes and I can select 
+<p>Select Color Theme. There we go. Here I&apos;ve got the Color Themes and I can select 
 that. Sometimes you have to mess around with Extensions in the Theme Editor, in the 
-Settings to really figure it out. There's all themes that you can get for Visual 
+Settings to really figure it out. There&apos;s all themes that you can get for Visual 
 Studio Code to customize it and make it look the way you want it to look. I go back 
 to my files and here I am.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2458,8 +2468,8 @@ to my files and here I am.</p>
   alt="Display new menu screen theme in Visual Studio." />
 </p>
 
-<p>Now you'll notice that my files will look a little bit different because I'm using 
-the Atom one light theme. Just to remember here, we've done quite a lot to make this 
+<p>Now you&apos;ll notice that my files will look a little bit different because I&apos;m using 
+the Atom one light theme. Just to remember here, we&apos;ve done quite a lot to make this 
 page. You can see here I am in myProject again for my Index file. I come over here 
 and click.</p>
  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2473,12 +2483,12 @@ and click.</p>
 
 <p>Just to review what we did in this lesson, I can type an exclamation point press 
 tab (![tab]) to get the basic structure of a page. I can add a title for my document 
-that will show up on my page. I can add some HTML. I'm just going to add an h1. Here 
+that will show up on my page. I can add some HTML. I&apos;m just going to add an h1. Here 
 is a heading. Then I can add some script tags, and I can add a script to my page. I 
 could do something like var myVariable and set it to "hello". Then I could cancel 
 logout console.log myVariable. Notice it pops up here. I can even just press carriage 
-return, don't even have to type the whole thing. I can just press return to get it to 
-pop that in place so I make sure I don't spell it wrong. Then a semicolon. Semicolons 
+return, don&apos;t even have to type the whole thing. I can just press return to get it to 
+pop that in place so I make sure I don&apos;t spell it wrong. Then a semicolon. Semicolons 
 are used in JavaScript at the ends of statements. I can save that file, and then I 
 can come back to the browser and test it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2490,20 +2500,20 @@ can come back to the browser and test it.</p>
   alt="Test, myProject, here is a heading." />
 </p>
 
-<p>Let's do that real quick. Comeback here to Chrome. This is the other file. I'm going 
+<p>Let&apos;s do that real quick. Comeback here to Chrome. This is the other file. I&apos;m going 
 to open this file. I could do Command All, there we go myProject index, and there it 
-is. It's doing Hello there. The Hello came up in the Console lock there. That's a 
+is. It&apos;s doing Hello there. The Hello came up in the Console lock there. That&apos;s a 
 review of everything we learned in this lesson. Your now able to work with files 
 and get those files to output content into the console that you can then test in 
-your browser. That's a great way of working.</p>
+your browser. That&apos;s a great way of working.</p>
 
 <p>Another way of opening your file is to right-click on the file and choose "Open 
 With" and I want to open with the browser, you could even try a different browser. 
 Brave is a great browser to try. Brave is using the same rendering engine as Chrome. 
-It actually works the same way as Chrome generally. What's interesting about Brave is 
-that the CEO of Brave is actually that Brendan Eich guy who invented JavaScript. It's 
+It actually works the same way as Chrome generally. What&apos;s interesting about Brave is 
+that the CEO of Brave is actually that Brendan Eich guy who invented JavaScript. It&apos;s 
 interesting to note that the guy invented Java Script is now in the business of 
-creating a browser. That's interesting. Great. This will get you started and I look 
+creating a browser. That&apos;s interesting. Great. This will get you started and I look 
 forward to seeing you in the next lesson where we can start writing some interesting 
 scripts.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2528,9 +2538,9 @@ scripts.</p>
 </p>
 
 <p>Operators in JavaScript are the symbols that will allow us to create different 
-expressions in JavaScript. And here are just a few of them. We've already seen the 
+expressions in JavaScript. And here are just a few of them. We&apos;ve already seen the 
 plus sign and the equal sign, which remember, equals is an assignment operator. 
-There's also minus and the asterisk is used to multiply and forward slashes used 
+There&apos;s also minus and the asterisk is used to multiply and forward slashes used 
 to divide and the percent is a modules operator.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 124/125. comparison operators/bitwise operators (81) ~~~~~~~~~~~~~~~~~~~~-->
@@ -2549,7 +2559,7 @@ to divide and the percent is a modules operator.</p>
 website and look at the different operators though. Get all listed here comparison 
 operators, logical operators, all kinds of stuff here. So you can come through and 
 find all the details about all of the different operators if you want to there. But 
-we're just going to start with a few of them so it's not too overwhelming and most 
+we&apos;re just going to start with a few of them so it&apos;s not too overwhelming and most 
 of the operators are very similar to what you would find in other C-based programming 
 languages. C, C++, C sharp, Objective C, and so forth.<p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2561,16 +2571,16 @@ languages. C, C++, C sharp, Objective C, and so forth.<p>
   alt="Booleans in JavaScript." />
 </p>
 
-<p>Okay, so there's also Booleans in JavaScript. And it's very nice to know that a 
-Boolean can have two values true or false. And that's it. So here I'm making a 
-variable called happy. And I've set I've assigned it the value of true. Notice 
+<p>Okay, so there&apos;s also Booleans in JavaScript. And it&apos;s very nice to know that a 
+Boolean can have two values true or false. And that&apos;s it. So here I&apos;m making a 
+variable called happy. And I&apos;ve set I&apos;ve assigned it the value of true. Notice 
 that true is not inside quotes. JavaScript knows what true means true is a key 
 word that means that something is true. And false is a key word that means that 
 something is false.</p>
 
-<p>So I have a variable here sad, that's false. I can use an if statement to check 
+<p>So I have a variable here sad, that&apos;s false. I can use an if statement to check 
 to see if something is true. So if happy, now happy has assigned true to it, so 
-it's going to do something here. If I were to replace happy with sad. Then the else 
+it&apos;s going to do something here. If I were to replace happy with sad. Then the else 
 would fire it instead of they have and we would do something down here if happy was 
 false. Or if I change the value here from true to false, then happy would be false. 
 And it would do this down here. So that gets us started with a little bit of that.</p>
@@ -2583,7 +2593,7 @@ And it would do this down here. So that gets us started with a little bit of tha
   alt="Customize the Visual Studio editor theme." />
 </p>
 
-<p>So next we're going to move to our code editor and make a file and try working with 
+<p>So next we&apos;re going to move to our code editor and make a file and try working with 
 some selections and Booleans and that kind of fun stuff.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. vs code editor, make file (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2594,10 +2604,10 @@ some selections and Booleans and that kind of fun stuff.</p>
   alt="Make a file in Visual Studio editor; selections.html." />
 </p>
 
-<p>Here I am in my code editor, and I'm going to make a new file. And I'm going to make 
-a file and before I do anything, I'm going to save the file. Save an image, just save 
-it on the desktop, and I'm going to call it selections.html. Notice all lowercase no 
-spaces in the dot html extension. I'm going to save that on the desktop.</p>
+<p>Here I am in my code editor, and I&apos;m going to make a new file. And I&apos;m going to make 
+a file and before I do anything, I&apos;m going to save the file. Save an image, just save 
+it on the desktop, and I&apos;m going to call it selections.html. Notice all lowercase no 
+spaces in the dot html extension. I&apos;m going to save that on the desktop.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 129. exclamation/tab for basic structure (83) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2608,8 +2618,8 @@ spaces in the dot html extension. I'm going to save that on the desktop.</p>
 </p>
 
 <p>Exclamation point will allow me to press tab, which gives me kind of my basic 
-structure for an HTML page. And then I'm going to type in here. Testing selections 
-and there we go. And then in here I'm just going to add an h1 testing selections.</p>
+structure for an HTML page. And then I&apos;m going to type in here. Testing selections 
+and there we go. And then in here I&apos;m just going to add an h1 testing selections.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. add script & two variables (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2619,10 +2629,10 @@ and there we go. And then in here I'm just going to add an h1 testing selections
   alt="Add script and two variables." />
 </p>
 
-<p>Now, I'm going to add a script tag. So we'll go ahead and add a script in here. And 
-then what are we going to put in the script? Well, let's make some bullets I'm going 
-to have Var red and I'm going to set that to value true. Then we have var blue and 
-I'm going to set that to value of false. There we go. So I've got two values here. 
+<p>Now, I&apos;m going to add a script tag. So we&apos;ll go ahead and add a script in here. And 
+then what are we going to put in the script? Well, let&apos;s make some bullets I&apos;m going 
+to have Var red and I&apos;m going to set that to value true. Then we have var blue and 
+I&apos;m going to set that to value of false. There we go. So I&apos;ve got two values here. 
 One is set to true and the other one is set to false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. if red, then do something (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2634,8 +2644,8 @@ One is set to true and the other one is set to false.</p>
 </p>
 
 <p>Now if I were to make an if statement if parentheses, and I were to check the value 
-of those red. I'm going to check the value of red. If red is true, which is it is, 
-then something's going to happen here. Red is going to evaluate to true because I 
+of those red. I&apos;m going to check the value of red. If red is true, which is it is, 
+then something&apos;s going to happen here. Red is going to evaluate to true because I 
 have true assigned to the red variable here. If I were to put blue in here, then 
 this would not be true, in which case something else would happen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2647,7 +2657,7 @@ this would not be true, in which case something else would happen.</p>
   alt="Add an else statement for false." />
 </p>
 
-<p>I'm going to come down here and add else, which is exectued when false. Therefore,
+<p>I&apos;m going to come down here and add else, which is exectued when false. Therefore,
 console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 133. test, inspect console boolean (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2658,8 +2668,8 @@ console.log states false.</p>
   alt="Test, inspect console boolean." />
 </p>
 
-<p>Now we can try this out and come over here to our browser. I'm going to make a new 
-tab here and open this file selections. Open, and I've got my testing selections. If I 
+<p>Now we can try this out and come over here to our browser. I&apos;m going to make a new 
+tab here and open this file selections. Open, and I&apos;ve got my testing selections. If I 
 right click and choose inspect, I can go to the console and sure enough, the statement 
 is true.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2671,7 +2681,7 @@ is true.</p>
   alt="Add else statement." />
 </p>
 
-<p>I'm going to come down here and add else is executed when false. Therefore, 
+<p>I&apos;m going to come down here and add else is executed when false. Therefore, 
 console.log states false.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 135/136. testing selections; red=true, blue=false (86) ~~~~~~~~~~~~~~~~~~~-->
@@ -2686,7 +2696,7 @@ console.log states false.</p>
   alt="Testing Selections; new vars; red=true, blue=false." />
 </p>
 
-<p>Usually you'll see more like this, I just add the extra space in there just to make it a little bit easier to read and a little bit easier to evaluate. So red is either blue false or true. And blue is either false or true because I've used these Boolean 's here.</p>
+<p>Usually you&apos;ll see more like this, I just add the extra space in there just to make it a little bit easier to read and a little bit easier to evaluate. So red is either blue false or true. And blue is either false or true because I&apos;ve used these Boolean &apos;s here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-05">2.05 Try This! (3:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2751,12 +2761,12 @@ false, <b>zero</b> is false. <b>False</b> is false. Other things are true.</p>
 <p align="center" width="100%">
 <img src="./images/image142.png"
   style="width:45%"
-  title="var green = 'cheese' is true"
-  alt="var green = 'cheese' is true." />
+  title="var green = &apos;cheese&apos; is true"
+  alt="var green = &apos;cheese&apos; is true." />
 <img src="./images/image143.png"
   style="width:45%"
-  title="Test, var green = 'cheese' is true"
-  alt="Test, var green = 'cheese' is true." />
+  title="Test, var green = &apos;cheese&apos; is true"
+  alt="Test, var green = &apos;cheese&apos; is true." />
 </p>
 
 <p>But if I put Cheese Cheese is true. So that&apos;s an interesting thing
@@ -2863,7 +2873,7 @@ use less than and greater than and check to see if that&apos;s true.</p>
   alt="Test, not equal as false." />
 </p>
 
-<p>We're going to try a little mix. var <b>notNum</b> equals five. So this
+<p>We&apos;re going to try a little mix. var <b>notNum</b> equals five. So this
 five is a string with the number five in it. Now can I check to see if
 <b>myNum</b> is the same as <b>notNum</b>? Do you think I&apos;m going to get
 there if I save that and try that? The statement is true. Well, that&apos;s
@@ -2974,7 +2984,7 @@ testing values.</p>
 true. Practice this stuff as much as you can and get used to the syntax.
 By just writing the stuff and making mistakes and forgetting to put in
 the semicolon and the curly braces or the square brackets and seeing
-what happens when you get in here. Let's type this in.</p>
+what happens when you get in here. Let&apos;s type this in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 161/162. example of else if with test (95) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3516,7 +3526,7 @@ loop, I&apos;m going to do for var each color of colors. It knows what
 colors is because that&apos;s been defined here. Each color is putting var
 here because I&apos;m creating a new variable there. Then down here I can do
 <b>console.log</b> each color. You&apos;ll see that when this runs over here, I
-get each color. There are other methods used for looping that we'll talk
+get each color. There are other methods used for looping that we&apos;ll talk
 about later. Basically, there is; <b>for of, for in</b>, and <b>for Each</b>
 methods of looping in JavaScript.</p>
 
@@ -3842,20 +3852,20 @@ Here is a resource related to these lessons:
   alt="Definition Structured Programming; Sequence, selection &amp; loop." />
 </p>
 
-<p>In this lesson, we're going to put together some of what you've already learned and 
-what you've already been doing and see if we can make some sense out of it. In 
-Structured Programming, we make use of these three structures we've already started 
+<p>In this lesson, we&apos;re going to put together some of what you&apos;ve already learned and 
+what you&apos;ve already been doing and see if we can make some sense out of it. In 
+Structured Programming, we make use of these three structures we&apos;ve already started 
 working with. <b><i>Sequence</i></b>, 1st, you do this, then you do that, finally, you do this 
 over here. With JavaScript, you start at the top of the script and you work your 
 way down the script and JavaScript does everything in the script one thing at a 
 time in a <b><i>sequence</i></b>.</p>
 
-<p>With <b><i>selections</i></b>, we're checking to see if some condition is met. If this is 
+<p>With <b><i>selections</i></b>, we&apos;re checking to see if some condition is met. If this is 
 true, do this, otherwise, do that. Then with <b><i>loops</i></b>, while a condition is true, 
-we're going to continue to do something. With the scripts that we have next, 
-we're going to learn a little bit about JavaScript string methods, while also 
-practicing some of these techniques you've already learned a little bit about 
-with <b><i>loops</i></b> and <b><i>selections</i></b> and these kinds of things. Hopefully, you'll start 
+we&apos;re going to continue to do something. With the scripts that we have next, 
+we&apos;re going to learn a little bit about JavaScript string methods, while also 
+practicing some of these techniques you&apos;ve already learned a little bit about 
+with <b><i>loops</i></b> and <b><i>selections</i></b> and these kinds of things. Hopefully, you&apos;ll start 
 to see the expressive power of JavaScript. </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 212. methods of text/string manipulation (123) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3970,88 +3980,96 @@ That works great. Let&apos;s see, what should we do next.
   alt="2.15 Sequence - Part 2." />
 </p>
  
-<p>Next, we'll do some more surgery on our strengths.</p>
+<p>Next, we&apos;ll do some more surgery on our strengths.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 219. example, sequence part 2 (128) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image219.png"
   style="width:50%"
+  title="Example, Sequence Part 2"
   alt="Example, Sequence Part 2." />
 </p>
 
-What, we're going to do first here is we're going to pull out the word ''really''. 
-So I'm going to make a variable called reallyLocation, and I'm going to use the search 
-method to find out where this word ''really'' in my string starts.
+What, we&apos;re going to do first here is we&apos;re going to pull out the word &apos;&apos;really&apos;&apos;. 
+So I&apos;m going to make a variable called reallyLocation, and I&apos;m going to use the search 
+method to find out where this word &apos;&apos;really&apos;&apos; in my string starts.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 220/221. test, output - sequence part 2 (128) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image220.png"
   style="width:45%"
+  title="Answer test, sequence part 2"
   alt="Answer test, sequence part 2." />
 <img src="./images/image221.png"
   style="width:45%"
+  title="Output test, sequence part 2"
   alt="Output test, sequence part 2." />
 </p>
 
-<p>What this is going to return is a number of that location. So let's do that first. Var 
-reallyLocation equals myString.search really. Then I'm just going to console log out 
-reallyLocation just so you see you can see exactly what that's getting. Assuming I 
-did that right and I did. That's getting a five. What that means is that if I count 
+<p>What this is going to return is a number of that location. So let&apos;s do that first. Var 
+reallyLocation equals myString.search really. Then I&apos;m just going to console log out 
+reallyLocation just so you see you can see exactly what that&apos;s getting. Assuming I 
+did that right and I did. That&apos;s getting a five. What that means is that if I count 
 from here 0, 1, 2, 3, 4, 5, this is character Number 5. It starting at a five. How 
-many characters do I want to get? I'm going to get six characters.</p>
+many characters do I want to get? I&apos;m going to get six characters.</p>
 
-<p>So I'm going to use the substring function or method here, and I'm going to pass in 
-reallyLocation which is location five, and I'm going to get six characters. What that's 
-going to do is it's going to pull out into this variable, special word, the word 
-''really''. It's going to start at five from myString and get six characters.</p>
+<p>So I&apos;m going to use the substring function or method here, and I&apos;m going to pass in 
+reallyLocation which is location five, and I&apos;m going to get six characters. What that&apos;s 
+going to do is it&apos;s going to pull out into this variable, special word, the word 
+&apos;&apos;really&apos;&apos;. It&apos;s going to start at five from myString and get six characters.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 222/223. string.substring & console (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image222.png"
   style="width:45%"
+  title="substring"
   alt="substring." />
 <img src="./images/image223.png"
   style="width:45%"
+  title="Console, myString"
   alt="Console, myString." />
 </p>
 
-So let's do that. Var specialWord equals string.substring, and I'm going to start 
-with reallyLocation and get six characters. If I console log special word, you'll 
-see that what that's getting for me. It's myString.
+So let&apos;s do that. Var specialWord equals string.substring, and I&apos;m going to start 
+with reallyLocation and get six characters. If I console log special word, you&apos;ll 
+see that what that&apos;s getting for me. It&apos;s myString.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 224/225. working with sequence, selection & loop (129) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image224.png"
   style="width:45%"
+  title="Working with Sequence, Selection and Loop"
   alt="Working with Sequence, Selection and Loop." />
 <img src="./images/image225.png"
   style="width:45%"
+  title="Console, toUpperCase"
   alt="Console, toUpperCase." />
 </p>
 
-So I've got that, now I'm going to take specialWord and assign it back to itself, 
-but uppercased. I'm going to say specialWord, I'm going to assign it 
-specialWord.toUpperCase. So now it's going to be uppercase, and then what I'm 
-going to do is I'm going to make a newString and I'm going to replace ''really'' 
-with specialWord into the original myString here, and then I'll console log out 
-newString. So let's do that. Var newString equals myString.replace. Which order 
-does it go in? I'm going to replace ''really'' with specialWord. SpecialWord like 
-so and then I'll console. console.log newString. What I should get is I am really 
-hungry for some, so I'm getting the capital word ''really'' there. 
+So I&apos;ve got that, now I&apos;m going to take specialWord and assign it back to itself, 
+but uppercased. I&apos;m going to say specialWord, I&apos;m going to assign it 
+specialWord.toUpperCase. So now it&apos;s going to be uppercase, and then what I&apos;m 
+going to do is I&apos;m going to make a newString and I&apos;m going to replace &apos;&apos;really&apos;&apos; 
+with specialWord into the original myString here, and then I&apos;ll console log out 
+newString. So let&apos;s do that. Var newString equals myString.replace. Which order 
+does it go in? I&apos;m going to replace &apos;&apos;really&apos;&apos; with specialWord. SpecialWord like 
+so and then I&apos;ll console. console.log newString. What I should get is I am really 
+hungry for some, so I&apos;m getting the capital word &apos;&apos;really&apos;&apos; there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 226. example, sequence 2 (130) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image226.png"
   style="width:50%"
+  title="Example, Sequence 2, substr, toUpperCase, replace"
   alt="Example, Sequence 2, substr, toUpperCase, replace." />
 </p>
 
 But this is a sequence, JavaScript is doing a sequence of things, one thing after 
-another, we're just doing a sequence of things here. JavaScript goes through the 
-script one step at a time, and we're just learning about some string methods along 
-the way. We've learned about a few of them already, uppercase and replace and 
-search and substring, and there's a lot more here that you can go through and 
-learn. But that'll get you started to begin with the various string methods that 
+another, we&apos;re just doing a sequence of things here. JavaScript goes through the 
+script one step at a time, and we&apos;re just learning about some string methods along 
+the way. We&apos;ve learned about a few of them already, uppercase and replace and 
+search and substring, and there&apos;s a lot more here that you can go through and 
+learn. But that&apos;ll get you started to begin with the various string methods that 
 are available in JavaScript for doing string surgery.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4061,7 +4079,8 @@ are available in JavaScript for doing string surgery.
 <p align="center" width="100%">
 <img src="./images/image227.png"
   style="width:50%"
-  alt="2.16. Sequence, Part 3, Loop." />
+  title="2.16 Sequence, Part 3, Loop"
+  alt="2.16 Sequence, Part 3, Loop." />
 </p>
 For the next step in our sequence, make an array called foods and put four foods 
 in the array. Then use the string literal syntax. 
@@ -4070,6 +4089,7 @@ in the array. Then use the string literal syntax.
 <p align="center" width="100%">
 <img src="./images/image228.png"
   style="width:50%"
+  title="Sequence, Part 3"
   alt="Sequence, Part 3." />
 </p>
 
@@ -4081,98 +4101,105 @@ then the first element in the foods array. See if you can do that.
 <p align="center" width="100%">
 <img src="./images/image229.png"
   style="width:50%"
+  title="Example, Sequence 3 Result"
   alt="Example, Sequence 3 Result." />
 </p>
 
 Pause the video and see if you can do that without looking at the answer that I have 
-next and when you're done, unpause the video and come back and we'll see how I did it. 
-Did you get something like this? I have myString in here again, but you shouldn't need 
+next and when you&apos;re done, unpause the video and come back and we&apos;ll see how I did it. 
+Did you get something like this? I have myString in here again, but you shouldn&apos;t need 
 that because we already have that on our file but you should have an array and then 
 the console.log with the template literal, takes a little getting used to the template 
-literal thing. Let's do that part together. 
+literal thing. Let&apos;s do that part together. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 230. array of foods in script (132) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image230.png"
   style="width:50%"
+  title="Create array of foods in script"
   alt="Create array of foods in script." />
 </p>
 
-So over here you can see I've added the array and then here I need to add the template 
+So over here you can see I&apos;ve added the array and then here I need to add the template 
 literal. And the best way to do this is to just type the variables myString. Then I 
-want a space and I want foods square bracket 0. But these are variables. So I'm going 
+want a space and I want foods square bracket 0. But these are variables. So I&apos;m going 
 to come in here and add a dollar sign and a curly brace, and a curly brace. Then a 
 dollar sign and a curly brace and the curly brace around it. If you do it that way, 
-you'll understand it better if you always work from the inside out or the outside in, 
-in this case, we're working from the inside out. But if you work that way, it'll make 
+you&apos;ll understand it better if you always work from the inside out or the outside in, 
+in this case, we&apos;re working from the inside out. But if you work that way, it&apos;ll make 
 it easier for you to understand. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. for loop (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image231.png"
   style="width:50%"
+  title="For loop"
   alt="For loop." />
 </p>
 
 Then over here I can actually run that and I should be getting, "I am really hungry 
 for some cheese". So that works perfectly well. The next thing to do is to see if you 
-can use a loop and loop through all of the elements in the array. I'm really hungry 
+can use a loop and loop through all of the elements in the array. I&apos;m really hungry 
 for some cheese, for some pie, for some lunch, for some breakfast. All of these elements. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. for i=0; loop i++ (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image232.png"
   style="width:50%"
+  title="For i=0; loop i++"
   alt="For i=0; loop i++." />
 </p>
 
-I'm going to say var i equals 0. So I'm going to start at 0. For i is less than 
+I&apos;m going to say var i equals 0. So I&apos;m going to start at 0. For i is less than 
 foods.length. Now I could stick in here a four instead of foods.length, but this 
-is better practice. Foods.length i plus, plus. Then I'm going to console.log out 
-this line here. We're just going to stick that in there. But instead of food 0, 
-I'm going put an i in there because i is going to get each one of these. In fact, 
-just so you don't get confused, I'm going to comment that line out there just so 
+is better practice. Foods.length i plus, plus. Then I&apos;m going to console.log out 
+this line here. We&apos;re just going to stick that in there. But instead of food 0, 
+I&apos;m going put an i in there because i is going to get each one of these. In fact, 
+just so you don&apos;t get confused, I&apos;m going to comment that line out there just so 
 I can see that this is really working. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. test, loop (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image233.png"
   style="width:50%"
+  title="Test, loop"
   alt="Test, loop." />
 </p>
 
-First time through the loop, i is 0, so it's going to print out, I'm really hungry for 
+First time through the loop, i is 0, so it&apos;s going to print out, I&apos;m really hungry for 
 some space food square bracket 0 because i is 0, i gets incremented to one. So the second 
 time through the loop, one is less than four because remember this is going to be a four. 
-So it'll go through again and you'll get pie. Then the third time through the loop it's 
-going to get breakfast, and the fourth time through the loop it's going to get lunch. 
-Then i gets incremented to four because it's 0, 1, 2, 3. So i is going to get incremented 
-to four, four is not less than four. So the loop will bust out. Let's see if that works. 
-There we go. We're getting all of it there. That's great. 
+So it&apos;ll go through again and you&apos;ll get pie. Then the third time through the loop it&apos;s 
+going to get breakfast, and the fourth time through the loop it&apos;s going to get lunch. 
+Then i gets incremented to four because it&apos;s 0, 1, 2, 3. So i is going to get incremented 
+to four, four is not less than four. So the loop will bust out. Let&apos;s see if that works. 
+There we go. We&apos;re getting all of it there. That&apos;s great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. for var each loop (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image234.png"
   style="width:50%"
+  title="For var each loop"
   alt="For var each loop." />
 </p>
 
-Now, what if you wanted to use the for-of loop? I'm going to just comment that out. For var, 
-eachFood of foods, something like that will work. It doesn't have to be eachFood, you could 
-do i if you wanted to. Then in here, we're going to do the same thing. We're just going to 
+Now, what if you wanted to use the for-of loop? I&apos;m going to just comment that out. For var, 
+eachFood of foods, something like that will work. It doesn&apos;t have to be eachFood, you could 
+do i if you wanted to. Then in here, we&apos;re going to do the same thing. We&apos;re just going to 
 basically take this and stick it here, but now instead of foods, this foods i, this is going 
-to be eachFood. I'm still going to print out myString, but now this is going to be eachFood. 
+to be eachFood. I&apos;m still going to print out myString, but now this is going to be eachFood. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. test, for var each loop (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image235.png"
   style="width:50%"
+  title="Test, for var each loop"
   alt="Test, for var each loop." />
 </p>
 
 The first time through the loop, eachFood is going to be cheese. Then the second time through 
-the loop it's going to be pie and then it's going to be breakfast, and then it's going to be 
-lunch. We should get exactly the same results so let's go test it out to be sure. Sure enough, 
+the loop it&apos;s going to be pie and then it&apos;s going to be breakfast, and then it&apos;s going to be 
+lunch. We should get exactly the same results so let&apos;s go test it out to be sure. Sure enough, 
 I get the same results.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-17">2.17 Loop + Selection (8:20)</h2>
@@ -4181,75 +4208,81 @@ I get the same results.
 <p align="center" width="100%">
 <img src="./images/image236.png"
   style="width:50%"
-  alt="2.17. Loop + Selection." />
+  title="2.17 Loop + Selection"
+  alt="2.17 Loop + Selection." />
 </p>
 
-Next we'll bring selection into the mix. 
+Next we&apos;ll bring selection into the mix. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 237. example, loop + selection (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image237.png"
   style="width:50%"
+  title="Example, Loop + Selection"
   alt="Example, Loop + Selection." />
 </p>
 
-Now, inside our loop, we're going to check to see if the element in the loop is 
-even or odd. If it's even, we're going to make the word for the food that we're 
+Now, inside our loop, we&apos;re going to check to see if the element in the loop is 
+even or odd. If it&apos;s even, we&apos;re going to make the word for the food that we&apos;re 
 getting out of the array all uppercase like this over here. This should be your 
 results. I am hungry for some CHEESE, all capital letters there, and I am hungry 
-for some pie and that one's normal, and then LUNCH is going to be uppercase. Now 
-you might be wondering, well, wait a minute, that's not even. But remember we're 
+for some pie and that one&apos;s normal, and then LUNCH is going to be uppercase. Now 
+you might be wondering, well, wait a minute, that&apos;s not even. But remember we&apos;re 
 starting with zero so this is zero, this is one, this is two, this is three. 
 These two really are the even ones. 
 In JavaScript, you can determine if something is even or odd by using the modulus 
 operator, which is the percent sign. We can figure out when we divide something 
-and use the percent sign if the remainder is zero, then it's even if you divide 
+and use the percent sign if the remainder is zero, then it&apos;s even if you divide 
 something by two. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 238. for var i=0 length array i++ (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image238.png"
   style="width:50%"
+  title="For var i=0, length of array, i++"
   alt="For var i=0, length of array, i++." />
 </p>
 
-Let's do this together. Here I am with my loop and I got rid of the for of loop. 
-This one's really going to work better because we already have i working as an 
+Let&apos;s do this together. Here I am with my loop and I got rid of the for of loop. 
+This one&apos;s really going to work better because we already have i working as an 
 incrementor with numbers. So we can just work with i to do this. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239. example to console.log (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image239.png"
   style="width:50%"
+  title="Example to console.log"
   alt="Example to console.log." />
 </p>
 
-Initially, I'm going to add this var remainder i percent two. Now, what that's going to 
-do is each time through the loop, it's going to take i and divide it by two and see what 
+Initially, I&apos;m going to add this var remainder i percent two. Now, what that&apos;s going to 
+do is each time through the loop, it&apos;s going to take i and divide it by two and see what 
 the remainder is. The first time through the loop, I take zero. Zero divided by two is 
-zero. That's going to be a zero, that's even. One divided by two is not zero. Two 
+zero. That&apos;s going to be a zero, that&apos;s even. One divided by two is not zero. Two 
 divided by two is zero, so on and so forth. If remainder is exactly the same as zero, 
-we could do same as, but just to be absolutely sure, exactly the same as zero. If it's 
-exactly the same as zero, then what we're going to do is we're going to make a variable 
-var foodUpper and assign it foods [ i ]. That's going to get that first food, whatever 
-is there and due toUpperCase. Then I'm going to print out basically this. But instead 
-of foods i down there, I can print out this one here. I think that'll work. Else we'll 
+we could do same as, but just to be absolutely sure, exactly the same as zero. If it&apos;s 
+exactly the same as zero, then what we&apos;re going to do is we&apos;re going to make a variable 
+var foodUpper and assign it foods [ i ]. That&apos;s going to get that first food, whatever 
+is there and due toUpperCase. Then I&apos;m going to print out basically this. But instead 
+of foods i down there, I can print out this one here. I think that&apos;ll work. Else we&apos;ll 
 just do this. Save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. test, loop + selection (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image240.png"
   style="width:40%"
+  title="Test, loop + selection"
   alt="Test, loop + selection." />
 </p>
 
-Did I do it right? Let's see. Refresh my page here and look at that it's working. 
-That's great. Did you get something like that? That's great. 
+Did I do it right? Let&apos;s see. Refresh my page here and look at that it&apos;s working. 
+That&apos;s great. Did you get something like that? That&apos;s great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. example, refacturing code (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image241.png"
   style="width:50%"
+  title="Example, Refacturing Code"
   alt="Example, Refacturing Code." />
 </p>
 
@@ -4258,9 +4291,9 @@ first time and then look at it later and realize that could be a little bit simp
 I could simplify that a little bit. Refactoring code is the process of taking your 
 code and not changing its functionality at all, but making it simpler, finding ways 
 of making it shorter and making it more concise, making it more readable. Sometimes 
-those things don't all go together. Sometimes making it more concise, makes it less 
-readable. But really you're looking for the right balance of conciseness and 
-readability when you're refactoring your code. We could take that same piece that 
+those things don&apos;t all go together. Sometimes making it more concise, makes it less 
+readable. But really you&apos;re looking for the right balance of conciseness and 
+readability when you&apos;re refactoring your code. We could take that same piece that 
 we wrote and refactor it a little bit so that we could get rid of that extra 
 variable here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4268,26 +4301,28 @@ variable here.
 <p align="center" width="100%">
 <img src="./images/image242.png"
   style="width:50%"
+  title="Example test, Sequence, Selection & Loop"
   alt="Example test, Sequence, Selection & Loop." />
 </p>
 
-Let's do that really quickly over here. Frequently, students will tell me when 
-they're working through my examples they'll say, "Oh, wow, I tried it and I 
+Let&apos;s do that really quickly over here. Frequently, students will tell me when 
+they&apos;re working through my examples they&apos;ll say, "Oh, wow, I tried it and I 
 ended up with way more code than you did. Yours is much more concise." Well, 
-that's because I've refactored mine down quite a bit. Nobody writes it perfectly 
-the first time so don't feel bad about that. Always just keep working at it, 
+that&apos;s because I&apos;ve refactored mine down quite a bit. Nobody writes it perfectly 
+the first time so don&apos;t feel bad about that. Always just keep working at it, 
 look for ways of taking your code and saying, you know what, this could be a 
-little bit simpler. I'm going to take that, I'm going to save it and I'm going 
+little bit simpler. I&apos;m going to take that, I&apos;m going to save it and I&apos;m going 
 to just make sure that it still runs exactly the same way. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 243. test, sequence, selection & loop (140) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image243.png"
   style="width:50%"
+  title="Test, Sequence, Selection and Loop"
   alt="Test, Sequence, Selection and Loop." />
 </p>
 
-Make sure I did that right, and I did, so that's fine. 
+Make sure I did that right, and I did, so that&apos;s fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. example, make comments (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4297,15 +4332,15 @@ Make sure I did that right, and I did, so that's fine.
   alt="Example, Make Comments." />
 </p>
  
-Another thing you can do that's really helpful is make comments. If you're not really 
+Another thing you can do that&apos;s really helpful is make comments. If you&apos;re not really 
 sure that you can refactor something down, but then it can become less readable and it 
 can be helpful to put comments in there to help you make sure when you come back to it 
 later that you know what you did and that it will make sense to your future self. You 
-can go ahead and come in here and add comments. I'll put it up here. Checking to see 
+can go ahead and come in here and add comments. I&apos;ll put it up here. Checking to see 
 if the incrementor is even. Something like that will be helpful later perhaps and you 
 could add more comments in here. As you refactoring, be sure to do that as well. 
-Once you've added your comments and refactored your code, you've done a great job at 
-working with sequence selection and loops. We're going to get more practice with those 
+Once you&apos;ve added your comments and refactored your code, you&apos;ve done a great job at 
+working with sequence selection and loops. We&apos;re going to get more practice with those 
 as pretty much every script that we write will have some combination of them as we go 
 along. Great, see you in the next lesson.
 
@@ -4338,7 +4373,7 @@ results.
   alt="Example, Challenge 1." />
 </p>
 
-The way the challenges work is, I'll give you a challenge. This first one is fairly 
+The way the challenges work is, I&apos;ll give you a challenge. This first one is fairly 
 simple. Write a script that prints out your first name on one line, your last name 
 on the next line. Very basic challenge. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4350,9 +4385,9 @@ on the next line. Very basic challenge.
   alt="Set up Challenge 1." />
 </p>
 
-But what you should do is set up your file. I have a file set up here, and then you'll 
-come in here, and it's very normal to be, "Okay, what do I do first?" I don't even know 
-what the first thing is to do, and that's fine. 
+But what you should do is set up your file. I have a file set up here, and then you&apos;ll 
+come in here, and it&apos;s very normal to be, "Okay, what do I do first?" I don&apos;t even know 
+what the first thing is to do, and that&apos;s fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 248. example, challenge 1 answer (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4365,7 +4400,7 @@ what the first thing is to do, and that's fine.
 You can always come over and look at the answer for the challenge will be on the next 
 slide, and you can look at that and go, "Okay, yeah, that makes sense. We did that in 
 the other lesson, I know how to do that." Then, come back and actually write that, var 
-firstName equals, "Bill", and I've forgotten what to do next, and that's normal. Go and 
+firstName equals, "Bill", and I&apos;ve forgotten what to do next, and that&apos;s normal. Go and 
 look again, if you have to. Look again and see what you need to do next, and then go 
 back and actually type it without looking at the slide. What this will do, this will 
 do a few things to really help you get good at JavaScript. 
@@ -4378,14 +4413,14 @@ do a few things to really help you get good at JavaScript.
   alt="Camel with 2 humps." />
 </p>
 
-First, what it'll do is it'll help you with the syntax of the language. Remember we need 
+First, what it&apos;ll do is it&apos;ll help you with the syntax of the language. Remember we need 
 to get over this first hump of the camel. We need to get over that first hump, which is 
 learning the syntax of the language. The way to learn the syntax of the language is to 
-type it. When you're working on this, even if you're looking at the answer and then 
+type it. When you&apos;re working on this, even if you&apos;re looking at the answer and then 
 having to come in here and just remember it for a few seconds, that will help you learn 
-the syntax and get better at it over time, and I promise it will help. Over time, you'll 
+the syntax and get better at it over time, and I promise it will help. Over time, you&apos;ll 
 really start to be able to do these without having to look at the slides if you keep 
-working at it. Look at the answers if you have to, they're here, and then type it 
+working at it. Look at the answers if you have to, they&apos;re here, and then type it 
 without looking at the answer. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250. example, challenge 2 (144) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4396,34 +4431,34 @@ without looking at the answer.
   alt="Example, Challenge 2." />
 </p>
 
-The second thing that I'll do for you is these challenges build on each other. The second 
-challenge is a little bit of a baby step beyond the first challenge. I've designed these 
+The second thing that I&apos;ll do for you is these challenges build on each other. The second 
+challenge is a little bit of a baby step beyond the first challenge. I&apos;ve designed these 
 challenges such that they build up in small baby steps like this so that over time, 
-you're taking an idea and expanding it into a larger, more complex script as you go 
+you&apos;re taking an idea and expanding it into a larger, more complex script as you go 
 along, and that will help you with this second hump on the camel. Learning how to solve 
 problems with JavaScript. You get good at learning how to solve problems first by 
-solving very small problems in making baby steps, and these challenges, we'll help 
+solving very small problems in making baby steps, and these challenges, we&apos;ll help 
 you do that. 
 
 I recommend you do these challenges to the point where you can do them without looking 
-at the answers because that will really help you with the syntax and meanwhile, you're 
-building up some skill for how to take a small thing and then build on it. Now, there's 
+at the answers because that will really help you with the syntax and meanwhile, you&apos;re 
+building up some skill for how to take a small thing and then build on it. Now, there&apos;s 
 nothing magical about these challenges. I also recommend you come up with your own 
 challenges. Try things out. See if you can make a small thing work. If you can make that 
 small thing work, then build on it and see what other ideas you have and see if you can 
-build on those. That is a great way to learn JavaScript, and it's fun. It's fun to see 
+build on those. That is a great way to learn JavaScript, and it&apos;s fun. It&apos;s fun to see 
 if you can do that kind of thing. By doing these challenges, by working through these 
 examples and by getting really good at them, you will build your skills with JavaScript.
  
-If you don't, you don't have to. You can continue to watch the videos and do the quizzes 
-in the videos, and you'll learn about JavaScript. But in order to actually become a 
+If you don&apos;t, you don&apos;t have to. You can continue to watch the videos and do the quizzes 
+in the videos, and you&apos;ll learn about JavaScript. But in order to actually become a 
 JavaScript programmer, you have to write JavaScript. You have to take the time to really 
-sit down and write it. Even if you're coming to JavaScript from another language like C 
+sit down and write it. Even if you&apos;re coming to JavaScript from another language like C 
 plus plus or Java, or Python or some other language and you might be thinking, oh yeah, 
 I know what loops are, and I know what if statements are, and those kinds of things. 
-I recommend you sit down and write JavaScript because it's a little bit different 
+I recommend you sit down and write JavaScript because it&apos;s a little bit different 
 and it takes practice. Great. Keep working on these and get really good at the challenges 
-and I promise, you'll be on the road to becoming a good JavaScript developer.
+and I promise, you&apos;ll be on the road to becoming a good JavaScript developer.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-19">2.19 Functions in JavaScript (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4445,12 +4480,12 @@ Functions in JavaScript. Functions are reusable sets of instructions.
   alt="Example, Reusable Sets of Instructions." />
 </p>
 
-For example, in the sequence selection and loop exercise, you're adding a bunch of script 
-to the page and it was getting messy. There's a lot of single lines of code all piling up 
+For example, in the sequence selection and loop exercise, you&apos;re adding a bunch of script 
+to the page and it was getting messy. There&apos;s a lot of single lines of code all piling up 
 without a lot of order, organization to them. What we can do with functions is we can 
 take that stuff, stick it inside of something that has a name, and then run that function 
-when we want to run that set of instructions. We can make functions so that they're 
-reusable, so that you can use them in multiple places within your programs, and that's 
+when we want to run that set of instructions. We can make functions so that they&apos;re 
+reusable, so that you can use them in multiple places within your programs, and that&apos;s 
 where functions can become very powerful. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 253. function: upperstring, here is a string of text (146) ~~~~~~~~~~~~~~~~~-->
@@ -4462,10 +4497,10 @@ where functions can become very powerful.
 </p>
 
 Here (see below), I have a function called doStuff, which is going to run something similar to what 
-we did in the sequence selection and loop exercise. Let's give this a try real quick. 
-I'm going to switch over to my code editor over here. You can see, I've already set up a 
-file and I recommend you do the same. It just needs to notify within each one, and I've 
-got a script here, and I've got some of the script from our sequence selection and loop 
+we did in the sequence selection and loop exercise. Let&apos;s give this a try real quick. 
+I&apos;m going to switch over to my code editor over here. You can see, I&apos;ve already set up a 
+file and I recommend you do the same. It just needs to notify within each one, and I&apos;ve 
+got a script here, and I&apos;ve got some of the script from our sequence selection and loop 
 exercise. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 254. function to uppercase a string (147) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4476,7 +4511,7 @@ exercise.
   alt="doStuff - upperString using toUpperCase()." />
 </p>
 
-Now, I'm going to add a function. To do that, I would just define a function here. 
+Now, I&apos;m going to add a function. To do that, I would just define a function here. 
 Function is the function keyword doStuff, parentheses and curly braces. Now, this stuff 
 can just go inside the curly braces, like that. Then you have to run the function 
 doStuff. We define the function which tells it what it does, then we invoke or call or 
@@ -4492,9 +4527,9 @@ run the function.
 
 Any of those verbs will do: invoke, call or run. I can save that and I can come over to 
 my pagers, and this is that same page, and I can run this, and you can see that the 
-function runs and it does its thing. It's very normal when you start doing this, and 
-sometimes I still do it to forget to call the function, which will mean that you'll get 
-nothing, because it'll be defined but it won't actually run. I have to run doStuff. 
+function runs and it does its thing. It&apos;s very normal when you start doing this, and 
+sometimes I still do it to forget to call the function, which will mean that you&apos;ll get 
+nothing, because it&apos;ll be defined but it won&apos;t actually run. I have to run doStuff. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 256/257. function/example enter a whole number (148) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4508,11 +4543,11 @@ nothing, because it'll be defined but it won't actually run. I have to run doStu
   alt="Test, Uppercase and Enter a whole number (greater than or less than 10?)." />
 </p>
 
-We'll run that function. I went and got challenge number 7 and I have it over here, so 
-here's challenge number 7. How would I take that and turn it into a function? Well, I 
+We&apos;ll run that function. I went and got challenge number 7 and I have it over here, so 
+here&apos;s challenge number 7. How would I take that and turn it into a function? Well, I 
 could do it like this; I could take all of this stuff and I can come over here, and I 
 can go ahead and just paste it right on my page here, right in my file down here at the 
-bottom. I'm going to just paste it on in there. 
+bottom. I&apos;m going to just paste it on in there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258. function checknum (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4522,14 +4557,14 @@ bottom. I'm going to just paste it on in there.
   alt="function checkNum." />
 </p>
 
-But I'm going to make a new function. What is this thing doing? Well, it's checking a 
-number. I'm going to make a function called checkNum, parentheses, curly braces, like 
-so. Then I'm going to take this stuff, I'm going to stick it inside of checkNum, tab 
-that in. It's clear that this curly brace is ending that curly brace and everything 
-is inside. It's always good to be clear about your indenting if you possibly can, it 
-really does help. Then down here, I'm going to run checkNum, and let's see what happens. 
+But I&apos;m going to make a new function. What is this thing doing? Well, it&apos;s checking a 
+number. I&apos;m going to make a function called checkNum, parentheses, curly braces, like 
+so. Then I&apos;m going to take this stuff, I&apos;m going to stick it inside of checkNum, tab 
+that in. It&apos;s clear that this curly brace is ending that curly brace and everything 
+is inside. It&apos;s always good to be clear about your indenting if you possibly can, it 
+really does help. Then down here, I&apos;m going to run checkNum, and let&apos;s see what happens. 
 Over here when I run my script, it says enter a whole number, 54, and then you entered 
-a really big number. My function is running, it's functioning, it's doing what it's 
+a really big number. My function is running, it&apos;s functioning, it&apos;s doing what it&apos;s 
 supposed to do, and all that code is now inside of a function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-20">2.20 Passing In and Returning Data (8:01)</h2>
@@ -4553,7 +4588,7 @@ with that data.
   alt="Example, Passing in Data." />
 </p>
 
-So for example, our first do something message, the first do something function wasn't 
+So for example, our first do something message, the first do something function wasn&apos;t 
 really useful because it was just taking that string, and making it uppercase, and then 
 spitting it back out again. But we could make it more useful by passing in a message 
 variable, a parameter, this function has a parameter called message. We could pass in 
@@ -4567,14 +4602,14 @@ uppercase, and console log it out.
   title="function upperMessage()"
   alt="function upperMessage()." />
 </p>
-So let's give that a try and see what that does. I'm going to make a function, function 
-upperMessage, let's do that then, upperMessage, that doesn't matter really what you 
-call it. And then I'm going to take message and I'm going to say, var upperMessage = 
-message.toUpperCase. And then I'm just going to console log out, upperMessage. 	
+Let&apos;s give that a try and see what that does. I&apos;m going to make a function, function 
+upperMessage, let&apos;s do that then, upperMessage, that doesn&apos;t matter really what you 
+call it. And then I&apos;m going to take message and I&apos;m going to say, var upperMessage = 
+message.toUpperCase. And then I&apos;m just going to console log out, upperMessage. 	
 
 Now when I run this, I run upperMessage, but I pass in, here is a message. I can pass 
 any message in that I want and it will make it uppercase. Still not super interesting, 
-but it's something that shows us how this actually works.
+but it&apos;s something that shows us how this actually works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. test, here  is a message (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4584,7 +4619,7 @@ but it's something that shows us how this actually works.
   alt="Test, HERE IS A MESSAGE." />
 </p>
 
-So over here when I run this, my message is turned into uppercase because that's what 
+So over here when I run this, my message is turned into uppercase because that&apos;s what 
 that function does. It takes some data and does something to it. And beyond that, we 
 could do something like add numbers together. Again, not super exciting, but we could 
 pass in two parameters here. On number one and on number two, we could add them together 
@@ -4603,19 +4638,19 @@ pass in whatever two numbers you want to add there.
   alt="Test, addNums." />
 </p>
 
-Let's give it a try real quick. Function addNums. We're going to pass in num1 and num2. 
-I like putting these extra spaces in here even though that's kind of not the standard, 
-but I think it makes it easier to read for me. All right, so I'm going to make var sum = 
-num1 + num2. In here, we're using the plus sign to actually do addition, that's what we 
-want it to do. And then I'm going to console.log sum. 
+Let&apos;s give it a try real quick. Function addNums. We&apos;re going to pass in num1 and num2. 
+I like putting these extra spaces in here even though that&apos;s kind of not the standard, 
+but I think it makes it easier to read for me. All right, so I&apos;m going to make var sum = 
+num1 + num2. In here, we&apos;re using the plus sign to actually do addition, that&apos;s what we 
+want it to do. And then I&apos;m going to console.log sum. 
 
-Meanwhile, I'm going to comment that out so we don't get that running as well. And then 
+Meanwhile, I&apos;m going to comment that out so we don&apos;t get that running as well. And then 
 down here, I just need to run it with whatever numbers I want to add, addNums, 329, 419. 
 Sure, you could  probably do that in your head fairly quickly. But why bother? We can 
-have JavaScript do it for us, right? So, if we're going to learn how to do this 
+have JavaScript do it for us, right? So, if we&apos;re going to learn how to do this 
 
 JavaScript stuff, it might as well do something useful, like add those numbers together 
-to get 728. Maybe not super useful, but you get the idea. And that's a really powerful 
+to get 728. Maybe not super useful, but you get the idea. And that&apos;s a really powerful 
 thing about JavaScript is we can pass in the passing data through these variables here, 
 that we can then work with within our function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4628,16 +4663,16 @@ that we can then work with within our function.
 </p>
 
 The next thing to talk about is returning data. So far our functions have just done one 
-thing, they've printed out to the console log, because that's really all we have for 
+thing, they&apos;ve printed out to the console log, because that&apos;s really all we have for 
 right now. We will be doing more interesting things, I promise. But for right now, what 
 we have is to print out to the console log. 
 
 But we can make functions that return something. And that in this case, it looks subtle. 
-The difference is subtle because in the end, what we have is the console. So we're 
-printing to the console. But here I've updated my function, I'm calling it return sum. 
+The difference is subtle because in the end, what we have is the console. So we&apos;re 
+printing to the console. But here I&apos;ve updated my function, I&apos;m calling it return sum. 
 And instead of just printing to the console, and returning the sum of these two numbers, 
-and then I can console log that out. Again, it's just going to the console, so the end 
-result isn't all that different. But there is a subtle but important difference between 
+and then I can console log that out. Again, it&apos;s just going to the console, so the end 
+result isn&apos;t all that different. But there is a subtle but important difference between 
 these two things. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 266. function addnumbs & returnsum (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4648,11 +4683,11 @@ these two things.
   alt="Functions; addNumbs and returnSum." />
 </p>
 
-Let's do this quickly. I'm going to come over here and I'm going to copy my addNumbs 
+Let&apos;s do this quickly. I&apos;m going to come over here and I&apos;m going to copy my addNumbs 
 function, and paste it, comment that previous code out for a moment. And instead call 
-this, returnSum, num1, num2. But instead of console logging it out, I'm going to return 
-it as a variable, sum. So its going to return the value here. And then it's just going 
-to the console log because that's all I've got access to at the moment. 
+this, returnSum, num1, num2. But instead of console logging it out, I&apos;m going to return 
+it as a variable, sum. So its going to return the value here. And then it&apos;s just going 
+to the console log because that&apos;s all I&apos;ve got access to at the moment. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 267/268. test, addnumbs & returnsum (154) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4666,18 +4701,18 @@ to the console log because that's all I've got access to at the moment.
   alt="Test, addNumbs and returnSum." />
 </p>
 
-We'll be doing more stuff later. And I can run inside the console.log, returnSum and I 
-can put a 3 and a, 5 in there, whatever. And you'll see, when I run this, Over here, 
-assuming I typed that all right. Then, in fact, they get an eight, and it's still going 
+We&apos;ll be doing more stuff later. And I can run inside the console.log, returnSum and I 
+can put a 3 and a, 5 in there, whatever. And you&apos;ll see, when I run this, Over here, 
+assuming I typed that all right. Then, in fact, they get an eight, and it&apos;s still going 
 to the console. 
 
-So you might wonder, well, what's the big deal here? What's the difference here between 
+So you might wonder, well, what&apos;s the big deal here? What&apos;s the difference here between 
 returning the sum and just having it print out the finished thing here? The analogy that 
 
-I like to use is one, where you're washing your clothes. If you happen to have a washer 
+I like to use is one, where you&apos;re washing your clothes. If you happen to have a washer 
 and a dryer, you have two machines and those machines work together. So you put your 
-dirty clothes in the washing machine. So you're feeding it in dirty clothes, dirty 
-laundry, and you're putting in soap and you're putting in water in the washing machine, 
+dirty clothes in the washing machine. So you&apos;re feeding it in dirty clothes, dirty 
+laundry, and you&apos;re putting in soap and you&apos;re putting in water in the washing machine, 
 agitates it all, and runs it all together. And what it returns to you are clean, wet 
 clothes, which you then put into a dryer, and the dryer will then do its function which 
 will tumble the clothes with air, hot air maybe, and then returned to you clean, dry 
@@ -4696,7 +4731,7 @@ needs to do.
   alt="2.21 Useful Example - Step 1." />
 </p>
 
-Let's take a look at a useful example. 
+Let&apos;s take a look at a useful example. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 270. a useful example - generating random numbers (156) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4708,7 +4743,7 @@ Let's take a look at a useful example.
 
 This will show us something that a function can do for us in JavaScript right now, and 
 that we could use in some programs that we write. That is for generating random numbers. 
-Try this out. JavaScript has a random number generator, and I'm going to just give this 
+Try this out. JavaScript has a random number generator, and I&apos;m going to just give this 
 a try over here on my file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 271/272. math.random number generator (0-.999999999) (156) ~~~~~~~~~~~~~~~~~-->
@@ -4723,10 +4758,10 @@ a try over here on my file.
   alt="Math.random number generator (0-.999999999)." />
 </p>
 
-I'm just going to console.log Math with a capital M dot random (Math.random). We'll talk 
+I&apos;m just going to console.log Math with a capital M dot random (Math.random). We&apos;ll talk 
 more about what that means in a little bit. But math random is going to generate a random 
 number. If I go over to my browser and run it, you see that I get a number, I can keep 
-refreshing my screen and I'll keep getting numbers. 
+refreshing my screen and I&apos;ll keep getting numbers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273. test, functions in js (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4737,24 +4772,24 @@ refreshing my screen and I'll keep getting numbers.
 </p>
 
 The numbers that I get will be from zero all the way down to 0.00000000, all the way up 
-to almost one. You saw a minute ago I got a 9.9 something or other. It won't go all the 
-way to one. It'll go to up to 0.999999999. But it won't go all the way to one. It could 
-go all the way to zero, but it won't go all the way to one. But it's somewhere in there. 
+to almost one. You saw a minute ago I got a 9.9 something or other. It won&apos;t go all the 
+way to one. It&apos;ll go to up to 0.999999999. But it won&apos;t go all the way to one. It could 
+go all the way to zero, but it won&apos;t go all the way to one. But it&apos;s somewhere in there. 
 What if I wanted random integers? What if I wanted to get a random number between say, 
 10 and 52 or something like that, how would I do that? I need to write a function to do 
 that in JavaScript because the random number generator in JavaScript generates random 
 numbers between zero and almost one. Zero inclusive, one exclusive. But if I was 
 playing a game of cards and I had numbered my cards one through 52, and I wanted to make 
 sure I could pick a random card, I would need to be able to pull out a 26, not as 
-0.35979558399127143. That's not very helpful. I need to figure that out. 
+0.35979558399127143. That&apos;s not very helpful. I need to figure that out. 
 
 Before we go forward with this, I should mention that the random number generator in 
-JavaScript is not truly random. It's using an algorithm to generate the random number 
-and it's random enough for our purposes, but it's not a truly random number. And if 
-you're making a game that was making a program that really needed to be random, like 
+JavaScript is not truly random. It&apos;s using an algorithm to generate the random number 
+and it&apos;s random enough for our purposes, but it&apos;s not a truly random number. And if 
+you&apos;re making a game that was making a program that really needed to be random, like 
 a lottery generator or something like that, you would want to use something other 
 than the built-in random number generator. But for our purposes is random enough. 
-That's worth mentioning as well. 
+That&apos;s worth mentioning as well. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 274. example, useful example - step 1 (158) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4764,17 +4799,17 @@ That's worth mentioning as well.
   alt="Example, Useful Example - Step 1." />
 </p>
 
-Here's our first step in creating our random integer generator, is we're going to make 
-a function called randomInt, and we're going to pass in a minimum number that we want 
+Here&apos;s our first step in creating our random integer generator, is we&apos;re going to make 
+a function called randomInt, and we&apos;re going to pass in a minimum number that we want 
 to get, and a maximum number that we want to get in our random integer generator. 
 
-To start with, we need to know how many values we think we should be able to get. I'm 
-going to make a variable called number of values (numOfValues) and it's going to take 
-max and it's going to subtract min, and it's going to add 1 to it. Think of it like 
+To start with, we need to know how many values we think we should be able to get. I&apos;m 
+going to make a variable called number of values (numOfValues) and it&apos;s going to take 
+max and it&apos;s going to subtract min, and it&apos;s going to add 1 to it. Think of it like 
 this; if I were to run this function with five and 10, if I wanted to get a random 
 number that was between five and 10 and included five and 10, the numbers I could get 
-are 5,6,7,8,9,10. That's six possible values. If I take the maximum which is 10, and 
-subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That's how 
+are 5,6,7,8,9,10. That&apos;s six possible values. If I take the maximum which is 10, and 
+subtract 5, that gives me 5 plus 1, that would give me 6 possible values. That&apos;s how 
 this actually works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 275/276. test, randomint between 5-10 inclusive (158) ~~~~~~~~~~~~~~~~~~~~-->
@@ -4789,21 +4824,21 @@ this actually works.
   alt="Test, randomInt between 5 and 10 (inclusive)." />
 </p>
 
-Let's go ahead and go over to our code editor and start writing this function. I'm going 
-to make a function called randomInt, and it's going to take a min and a max. I'm going 
-to have a variable here, var numOfValues. That's going to be the max minus the min plus 
-1. Then I can just console.log out this number of values just to make sure it's working 
+Let&apos;s go ahead and go over to our code editor and start writing this function. I&apos;m going 
+to make a function called randomInt, and it&apos;s going to take a min and a max. I&apos;m going 
+to have a variable here, var numOfValues. That&apos;s going to be the max minus the min plus 
+1. Then I can just console.log out this number of values just to make sure it&apos;s working 
 right. console.log. 
 
-When you're working with programming, you want to do this. You want to just check 
-everything as many places as you possibly can just to make sure you're getting what you 
-think you're getting. NumOfValues. I'm going to console.log that out. Then down here I'm 
-going to run this function, randomInt. Then put in a five. I'm going to put in 10. We'll 
-see, we should get a six. That's what we should get. Let's go over and check that. Sure 
-enough, I'm getting a six because the possible values, if I'm going to include, I'm 
+When you&apos;re working with programming, you want to do this. You want to just check 
+everything as many places as you possibly can just to make sure you&apos;re getting what you 
+think you&apos;re getting. NumOfValues. I&apos;m going to console.log that out. Then down here I&apos;m 
+going to run this function, randomInt. Then put in a five. I&apos;m going to put in 10. We&apos;ll 
+see, we should get a six. That&apos;s what we should get. Let&apos;s go over and check that. Sure 
+enough, I&apos;m getting a six because the possible values, if I&apos;m going to include, I&apos;m 
 going to say I want random numbers from 5-10. I want to include five and 10, so I could 
-get a 5, a 6, a 7, an 8, a 9 or 10, that's six possible values. Step 1 of this is 
-correct. Then, we'll go on from there to the next step.
+get a 5, a 6, a 7, an 8, a 9 or 10, that&apos;s six possible values. Step 1 of this is 
+correct. Then, we&apos;ll go on from there to the next step.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-22">2.22 Useful Example – Steps 2-4 (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4814,16 +4849,16 @@ correct. Then, we'll go on from there to the next step.
   title="2.22 Useful Example 2-4"
   alt="2.22 Useful Example 2-4." />
 </p>
-In the second step for a random integer generator, I'm going to actually generate my random number. 
+In the second step for a random integer generator, I&apos;m going to actually generate my random number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. useful example - step 2 (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-p align="center" width="100%">
+<p align="center" width="100%">
 <img src="./images/image278.png"
   style="width:50%"
   title="Useful Example - Step 2 - randomInt (0-1)"
   alt="Useful Example - Step 2 - randomInt (0-1)." />
 </p>
-RandomNum here is going to be between zero and one. I'm going to take that and multiply 
+RandomNum here is going to be between zero and one. I&apos;m going to take that and multiply 
 it by the number of values and see what I get. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 279/280. test, function randomint with min & max (160) ~~~~~~~~~~~~~~~~~~~-->
@@ -4837,37 +4872,39 @@ it by the number of values and see what I get.
   title="Test, function randomInt with min and max of 0 to 6 (exclusive)"
   alt="Test, function randomInt with min and max of 0 to 6 (exclusive)." />
 </p>
-Let's go ahead and add this to our function over here. We've got that in there, we can 
-get rid of this. We know that that's working, so we know that's all good. But now I'm 
-going to get var randomNum and have that equal Math.random. That's going to generate my 
-random number. Then I'm going to say randomVal. I'm going to take var randomVal and have 
-that equal randomNum times number of values. Let's just see what that gets us. 
+Let&apos;s go ahead and add this to our function over here. We&apos;ve got that in there, we can 
+get rid of this. We know that that&apos;s working, so we know that&apos;s all good. But now I&apos;m 
+going to get var randomNum and have that equal Math.random. That&apos;s going to generate my 
+random number. Then I&apos;m going to say randomVal. I&apos;m going to take var randomVal and have 
+that equal randomNum times number of values. Let&apos;s just see what that gets us. 
 console.log (randomVal).
-Let's go over here and run that. Now, that's getting me numbers that are between zero 
-and six. It won't go all the way up to six. It will get me to five point something other, 
-but it won't go all the way up to six, and that's interesting. 
+Let&apos;s go over here and run that. Now, that&apos;s getting me numbers that are between zero 
+and six. It won&apos;t go all the way up to six. It will get me to five point something other, 
+but it won&apos;t go all the way up to six, and that&apos;s interesting. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~ 281/282. test, function randomint round down to whole number (160) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image281.png"
   style="width:45%"
+  title="Function randomInt with Math.floor"
   alt="Function randomInt with Math.floor." />
 <img src="./images/image282.png"
   style="width:45%"
+  title="Test, function randomInt with Math.floor"
   alt="Test, function randomInt with Math.floor." />
 </p>
-Let's see what we need to do next. Next, I'm going to use the Math.floor method to round 
-down my random number. Now, that should get me a whole number between zero and five. I'm 
+Let&apos;s see what we need to do next. Next, I&apos;m going to use the Math.floor method to round 
+down my random number. Now, that should get me a whole number between zero and five. I&apos;m 
 going to use the Math.floor and pass in this random value here. This is my number with 
 all the decimal points. 
 
-Let's give that a try over here. I'm going to get rid of this console.log, I don't 
-really need that one anymore. But instead, I'm going to do var roundedRandomVal. A 
-long variable name, you can make it shorter. I'm going to do Math.floor. Floor is a 
+Let&apos;s give that a try over here. I&apos;m going to get rid of this console.log, I don&apos;t 
+really need that one anymore. But instead, I&apos;m going to do var roundedRandomVal. A 
+long variable name, you can make it shorter. I&apos;m going to do Math.floor. Floor is a 
 method and ceil is a method, ceil for ceiling. Floor will round it down, ceil, C-E-I-L, 
-will round it up, short for ceiling, if that makes sense. Then I'm going to pass in 
-their randomVal. Once again, just to see what my progress is, I'm going to console.log 
-(roundedRandomVal). You saw I didn't have to actually type that, I just press tab 
+will round it up, short for ceiling, if that makes sense. Then I&apos;m going to pass in 
+their randomVal. Once again, just to see what my progress is, I&apos;m going to console.log 
+(roundedRandomVal). You saw I didn&apos;t have to actually type that, I just press tab 
 because it came up in Visual Studio code. That will prevent me from getting these 
 long variable names wrong. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4875,27 +4912,30 @@ long variable names wrong.
 <p align="center" width="100%">
 <img src="./images/image283.png"
   style="width:50%"
+  title="Useful Example - Step 4"
   alt="Useful Example - Step 4." />
 </p>
-Now when I run this, I get a two.  Now, I'm getting whole numbers, but they're not from 
-5-10, they're between zero and 5. Now, what we can do next is we can get our final 
-number, and we're going to take the min and add it to that randomVal. 
+Now when I run this, I get a two.  Now, I&apos;m getting whole numbers, but they&apos;re not from 
+5-10, they&apos;re between zero and 5. Now, what we can do next is we can get our final 
+number, and we&apos;re going to take the min and add it to that randomVal. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 284/285. test, add min to random value (161) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image284.png"
   style="width:45%"
+  title="Add min to roundedRandomVal"
   alt="Add min to roundedRandomVal." />
 <img src="./images/image285.png"
   style="width:45%"
+  title="Test output, new roundedRandomVal"
   alt="Test output, new roundedRandomVal." />
 </p>
-For example, if our random number gave us a zero and we add five to it, we'll get a 
-five. If we got a one and we add five to it, we'll get a six, all the way up to 10. 
+For example, if our random number gave us a zero and we add five to it, we&apos;ll get a 
+five. If we got a one and we add five to it, we&apos;ll get a six, all the way up to 10. 
 So that will give us our random numbers between five and 10 if we add the min value 
-to this final number here. Let's and add that in there and see what we get. 
+to this final number here. Let&apos;s and add that in there and see what we get. 
 Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come 
-back and check it, and you can see now I'm getting random numbers that can go as high 
+back and check it, and you can see now I&apos;m getting random numbers that can go as high 
 as 10 and as low as five, and our random number generator is actually working, which 
 is great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4908,7 +4948,7 @@ is great.
   title="2.23 Useful Example - Step 5"
   alt="2.23 Useful Example - Step 5." />
 </p>
-In the next step, we're going to make our random number generator, our random integer 
+In the next step, we&apos;re going to make our random number generator, our random integer 
 generator a little bit more useful. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 287. example, random select from array (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4920,7 +4960,7 @@ generator a little bit more useful.
 </p>
 We can generate random numbers, but the only thing we can do with these random numbers 
 is see them pop up in the console, which is really not very useful. If I wanted to 
-actually take this generated number and do something with it, I can't. All this function 
+actually take this generated number and do something with it, I can&apos;t. All this function 
 does currently is print out to the console. What we could do instead, is we could return 
 the final number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4941,9 +4981,9 @@ cheese, chicken, grapes, hamburgers, whatever you want to put in there is fine.
 We could add more things to the list. But if I wanted to randomly get an element 
 from this array, because randomInt returns a number, I know this starts with zero, 
 0, 1, 2, 3, so I want a random number from 0-3 in this case. 
-So I could come down here and I could say console.log. Let's say foods square brackets, 
-and in here I'm going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is 
-going to be, because it returns final number, it's going to be a zero, a one, a two, 
+So I could come down here and I could say console.log. Let&apos;s say foods square brackets, 
+and in here I&apos;m going to pass in randomInt 0, 3. Now, because this randomInt 0, 3 is 
+going to be, because it returns final number, it&apos;s going to be a zero, a one, a two, 
 or a three. So console.log foods randomInt, 0, 3 is going to go into the array and 
 get me either a cheese, a chicken, or grapes, or hamburgers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4954,7 +4994,7 @@ get me either a cheese, a chicken, or grapes, or hamburgers.
   title="Console, hamburgers"
   alt="Console, hamburgers." />
 </p>
-Let's see if that works, if I typed it right. Sure enough, I got hamburgers, and then I 
+Let&apos;s see if that works, if I typed it right. Sure enough, I got hamburgers, and then I 
 got grapes, and then I got chicken.. I can actually use my random number generator to 
 actually do something with another program. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4969,9 +5009,9 @@ actually do something with another program.
 You can think of this randomInt, because this thing returns a random number, 
 I can use that within my tool here to get something out of this array. 
 Going back to the washing machine and dryer example, this is my washing 
-machine. It's returning to me a processed number that I can then use with 
-foods to do something. I don't know. It's not that interesting, but it's a 
-little bit more interesting than what we've been doing so far. 
+machine. It&apos;s returning to me a processed number that I can then use with 
+foods to do something. I don&apos;t know. It&apos;s not that interesting, but it&apos;s a 
+little bit more interesting than what we&apos;ve been doing so far. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 292. randomint with no vars (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4991,13 +5031,13 @@ little bit more interesting than what we've been doing so far.
  
 One last thing to look at and think about for this is that this function 
 is pretty long. We could refactor it. What we want to return is really 
-this Math.floor randomVal. I'm going to take that, I'm going to stick it 
-down here. Did I select that right? There we go. I'm going to return ran, 
-I'm going to do that. I'm going to put that in its own set of parentheses, 
-max-min times my Math.random. I'm going to do that, and then outside of this, 
-I'm going to add plus min. I'm going to take Math.floor. I'm going to take 
-my max, subtract my min, and add 1. Multiply that by Math.random. I'm going 
-to round that down and add min. Let's see if I did that right. Over here, 
+this Math.floor randomVal. I&apos;m going to take that, I&apos;m going to stick it 
+down here. Did I select that right? There we go. I&apos;m going to return ran, 
+I&apos;m going to do that. I&apos;m going to put that in its own set of parentheses, 
+max-min times my Math.random. I&apos;m going to do that, and then outside of this, 
+I&apos;m going to add plus min. I&apos;m going to take Math.floor. I&apos;m going to take 
+my max, subtract my min, and add 1. Multiply that by Math.random. I&apos;m going 
+to round that down and add min. Let&apos;s see if I did that right. Over here, 
 if I run this again, I am still getting my items here. This is a shortened 
 version of all of this stuff. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5008,15 +5048,15 @@ version of all of this stuff.
   title="Test, function randomInt with console"
   alt="Test, function randomInt with console." />
 </p>
-Now, you might look at this and go, "Well, I don't really understand what's going on 
-here." That's a great place for a comment. Here you could say something like, "Creating 
+Now, you might look at this and go, "Well, I don&apos;t really understand what&apos;s going on 
+here." That&apos;s a great place for a comment. Here you could say something like, "Creating 
 a random integer from min and max." Or you can put a more explicit statement in here. 
 Sometimes taking a big chunk of code and reducing it down to one line can be difficult 
-to understand exactly what it's doing later. But in this case, I like it. Because if 
+to understand exactly what it&apos;s doing later. But in this case, I like it. Because if 
 you were to go looking around on the web for a random integer generator for JavaScript, 
-you'll get functions that look like this. You'll find them on Stack Overflow and other 
+you&apos;ll get functions that look like this. You&apos;ll find them on Stack Overflow and other 
 places. Sometimes these one-line statements where everything is reduced down become 
-very difficult to read and understand exactly what they're doing. That allows us to 
+very difficult to read and understand exactly what they&apos;re doing. That allows us to 
 create a random integer generator that we then refactor down into one line of code. 
 But by walking through the steps, you could see each step along the way and how that 
 actually worked.
@@ -5030,7 +5070,7 @@ actually worked.
   title="2.24 More on Functions"
   alt="2.24 More on Functions." />
 </p>
-We have a few more things to talk about in terms of functions before we're done with this lesson. 
+We have a few more things to talk about in terms of functions before we&apos;re done with this lesson. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 296. functions can be anonymous (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5043,20 +5083,20 @@ The next thing is, that functions in JavaScript can be anonymous. One of the imp
 things to understand about the way functions work in JavaScript, is that, functions are 
 first-class citizens in JavaScript. Which means, you can assign a function to a variable, 
 the way you could assign a string to a variable or a number to a variable. In fact, you 
-can use a function wherever you can use data in JavaScript, and it's one of the very 
+can use a function wherever you can use data in JavaScript, and it&apos;s one of the very 
 powerful features of JavaScript. 
 
-If you'll recall, we talked earlier about the fact that JavaScript has some features 
+If you&apos;ll recall, we talked earlier about the fact that JavaScript has some features 
 that are really best in class features, for any programming language, and this is one 
 of them. This is really a very powerful feature of JavaScript. You can actually assign 
-a function to a variable, and that function doesn't have to have a name. It can be nameless, 
-it can be anonymous. There are times when this is very useful, especially if you're making 
-a function that's really only going to be used once or in one context. Then, there's really 
-not a reason to create a named function if you're not going to use that name over and over 
+a function to a variable, and that function doesn&apos;t have to have a name. It can be nameless, 
+it can be anonymous. There are times when this is very useful, especially if you&apos;re making 
+a function that&apos;s really only going to be used once or in one context. Then, there&apos;s really 
+not a reason to create a named function if you&apos;re not going to use that name over and over 
 and over again are in different places in your script. Function expressions are useful for 
-that. They're useful for other things as we get into more sophisticated JavaScript. For 
-right now, I just want you to be aware of what they are. We won't be using them much for 
-a while, but eventually, you'll be using function expressions if you keep working with 
+that. They&apos;re useful for other things as we get into more sophisticated JavaScript. For 
+right now, I just want you to be aware of what they are. We won&apos;t be using them much for 
+a while, but eventually, you&apos;ll be using function expressions if you keep working with 
 JavaScript. 
 
 ```
@@ -5068,24 +5108,24 @@ console.log(“Hello from the function!”);
 
 Produces this anonomous unnamed function assigned to the variable greeting. 
 
-Let's actually see what this looks like in our code over here. I'm going to come 
-over to my editor here and I'm going to leave that, that's all fine. I'm going 
-to make a variable called "greeting" and I'm going to assign it a function. You'll 
-see that this function doesn't have a name, it's just an anonymous function, and 
-we could do whatever we want in here. I'm going to just for right now, just do 
+Let&apos;s actually see what this looks like in our code over here. I&apos;m going to come 
+over to my editor here and I&apos;m going to leave that, that&apos;s all fine. I&apos;m going 
+to make a variable called "greeting" and I&apos;m going to assign it a function. You&apos;ll 
+see that this function doesn&apos;t have a name, it&apos;s just an anonymous function, and 
+we could do whatever we want in here. I&apos;m going to just for right now, just do 
 console.log " hello from the function". My slide has something a little bit more 
 sophisticated down there, but for right now, this will just do for us, just to 
 see what this does. 
 
 Then, in order to call this function again, remember we have to invoke the function, 
 we have to call it or run it. I run "greeting" as if it were a function, which seems 
-weird, but that's the way it works in JavaScript. Greeting parentheses. We run that 
+weird, but that&apos;s the way it works in JavaScript. Greeting parentheses. We run that 
 like a function. 
 
-Now, if I come over to my console over here and run this, I'm getting "hamburgers" 
-again, then I'm getting "Hello from the function". That function is actually running. 
-That's important to understand. Again, this is called a function expression, and 
-it's because functions are first-class citizens in JavaScript that we're able to 
+Now, if I come over to my console over here and run this, I&apos;m getting "hamburgers" 
+again, then I&apos;m getting "Hello from the function". That function is actually running. 
+That&apos;s important to understand. Again, this is called a function expression, and 
+it&apos;s because functions are first-class citizens in JavaScript that we&apos;re able to 
 assign a function to a variable just as if it were data. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 297. example, arrow functions (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5095,55 +5135,55 @@ assign a function to a variable just as if it were data.
   title="Example, Arrow Functions"
   alt="Example, Arrow Functions." />
 </p>
-The next thing to understand about functions in JavaScript, and I'm not going to 
-demonstrate this now, but I just want to call your attention to it, because if you're 
-looking on stack overflow, if you're looking up scripts online and seeing other kinds 
+The next thing to understand about functions in JavaScript, and I&apos;m not going to 
+demonstrate this now, but I just want to call your attention to it, because if you&apos;re 
+looking on stack overflow, if you&apos;re looking up scripts online and seeing other kinds 
 of things, you will see arrow functions. This is again part of ESX or ES 2015. It brought 
-this new syntax and we'll come to it, not in this course, but in the third course, we'll 
-actually start working with arrow functions. I want to mention them now because you'll 
-see them around and when you look at them, you'll look at them and go, what's this? We 
-haven't done this in JavaScript yet. I just want you to be aware that it's just a 
+this new syntax and we&apos;ll come to it, not in this course, but in the third course, we&apos;ll 
+actually start working with arrow functions. I want to mention them now because you&apos;ll 
+see them around and when you look at them, you&apos;ll look at them and go, what&apos;s this? We 
+haven&apos;t done this in JavaScript yet. I just want you to be aware that it&apos;s just a 
 slightly different syntax for writing functions. 
 
-Here, I have a function that should look fairly familiar. I've got a greeting, "Hello, 
-and Good Morning". Then I've got function "capitalized" and I'm passing in a string, 
+Here, I have a function that should look fairly familiar. I&apos;ve got a greeting, "Hello, 
+and Good Morning". Then I&apos;ve got function "capitalized" and I&apos;m passing in a string, 
 and then I take that string and uppercase it, and then I return in a string. This 
 function is going to return the string upper cased. This should be fairly familiar from 
-doing this lesson. So far we've seen this kind of thing and that's not too different 
-from what we've seen. Whereas here, we're using the function expression, I have a 
+doing this lesson. So far we&apos;ve seen this kind of thing and that&apos;s not too different 
+from what we&apos;ve seen. Whereas here, we&apos;re using the function expression, I have a 
 variable called "Capitalized Expression". That has an anonymous function that takes 
 a string and then it takes that string and makes it uppercase and returns it. So this 
-variable will become the uppercase string that gets passed in when it's run. That's the 
+variable will become the uppercase string that gets passed in when it&apos;s run. That&apos;s the 
 function expression that we saw just a few minutes ago. 
 
 Now, when we use the arrow functions, the arrow functions is a different syntax for a 
-function expression. In fact, sometimes they're officially called arrow function 
+function expression. In fact, sometimes they&apos;re officially called arrow function 
 expressions. We can make a variable capitalize arrow in any string, and then instead 
 of the word function, we can just put in this equal sign and the greater than sign to 
 make an arrow. We can take anyString and uppercase and return that. This becomes one 
 line, which is one of the reasons why these arrow functions have become popular, is 
 they really do lead to shorter code and less syntax to have to deal with. Although 
-when you look at them, it can be a little bit harder to understand exactly what's 
+when you look at them, it can be a little bit harder to understand exactly what&apos;s 
 going on here. 
 
 But all three of these functions are actually doing the same thing. They will all 
-return the exact same data. Again, we'll get to the arrow functions later in the 
+return the exact same data. Again, we&apos;ll get to the arrow functions later in the 
 third course, but for right now, I just want you to be aware that they exist and 
-that really they're just a different syntax for writing functions. 
+that really they&apos;re just a different syntax for writing functions. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. 'function' and 'methods' (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. &apos;function&apos; and &apos;methods&apos; (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image298.png"
   style="width:50%"
-  title="'Functions' and 'Methods' in JavaScript"
-  alt="'Functions' and 'Methods' in JavaScript." />
+  title="&apos;Functions&apos; and &apos;Methods&apos; in JavaScript"
+  alt="&apos;Functions&apos; and &apos;Methods&apos; in JavaScript." />
 </p>
 
 The last thing that we need to talk about in terms of our lesson today on functions is 
 the difference between functions and methods in JavaScript. It can be a little bit 
-confusing because these two terms are basically interchangeable in JavaScript, and you've 
-already heard me use the term method sometimes and functions other times. It's helpful 
-to know a little bit about what the two terms mean and why they're interchangeable.
+confusing because these two terms are basically interchangeable in JavaScript, and you&apos;ve 
+already heard me use the term method sometimes and functions other times. It&apos;s helpful 
+to know a little bit about what the two terms mean and why they&apos;re interchangeable.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 299. touppercase method (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5153,17 +5193,17 @@ to know a little bit about what the two terms mean and why they're interchangeab
   alt="toUpperCase method." />
 </p>
 
-Essentially in JavaScript, when you have a function that belongs to an object, it's 
+Essentially in JavaScript, when you have a function that belongs to an object, it&apos;s 
 called a method. For example, we have the string object and there are functions that 
 belong to string objects like toUpperCase or toLowerCase, and when we have a function 
-like that that belongs to the string object, it's called the toUpperCase method, because 
+like that that belongs to the string object, it&apos;s called the toUpperCase method, because 
 it belongs to the string object. Or another example, with arrays we have the push method, 
 which is a function that belongs to the array object. So when we push something into 
-array, we're using the push method and we use the term method for that. 
+array, we&apos;re using the push method and we use the term method for that. 
 
 Now, in reality in JavaScript, everything is an object so in that sense, every function 
 belongs to an object of one sort or another. In fact, earlier on in this lesson, we 
-wrote a function called doStuff. But doStuff, since it doesn't explicitly belong to 
+wrote a function called doStuff. But doStuff, since it doesn&apos;t explicitly belong to 
 some other object, it does belong to the window, and you could actually write 
 window.doStuff and that will actually work. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5179,25 +5219,25 @@ window.doStuff and that will actually work.
   alt="console.log window.doStuff." />
 </p>
 
-If we go back to our code here, and I come in here and put window.doStuff, you'll see 
+If we go back to our code here, and I come in here and put window.doStuff, you&apos;ll see 
 if I save that and come back and test it over here, it actually functions. Because 
 ultimately my doStuff function belongs to the window object. 
 
-Now, if a function belongs to the window object, we don't often do this. Occasionally 
-we do, but very rarely will we put window.doStuff in there, we'll just call doStuff. 
-In that case, we'll call it a function. But when a function more explicitly is set to 
-work with a particular object, we're more likely to call it a method. So that's where 
+Now, if a function belongs to the window object, we don&apos;t often do this. Occasionally 
+we do, but very rarely will we put window.doStuff in there, we&apos;ll just call doStuff. 
+In that case, we&apos;ll call it a function. But when a function more explicitly is set to 
+work with a particular object, we&apos;re more likely to call it a method. So that&apos;s where 
 the difference in terminology comes from. But in reality, in JavaScript all functions 
 are methods. So the two terms really are interchangeable. If you hear the term method 
-and you're confused by that, just think, Oh yeah, that's a function, and that's fine. 
-We've learned a lot about functions in this lesson, and you've already learned a lot 
+and you&apos;re confused by that, just think, Oh yeah, that&apos;s a function, and that&apos;s fine. 
+We&apos;ve learned a lot about functions in this lesson, and you&apos;ve already learned a lot 
 of JavaScript. 
 
-Along with the challenges, you'll get good at the JavaScript syntax and you'll get good 
+Along with the challenges, you&apos;ll get good at the JavaScript syntax and you&apos;ll get good 
 at being able to make simple programs function. From here we get to start doing some 
 much more interesting things where we start working with content on web pages and 
 manipulating web pages. So this course only gets more fun from here. So stick with 
-it and keep working on the lessons, and I can't wait to see you in the next one.
+it and keep working on the lessons, and I can&apos;t wait to see you in the next one.
 
 <ul>
   <li id="ch2-24-func"><a href="https://www.w3schools.com/js/js_functions.asp">
@@ -5494,8 +5534,8 @@ we can do something with that collection of elements.
 <p align="center" width="100%">
 <img src="./images/image314.png"
   style="width:45%"
-  title="dom.html - document.getElementsByTagName('p') - get all paragraphs"
-  alt="dom.html - document.getElementsByTagName('p') - get all paragraphs." />
+  title="dom.html - document.getElementsByTagName(&apos;p&apos;) - get all paragraphs"
+  alt="dom.html - document.getElementsByTagName(&apos;p&apos;) - get all paragraphs." />
 <img src="./images/image315.png"
   style="width:45%"
   title="Test, display paragraphs from document.getElementsByTagName"
@@ -5527,6 +5567,7 @@ HTMLCollection of elements that I need to then do something else with.
 <p align="center" width="100%">
 <img src="./images/image316.png"
   style="width:50%"
+  title="Example, Seeing the Loop in Action"
   alt="Example, Seeing the Loop in Action." />
 </p>
 
@@ -5541,9 +5582,11 @@ let&apos;s go ahead and do this over here rather than console log this out.
 <p align="center" width="100%">
 <img src="./images/image317.png"
   style="width:45%"
-  alt="dom.html - for(var i=0; i<ps.length; i++) {ps[i].style.color='red';}." />
+  title="dom.html - for(var i=0; i<ps.length; i++) {ps[i].style.color=&apos;red&apos;;}"
+  alt="dom.html - for(var i=0; i<ps.length; i++) {ps[i].style.color=&apos;red&apos;;}." />
 <img src="./images/image318.png"
   style="width:45%"
+  title="Test console output, 3 red paragraphs"
   alt="Test console output, 3 red paragraphs." />
 </p>
 
@@ -5565,9 +5608,11 @@ refresh this, you can see all my paragraphs generate.
 <p align="center" width="100%">
 <img src="./images/image319.png"
   style="width:45%"
-  alt="dom.html - alert('showing paragraph ${i}');." />
+  title="dom.html - alert(&apos;showing paragraph ${i}&apos;);"
+  alt="dom.html - alert(&apos;showing paragraph ${i}&apos;);." />
 <img src="./images/image320.png"
   style="width:45%"
+  title="Test, output from alert command, showing paragraph i"
   alt="Test, output from alert command, showing paragraph i." />
 </p>
 
@@ -5617,12 +5662,12 @@ name.  Then put them into an **HTMLCollection**.
 <p align="center" width="100%">
 <img src="./images/image323.png"
   style="width:45%"
-  title="dom.html - document.getElementsByClassName('special');"
-  alt="dom.html - document.getElementsByClassName('special');" />
+  title="dom.html - document.getElementsByClassName(&apos;special&apos;);"
+  alt="dom.html - document.getElementsByClassName(&apos;special&apos;);" />
 <img src="./images/image324.png"
   style="width:45%"
-  title="Test, output from document.getElementsByClassName('special');"
-  alt="Test, output from document.getElementsByClassName('special');" />
+  title="Test, output from document.getElementsByClassName(&apos;special&apos;);"
+  alt="Test, output from document.getElementsByClassName(&apos;special&apos;);" />
 </p>
 
 Let&apos;s give it a try real quick. Here, you can see I&apos;ve added class
@@ -5663,15 +5708,16 @@ A little bit easier way of doing this, I don&apos;t really need a loop here
 because I know that there&apos;s only one element in this collection, so I
 know it&apos;s going to be element zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 327/328. dom.html - getelementsbyclassname('classname') (187) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 327/328. dom.html - getelementsbyclassname(&apos;classname&apos;) (187) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image327.png"
   style="width:45%"
-  title="myClass[0].style.color='red';"
-  alt="myClass[0].style.color='red';" />
+  title="myClass[0].style.color=&apos;red&apos;;"
+  alt="myClass[0].style.color=&apos;red&apos;;" />
 <img src="./images/image328.png"
   style="width:45%"
-  alt="Test, output from myClass[0].style.color='red' command." />
+  title="Test, output from myClass[0].style.color=&apos;red&apos; command"
+  alt="Test, output from myClass[0].style.color=&apos;red&apos; command." />
 </p>
 
 So I don&apos;t need a loop, I can just make this zero and get rid of the
@@ -5737,14 +5783,16 @@ second course in specialization. But now we can actually get elements
 into our **DOM** a little bit easier than we could just with the older
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 331/332.  (190) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~ 331/332. define/test mytext = document.queryselector(&apos;special.someclass&apos;) (190) ~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image331.png"
   style="width:45%"
-  alt="." />
+  title="var myText = document.querySelector(&apos;#special.someclass&apos;);"
+  alt="var myText = document.querySelector(&apos;#special.someclass&apos;);" />
 <img src="./images/image332.png"
   style="width:45%"
-  alt="." />
+  title="Test, document.querySelector(&apos;#special.someclass&apos;);"
+  alt="Test, document.querySelector(&apos;#special.someclass&apos;);" />
 </p>
 
 Okay, so let&apos;s take a look at **querySelector** and the way that works.
@@ -5754,11 +5802,12 @@ do something like this. var **myText = document.querySelector**. And
 then what I would pass in is actually instead of just some class, I
 would put either dots or I could put **.someclass.**
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 333.  (190) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 333. queryselector with css syntax (190) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image333.png"
   style="width:50%"
-  alt="." />
+  title="document.querySelector(&apos;#special.someclass&apos;);"
+  alt="document.querySelector(&apos;#special.someclass&apos;);" />
 </p>
 
 What is different here is before we didn&apos;t use the CSS syntax. Now we
@@ -5879,8 +5928,8 @@ page.
 <p align="center" width="100%">
 <img src="./images/image339.png"
   style="width:50%"
-  title="Working with Element Methods; .setAttribute('attributeName','value');"
-  alt="Working with Element Methods; .setAttribute('attributeName','value');" />
+  title="Working with Element Methods; .setAttribute(&apos;attributeName&apos;,&apos;value&apos;);"
+  alt="Working with Element Methods; .setAttribute(&apos;attributeName&apos;,&apos;value&apos;);" />
 </p>
 
 So we have the document **methods**, and now we have element
@@ -5953,8 +6002,8 @@ completely different. And that&apos;s something else could have HTML in it.
 <p align="center" width="100%">
 <img src="./images/image344.png"
   style="width:45%"
-  title="Define div, myDiv = document.getElementById('special'), add using myDiv.innerHTML"
-  alt="Define div, myDiv = document.getElementById('special'), add using myDiv.innerHTML." />
+  title="Define div, myDiv = document.getElementById(&apos;special&apos;), add using myDiv.innerHTML"
+  alt="Define div, myDiv = document.getElementById(&apos;special&apos;), add using myDiv.innerHTML." />
 <img src="./images/image345.png"
   style="width:45%"
   title="Test, console document.getElementById and myDiv.innerHTML"
@@ -5987,8 +6036,8 @@ doing. Now, here, I&apos;m using **getElementById(&apos;special&apos;).**
 <p align="center" width="100%">
 <img src="./images/image346.png"
   style="width:45%"
-  title="document.querySelector('#special');"
-  alt="document.querySelector('#special');" />
+  title="document.querySelector(&apos;#special&apos;);"
+  alt="document.querySelector(&apos;#special&apos;);" />
 <img src="./images/image347.png"
   style="width:45%"
   title="Test console, replace 3 paragraphs with 1 new paragraph"
@@ -6009,8 +6058,8 @@ element here.
 <p align="center" width="100%">
 <img src="./images/image348.png"
   style="width:50%"
-  title="document.querySelector('#special').innerHTML = '&lt;p&gt;Here is my new paragraph&lt;/p&gt;';"
-  alt="document.querySelector('#special').innerHTML = '&lt;p&gt;Here is my new paragraph&lt;/p&gt;';" />
+  title="document.querySelector(&apos;#special&apos;).innerHTML = &apos;&lt;p&gt;Here is my new paragraph&lt;/p&gt;&apos;;"
+  alt="document.querySelector(&apos;#special&apos;).innerHTML = &apos;&lt;p&gt;Here is my new paragraph&lt;/p&gt;&apos;;" />
 </p>
 
 Now, I&apos;m putting this all inside of this **div** here, but I don&apos;t
@@ -6063,8 +6112,8 @@ a class blue here to my document. So let&apos;s see how this works.
 <p align="center" width="100%">
 <img src="./images/image351.png"
   style="width:50%"
-  title="Define class 'blue' and assign to 1st paragraph"
-  alt="Define class 'blue' and assign to 1st paragraph." />
+  title="Define class &apos;blue&apos; and assign to 1st paragraph"
+  alt="Define class &apos;blue&apos; and assign to 1st paragraph." />
 </p>
 
 I&apos;m going to go over to my page and you can see I&apos;ve added a rule here to set 
@@ -6122,11 +6171,12 @@ methods. Remember these are properties because they&apos;ve got the equal
 sign and then a value, but we also have element methods. And the first
 one we&apos;ll look at is **setAttribute**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355.  (201) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 355. make check box checked by default (201) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image355.png"
   style="width:50%"
-  alt="." />
+  title="Make checkbox checked by default"
+  alt="Make checkbox checked by default." />
 </p>
 
 So here I have a form and let&apos;s just do this one really quickly here. I
@@ -6140,14 +6190,16 @@ Checked, checked, and that&apos;s the way. What that will do is it&apos;ll come
 in here and it&apos;s going to set a checked attribute and set it to
 checked, which will make the check box checked by default.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 356/357.  (202) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 356/357. test, console, attribute checked by default (202) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image356.png"
   style="width:45%"
-  alt="." />
+  title="Test, checkbox not set"
+  alt="Test, checkbox not set." />
 <img src="./images/image357.png"
   style="width:45%"
-  alt="." />
+  title="Test, checkbox checked by default"
+  alt="Test, checkbox checked by default." />
 </p>
 
 So if we go over and view the page, currently, without having set that
@@ -6166,7 +6218,7 @@ content on our webpages.
 <h2 id="ch3-09">3.09 Creating Elements and Text Nodes (5:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 358. creating elements and text nodes (3.09) (203) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 358. creating elements and text nodes (3.09) (202) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image358.png"
   style="width:40%"
@@ -6204,8 +6256,8 @@ doing it.
 <p align="center" width="100%">
 <img src="./images/image360.png"
   style="width:50%"
-  title="Define variable using document.createElement('p');"
-  alt="Define variable using document.createElement('p');" />
+  title="Define variable using document.createElement(&apos;p&apos;);"
+  alt="Define variable using document.createElement(&apos;p&apos;);" />
 </p>
 
 Here I&apos;m going to make a variable var **myTag** and I&apos;m going to say
@@ -6284,8 +6336,8 @@ this example really quickly.
 <p align="center" width="100%">
 <img src="./images/image364.png"
   style="width:50%"
-  title="Define myDiv = document.querySelector('div'); &amp; removeChild(myDiv.children[1]);"
-  alt="Define myDiv = document.querySelector('div'); &amp; removeChild(myDiv.children[1]);" />
+  title="Define myDiv = document.querySelector(&apos;div&apos;); &amp; removeChild(myDiv.children[1]);"
+  alt="Define myDiv = document.querySelector(&apos;div&apos;); &amp; removeChild(myDiv.children[1]);" />
 </p>
 
 Here I have a **div** with two paragraphs in it, and I&apos;m going to go
@@ -6399,20 +6451,20 @@ that you actually clicked the button.
 <p align="center" width="100%">
 <img src="./images/image371.png"
   style="width:50%"
-  title="Add &lt;button&gt; which says 'Don&apos;t Press Me!'"
-  alt="Add &lt;button&gt; which says 'Don&apos;t Press Me!'." />
+  title="Add &lt;button&gt; which says &apos;Don&apos;t Press Me!&apos;"
+  alt="Add &lt;button&gt; which says &apos;Don&apos;t Press Me!&apos;." />
 </p>
 
 Here I have a webpage, I have a button on the webpage, it says Don&apos;t
 Press Me! And I&apos;m going to grab that button using my document element
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 372. define var btn = document.queryselector('button'); (211) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 372. define var btn = document.queryselector(&apos;button&apos;); (211) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image372.png"
   style="width:50%"
-  title="Define var btn = document.querySelector('button');"
-  alt="Define var btn = document.querySelector('button');" />
+  title="Define var btn = document.querySelector(&apos;button&apos;);"
+  alt="Define var btn = document.querySelector(&apos;button&apos;);" />
 </p>
 
 So I&apos;m going to make a variable var btn, and I&apos;m going to assign it
@@ -6446,7 +6498,7 @@ I did, **btn.onclick = ouch();** then that function would run right
 away, it would run immediately. It&apos;s not going to wait for me to click.
 Instead, it&apos;s going to run right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 374. function(){alert('I told you not to press me!');} (212) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 374. function(){alert(&apos;I told you not to press me!&apos;);} (212) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image374.png"
   style="width:50%"
@@ -6502,8 +6554,8 @@ we&apos;ll use the **addEventListener** instead.
   alt="btn.addEventListner();" />
 <img src="./images/image378.png"
   style="width:45%"
-  title="btn.addEventListner('click', ouch);"
-  alt="btn.addEventListner('click', ouch);" />
+  title="btn.addEventListner(&apos;click&apos;, ouch);"
+  alt="btn.addEventListner(&apos;click&apos;, ouch);" />
 </p>
 
 Let&apos;s give that a try really quickly over here. Instead of using the
@@ -6541,11 +6593,12 @@ The most common syntax is to use the **addEventListener** with an
 anonymous function. It combines the two that we looked at before. Let&apos;s
 take a look at that instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 381.  (216) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 381. run anonymous alert function (216) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image381.png"
   style="width:50%"
-  alt="." />
+  title="Run anonymous alert function"
+  alt="Run anonymous alert function." />
 </p>
 
 Down here, instead of running the function here, **ouch**. We&apos;re going
@@ -6563,21 +6616,23 @@ that, you&apos;re probably only going to use it within the context of this
 particular button. And in that case, an anonymous function is more
 appropriate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 382.  (217) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 382. test, anonymous alert function (217) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image382.png"
   style="width:50%"
-  alt="." />
+  title="Test, anonymous alert function"
+  alt="Test, anonymous alert function." />
 </p>
 
 I&apos;m going to come back and let&apos;s just test it one more time refresh
 the page. Don&apos;t press me and I get my alert.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383.  (217) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 383. add alert within anonymous function (217) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image383.png"
   style="width:50%"
-  alt="." />
+  title="Add alert to anonymous function"
+  alt="Add alert to anonymous function." />
 </p>
 
 Now, this syntax this line is getting kind of long here. Usually you
@@ -6623,12 +6678,12 @@ The event object can be passed into the function that runs when an event
 listener happens, and it&apos;s a very useful object to have access to.
 Let&apos;s take a look and see what it does.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 386. event.target.style.backgroundcolr = 'red'; (219) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 386. event.target.style.backgroundcolr = &apos;red&apos;; (219) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image386.png"
   style="width:50%"
-  title="event.target.style.backgroundColor = 'red';"
-  alt="event.target.style.backgroundColor = 'red';" />
+  title="event.target.style.backgroundColor = &apos;red&apos;;"
+  alt="event.target.style.backgroundColor = &apos;red&apos;;" />
 </p>
 
 Over here, I&apos;m in my event listener here, and I have this function
@@ -6655,12 +6710,12 @@ use the event object and the event target to actually know which element
 was triggering this event, and then we can do something with that
 **event.target**. This is often very useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 388. btn.addeventlistener('click', function(event)) (220) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 388. btn.addeventlistener(&apos;click&apos;, function(event)) (220) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image388.png"
   style="width:50%"
-  title="btn.addEventListener('click', function(event){ backgroundColor = 'red' });"
-  alt="btn.addEventListener('click', function(event){ backgroundColor = 'red' });" />
+  title="btn.addEventListener(&apos;click&apos;, function(event){ backgroundColor = &apos;red&apos; });"
+  alt="btn.addEventListener(&apos;click&apos;, function(event){ backgroundColor = &apos;red&apos; });" />
 </p>
 
 Now, this "event" is just a variable. You could call it whatever you
@@ -6681,12 +6736,12 @@ submission of the form so that we can do something with that form data
 before it&apos;s submitted, and so we&apos;ll use that frequently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 390. queryselect of 'a' link, click & preventdefault (221) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 390. queryselect of &apos;a&apos; link, click & preventdefault (221) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image390.png"
   style="width:50%"
-  title="querySelector of 'a' link, click command, &amp; preventDefault from running link"
-  alt="querySelector of 'a' link, click command, &amp; preventDefault from running link." />
+  title="querySelector of &apos;a&apos; link, click command, &amp; preventDefault from running link"
+  alt="querySelector of &apos;a&apos; link, click command, &amp; preventDefault from running link." />
 </p>
 
 Let&apos;s just take a look at a simple example of this here. If I go over
@@ -6783,12 +6838,12 @@ coming up, for some of our other projects, it&apos;ll be helpful for you to
 have these scripts to reference.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 397. form method = 'get', var = form (224) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 397. form method = &apos;get&apos;, var = form (224) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image397.png"
   style="width:50%"
-  title="form method = 'get', var = form"
-  alt="form method = 'get', var = form." />
+  title="form method = &apos;get&apos;, var = form"
+  alt="form method = &apos;get&apos;, var = form." />
 </p>
 
 Here I&apos;ve got a form on my page here, and it&apos;s set to method get.
@@ -6830,7 +6885,7 @@ value property since I&apos;m not adding the property there explicitly,
 it&apos;ll be Whatever somebody types into the field, okay, so then I can
 just alert out alert form data and now if we go try this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 398. test, prompt, don't process yet (226) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 398. test, prompt, don&apos;t process yet (226) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image398.png"
   style="width:50%"
@@ -6873,12 +6928,12 @@ that field up in the URL, by default, a form a form element when you
 submit it. The default behavior is that it will go to whatever you set
 the action here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. action='processor.php' (227) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. action=&apos;processor.php&apos; (227) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image402.png"
   style="width:50%"
-  title="form method='get' action='processor.php'"
-  alt="form method='get' action='processor.php'." />
+  title="form method=&apos;get&apos; action=&apos;processor.php&apos;"
+  alt="form method=&apos;get&apos; action=&apos;processor.php&apos;." />
 </p>
 
 If I had an **action="processor.php"**, some other file that&apos;s going to
@@ -6889,8 +6944,8 @@ case, it won&apos;t be able to because that page doesn&apos;t exist.
 <p align="center" width="100%">
 <img src="./images/image403.png"
   style="width:40%"
-  title="Test, error 'not found'"
-  alt="Test, error 'not found'." />
+  title="Test, error &apos;not found&apos;"
+  alt="Test, error &apos;not found&apos;." />
 </p>
 
 If I do, submit, it&apos;s going to do that. It either tries to go there or
@@ -6902,8 +6957,8 @@ want to use JavaScript to capture this data and do something with it.
 <p align="center" width="100%">
 <img src="./images/image404.png"
   style="width:50%"
-  title="Add e.preventDefault so won't error out"
-  alt="Add e.preventDefault so won't error out." />
+  title="Add e.preventDefault so won&apos;t error out"
+  alt="Add e.preventDefault so won&apos;t error out." />
 </p>
 
 That&apos;s why I&apos;m doing prevent default down here, and I passing in this
@@ -6962,8 +7017,8 @@ variables for my heading and for the box to get those two elements.
 </p>
 
 Let&apos;s start with that. Down here in my script, **var heading = **
-**document.querySelector('h1')**, and **var myDiv = **
-**document.querySelector('div')**. That will get those two elements there.
+**document.querySelector(&apos;h1&apos;)**, and **var myDiv = **
+**document.querySelector(&apos;div&apos;)**. That will get those two elements there.
 I also want to change this text to, &quot;Roll Your Mouse Over The Box.&quot;
 Let&apos;s do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6983,8 +7038,8 @@ mouse over the box.
 <p align="center" width="100%">
 <img src="./images/image410.png"
   style="width:50%"
-  title="box.addEventListener('mouseover', function(){heading.innerHTML = 'The mouse is over the box';});"
-  alt="box.addEventListener('mouseover', function(){heading.innerHTML = 'The mouse is over the box';});" />
+  title="box.addEventListener(&apos;mouseover&apos;, function(){heading.innerHTML = &apos;The mouse is over the box&apos;;});"
+  alt="box.addEventListener(&apos;mouseover&apos;, function(){heading.innerHTML = &apos;The mouse is over the box&apos;;});" />
 </p>
 
 Now, I&apos;m going to put an event listener on the box that when I roll my
@@ -7118,7 +7173,7 @@ can&apos;t really capture that event, okay, great.
   alt="Example, Scroll Events: JS." />
 </p>
 
-I&apos;ve got a script that's going to capture the scroll event and see what
+I&apos;ve got a script that&apos;s going to capture the scroll event and see what
 we can do with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 420. event listener, scroll, update pagetop (236) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -7251,8 +7306,8 @@ this case, the event we&apos;re going to look for is a resize.
 <p align="center" width="100%">
 <img src="./images/image427.png"
   style="width:50%"
-  title="Define window.addEventListener('resize', function() and console log innerWidth & innerHeight"
-  alt="Define window.addEventListener('resize', function() and console log innerWidth & innerHeight." />
+  title="Define window.addEventListener(&apos;resize&apos;, function() and console log innerWidth & innerHeight"
+  alt="Define window.addEventListener(&apos;resize&apos;, function() and console log innerWidth & innerHeight." />
 </p>
 
 I&apos;m looking for resize the window, and then we&apos;ll run a function And
@@ -7317,8 +7372,8 @@ that. That would be fun.
 <p align="center" width="100%">
 <img src="./images/image431.png"
   style="width:50%"
-  title="Add script, document.addEventListener('keydown', function()"
-  alt="Add script, document.addEventListener('keydown', function()." />
+  title="Add script, document.addEventListener(&apos;keydown&apos;, function()"
+  alt="Add script, document.addEventListener(&apos;keydown&apos;, function()." />
 </p>
 
 Over here on your HTML page, we can just add a script. This time we&apos;re
@@ -7330,12 +7385,12 @@ down event. You could also look for key up or some other types of events
 that have to do with keys as well. Function. Then I&apos;m just going to
 alert, A key was pressed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert('a key was pressed') (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert(&apos;a key was pressed&apos;) (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image432.png"
   style="width:50%"
-  title="alert('A key was pressed!')"
-  alt="alert('A key was pressed!')." />
+  title="alert(&apos;A key was pressed!&apos;)"
+  alt="alert(&apos;A key was pressed!&apos;)." />
 </p>
 
 Let&apos;s go over and give that a try over here. I refresh this page and
@@ -7591,8 +7646,8 @@ sure that we don&apos;t have problems with the variables.
 <p align="center" width="100%">
 <img src="./images/image448.png"
   style="width:50%"
-  title="Make a variable without the 'var' keyword"
-  alt="Make a variable without the 'var' keyword." />
+  title="Make a variable without the &apos;var&apos; keyword"
+  alt="Make a variable without the &apos;var&apos; keyword." />
 </p>
 
 This is what happens when things get even worse in JavaScript, and
@@ -7604,8 +7659,8 @@ scope.
 <p align="center" width="100%">
 <img src="./images/image449.png"
   style="width:50%"
-  title="Global variable defined by no 'var'"
-  alt="Global variable defined by no 'var'." />
+  title="Global variable defined by no &apos;var&apos;"
+  alt="Global variable defined by no &apos;var&apos;." />
 </p>
 
 I&apos;m going to go ahead and add this in here and see what happens. I&apos;m
@@ -7682,8 +7737,8 @@ variables local to that function.
 <p align="center" width="100%">
 <img src="./images/image454.png"
   style="width:45%"
-  title="Define document.querySelectorAll('p')"
-  alt="Define document.querySelectorAll('p')." />
+  title="Define document.querySelectorAll(&apos;p&apos;)"
+  alt="Define document.querySelectorAll(&apos;p&apos;)." />
 <img src="./images/image455.png"
   style="width:45%"
   title="Set style color to red"
@@ -7869,23 +7924,23 @@ technique that we have at our disposal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-21">3.21 Strategy 2: "use strict;"</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: 'use strict;' (3.21) (260) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: &apos;use strict;&apos; (3.21) (260) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image467.png"
   style="width:40%"
-  title="3.21 Strategy 2: 'use strict;'"
-  alt="3.21 Strategy 2: 'use strict;'." />
+  title="3.21 Strategy 2: &apos;use strict;&apos;"
+  alt="3.21 Strategy 2: &apos;use strict;&apos;." />
 </p>
 
 The first strategy was to use some closure with name spacing to make
 sure that variables stay out of the global scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 'use strict;' (261) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 &apos;use strict;&apos; (261) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image468.png"
   style="width:50%"
-  title="Example, Strategy 2: 'use strict;'"
-  alt="Example, Strategy 2: 'use strict;'." />
+  title="Example, Strategy 2: &apos;use strict;&apos;"
+  alt="Example, Strategy 2: &apos;use strict;&apos;." />
 </p>
 
 The second strategy is to use this use strict directive. This is
@@ -7913,20 +7968,20 @@ function, but that&apos;s okay.
 <p align="center" width="100%">
 <img src="./images/image470.png"
   style="width:50%"
-  title="Variable defined without 'var' keyword"
-  alt="Variable defined without 'var' keyword." />
+  title="Variable defined without &apos;var&apos; keyword"
+  alt="Variable defined without &apos;var&apos; keyword." />
 </p>
 
 We can do this and we can console log that out. I can save that and go over it 
 and run it over here in my browser and you&apos;ll see that that variable gets 
 sent out to the console log as described there, which is fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 471. add 'use strict' to catch error (262) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 471. add &apos;use strict&apos; to catch error (262) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image471.png"
   style="width:50%"
-  title="Add 'use strict' to script to catch undefined variables"
-  alt="Add 'use strict' to script to catch undefined variables." />
+  title="Add &apos;use strict&apos; to script to catch undefined variables"
+  alt="Add &apos;use strict&apos; to script to catch undefined variables." />
 </p>
 
 But if I add the "use strict" directive in here, "use strict" like so, and this 
@@ -7942,7 +7997,7 @@ and try to run the script again.
 </p>
 
 Uncaught reference error, newVar is not defined. Use strict will keep me from 
-accidentally forgetting the var keyword. What? I've been writing code since 1978 
+accidentally forgetting the var keyword. What? I&apos;ve been writing code since 1978 
 and this is so Basic. If I put that in, it&apos;ll work just fine. There we go. 
 Now, again, this was something that came out as part of ES5 back in 2009. 
 That&apos;s an interesting and useful (?) tool to keep Basics from doing this.
@@ -7988,20 +8043,20 @@ So <span class="consolas">constant</span> &amp; <span class="consolas">let</span
 were introduced into the language. They were added to the 
 language as part of the ES6 or ES2015 and they both help to minimize the 
 chances that a variable holds an unexpected value. Const will hold the 
-value but once you've set the value for a variable, you cannot change the 
+value but once you&apos;ve set the value for a variable, you cannot change the 
 value of that variable while the script runs. That will keep you from 
 accidentally re assigning a value to a variable that has been defined 
 using the const keyword. 
 
-Here I've got const cheese equals yummy and now that that's been set. 
+Here I&apos;ve got const cheese equals yummy and now that that&apos;s been set. 
 While the script runs, it cannot be changed. The let keyword allows you 
 to change the variable but it has block level scope. So here, let i 
 equals zero that i is only available in a variable inside this “for 
-block”, and it won't be available outside of the “for loop” block. 
+block”, and it won&apos;t be available outside of the “for loop” block. 
 That adds a third level of scope to JavaScript. 
 
 Previously we had the global scope and we had scope inside functions 
-but we didn't have any block level scope. Now we've got a block level scope. 
+but we didn&apos;t have any block level scope. Now we&apos;ve got a block level scope. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 476. example, const (265) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8011,28 +8066,28 @@ but we didn't have any block level scope. Now we've got a block level scope.
   alt="Example, Const." />
 </p>
 
-Let's take a look at a couple of these examples first. Let's look at const. So 
+Let&apos;s take a look at a couple of these examples first. Let&apos;s look at const. So 
 here I have cheese equals yummy and I can console log that out but if I try to 
-assign a different value to cheese, I'm going to get an error. 
+assign a different value to cheese, I&apos;m going to get an error. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 477/478. const in scope testing (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image477.png"
   style="width:45%"
-  title="Define const cheese = 'cheese is yummy'"
-  alt="Define const cheese = 'cheese is yummy'." />
+  title="Define const cheese = &apos;cheese is yummy&apos;"
+  alt="Define const cheese = &apos;cheese is yummy&apos;." />
 <img src="./images/image478.png"
   style="width:45%"
   title="Test, console.log(cheese) for local and global scoping"
   alt="Test, console.log(cheese) for local and global scoping." />
 </p>
 
-Let's say I have a script in my code editor. We can try to run that and see what 
+Let&apos;s say I have a script in my code editor. We can try to run that and see what 
 we get. We assign cheese as a constant variable to “cheese is yummy”.  Then 
 console to screen. Finally, attempted re-assigned to “cheese is yucky”. 
 Causing an error, can not assign a new value to that variable.  Type error. 
-And that's going to keep me from accidentally assigning a new value to that 
-variable when I don't want it to.
+And that&apos;s going to keep me from accidentally assigning a new value to that 
+variable when I don&apos;t want it to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 479. example, let (266) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8042,9 +8097,9 @@ variable when I don't want it to.
   alt="Example, let." />
 </p>
 The next thing we can look at is the let keyword and using that instead of art 
-and we'll do this with a for loop. 
+and we&apos;ll do this with a for loop. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 480/481. define 'for' loop  using let (267) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 480/481. define &apos;for&apos; loop  using let (267) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image480.png"
   style="width:45%"
@@ -8055,9 +8110,9 @@ and we'll do this with a for loop.
   title="Test, for loop using let"
   alt="Test, for loop using let." />
 </p>
-Let's go over to our code editor and put this one in. I'm going to just make a 
-quick “for group” here and instead of using var I'm going to use let behind 
-equals zero. I'll see you around like what I equals zero While I is less than 
+Let&apos;s go over to our code editor and put this one in. I&apos;m going to just make a 
+quick “for group” here and instead of using var I&apos;m going to use let behind 
+equals zero. I&apos;ll see you around like what I equals zero While I is less than 
 10, something like that. That there we go. I plus plus. And then curly braces, 
 console dot log. And if I test this, you’ll see that it will print 10 times.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8065,32 +8120,32 @@ console dot log. And if I test this, you’ll see that it will print 10 times.
 <p align="center" width="100%">
 <img src="./images/image482.png"
   style="width:45%"
-  title="Define 'for' loop with let inside, display to console let value"
-  alt="Define 'for' loop with let inside, display to console let value." />
+  title="Define &apos;for&apos; loop with let inside, display to console let value"
+  alt="Define &apos;for&apos; loop with let inside, display to console let value." />
 <img src="./images/image483.png"
   style="width:45%"
-  title="Test, given error with global variable outside the 'for' loop"
-  alt="Test, given error with global variable outside the 'for' loop." />
+  title="Test, given error with global variable outside the &apos;for&apos; loop"
+  alt="Test, given error with global variable outside the &apos;for&apos; loop." />
 </p>
 But if I come back here, if I try to do console that log, use my tick marks, 
 the value of i is i but make that a variable dollar sign, curly brace, curly 
-brace. That's going to generate an error because I've used the let keyword in 
-this as block level scope, let's see that in action i is not defined.
+brace. That&apos;s going to generate an error because I&apos;ve used the let keyword in 
+this as block level scope, let&apos;s see that in action i is not defined.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 484/485. define for loop with var, test (268) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image484.png"
   style="width:45%"
-  title="Define 'for' loop with var"
-  alt="Define 'for' loop with var." />
+  title="Define &apos;for&apos; loop with var"
+  alt="Define &apos;for&apos; loop with var." />
 <img src="./images/image485.png"
   style="width:45%"
-  title="Test, 'for' loop local and global var, no error"
-  alt="Test, 'for' loop local and global var, no error." />
+  title="Test, &apos;for&apos; loop local and global var, no error"
+  alt="Test, &apos;for&apos; loop local and global var, no error." />
 </p>
-Whereas if I were to come back here and change this keyword to var, that doesn't 
-have block level scope. If I say that var of i is 10 because it's gone through 
-the whole loop and it got up to 10. So with var we don't have block level scope 
+Whereas if I were to come back here and change this keyword to var, that doesn&apos;t 
+have block level scope. If I say that var of i is 10 because it&apos;s gone through 
+the whole loop and it got up to 10. So with var we don&apos;t have block level scope 
 but with let we do so with our third strategy here, what we should do is never 
 use var to define variables anymore. Instead we can use const or let and in 
 general use const whenever you can. Use constant by default. 
@@ -8102,56 +8157,56 @@ general use const whenever you can. Use constant by default.
   title="Example, hoisting"
   alt="Example, hoisting." />
 </p>
-One last thing I want to talk about before we're done with talking about scope 
+One last thing I want to talk about before we&apos;re done with talking about scope 
 is hoisting in JavaScript and this has to do with how variables and functions 
 are defined. Generally speaking functions and variables get hoisted in JavaScript, 
 meaning JavaScript looks at the file and it sees that variables have been used 
 so it hoist them up to the top as well as functions as well, get hoisted up to 
-the top. Let's see an example of this really quickly. 
+the top. Let&apos;s see an example of this really quickly. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 487/488. console log var before defined (269) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image487.png"
   style="width:45%"
-  title="console.log(cheese) then var cheese = 'yummy'"
-  alt="console.log(cheese) then var cheese = 'yummy'." />
+  title="console.log(cheese) then var cheese = &apos;yummy&apos;"
+  alt="console.log(cheese) then var cheese = &apos;yummy&apos;." />
 <img src="./images/image488.png"
   style="width:45%"
-  title="Test, error 'undefined'"
-  alt="Test, error 'undefined'." />
+  title="Test, error &apos;undefined&apos;"
+  alt="Test, error &apos;undefined&apos;." />
 </p>
 For example, if I use the var keyword to define cheese, but I console log cheese 
 out first, see what happens. Over here in my code editor, I have console log 
-cheese and then I'm defining the variable after I'm trying to run it in the 
+cheese and then I&apos;m defining the variable after I&apos;m trying to run it in the 
 console. Notice I get undefined because the variable has not been defined at 
-the point at which I'm using it, but it knows that exists because of the hoisting. 
+the point at which I&apos;m using it, but it knows that exists because of the hoisting. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 489/490. define variable as const, gives error (269) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image489.png"
   style="width:45%"
-  title="console.log(cheese), then const cheese = 'yummy'"
-  alt="console.log(cheese), then const cheese = 'yummy'." />
+  title="console.log(cheese), then const cheese = &apos;yummy&apos;"
+  alt="console.log(cheese), then const cheese = &apos;yummy&apos;." />
 <img src="./images/image490.png"
   style="width:45%"
-  title="Test, error 'cannot access cheese before initialization'"
-  alt="Test, error 'cannot access cheese before initialization'." />
+  title="Test, error &apos;cannot access cheese before initialization&apos;"
+  alt="Test, error &apos;cannot access cheese before initialization&apos;." />
 </p>
 
 Whereas if I change that variable declaration to const watch what happens now, 
 I get an error; Cannot access “cheese” before initialization. And you may be 
-thinking why would I want an error? Well really what we're trying to avoid is 
+thinking why would I want an error? Well really what we&apos;re trying to avoid is 
 unexpected results. And if you can explicitly get an error that says that it 
-didn't get called right, then that's better than getting something that's 
-undefined or unexpected. In this case even though we don't want errors, it 
+didn&apos;t get called right, then that&apos;s better than getting something that&apos;s 
+undefined or unexpected. In this case even though we don&apos;t want errors, it 
 helps us identify problems in our scripts before they become big problems and 
 bugs that are difficult to track down.
 
-With that you've learned a lot about the scope in JavaScript and the different 
+With that you&apos;ve learned a lot about the scope in JavaScript and the different 
 strategies for dealing with scope and JavaScript. And they include first and 
 foremost using some sort of closure or name spacing with the immediately invoked 
-function expression to keep variables out of the global scope. That's number one. 
-Number two, use the EU's strict declaration to keep us from having variables that 
+function expression to keep variables out of the global scope. That&apos;s number one. 
+Number two, use the EU&apos;s strict declaration to keep us from having variables that 
 are accidentally declared without using the var keyword or any keyword from going 
 into the global scope. And then use constant (const) and let as keywords to define 
 variables. Those three strategies together will really help with making sure your 
@@ -8190,7 +8245,7 @@ event challenges, and I have that folder over here.
 
 I have a folder here with challenges 22 through 30. And hopefully 
 you have those as well, with all the completed challenges in there. 
-If you don't, you should go do those challenges first. Then I have 
+If you don&apos;t, you should go do those challenges first. Then I have 
 my code editor here. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8202,7 +8257,7 @@ my code editor here.
   alt="Folder of event challenges 22 thru 30." />
 </p>
 
-I'm going to open that folder in my code editor by clicking, Open 
+I&apos;m going to open that folder in my code editor by clicking, Open 
 Folder and I can open my event challenges folder here and it will 
 show up on the side over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8214,7 +8269,7 @@ show up on the side over here.
   alt="Challenge 22, best practices." />
 </p>
  
-Next, I'm going to do these best practices around scope and around 
+Next, I&apos;m going to do these best practices around scope and around 
 some stuff around file management as well. And working with scripts 
 and files. Here I have my challenge 22, challenge that I did with 
 the script at the bottom of the page. What I want to do is I want 
@@ -8222,7 +8277,7 @@ to move the script off of the bottom of the page to a separate,
 linked file. And I want to make use of my best practices around 
 the immediately invoked function expression. That runs automatically 
 as well as the use strict directive that will keep me from accidentally 
-having variables that don't have a keyword starting them. And then I 
+having variables that don&apos;t have a keyword starting them. And then I 
 want to switch my keywords from var to either const or let wherever 
 I possibly can. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8238,8 +8293,8 @@ I possibly can.
   alt="Challenge 22, move code to script22.js." />
 </p>
 
-So let's do that. Over here, I'm going to make a new file and you 
-can click this button here to make a new file. I'm going to call 
+So let&apos;s do that. Over here, I&apos;m going to make a new file and you 
+can click this button here to make a new file. I&apos;m going to call 
 it <b>script22.js</b> to go with challenge 22 here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~ 498/499. wrap entire script with parentheses to invoke immediately (273) ~~~~~~~~~-->
@@ -8250,19 +8305,19 @@ it <b>script22.js</b> to go with challenge 22 here.
   alt="Select entire script and move to script22.js." />
 <img src="./images/image499.png"
   style="width:45%"
-  title="In script22.js, add 'use strict' and wrap with parentheses to invoke immediately"
-  alt="In script22.js, add 'use strict' and wrap with parentheses to invoke immediately." />
+  title="In script22.js, add &apos;use strict&apos; and wrap with parentheses to invoke immediately"
+  alt="In script22.js, add &apos;use strict&apos; and wrap with parentheses to invoke immediately." />
 </p>
-And on script 22 js I'm going to start by adding my immediately 
+And on script 22 js I&apos;m going to start by adding my immediately 
 invoked function expression by starting with the parentheses. And 
-then I'm going to put in here function that's parentheses and curly 
-braces. And then don't forget, I need one more set of parentheses 
-to make that actually run. Okay, so I've got a function here, and 
-in here, I'm going to add the use strict directive. Then what I'm 
-going to do is I'm going to come over to challenge 22 here. 
-And I'm going to come down to the bottom, and I'm going to copy 
+then I&apos;m going to put in here function that&apos;s parentheses and curly 
+braces. And then don&apos;t forget, I need one more set of parentheses 
+to make that actually run. Okay, so I&apos;ve got a function here, and 
+in here, I&apos;m going to add the use strict directive. Then what I&apos;m 
+going to do is I&apos;m going to come over to challenge 22 here. 
+And I&apos;m going to come down to the bottom, and I&apos;m going to copy 
 or cut, I can actually just cut Command x or Control x. Cut this 
-script right from here, and instead I'm going to paste it in here. 
+script right from here, and instead I&apos;m going to paste it in here. 
 Might have to shift tab to move that over. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 500. replace var with const (274) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8274,33 +8329,33 @@ Might have to shift tab to move that over.
 </p>
 
 The next thing I want to do is replace any variable declarations. 
-So they're not using the var keyword they're using either const. 
+So they&apos;re not using the var keyword they&apos;re using either const. 
 Use const wherever you possibly can, and use let where you have 
-to. So this can be const and this can be const. Why? Because I'm 
+to. So this can be const and this can be const. Why? Because I&apos;m 
 going into my document and getting these elements out of the document 
-that's not going to change during the running of the script. 
-I've done my three things, I'm using my function expression here, by 
-immediately invoked function expression as a closure. And then I'm 
+that&apos;s not going to change during the running of the script. 
+I&apos;ve done my three things, I&apos;m using my function expression here, by 
+immediately invoked function expression as a closure. And then I&apos;m 
 using the use strict directive, if I forgot to put const here that 
-will catch that problem and tell me explicitly that I've done a bad 
-thing. And I've changed my variables declarations from using var to 
+will catch that problem and tell me explicitly that I&apos;ve done a bad 
+thing. And I&apos;ve changed my variables declarations from using var to 
 const. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 501/502. script src='script22.js' to end of body (274) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 501/502. script src=&apos;script22.js&apos; to end of body (274) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image501.png"
   style="width:45%"
-  title="Add script src='script22.js' to end of body in index.html"
-  alt="Add script src='script22.js' to end of body in index.html." />
+  title="Add script src=&apos;script22.js&apos; to end of body in index.html"
+  alt="Add script src=&apos;script22.js&apos; to end of body in index.html." />
 <img src="./images/image502.png"
   style="width:45%"
   title="Test console, turn green dammit!"
   alt="Test console, turn green dammit!." />
 </p>
 
-Now over here in my file, instead of having the script here I'm 
+Now over here in my file, instead of having the script here I&apos;m 
 going to add a source src=. And then I can actually put in here, 
-script 22. And that's fine and I can move this up to here really. 
+script 22. And that&apos;s fine and I can move this up to here really. 
 So you have to keep the closing tag but that will work. 
 And now I can come over to my file in the browser (right image) 
 over here, refresh, test it and you can see it still works. It 
@@ -8317,40 +8372,40 @@ still functions just fine.
 Even more if you want you could even take this even further by 
 moving the declaration for the script here, up to the top of the 
 file. I can put it in here the head, but I have to add the defer 
-key word here. With defer it will make it run as if it's at the 
-bottom of the page. And you'll see that still works. 
+key word here. With defer it will make it run as if it&apos;s at the 
+bottom of the page. And you&apos;ll see that still works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504. test, remove defer and error (276) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image504.png"
   style="width:50%"
-  title="Test, remove 'defer' command and receive error"
-  alt="Test, remove 'defer' command and receive error." />
+  title="Test, remove &apos;defer&apos; command and receive error"
+  alt="Test, remove &apos;defer&apos; command and receive error." />
 </p>
 
 If I take defer out of there, watch what happens. Refresh and, 
-it doesn't work. Because, addEventListener is null. What's going 
+it doesn&apos;t work. Because, addEventListener is null. What&apos;s going 
 on here, is that the page loads from the top to the bottom. So 
-it's loading the script first, before it gets to the bottom. 
-And on the script, it's saying, put an event listener on the 
-bottom. We can't put an event listener on a button, that doesn't 
+it&apos;s loading the script first, before it gets to the bottom. 
+And on the script, it&apos;s saying, put an event listener on the 
+bottom. We can&apos;t put an event listener on a button, that doesn&apos;t 
 exist yet. But adding the defer keyword up here. What that does 
 is it makes it so that it loads that script after the rest of 
 the page is loaded. 
 
-You can go through the rest of these and you'll create a new 
-file for script 23.js. And you'll do the same thing on this 
-one. On challenge 23, you'll notice that can be const. This 
-down here has to be let, that'll have to be let. Go through 
-and put in const and let wherever there's a var. Use const 
+You can go through the rest of these and you&apos;ll create a new 
+file for script 23.js. And you&apos;ll do the same thing on this 
+one. On challenge 23, you&apos;ll notice that can be const. This 
+down here has to be let, that&apos;ll have to be let. Go through 
+and put in const and let wherever there&apos;s a var. Use const 
 as much as you can, and only use let where the variable 
-actually has to change here we're using an incrementer. 
+actually has to change here we&apos;re using an incrementer. 
 
-That's going to change as we loop through this for loop so it has to be let. 
+That&apos;s going to change as we loop through this for loop so it has to be let. 
 But use const wherever you can. And if you do that and create all these files 
 and do that repetition in your state times. But even just doing that eight 
-times, you'll start to get comfortable with the syntax of the immediately 
-invoked function. And using use strict and you'll start to get used to using 
+times, you&apos;ll start to get comfortable with the syntax of the immediately 
+invoked function. And using use strict and you&apos;ll start to get used to using 
 const and let Instead of are for your keywords and that will really help you 
 out in the long run.
 
@@ -8382,8 +8437,8 @@ Simple JavaScript slideshow demonstrating basic DOM manipulation and event handl
   alt="Simple JS Slideshow." />
 </p>
 
-We've done a lot of the basics and you've learned a lot about how JavaScript works 
-and how you can manipulate the DOM and capture events. Now, it's time to put together 
+We&apos;ve done a lot of the basics and you&apos;ve learned a lot about how JavaScript works 
+and how you can manipulate the DOM and capture events. Now, it&apos;s time to put together 
 some scripts that are actually doing some interesting things and will allow us to 
 test out what we know so far. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8395,7 +8450,7 @@ test out what we know so far.
   alt="Example, The Start File." />
 </p>
 
-If you look in the start files for this project, you'll notice there's some images 
+If you look in the start files for this project, you&apos;ll notice there&apos;s some images 
 and an index.html file. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 508. example, simple html (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8405,7 +8460,7 @@ and an index.html file.
   title="Example, Simple HTML"
   alt="Example, Simple HTML." />
 
-If you open up that index.html file in your code editor, you'll see that it's just 
+If you open up that index.html file in your code editor, you&apos;ll see that it&apos;s just 
 got some very basic markup inside of it that includes a div with an image, one of 
 the images in the folder, and a paragraph with two links, one for a previous link 
 and one for our next link. 
@@ -8419,8 +8474,8 @@ and one for our next link.
 </p>
 
 Over here in my browser, I can see that it looks like this. When the user clicks 
-the "Next" link, it'll bring up the next picture and when they click the "Previous" 
-link, it'll bring up the previous picture. That's what we're going to make in this 
+the "Next" link, it&apos;ll bring up the next picture and when they click the "Previous" 
+link, it&apos;ll bring up the previous picture. That&apos;s what we&apos;re going to make in this 
 particular exercise here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 510. example, add script tags and array (279) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8433,14 +8488,14 @@ particular exercise here.
 
 There are lots of ways of going about creating this simple slideshow. But one 
 way of doing it is to make a variable that includes an array and a variable which 
-is an array, and it includes all of the images that we have in the folder. Let's 
-start right there with that because that's a really nice simple place to start. 
-Then what we're going to do is when the user clicks the link for next or previous, 
-we're going to swap out the value of the source attribute with a value from this 
-array. If we'll start with getting image 0, which is image 1.jpg number 0 in the 
-array, and then when you click ''Next'' we'll get image 1, which is this one here, 
-which is actually image 2. It's a little bit confusing because these are labeled 
-1, 2, 3, 4, 5 but they're actually in the array 0, 1, 2, 3, and 4. But let's 
+is an array, and it includes all of the images that we have in the folder. Let&apos;s 
+start right there with that because that&apos;s a really nice simple place to start. 
+Then what we&apos;re going to do is when the user clicks the link for next or previous, 
+we&apos;re going to swap out the value of the source attribute with a value from this 
+array. If we&apos;ll start with getting image 0, which is image 1.jpg number 0 in the 
+array, and then when you click &apos;&apos;Next&apos;&apos; we&apos;ll get image 1, which is this one here, 
+which is actually image 2. It&apos;s a little bit confusing because these are labeled 
+1, 2, 3, 4, 5 but they&apos;re actually in the array 0, 1, 2, 3, and 4. But let&apos;s 
 start by putting in the array into our script over here. Down here at the bottom 
 of the page, just add script tags like so. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8452,12 +8507,12 @@ of the page, just add script tags like so.
   alt="Define variable array myImages." />
 </p>
 
-In this script tag, we're going to add an array, var myImages equals square 
-brackets, and then each element goes inside quotes. It doesn't matter if 
-they're single quotes or double-quotes. It doesn't really matter. You can do it 
-either way. image1.jpg, image2.jpg, image4.jpg and finally image5.jpg. There's 
-our array, and that's going to go and get these images, and they're all in the 
-same folder as the index.html. Next, we'll start working on how to actually 
+In this script tag, we&apos;re going to add an array, var myImages equals square 
+brackets, and then each element goes inside quotes. It doesn&apos;t matter if 
+they&apos;re single quotes or double-quotes. It doesn&apos;t really matter. You can do it 
+either way. image1.jpg, image2.jpg, image4.jpg and finally image5.jpg. There&apos;s 
+our array, and that&apos;s going to go and get these images, and they&apos;re all in the 
+same folder as the index.html. Next, we&apos;ll start working on how to actually 
 capture the event of clicking the next button and then handling the swapping 
 of the source attribute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8472,7 +8527,7 @@ of the source attribute.
 </p>
 
 You will need some variables that we can adjust along the way 
-to capture which image that we're on in this array. 
+to capture which image that we&apos;re on in this array. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 513. example, the current image (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8482,7 +8537,7 @@ to capture which image that we're on in this array.
   alt="Example, The Current Image." />
 </p>
   
-I'm going to make a variable called currentImage and I'm 
+I&apos;m going to make a variable called currentImage and I&apos;m 
 going to set it to zero because when the page loads, this 
 image is showing which is number 0 in the array. Images 
 square brackets zero would get that image. 
@@ -8495,7 +8550,7 @@ square brackets zero would get that image.
   alt="Define currentImage = 0." />
 </p>
 
-Let's set that over here. Let's make a variable here, our currentImage and set 
+Let&apos;s set that over here. Let&apos;s make a variable here, our currentImage and set 
 that to a value of zero to start with. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 515. example, handle the event (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8507,11 +8562,11 @@ that to a value of zero to start with.
 </p>
 
 Then from there, we need to create an event handler that will handle the 
-clicking for the ''Next'' button. We'll do the next link first. This is what 
-it will look like; document.getElementById('next'). It's going to go into our 
-document and find that link that has the ID set to next. I'm using the Onclick 
-event property. I'm going to run a function called nextPhoto. Notice it doesn't 
-have parentheses at the end of it, but I'm going to assign it a function called 
+clicking for the &apos;&apos;Next&apos;&apos; button. We&apos;ll do the next link first. This is what 
+it will look like; document.getElementById(&apos;next&apos;). It&apos;s going to go into our 
+document and find that link that has the ID set to next. I&apos;m using the Onclick 
+event property. I&apos;m going to run a function called nextPhoto. Notice it doesn&apos;t 
+have parentheses at the end of it, but I&apos;m going to assign it a function called 
 nextPhoto, so then I can create that function nextPhoto. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 516. define next and current images (283) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8522,23 +8577,23 @@ nextPhoto, so then I can create that function nextPhoto.
   alt="Define and increment next, current images." />
 </p>
 
-Let's go ahead and add this to our script. Document.getElementById. That's 
-going to go in here and look for this link here that has the ID of next. It's 
+Let&apos;s go ahead and add this to our script. Document.getElementById. That&apos;s 
+going to go in here and look for this link here that has the ID of next. It&apos;s 
 going to go into our document link for that. Onclick equals nextPhoto;. Then 
-down here we're going to make a function called nextPhoto. Notice that if we 
+down here we&apos;re going to make a function called nextPhoto. Notice that if we 
 look at this image tag here, it has an ID that has a value set to myimage. 
-That's what we want to get. We want to change the source attribute on that 
+That&apos;s what we want to get. We want to change the source attribute on that 
 image, if this button has been clicked. Also, we want to take currentImage here 
-and increment it. I'm going to say currentImage++. Now I'm going to come in 
-here. I'm going to say, I need to go document.getElementById. What ID do I 
+and increment it. I&apos;m going to say currentImage++. Now I&apos;m going to come in 
+here. I&apos;m going to say, I need to go document.getElementById. What ID do I 
 want? I want myimage up here. I want to set its dot source SRC equal to 
 myimages, that array currentImage. That will go into this array here and find 
 currentImage. 
 Now, the first time I click that link, currentImage is going to get incremented 
-to one. It will come in here, that's zero, this is one. So it says, that's 
-image2.jpg. This is going to be image2.jpg and I'm assigning that to this 
-source attribute up here the source. Instead of saying image1.jpg, it's going 
-to say image2.jpg. Let's save that and see if that works. 
+to one. It will come in here, that&apos;s zero, this is one. So it says, that&apos;s 
+image2.jpg. This is going to be image2.jpg and I&apos;m assigning that to this 
+source attribute up here the source. Instead of saying image1.jpg, it&apos;s going 
+to say image2.jpg. Let&apos;s save that and see if that works. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 517. next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8548,7 +8603,7 @@ to say image2.jpg. Let's save that and see if that works.
   alt="Next image." />
 </p>
 
-Come over here, refresh. If I click ''Next'', you can see that it's changed. 
+Come over here, refresh. If I click &apos;&apos;Next&apos;&apos;, you can see that it&apos;s changed. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 518. test, inspect next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8558,10 +8613,10 @@ Come over here, refresh. If I click ''Next'', you can see that it's changed.
   alt="Test Inspect, next image." />
 </p>
 
-If I do inspect down here, let me arrange this the way I want it. I'm going to 
-put this down at the bottom. I'm going to turn off that button there. But if I 
+If I do inspect down here, let me arrange this the way I want it. I&apos;m going to 
+put this down at the bottom. I&apos;m going to turn off that button there. But if I 
 come in here and look at this div, notice this source says image2.jpg. If I 
-click ''Next'' again, notice that got changed to image3, image4, image5. 
+click &apos;&apos;Next&apos;&apos; again, notice that got changed to image3, image4, image5. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 519. test, next image undefined (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8572,11 +8627,11 @@ click ''Next'' again, notice that got changed to image3, image4, image5.
 </p>
 
 What happened? We got to image5 because there are five images. Then I click 
-''Next'' again, and now I have undefined. You'll notice there's an error over 
+&apos;&apos;Next&apos;&apos; again, and now I have undefined. You&apos;ll notice there&apos;s an error over 
 here as well. I can go to my console log and see undefined error file not 
-found. Could not find I've gotten beyond the end of my array. At a certain 
+found. Could not find I&apos;ve gotten beyond the end of my array. At a certain 
 point, it ceases to work depending on how many pictures are in the array. 
-That's what we're going to fix next.
+That&apos;s what we&apos;re going to fix next.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-26">3.26 Simple JS Slideshow – Part 3</h2>
@@ -8590,7 +8645,7 @@ That's what we're going to fix next.
   alt="3.26 Simple JS Slideshow - Part 3." />
 </p>
 
-Let's think about this for a minute. 
+Let&apos;s think about this for a minute. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 521. example, end of the array (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8600,7 +8655,7 @@ Let's think about this for a minute.
   alt="Example, End of the Array." />
 </p>
  
-What we want to do is we need some code that says, if you're at the end of the 
+What we want to do is we need some code that says, if you&apos;re at the end of the 
 array, go back to the beginning. Think about that for a minute. What do we know 
 about JavaScript that will allow us to do this kind of thing? What logical flow 
 control structure can we use to handle this? 
@@ -8613,7 +8668,7 @@ control structure can we use to handle this?
   alt="Example, Adding If." />
 </p>
 
-If you were thinking of something like this, you're on the right track. If 
+If you were thinking of something like this, you&apos;re on the right track. If 
 current image is greater than four, because remember, the numbers in the array 
 are 0, 1, 2, 3, and 4. If it gets greater than four, V becomes greater than 
 four. 
@@ -8628,7 +8683,7 @@ this if statement in place, you can make the slideshow effectively loop around.
   alt="If current image > 4, set image to 0." />
 </p>
 
-Let's go ahead and add this. I was just going to go in here, if parentheses 
+Let&apos;s go ahead and add this. I was just going to go in here, if parentheses 
 currently rises. In the parentheses we want to say, if current image is greater 
 than four. Current image equals zero. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8640,31 +8695,32 @@ than four. Current image equals zero.
   alt="Test, next image." />
 </p>
 
-Let's test that. I come over here and refresh this, and I click "Next" and down 
-here in the elements, I'm going to come down and see in my div, you'd see 
-that's image 2. Next three, next four, five. Then if I click "Next" again, it 
+Let&apos;s test that. I come over here and refresh this, and I click "Next" and down 
+here in the elements, I&apos;m going to come down and see in my div, you&apos;d see 
+that&apos;s image 2. Next three, next four, five. Then if I click "Next" again, it 
 should get set back to zero, which we get as image 1. That works. Now the next 
-button is looping around through all of the images that we have. That's great. 
+button is looping around through all of the images that we have. That&apos;s great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 525. define image counter and current image (288) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image525.png"
   style="width:50%"
-  alt="." />
+  title="Define image counter and current image"
+  alt="Define image counter and current image." />
 </p>
 
 Now it would be a little bit better if we could generalize or script a little 
-bit. Rather than greater than four here, I know that it's four because I know 
+bit. Rather than greater than four here, I know that it&apos;s four because I know 
 it 0, 1, 2, 3, 4. I can use my length property to get that. I could do, is less 
 than myImages.length. The length of the array minus 1 is often what we want 
 because arrays start counting at 0, 1, 2, 3, 4. So myImages.length minus 1 will 
-give us 4. It's generalized that if I were to add more pictures, then the script 
+give us 4. It&apos;s generalized that if I were to add more pictures, then the script 
 would continue to function without having to make changes to the number of 
 images. .length will give it. 
 
 Next thing we need to do is handle the previous button. Maybe you can do that 
-for yourself. It's great challenge. It's not that different than what we just 
-did. It's a little bit different, but it's not that different. You might be 
+for yourself. It&apos;s great challenge. It&apos;s not that different than what we just 
+did. It&apos;s a little bit different, but it&apos;s not that different. You might be 
 able to do the previous button by yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-27">3.27 Simple JS Slideshow – Part 4</h2>
@@ -8690,8 +8746,8 @@ and then we can set up that function.
   alt="Example, Previous Photo." />
 </p>
 
-Let's do that first. Up here and you can even copy and paste this if you wanted 
-to. Sometimes, it's best to do that just to avoid making mistakes, but you have 
+Let&apos;s do that first. Up here and you can even copy and paste this if you wanted 
+to. Sometimes, it&apos;s best to do that just to avoid making mistakes, but you have 
 to be sure to change everything you need to change. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 528. define and test previous and nextphoto (290) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8703,52 +8759,52 @@ to be sure to change everything you need to change.
 </p>
 
 Instead of next, this is previous instead of next photo, is going to be previous 
-photo. Okay, so now we've got our event handler. 
+photo. Okay, so now we&apos;ve got our event handler. 
 And now we need a function. Again copy and paste always good to make sure the 
 names match function. Previous Photo, parentheses curly braces. There we go. 
 Now the way to think about this the Previous Photo button is you have to think 
 backwards. And the easiest way to do it is to think about what happens if 
-you're on the last photo? Suppose we're showing on the screen image five, and 
+you&apos;re on the last photo? Suppose we&apos;re showing on the screen image five, and 
 current image is currently set to four. What do we want to have happen when we 
 click the button previous photo? 
 We want current image to decrement. We wanted to go from 4 to 3. And then we 
 want to go in and get this image. And then when we click it again, it goes from 
 3 to 2, and we get that image and then it goes from 2 to 1 and we get that 
 image. And then it goes from one to zero and we get that image to zeros, 
-okay? If you click it again, we don't do some sort of if statement, it's 
-going to go from zero to minus one and that's not going to work. So if the 
+okay? If you click it again, we don&apos;t do some sort of if statement, it&apos;s 
+going to go from zero to minus one and that&apos;s not going to work. So if the 
 value of current image is less than 0, we want to set it to what? Well, we 
 could set it to 4. That would work or we could set it to myimages.length - 1, 
-right? Let's take this piece by piece. Let's do this part first. I'm going to 
-decrement current image, currentImage. That's the same as saying current 
+right? Let&apos;s take this piece by piece. Let&apos;s do this part first. I&apos;m going to 
+decrement current image, currentImage. That&apos;s the same as saying current 
 image equals current image minus one. 
-We're going to decrement current image and then we can do this again. If we 
-leave off the if statement all together, you'll see when we get down to the 
-bottom of the images, we're going to have an error, but let's just do it just 
+We&apos;re going to decrement current image and then we can do this again. If we 
+leave off the if statement all together, you&apos;ll see when we get down to the 
+bottom of the images, we&apos;re going to have an error, but let&apos;s just do it just 
 to see how that happens and what that looks like. 
 
-Over here, I can refresh this, and I'm going to click Next until I get to the 
-end to the fifth photo here. Oops to summon four one more. So now I'm on five. 
-And now I can click previous and it'll go to four. They'll go to three, it'll 
-go to 2, it'll go to 1. 
+Over here, I can refresh this, and I&apos;m going to click Next until I get to the 
+end to the fifth photo here. Oops to summon four one more. So now I&apos;m on five. 
+And now I can click previous and it&apos;ll go to four. They&apos;ll go to three, it&apos;ll 
+go to 2, it&apos;ll go to 1. 
 And now if I click it again going to have an error because current image is 
-going to be minus one, and that's not going to work. Okay, undefined. So 
-that's where we need our if statement. So let's come back here and see if we 
-can write that if statement. It's going to look like this. So images will copy 
+going to be minus one, and that&apos;s not going to work. Okay, undefined. So 
+that&apos;s where we need our if statement. So let&apos;s come back here and see if we 
+can write that if statement. It&apos;s going to look like this. So images will copy 
 this one and pasted in here. But instead of current image is greater than my 
 images. 
-Where I'm looking for is current image less than zero? Is current image less 
+Where I&apos;m looking for is current image less than zero? Is current image less 
 than zero? And if it is, I can set current image to four. And that would work 
-because that puts it back at the end of the array. That'll work just fine. 
+because that puts it back at the end of the array. That&apos;ll work just fine. 
 But even better is to use the my images dot length minus one. Again to keep 
-the script generalized. My image is length minus one. So now you'll see if l do 
-this. I'm going to come back here, refresh the page. And again, I'll go back up 
-to the end of the list here. There's 2,3,4,5. Okay, now if I click previous, it 
+the script generalized. My image is length minus one. So now you&apos;ll see if l do 
+this. I&apos;m going to come back here, refresh the page. And again, I&apos;ll go back up 
+to the end of the list here. There&apos;s 2,3,4,5. Okay, now if I click previous, it 
 should go to four And then to three, and then to two, and then to one. And now 
-if I click it again, current image is now going to be minus one that's less 
-than zero. That's going to kick off that if statement and say, all right, it's 
-less than zero. So it's going to set it to the end of the array. And there it 
-is. There's five again, because current images four which is getting image 
+if I click it again, current image is now going to be minus one that&apos;s less 
+than zero. That&apos;s going to kick off that if statement and say, all right, it&apos;s 
+less than zero. So it&apos;s going to set it to the end of the array. And there it 
+is. There&apos;s five again, because current images four which is getting image 
 five from the array. So now I can loop through in either direction I can loop 
 through, going frontwards and I can loop through going backwards.
 
@@ -8768,6 +8824,7 @@ Everything is working.
 <p align="center" width="100%">
 <img src="./images/image530.png"
   style="width:45%"
+  title="Cleanup Up script.js"
   alt="Cleanup Up script.js." />
 <img src="./images/image531.png"
   style="width:45%"
@@ -8777,8 +8834,8 @@ Everything is working.
 
 Now all we need to do is clean up this script just a little bit, make it a 
 little bit better. One way of doing that is to put it in a separate script 
-file. For this script, it's short enough, you could leave it at the bottom of 
-the page if you wanted to. But just to practice our best practices, let's move 
+file. For this script, it&apos;s short enough, you could leave it at the bottom of 
+the page if you wanted to. But just to practice our best practices, let&apos;s move 
 this script into a linked file. Over here, I could make a new file and call it 
 script.js. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8793,26 +8850,26 @@ On this file, I could put my function expression that will be immediately
 invoked. We do that with parentheses, and then in the parentheses we put in 
 Function with its parentheses and its curly braces, and then one more set of 
 parentheses and a semicolon. Terrible syntax, but this will run when the script 
-loads. It's an immediately invoked function expression. It will keep us from 
+loads. It&apos;s an immediately invoked function expression. It will keep us from 
 having any variables in the global scope, which is always to our benefit. 
 Because if you wanted to include the script on a web page with other things, 
-perhaps you've got other things going on in the web page, perhaps you've got 
+perhaps you&apos;ve got other things going on in the web page, perhaps you&apos;ve got 
 other JavaScript elements going on the web page. 
 
-You don't want current image to conflict with some other current image variable 
+You don&apos;t want current image to conflict with some other current image variable 
 for some other script. So you want to keep everything inside of this function. 
-I'm going to click between here and I'm going to also add my Use Strict 
+I&apos;m going to click between here and I&apos;m going to also add my Use Strict 
 directive. Then in here, I can just paste my entire script from here. There it 
 is. Shift tab to move that back. Even better would be to replace these 
 variables with const.
 
-They're not going to change. Well, actually, this one can't be constrained 
-image, that one's going to change. That one needs to be let because current 
+They&apos;re not going to change. Well, actually, this one can&apos;t be constrained 
+image, that one&apos;s going to change. That one needs to be let because current 
 image is going to get reassigned as we go through our scripts down here. But 
-these variables will now be local to this function and they won't be 
+these variables will now be local to this function and they won&apos;t be 
 available at the global scope. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 533. script src='script.js' (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 533. script src=&apos;script.js&apos; (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image533.png"
   style="width:50%"
@@ -8820,7 +8877,7 @@ available at the global scope.
   alt="Move to script.js and link at bottom of body in index.html." />
 </p>
 
-Over here, I'm going to remove that stuff and instead up here, just link src 
+Over here, I&apos;m going to remove that stuff and instead up here, just link src 
 equals script.js, it even pops up there in my menu. I still need this closing 
 tag, but I can move it up there. That should work just as well. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8832,29 +8889,29 @@ tag, but I can move it up there. That should work just as well.
   alt="Test, move to script.js." />
 </p>
 
-We should go back and test it, make sure that we didn't make any mistakes in 
+We should go back and test it, make sure that we didn&apos;t make any mistakes in 
 the process of moving stuff around. You can see that it still works just 
 exactly the same as before. Now, we could leave the script here at the bottom 
-of the page. There's nothing wrong with that, frequently I leave my scripts 
+of the page. There&apos;s nothing wrong with that, frequently I leave my scripts 
 there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 535. move script to head with defer (295) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image535.png"
   style="width:50%"
-  title="Add script to head of index with 'defer' attribute"
-  alt="Add script to head of index with 'defer' attribute." />
+  title="Add script to head of index with &apos;defer&apos; attribute"
+  alt="Add script to head of index with &apos;defer&apos; attribute." />
 </p>
 
 But even better is to move it up into the head of the page and add a defer 
 attribute here. That will make the script load after the rest of the page is 
 loaded. It keeps it out of the body of my HTML, which I really want to keep my 
-HTML as clean as possible so it's easy to read, easy to understand, easy to 
+HTML as clean as possible so it&apos;s easy to read, easy to understand, easy to 
 update, easy for Google to crawl. All of those reasons. I want to keep my HTML 
 as clean as I possibly can without any extra attributes, without any extra 
-code or anything else. But once I've got that all in there and working well, 
+code or anything else. But once I&apos;ve got that all in there and working well, 
 I should always come back and just test it to make sure I did it right. Next, 
-previous, and that's working just fine. 
+previous, and that&apos;s working just fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 536. summary, simple javascript slideshow (296) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8864,12 +8921,12 @@ previous, and that's working just fine.
   alt="Summary, Simple JavaScript Slideshow." />
 </p>
 
-With that, we have a really nice script that's all set up and working well. In 
-this lesson, we've combined a lot of the basics that you've learned in the 
-course. We're using some control structures such as the sequence and the 
-selection. We don't have a loop in this one, but we're using sequence and 
-selection. We're using the custom functions. We've got event listeners. When 
-there's event listeners trigger, we're affecting the DOM to change the web 
+With that, we have a really nice script that&apos;s all set up and working well. In 
+this lesson, we&apos;ve combined a lot of the basics that you&apos;ve learned in the 
+course. We&apos;re using some control structures such as the sequence and the 
+selection. We don&apos;t have a loop in this one, but we&apos;re using sequence and 
+selection. We&apos;re using the custom functions. We&apos;ve got event listeners. When 
+there&apos;s event listeners trigger, we&apos;re affecting the DOM to change the web 
 page. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 537. replace onclick with add event handler (296) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -8882,7 +8939,7 @@ page.
 Now, what you could do to make the script even better, perhaps, or just to 
 test what you know so far is go back to the script, and how could you replace 
 using the Onclick event handler with using the Add Event handler method 
-instead? I recommend giving that a try because that's a really good challenge 
+instead? I recommend giving that a try because that&apos;s a really good challenge 
 to see if you can figure out something on your own without making it too hard, 
 without going too far. 
 
@@ -8911,8 +8968,8 @@ Slideshow with crossfade effect: JavaScript with CSS animation.
   title="3.29 Slideshow with Cross Fade Effect - Part 1"
   alt="3.29 Slideshow with Cross Fade Effect - Part 1." />
 </p>
-For this version of the slideshow, we're going to do something very similar to 
-what we did before, but with a little bit of a twist. It's going to be a little 
+For this version of the slideshow, we&apos;re going to do something very similar to 
+what we did before, but with a little bit of a twist. It&apos;s going to be a little 
 bit more sophisticated. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 540. example, the cross fade effect (298) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8922,9 +8979,9 @@ bit more sophisticated.
   title="Example, The Cross Fade Effect"
   alt="Example, The Cross Fade Effect." />
 </p>
-I've got a little styling in here to make the slideshow look a little bit better. 
-But instead of just swapping out the source, we'll have a crossfade effect as we 
-go from one slide to the next, and we'll be using CSS to do that animation. It's 
+I&apos;ve got a little styling in here to make the slideshow look a little bit better. 
+But instead of just swapping out the source, we&apos;ll have a crossfade effect as we 
+go from one slide to the next, and we&apos;ll be using CSS to do that animation. It&apos;s 
 going to be a little bit different than what we did before, but very similar 
 otherwise. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8937,15 +8994,15 @@ otherwise.
 </p>
 The HTML for this slideshow is very similar to what we had before. We just have 
 images, but now I have a folder called slides, so image source slide image 1. 
-Then I've got an alt tag and the ID for the image here, and then I've got my 
+Then I&apos;ve got an alt tag and the ID for the image here, and then I&apos;ve got my 
 next and previous links as I had before. You can see that over here in my HTML. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 542. image inside div called content (299) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image542.png"
   style="width:50%"
-  title="Define image inside a div called 'content'"
-  alt="Define image inside a div called 'content'." />
+  title="Define image inside a div called &apos;content&apos;"
+  alt="Define image inside a div called &apos;content&apos;." />
 </p>
 Very simple set-up with an image inside of a div called content. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8956,8 +9013,8 @@ Very simple set-up with an image inside of a div called content.
   title="Example, Stacking the Images"
   alt="Example, Stacking the Images." />
 </p>
-One thing that's different is that this time I'm using CSS to create, to tell 
-that content to be positioned relative. I'm absolutely positioning these slides 
+One thing that&apos;s different is that this time I&apos;m using CSS to create, to tell 
+that content to be positioned relative. I&apos;m absolutely positioning these slides 
 inside of here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 544. verify content size = image size (300) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8978,20 +9035,20 @@ images that I have, and over here you can see it here on the page.
   alt="Define so image fits in box." />
 </p>
 
-Now if I were to go into my CSS over here and adjust that, you'd see a little bit 
-better exactly what's going on here. So if I made this 500 wide instead of 400 
-wide, and 366 instead of 266, and save that, you'd see over here when I refresh 
+Now if I were to go into my CSS over here and adjust that, you&apos;d see a little bit 
+better exactly what&apos;s going on here. So if I made this 500 wide instead of 400 
+wide, and 366 instead of 266, and save that, you&apos;d see over here when I refresh 
 this, that the image is pinned to this upper left-hand corner. Before it was the 
-same size as the box that it was in, whereas now, I've made the box bigger. So 
+same size as the box that it was in, whereas now, I&apos;ve made the box bigger. So 
 you get this empty space up here, but the image is pinned up into the corner. 
 
-It's important to understand that because the way this slideshow is going to 
-work is we're going to put a new image right on top of the old image, and then 
-we're going cross, we're going to put it in fully transparent, and then we'll 
-fade it in so that you'll get that crossfade effect. But you can see the image 
-here is position absolute, left 0, top 0. That what's putting that image inside 
+It&apos;s important to understand that because the way this slideshow is going to 
+work is we&apos;re going to put a new image right on top of the old image, and then 
+we&apos;re going cross, we&apos;re going to put it in fully transparent, and then we&apos;ll 
+fade it in so that you&apos;ll get that crossfade effect. But you can see the image 
+here is position absolute, left 0, top 0. That what&apos;s putting that image inside 
 this parent element, this container at the top left corner, left 0, top 0, and 
-that's what's going on there. 
+that&apos;s what&apos;s going on there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 546. test, image fade in (301) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9000,8 +9057,8 @@ that's what's going on there.
   title="Test, image fade in"
   alt="Test, image fade in." />
 </p>
-We can put these back because that's just for demo, and you'll see if I refresh 
-this that the image is now once again fitting inside that box perfectly. So it's 
+We can put these back because that&apos;s just for demo, and you&apos;ll see if I refresh 
+this that the image is now once again fitting inside that box perfectly. So it&apos;s 
 important to understand that setup before we start with this. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 547. example, css fade animation (302) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9011,7 +9068,7 @@ important to understand that setup before we start with this.
   title="Example, CSS Fade Animation"
   alt="Example, CSS Fade Animation." />
 </p>
-The next thing we need is the actual CSS animation that's going to actually do 
+The next thing we need is the actual CSS animation that&apos;s going to actually do 
 the crossfade effect. We need to add this to the style sheet. Go back to Visual 
 Studio Code and on the styles down here at the bottom, we can add these animation 
 styles. 
@@ -9023,36 +9080,36 @@ styles.
   title="Add class fadeinimg and keyframes fadein to styles.css"
   alt="Add class fadeinimg and keyframes fadein to styles.css." />
 </p>
-I'm going to add a class called fadeinimg. What is that class going to do? 
-It's going to, come over here and see here. We're going to run an animation 
+I&apos;m going to add a class called fadeinimg. What is that class going to do? 
+It&apos;s going to, come over here and see here. We&apos;re going to run an animation 
 called fade in over two seconds. Two seconds is slow, you can make it one 
-second, you can make it even slower. I'm making it slow so you can really see 
+second, you can make it even slower. I&apos;m making it slow so you can really see 
 it taking factors as we do this, but you could make it run a little bit faster. 
-Animation, and then we want to do fade in over two seconds, and that's fine. 
-Then down here, we're going to have a function that will allow us to fade it 
+Animation, and then we want to do fade in over two seconds, and that&apos;s fine. 
+Then down here, we&apos;re going to have a function that will allow us to fade it 
 in, enact keyframes function called fade in, so these two names have to match. 
-We'll add at keyframes, fade in, and then we're going to go from opacity zero to 
-opacity one. It's a very simple animation. You can make much more complex 
+We&apos;ll add at keyframes, fade in, and then we&apos;re going to go from opacity zero to 
+opacity one. It&apos;s a very simple animation. You can make much more complex 
 animations using this; fade in from opacity zero to opacity one. 
 
-You've saved that, and make sure you have this in here correctly. Because when 
-we add an image on top of the other one, we're going to add this class to it, 
+You&apos;ve saved that, and make sure you have this in here correctly. Because when 
+we add an image on top of the other one, we&apos;re going to add this class to it, 
 and then this class is going to run this fade in at keyframes fade in here, 
-which will start at zero and then go to one. So it'll come in completely 
+which will start at zero and then go to one. So it&apos;ll come in completely 
 transparent and then fade into one, which is completely opaque, over two 
-seconds. That's what's going to actually create that crossfade effect.
-None of this is being done in JavaScript itself, and that's actually great 
-because you can do this kind of thing in JavaScript, but it's much more 
+seconds. That&apos;s what&apos;s going to actually create that crossfade effect.
+None of this is being done in JavaScript itself, and that&apos;s actually great 
+because you can do this kind of thing in JavaScript, but it&apos;s much more 
 efficient to do it in CSS. If you do it in CSS, then you can take advantage.
  
 The browser will take advantage of the GPU, the graphics processing unit of 
-whatever computer or device you're using, whereas if you do it in plain 
-JavaScript, it's just the normal CPU. 
-The GPU is really optimized to handle this kind of thing, so it'll be nice 
+whatever computer or device you&apos;re using, whereas if you do it in plain 
+JavaScript, it&apos;s just the normal CPU. 
+The GPU is really optimized to handle this kind of thing, so it&apos;ll be nice 
 and smooth and work much better if we can do the actual animation in CSS. 
-We're frequently going to do that with JavaScript, where we use JavaScript to 
+We&apos;re frequently going to do that with JavaScript, where we use JavaScript to 
 trigger CSS animations. Although we can do the animations directly in 
-JavaScript, whenever we can use it to trigger CSS animations, it's better for 
+JavaScript, whenever we can use it to trigger CSS animations, it&apos;s better for 
 performance across all kinds of devices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9066,7 +9123,7 @@ performance across all kinds of devices.
   alt="3.30 Slideshow with Cross Fade Effect - Part 2." />
 </p>
 
-</p>Now we're all set up and ready to go, and ready to start writing our script. 
+</p>Now we&apos;re all set up and ready to go, and ready to start writing our script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 550. example, starting the script (304) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9077,9 +9134,9 @@ performance across all kinds of devices.
 </p>
 Our script is going to start with just a basic variable, again, for our current 
 image and our array, same array that we had before, same current image 
-variables. Then I've got variables for the container, which is going to go get 
-that container that's holding our image, and then for the next and previous 
-buttons as well. Let's go ahead and get these setup in our script. 
+variables. Then I&apos;ve got variables for the container, which is going to go get 
+that container that&apos;s holding our image, and then for the next and previous 
+buttons as well. Let&apos;s go ahead and get these setup in our script. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 551. define and initialize variables (304) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9088,14 +9145,14 @@ buttons as well. Let's go ahead and get these setup in our script.
   title="Define and initialize variable"
   alt="Define and initialize variable." />
 </p>
-Going back to our index file here, I'm just going to add script tags at the 
-bottom of our script here, our HTML script, like so. Then I'm going to add var 
-currentImage, and I'm going to set that to a value of 0 initially. Then I'm 
-going to have var. Then I'm just gonna copy this. Again, it doesn't matter if 
+Going back to our index file here, I&apos;m just going to add script tags at the 
+bottom of our script here, our HTML script, like so. Then I&apos;m going to add var 
+currentImage, and I&apos;m going to set that to a value of 0 initially. Then I&apos;m 
+going to have var. Then I&apos;m just gonna copy this. Again, it doesn&apos;t matter if 
 you use single quotes or double quotes. Then the next thing we need are to get 
 some variables. Var Container equals document.getElementByID and the ID that 
-we're getting again, is this one, content. It's always good to copy and paste 
-so that you don't spell that wrong. That's going to get us that element. 
+we&apos;re getting again, is this one, content. It&apos;s always good to copy and paste 
+so that you don&apos;t spell that wrong. That&apos;s going to get us that element. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 552. define container, next, previous buttons (305) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9106,15 +9163,15 @@ so that you don't spell that wrong. That's going to get us that element.
 </p>
 We also need the next and previous links. Var nextBtn equals 
 document.getElementByID. Next, var prevBtn equals document.getElementByID 
-previous. That's going to go into our document. We're going to get our Next 
-button. We're going to get our previous button, and we're going to get our 
-content div that we're going to be putting into these elements here. I have an 
-extra space there that I shouldn't have, make sure you fix that if you have 
+previous. That&apos;s going to go into our document. We&apos;re going to get our Next 
+button. We&apos;re going to get our previous button, and we&apos;re going to get our 
+content div that we&apos;re going to be putting into these elements here. I have an 
+extra space there that I shouldn&apos;t have, make sure you fix that if you have 
 that in there. Document.getElementByID content next and previous. In the next 
-lesson, we'll add the EventListener for when you click on this next link here 
-to go to the next slide. Just like we did before, we'll build out the next 
-one and then when we're done with that, when we get that all working or work 
-on the previous one. We'll go ahead and work on that one first.
+lesson, we&apos;ll add the EventListener for when you click on this next link here 
+to go to the next slide. Just like we did before, we&apos;ll build out the next 
+one and then when we&apos;re done with that, when we get that all working or work 
+on the previous one. We&apos;ll go ahead and work on that one first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-31">3.31 Slideshow with Cross Fade Effect – Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9125,7 +9182,7 @@ on the previous one. We'll go ahead and work on that one first.
   title="3.31 Slideshow with Cross Fade Effect - Part 3"
   alt="3.31 Slideshow with Cross Fade Effect - Part 3." />
 </p>
-Here's our event listener for when we click on the the next button. 
+Here&apos;s our event listener for when we click on the the next button. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 554. example, add the next button event listener (306) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9135,19 +9192,19 @@ Here's our event listener for when we click on the the next button.
   alt="Example, Add the Next Button Event Listener." />
 </p>
 
-<p>For this one we're using the add event listener method instead of the on click 
-property. We'll look at this method and we're going to add the event listener 
-right to that next button variable that we created. When it's clicked, we're 
-going to run a function. This is an anonymous inline function, and we're going 
+<p>For this one we&apos;re using the add event listener method instead of the on click 
+property. We&apos;ll look at this method and we&apos;re going to add the event listener 
+right to that next button variable that we created. When it&apos;s clicked, we&apos;re 
+going to run a function. This is an anonymous inline function, and we&apos;re going 
 to pass in the event object so that we can prevent the default behavior of what 
 happens when you click the link.</p>
 
-<p>We don't want the browser to handle clicking the links the way it normally 
+<p>We don&apos;t want the browser to handle clicking the links the way it normally 
 would, we want to prevent that default behavior and prevent default will do 
 that when we pass in this event object here, so it will prevent default. Then 
-just like before, we're going to increment the currentImage and then we're 
+just like before, we&apos;re going to increment the currentImage and then we&apos;re 
 going to check once again if the current image is greater than the length of 
-the array that we've got minus one. If that's true, we're going to set current 
+the array that we&apos;ve got minus one. If that&apos;s true, we&apos;re going to set current 
 image back to zero. That part’s the same as before.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 555. define photo array, container & buttons (307) ~~~~~~~~~~~~~~~~~~~~-->
@@ -9158,23 +9215,23 @@ image back to zero. That part’s the same as before.</p>
   alt="Define variables; current image, photo array, container, next &amp; previous button." />
 </p>
 
-<p>Let's put this in. I have my next button here which is already going and 
-getting that element. Now I can just do nextBtn.addEventListener and I'm 
-listening for a click. When the click happens, I'm going to run a function 
-and I'm going to pass into that function the event object. This function is 
-going to run when the click happens. Then I'm going to click inside here and 
-I'm going to add something like event.preventDefault. That'll prevent the 
-default behavior so that when I click on this link, I don't actually get the 
+<p>Let&apos;s put this in. I have my next button here which is already going and 
+getting that element. Now I can just do nextBtn.addEventListener and I&apos;m 
+listening for a click. When the click happens, I&apos;m going to run a function 
+and I&apos;m going to pass into that function the event object. This function is 
+going to run when the click happens. Then I&apos;m going to click inside here and 
+I&apos;m going to add something like event.preventDefault. That&apos;ll prevent the 
+default behavior so that when I click on this link, I don&apos;t actually get the 
 hashtag coming up in the browser. It prevents even trying to go to this href 
-at all. Then what we're going to do is we're going to increment current image.</p>
+at all. Then what we&apos;re going to do is we&apos;re going to increment current image.</p>
 
 Current image plus plus same as we did before, and just like we did before, 
 if current image is greater than myphotos.length - 1. So really a four; 0, 1, 
-2, 3, 4, if it's greater than four, my photos length would be five. But I want 
-to check to see if it's greater than four. If it's greater than four, then what 
+2, 3, 4, if it&apos;s greater than four, my photos length would be five. But I want 
+to check to see if it&apos;s greater than four. If it&apos;s greater than four, then what 
 I want to do is I want to move it back to current image equals 0.  That will 
 put it back to where it was initially. Now current image is going to increment, 
-it's going to go up, and it's going to go from zero to one, to two, to three, 
+it&apos;s going to go up, and it&apos;s going to go from zero to one, to two, to three, 
 to four, and then back to zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect – Part 4</h2>
@@ -9186,7 +9243,7 @@ to four, and then back to zero.
   title="3.32 Slideshow with Cross Fade Effect - Part 4"
   alt="3.32 Slideshow with Cross Fade Effect - Part 4." />
 </p>
-Here's the new part. 
+Here&apos;s the new part. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 557. example, add the new slide on top (308) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9197,15 +9254,15 @@ Here's the new part.
 </p>
 
 <p>Instead of just swapping the source attribute, which is what we did in the 
-first slideshow. In this one, what we're going to do is we're going to create 
+first slideshow. In this one, what we&apos;re going to do is we&apos;re going to create 
 a new image element, document create element IMG, so that makes a new image 
-tag. I'm going to put it into this variable called newSlide. And then I'm 
+tag. I&apos;m going to put it into this variable called newSlide. And then I&apos;m 
 going to set the source newSlide.src = ‘slides/${myphotos[currentImage]}’;.</p>
 
 <p>Notice the use of the tick marks here. And the dollar sign curly braces 
-can hold the variable for the my photos thing. That's getting the next photo 
-from the slides folder. And then I'm going to also add a class name fadinimg. 
-And you'll remember we just added that class to the CSS. So, we know what 
+can hold the variable for the my photos thing. That&apos;s getting the next photo 
+from the slides folder. And then I&apos;m going to also add a class name fadinimg. 
+And you&apos;ll remember we just added that class to the CSS. So, we know what 
 that does when we add that class. It runs that animation over two seconds 
 of actually feeding in the image. And then we append the child to the slide, 
 contaner.appendChild(newSlide). The new slide gets appended to the container. 
@@ -9213,12 +9270,12 @@ It gets appended with this source in this class. As soon as it gets appended
 to the container that animation runs and changes the opacity from 0, it 
 starts at 0, and it goes to 1, completely transparent to completely opaque.</p>
 
-<p>Because we're adding it into this container and the CSS for that container 
-is to make these images position absolute, it's going to get put right on top 
-of the previous image. And because it's the same size as the previous image, 
-it will completely cover it. But because it comes in as transparent, you'll 
-see the other image underneath it at first, and then over two seconds it'll 
-become opaque and that's what will cause the fading effect.</p>
+<p>Because we&apos;re adding it into this container and the CSS for that container 
+is to make these images position absolute, it&apos;s going to get put right on top 
+of the previous image. And because it&apos;s the same size as the previous image, 
+it will completely cover it. But because it comes in as transparent, you&apos;ll 
+see the other image underneath it at first, and then over two seconds it&apos;ll 
+become opaque and that&apos;s what will cause the fading effect.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 558. define next slide & fade in (309) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9228,11 +9285,11 @@ become opaque and that's what will cause the fading effect.</p>
   alt="Define next slide/image &amp; fade in." />
 </p>
 
-So let's go ahead and add this to our code over here. var newSlide. And I'm 
+So let&apos;s go ahead and add this to our code over here. var newSlide. And I&apos;m 
 going to set that to document.createElement(‘img’). And what am I going to 
-create? I'm going to create an image, IMG. Now we've got a variable that's 
-holding a new image element. The image element is not on the page, but it's 
-there. And then I'm going to say newSlide.className = ‘fadeinimg’. Again, we 
+create? I&apos;m going to create an image, IMG. Now we&apos;ve got a variable that&apos;s 
+holding a new image element. The image element is not on the page, but it&apos;s 
+there. And then I&apos;m going to say newSlide.className = ‘fadeinimg’. Again, we 
 do the dollar sign and the curly braces so we can do a variable. We want my 
 photos, square brackets, current image. 
 
@@ -9240,10 +9297,10 @@ So when we click the next button the first time it starts off at 0, when we
 click it the first time it gets incremented to 1. So when that gets 
 incremented to 1, a new photo gets created and the source gets set to, this 
 gets incremented to 1, so the source gets that to image two and that goes in 
-there. So, it's slide slash, that'll be an image2 dot jpg, the first time you 
+there. So, it&apos;s slide slash, that&apos;ll be an image2 dot jpg, the first time you 
 click it. The next time you click it, it will be an image3. And when you get 
 to image5, if you click it again, that gets beyond the length here, so it 
-gets set back to 0. So, it'll go back to 1. 
+gets set back to 0. So, it&apos;ll go back to 1. 
 
 Now, the last thing we need to do here is append this to the container. And we 
 created a variable here for the container. We can say 
@@ -9258,13 +9315,13 @@ here as an image, set the source, set the class and put it on in there.
   alt="Test next, append child image." />
 </p>
  
-I'm going to go over to my slide show here, click refresh, and then click Next. 
-And look at that, it's working. It's working just perfectly. Next, and I can 
-see in here that it's adding the images one on top of the other. Put three on 
+I&apos;m going to go over to my slide show here, click refresh, and then click Next. 
+And look at that, it&apos;s working. It&apos;s working just perfectly. Next, and I can 
+see in here that it&apos;s adding the images one on top of the other. Put three on 
 top of two. It put four on top of three, it put five on top of four and now 
-it'll put one on top of five. And you'll see as you're adding them, that 
+it&apos;ll put one on top of five. And you&apos;ll see as you&apos;re adding them, that 
 animation is taking place. In over two seconds the picture comes in as 
-transparent and then over two seconds it fades to opaque, and that's what's 
+transparent and then over two seconds it fades to opaque, and that&apos;s what&apos;s 
 creating that crossfade effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
@@ -9277,7 +9334,7 @@ creating that crossfade effect.
   alt="3.33 Slideshow with Cross Fade Effect - Part 5." />
 </p>
 
-As you just saw, this is working, and the images are coming in, and they're 
+As you just saw, this is working, and the images are coming in, and they&apos;re 
 stacking one on top of the other invading in. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 561. example, the images are stacking (311) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9288,8 +9345,8 @@ stacking one on top of the other invading in.
   alt="Example, The Images are Stacking." />
 </p>
 
-But there's one thing that we can do to make this a little bit better. I don't 
-really like that every time I click the link, it's adding more images to the 
+But there&apos;s one thing that we can do to make this a little bit better. I don&apos;t 
+really like that every time I click the link, it&apos;s adding more images to the 
 DOM, especially when it starts adding the same images to the DOM over and over 
 and over again. I think that it could be a little bit more efficient, and a 
 little bit better, and a little bit cleaner. 
@@ -9302,19 +9359,19 @@ little bit better, and a little bit cleaner.
   alt="Example, Remove Extra Children." />
 </p>
 
-What we're going to do is we're going to remove the extra images as the new 
-images come in. What we'll do is we'll say, okay, container, you have children, 
+What we&apos;re going to do is we&apos;re going to remove the extra images as the new 
+images come in. What we&apos;ll do is we&apos;ll say, okay, container, you have children, 
 the children of the container are the images, and if I have more than two 
-images, if children.length is greater than two, I'm going to remove the first 
-one in that container, the bottom image, I'm going to remove the one from the 
-very bottom of that list, which is not showing anyway, it's at the bottom of 
-the stack and it's not going to be seen anyway. 
+images, if children.length is greater than two, I&apos;m going to remove the first 
+one in that container, the bottom image, I&apos;m going to remove the one from the 
+very bottom of that list, which is not showing anyway, it&apos;s at the bottom of 
+the stack and it&apos;s not going to be seen anyway. 
 
-That means you'll have one image, and then you'll put another image on top, 
+That means you&apos;ll have one image, and then you&apos;ll put another image on top, 
 and as soon as you click next and add a third image, then the one at the very 
 bottom of the list will go away, so that you never have more than two in the 
 list, and I think that that makes the script a little bit better, keeps our 
-DOM a little bit cleaner because we're not continuing to add more and more 
+DOM a little bit cleaner because we&apos;re not continuing to add more and more 
 elements every time somebody clicks the link for next. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 563. check if > 2 children images (312) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9325,10 +9382,10 @@ elements every time somebody clicks the link for next.
   alt="Check if have more than two child images, if so remove bottom-most from queue." />
 </p>
 
-Let's go ahead and add this to our script over here. Down here I'm going to 
-say if, and in here I'm going to just put container.children.length, if that's 
+Let&apos;s go ahead and add this to our script over here. Down here I&apos;m going to 
+say if, and in here I&apos;m going to just put container.children.length, if that&apos;s 
 greater than two, then I want to do something, and what do I want to do if 
-it's greater than two? 
+it&apos;s greater than two? 
 
 What I want to do is I want to say, container.removeChild(container.children[0]);. 
 I want to remove a child. Which child do I want to remove? I want to remove the 
@@ -9343,10 +9400,10 @@ bottom most child from the list.
 </p>
 
 Again, up here the container is this thing, this div id=’content’, and it has 
-children which are images. When we start off the page, there's just one, but 
-as we've been clicking the link, it adds more and more and more and more in 
-there, and we really don't want that to happen. This will keep us from adding 
-more than two, because once we get more than two, it'll remove the bottom one 
+children which are images. When we start off the page, there&apos;s just one, but 
+as we&apos;ve been clicking the link, it adds more and more and more and more in 
+there, and we really don&apos;t want that to happen. This will keep us from adding 
+more than two, because once we get more than two, it&apos;ll remove the bottom one 
 from the list. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 565/566. test, next image button (314) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9361,13 +9418,13 @@ from the list.
   alt="Again Test, next image button." />
 </p>
 
-Let's save this and see if I typed in all right, and test it over here. I'm 
-going to look at my content. Here you can see I've got one image there, I add 
+Let&apos;s save this and see if I typed in all right, and test it over here. I&apos;m 
+going to look at my content. Here you can see I&apos;ve got one image there, I add 
 one, so that adds image number 2 on there. Coming in here, you can click next, 
-and it's adding that on there. Now when I click the third one, it should add 
+and it&apos;s adding that on there. Now when I click the third one, it should add 
 the third image, but also remove the first one at the top of this list. Now 
-we've added image 3, but image 1 went away, and I can keep going, and it'll 
-do image 4 on top of there, and then image 5, we've got four and five on the 
+we&apos;ve added image 3, but image 1 went away, and I can keep going, and it&apos;ll 
+do image 4 on top of there, and then image 5, we&apos;ve got four and five on the 
 screen, four is in the bottom, five is in the top, and image 1 is now on the 
 top. 
 
@@ -9376,7 +9433,7 @@ have to remember the page renders from the top to the bottom, and the fact
 that these are set  to position absolute means that this one gets added to 
 the page first, and then this one gets added to the page second, and because 
 it gets added to the page second and because of the absolute positioning, that 
-means it ends up on top, it's on top of the first image, so that's working just 
+means it ends up on top, it&apos;s on top of the first image, so that&apos;s working just 
 great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-34">3.34 Slideshow with Cross Fade Effect – Part 6</h2>
@@ -9399,11 +9456,11 @@ We have our next button working just fine.
   alt="Test, next slide purging all but last two images." />
 </p>
 
-I can click "Next" and it will go through the slides. Not only that, but it's 
-nice and clean because it removes any extra slides we don't need as it's 
-adding new slides on top. That's really neat and that's working. Now the 
+I can click "Next" and it will go through the slides. Not only that, but it&apos;s 
+nice and clean because it removes any extra slides we don&apos;t need as it&apos;s 
+adding new slides on top. That&apos;s really neat and that&apos;s working. Now the 
 question is, how do we get the previous button to work? Because currently 
-clicking that does nothing but reset the page. Notice we're getting the 
+clicking that does nothing but reset the page. Notice we&apos;re getting the 
 hashtag up here. How do we get the previous button to work? 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 569. duplicate next for previous (316) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9416,11 +9473,11 @@ hashtag up here. How do we get the previous button to work?
 
 What we want to do is pretty much the same thing that we did with the next 
 button but with the previous button. See if you can do that challenge on 
-your own. You can even go ahead and take this function that we've written 
-for the next button here, this one here, ''Copy and Paste'' it and see what 
+your own. You can even go ahead and take this function that we&apos;ve written 
+for the next button here, this one here, &apos;&apos;Copy and Paste&apos;&apos; it and see what 
 you need to change to make it work for the previous button. Just like before, 
 you can actually use the previous project, the earlier version of the 
-slideshow to figure out how to do this. Because we're going to decrement 
+slideshow to figure out how to do this. Because we&apos;re going to decrement 
 the image and this is going to change, but all of this is going to remain 
 exactly the same. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9432,15 +9489,15 @@ exactly the same.
   alt="Example, Previous Button Handler." />
 </p>
 
-Did you get something like this? Hopefully, you did. Let's take a look at 
-what's changed here. What's changed is, here, we're putting the event 
-listener on the previous button instead of the next button. So that's 
+Did you get something like this? Hopefully, you did. Let&apos;s take a look at 
+what&apos;s changed here. What&apos;s changed is, here, we&apos;re putting the event 
+listener on the previous button instead of the next button. So that&apos;s 
 different. The rest of this is all the same. Instead of incrementing current 
-image, we're decrementing it. So that's different. Then down here, the 
+image, we&apos;re decrementing it. So that&apos;s different. Then down here, the 
 if-statement has changed a little bit. If the current image is less than 
-zero, we're setting current image to photos length minus one, just like we 
+zero, we&apos;re setting current image to photos length minus one, just like we 
 did in the previous slideshow. Other than that, everything else is the same. 
-Let's see if we can actually make this work. 
+Let&apos;s see if we can actually make this work. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 571. update previous image code (317) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9450,19 +9507,19 @@ Let's see if we can actually make this work.
   alt="Update previous image code." />
 </p>
 
-Over here. I'm going to copy this script and then paste it here and just change 
-this to prevBtn, which is what I have up here. That's going to go into the DOM 
+Over here. I&apos;m going to copy this script and then paste it here and just change 
+this to prevBtn, which is what I have up here. That&apos;s going to go into the DOM 
 and get that button and add the event listener to it and all this stuff is the 
-same. The only thing that's different is here, this gets decremented. Then down 
-here, if this is less than zero, then we're going to set current image to 
-myphotos.length minus one. That's going to set that all up there to work for 
-the current image for that one. That should be it that's all we needed. The 
+same. The only thing that&apos;s different is here, this gets decremented. Then down 
+here, if this is less than zero, then we&apos;re going to set current image to 
+myphotos.length minus one. That&apos;s going to set that all up there to work for 
+the current image for that one. That should be it that&apos;s all we needed. The 
 rest is going to be the same. 
 
-We're still going to create an image. We're still going to go get the image 
-from the array based on the value of current image here. Then we're still 
-going to apply that class to it, and we're going to stop put it on the page, 
-and we're still going to remove the extra children. All the rest should be 
+We&apos;re still going to create an image. We&apos;re still going to go get the image 
+from the array based on the value of current image here. Then we&apos;re still 
+going to apply that class to it, and we&apos;re going to stop put it on the page, 
+and we&apos;re still going to remove the extra children. All the rest should be 
 the same. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 572/573. test, previous command button (318) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9477,12 +9534,12 @@ the same.
   alt="Another Test, previous command & purge all but 2 images." />
 </p>
  
-Let's see if this works. Come back and click "Refresh". Next works. I can add 
-images, and over here you can see they're getting added. Image 2, Image 3, I 
+Let&apos;s see if this works. Come back and click "Refresh". Next works. I can add 
+images, and over here you can see they&apos;re getting added. Image 2, Image 3, I 
 could add one more Image 4. Now when I click "Previous", you can see Image 3 
 got put on top and Image 4 is down on the bottom. Image 2 is now on top, Image 
 3 is on the bottom. Image 1, and then Image 5, because we are going to the end 
-of the array. Then back on down through the array like that. That's working 
+of the array. Then back on down through the array like that. That&apos;s working 
 perfectly. Just exactly what we want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9497,7 +9554,7 @@ perfectly. Just exactly what we want.
   alt="3.35 Slideshow with Cross Fade Effect - Part 7." />
 </p>
 
-Your script is working great, and you could just leave it the way it is, it's 
+Your script is working great, and you could just leave it the way it is, it&apos;s 
 totally fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 575. example, duplicate code (319) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9508,7 +9565,7 @@ totally fine.
   alt="Example, Duplicate Code." />
 </p>
 
-But you'll notice that we have a fair amount of duplicate code. 
+But you&apos;ll notice that we have a fair amount of duplicate code. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 576. new function to avoid duplicate code (319) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9518,11 +9575,11 @@ But you'll notice that we have a fair amount of duplicate code.
   alt="Add swapImage function to avoid duplicate code." />
 </p> 
 
-If we go over and look at our script, we've got this chunk of code in here. 
-That's a several lines of code which is exactly the same as this chunk of code 
-up here. And there's a concept in programming called Don't repeat yourself 'DRY', 
-don't repeat yourself. What we want to do is, instead of repeat this code twice, 
-pull it out and put it into a separate function. We're going to make a function 
+If we go over and look at our script, we&apos;ve got this chunk of code in here. 
+That&apos;s a several lines of code which is exactly the same as this chunk of code 
+up here. And there&apos;s a concept in programming called Don&apos;t repeat yourself &apos;DRY&apos;, 
+don&apos;t repeat yourself. What we want to do is, instead of repeat this code twice, 
+pull it out and put it into a separate function. We&apos;re going to make a function 
 called swapImage. And that function is going to have this chunk of code in it. 
 We can run that function twice, once in the next button event listener function, 
 and one in the previous event listener button function. 
@@ -9535,7 +9592,7 @@ and one in the previous event listener button function.
   alt="Example, Updated Script." />
 </p>
 
-So down here, I'm going to make a new function, function swapImage. And then that 
+So down here, I&apos;m going to make a new function, function swapImage. And then that 
 function is going to contain all of this stuff in here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 578. function swapimage added to script (320) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9546,8 +9603,8 @@ function is going to contain all of this stuff in here.
   alt="Function swapImage added to script." />
 </p>
 
-So now we've got a function called swapImage that will run twice. It'll run the same 
-function basically, if you're clicking the Next button or the Previous button, and that 
+So now we&apos;ve got a function called swapImage that will run twice. It&apos;ll run the same 
+function basically, if you&apos;re clicking the Next button or the Previous button, and that 
 cleans up our code because we can see here clearly that the next button is incrementing 
 this variable and then checking with an if statement and then running function. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9559,14 +9616,14 @@ this variable and then checking with an if statement and then running function.
   alt="Test, swapImage function." />
 </p>
 
-Let's test it and make sure we did it right. So over here, I'm going to refresh the 
+Let&apos;s test it and make sure we did it right. So over here, I&apos;m going to refresh the 
 page. If I click Next, you can see that the script is working exactly the same as it did 
-before. Nothing else is changed really. We're not adding any new functionality. We're just 
+before. Nothing else is changed really. We&apos;re not adding any new functionality. We&apos;re just 
 refactoring our code. You always want to refactor your code and try to make it better and 
 try to reduce the amount of code or make it cleaner or make it easier to read all of these 
-things you want to do. And often when you're working on projects, you'll find ways. You'll 
-look at an old piece of code. You go, wow, I could have made that simpler. And you'll do 
-that. And that's just part of the normal process for any programmer. 
+things you want to do. And often when you&apos;re working on projects, you&apos;ll find ways. You&apos;ll 
+look at an old piece of code. You go, wow, I could have made that simpler. And you&apos;ll do 
+that. And that&apos;s just part of the normal process for any programmer. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 580. move script to external script.js (322) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9576,24 +9633,24 @@ that. And that's just part of the normal process for any programmer.
   alt="Move all script functions to external script.js." />
 </p>
 
-Now the very last thing to do here is to put it in a separate link file. I'm 
+Now the very last thing to do here is to put it in a separate link file. I&apos;m 
 going to make a new file on here, click new file here and call it script.js. 
-So make sure it's not inside the slides folder. On the script file, once again, 
-I'm going to add my immediately invoked function, parentheses, curly braces, 
+So make sure it&apos;s not inside the slides folder. On the script file, once again, 
+I&apos;m going to add my immediately invoked function, parentheses, curly braces, 
 and then an additional set of parentheses and a semicolon. This function will 
 run immediately when the page runs, and then click between the curly braces 
 and move that down. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581. add 'use strict' to index (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581. add &apos;use strict&apos; to index (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image581.png"
   style="width:50%"
-  title="Add 'use strict' to index.html"
-  alt="Add 'use strict' to index.html." />
+  title="Add &apos;use strict&apos; to index.html"
+  alt="Add &apos;use strict&apos; to index.html." />
 </p>
 
-And we're going to add <b>use strict</b> in here.  Now we can come over here to grab 
-our script from the index file. I'm going to copy that. And I'm going to stick 
+And we&apos;re going to add <b>use strict</b> in here.  Now we can come over here to grab 
+our script from the index file. I&apos;m going to copy that. And I&apos;m going to stick 
 it over here and paste it in the script.js file.
 
 Now the last thing I want to do is I want to go through and fix the variables 
@@ -9601,7 +9658,7 @@ here. This one current image is going to change. That variable is going to
 change down here we can see that. 
 
 There needs to be let, but the rest of these can all be const, because those 
-aren't going to change during the script at all during it&amp;s running.
+aren&apos;t going to change during the script at all during it&amp;s running.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 582. update to constant and let (323) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9612,7 +9669,7 @@ aren't going to change during the script at all during it&amp;s running.
 </p> 
 
 And then down in the swapImage we have a variable here. That one can also be 
-constant. Now we've got our files and that's all looking good. 
+constant. Now we&apos;ve got our files and that&apos;s all looking good. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 583. call script.js defer in head of index.html (324) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9623,7 +9680,7 @@ constant. Now we've got our files and that's all looking good.
 </p>
 
 Over here on written index file, we need to get rid of that stuff and put it in 
-here, src equals script.js, that's our file. And we can put this up here like 
+here, src equals script.js, that&apos;s our file. And we can put this up here like 
 so. We could leave it like that. Or even better, we could take this and move it 
 up here into the header of the page and add the defer attribute here, save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9631,11 +9688,12 @@ up here into the header of the page and add the defer attribute here, save that.
 <p align="center" width="100%">
 <img src="./images/image577.png"
   style="width:50%"
-  alt="." />
+  title="Test, script.js defer changes in index.html"
+  alt="Test, script.js defer changes in index.html." />
 </p>
 
-And then always check to make sure you didn't mess things up along the way. And 
-look at that. It's working perfectly. Everything works great.
+And then always check to make sure you didn&apos;t mess things up along the way. And 
+look at that. It&apos;s working perfectly. Everything works great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 585. finished script (325) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9645,7 +9703,7 @@ look at that. It's working perfectly. Everything works great.
   alt="Finished, working script." />
 </p>
 
-We have finished our script, and we've cleaned it up. And in this lesson you've 
+We have finished our script, and we&apos;ve cleaned it up. And in this lesson you&apos;ve 
 learned a lot about some different ways of doing things, and how to add elements 
 to the page, and remove them from the page. Using our document object model (DOM) 
 as well as our event handlers. And this is a great slideshow that you could use 
@@ -9676,18 +9734,18 @@ on any webpage.
 </p>
 
 <p>Hello, and welcome to the fourth module of this course. Congratulations for 
-making it this far. You've learned a lot of JavaScript so far, and this fourth 
+making it this far. You&apos;ve learned a lot of JavaScript so far, and this fourth 
 module is going to really help you push your skills even further. In this module, 
-we'll be doing a lot of practice. To learn JavaScript, you really have to practice. 
+we&apos;ll be doing a lot of practice. To learn JavaScript, you really have to practice. 
 You have to get used to the syntax. You have to think about how to break problems 
-down into smaller pieces to actually make something that works. And we'll be doing 
+down into smaller pieces to actually make something that works. And we&apos;ll be doing 
 that in this fourth module. </p>
 
-<p>And by creating interactive elements and practicing what you've already learned, 
-you'll be making some things that are interesting and fun, but also learning 
-JavaScript along the way. So let's get to it. And hopefully, by the end of this 
-module, you'll be excited about what you've learned so far in this course, and 
-you'll be excited to go on to the next course and learn even more about JavaScript.</p>
+<p>And by creating interactive elements and practicing what you&apos;ve already learned, 
+you&apos;ll be making some things that are interesting and fun, but also learning 
+JavaScript along the way. So let&apos;s get to it. And hopefully, by the end of this 
+module, you&apos;ll be excited about what you&apos;ve learned so far in this course, and 
+you&apos;ll be excited to go on to the next course and learn even more about JavaScript.</p>
 
 <ul>
   <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files">4.00 Basic-Convert-START.zip</a></li>
@@ -9704,7 +9762,7 @@ you'll be excited to go on to the next course and learn even more about JavaScri
   alt="4.01 Basic Distance Converter (Miles to Kilometers)." />
 </p>
 
-In this project will take an interface that I've already created, and make it 
+In this project will take an interface that I&apos;ve already created, and make it 
 work so that we end up with this little tool that will convert miles to kilometers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 588. project overview - basic miles to kilometer converter (327) ~~~~~~~~~~~~~-->
@@ -9715,11 +9773,11 @@ work so that we end up with this little tool that will convert miles to kilomete
   alt="Project Overview - basic miles to kilometer converter." />
 </p>
  
-Through doing this project, you'll get to use a bunch of the pieces we've 
-talked about already. Learning JavaScript. You'll capture data from a form 
+Through doing this project, you&apos;ll get to use a bunch of the pieces we&apos;ve 
+talked about already. Learning JavaScript. You&apos;ll capture data from a form 
 element, and manipulate the DOM, change the DOM, by adding this actual 
-conversion down here. We'll do a bunch of the different types of things that 
-we've been doing so far with JavaScript to create this little tool. The 
+conversion down here. We&apos;ll do a bunch of the different types of things that 
+we&apos;ve been doing so far with JavaScript to create this little tool. The 
 interface is already created, you can see I have it over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 589. test, miles to kilometers (328) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9730,10 +9788,10 @@ interface is already created, you can see I have it over here.
   alt="Test, miles to kilometers screen image (does not function)." />
 </p>
 
-The HTML generates this interface, but at this point it doesn't function. Our 
+The HTML generates this interface, but at this point it doesn&apos;t function. Our 
 job today is to make this thing actually function, and write the JavaScript to 
 take the data that somebody types into distance and convert it to kilometers. 
-Let's take a quick look at the HTML that we have here. 
+Let&apos;s take a quick look at the HTML that we have here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~ 590/591. index.html - head & two new divs with class containers (328) ~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9758,8 +9816,8 @@ container down here where the answer is going to go when we convert the miles.
   alt="styles.css - initially." />
 </p>
 
-Then I've got some styling over here already in place, probably more startling 
-than I really need, but that's okay. We don't need to touch any of that. 
+Then I&apos;ve got some styling over here already in place, probably more startling 
+than I really need, but that&apos;s okay. We don&apos;t need to touch any of that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 593. new script tag at bottom (329) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9769,14 +9827,14 @@ than I really need, but that's okay. We don't need to touch any of that.
   alt="Add script to bottom of index body." />
 </p>
 
-At this point what we're going to do, is we're going to add a script tag down 
-at the bottom, and start figuring out how we're going to capture this. Then in 
-here we want to capture this submission of this form. You call it convert. We've 
+At this point what we&apos;re going to do, is we&apos;re going to add a script tag down 
+at the bottom, and start figuring out how we&apos;re going to capture this. Then in 
+here we want to capture this submission of this form. You call it convert. We&apos;ve 
 got an Id for the forms or converts. We have a document.getElementById. Then we 
 want to get the Id convert. We want to add an EventListener. The event we want to 
 capture is a submit event. When the form is submitted, we want to do something. We 
 want to run a function. Now, all the rest of the code for this script is going to 
-go between these two curly braces here inside this anonymous function. We've 
+go between these two curly braces here inside this anonymous function. We&apos;ve 
 got our EventListener here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 594. event upon form submission (330) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9788,30 +9846,30 @@ got our EventListener here.
 </p>
 
 Now, normally, when events happen like the submission of a form, either the data 
-from the form goes to some PHP file to be handled, or if you don't have an action, 
-it will actually refresh the web page. We don't want that to happen. We want to 
-stop the normal processing of the form. In that case we're going to pass in the 
+from the form goes to some PHP file to be handled, or if you don&apos;t have an action, 
+it will actually refresh the web page. We don&apos;t want that to happen. We want to 
+stop the normal processing of the form. In that case we&apos;re going to pass in the 
 special event object, and we can pass it in as event or some people pass it in 
-as evt or some people will just use E. I'm going to leave it as event just to 
-make it clear that that's what it is. It's the special event object. Then we're 
+as evt or some people will just use E. I&apos;m going to leave it as event just to 
+make it clear that that&apos;s what it is. It&apos;s the special event object. Then we&apos;re 
 going to keep that form from being processed by using event.preventDefault, 
 which is a method that will keep that form from getting processed, and from 
 refreshing the page, or trying to go to that PHP file when we submit the form. 
-That's the thing we want to do first here.
+That&apos;s the thing we want to do first here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 595. capture distance (331) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image595.png"
   style="width:50%"
-  title="document.getElementById('distance').value"
-  alt="document.getElementById('distance').value." />
+  title="document.getElementById(&apos;distance&apos;).value"
+  alt="document.getElementById(&apos;distance&apos;).value." />
 </p>
 The next thing that we want to do, is we want to capture the data that somebody 
 typed into this input field here, with the idea of distance. We want to capture 
-that data, and we want to put it into a variable. Let's make a variable distance, 
-var distance. I'm going to go ahead and put mine in, document.getElementById. 
+that data, and we want to put it into a variable. Let&apos;s make a variable distance, 
+var distance. I&apos;m going to go ahead and put mine in, document.getElementById. 
 Which Id do I want? I want this Id distance, and what do I want from there? I 
-want the dot value. That's going to take whatever somebody is typed into the 
+want the dot value. That&apos;s going to take whatever somebody is typed into the 
 field, and stick it into this variable distance. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 596/597. alert(distance) test 5 and 54 (331) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9826,20 +9884,20 @@ field, and stick it into this variable distance.
   alt="Test 54 alert(distance)." />
 </p>
 
-Let's give it a try real quick. If we do alert distance, we should get that 
+Let&apos;s give it a try real quick. If we do alert distance, we should get that 
 data coming up here. If I come back here and refresh this, and then type in 
 five, and click convert distance, you can see that the alert pops up, and it 
-gives me five. If I put 54, it'll come up, and it'll give me a 54. That is 
-capturing that value. It's preventing the default behavior of submitting the 
-form, and trying to go to the PHP file. If you don't do EventPreventDefault, 
-let's just see what this happens for a second here. I just comment this out, 
+gives me five. If I put 54, it&apos;ll come up, and it&apos;ll give me a 54. That is 
+capturing that value. It&apos;s preventing the default behavior of submitting the 
+form, and trying to go to the PHP file. If you don&apos;t do EventPreventDefault, 
+let&apos;s just see what this happens for a second here. I just comment this out, 
 and come back here and refresh this. 
 
-If I don't do preventDefault convert distance, it gives me the five, but 
-then tries to go to some PHP file, which we don't want. It is getting that 
-data, but then it's trying to go through to the form. We don't want that. 
-We want to prevent the default behavior and that's what that does. We're 
-getting that distance there, and we're often running here with our project.
+If I don&apos;t do preventDefault convert distance, it gives me the five, but 
+then tries to go to some PHP file, which we don&apos;t want. It is getting that 
+data, but then it&apos;s trying to go through to the form. We don&apos;t want that. 
+We want to prevent the default behavior and that&apos;s what that does. We&apos;re 
+getting that distance there, and we&apos;re often running here with our project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-02">4.02 Basic Distance Convert Project – Part 2 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9850,12 +9908,12 @@ getting that distance there, and we're often running here with our project.
   title="Sample screen - distance converter"
   alt="Sample screen - distance converter." />
 </p>
-The next thing that's important to understand is that when you type a number 
+The next thing that&apos;s important to understand is that when you type a number 
 in here, JavaScript sees that number as a string. If I type a five in there, 
-it'll be a string that holds the value five rather than the number five. I 
+it&apos;ll be a string that holds the value five rather than the number five. I 
 need to actually take that string, and convert it to a number. We could use a 
 method in JavaScript called parseInt. But what parseInt does is it will only 
-capture the integer of the number rather than a decimal number. It's possible 
+capture the integer of the number rather than a decimal number. It&apos;s possible 
 that I would want to capture 5.5 miles and convert it to kilometers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 599. parsefloat to convert (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9865,12 +9923,12 @@ that I would want to capture 5.5 miles and convert it to kilometers.
   title="Use parseFloat to convert distance"
   alt="Use parseFloat to convert distance." />
 </p>
-What we're going to use instead is parseFloat. What parseFloat will do is 
-it'll allow us to take that number and convert it to a floating decimal point. 
-Down here, I'm going to leave the alert for a second here. But I mentioned 
-before that, I'm going to say distance equals parseFloat distance. I'm taking 
+What we&apos;re going to use instead is parseFloat. What parseFloat will do is 
+it&apos;ll allow us to take that number and convert it to a floating decimal point. 
+Down here, I&apos;m going to leave the alert for a second here. But I mentioned 
+before that, I&apos;m going to say distance equals parseFloat distance. I&apos;m taking 
 distance and running it through parseFloat, then assigning it back to distance 
-and I can alert that out. Let's just see what that gives us over here. 
+and I can alert that out. Let&apos;s just see what that gives us over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 600. test for number (333) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9880,12 +9938,12 @@ and I can alert that out. Let's just see what that gives us over here.
   alt="Test, chicken get Not A Number (NaN)." />
 </p>
 If I come back and refresh this, you have to refresh it, if I put in a five 
-and convert distance, it'll give me a five. But if I put in chicken, it'll 
+and convert distance, it&apos;ll give me a five. But if I put in chicken, it&apos;ll 
 give me NaN, not a number, which as you know, resolves to false. Not a number 
-is false, it's falsy, just like zero or a number of other things are falsy, 
+is false, it&apos;s falsy, just like zero or a number of other things are falsy, 
 but a number is true. Five will work, 5.5 will work. 
-Interestingly, zero won't, zero is still false. I don't know why you'd want 
-to convert zero miles to kilometers since they're both just zero. But that's 
+Interestingly, zero won&apos;t, zero is still false. I don&apos;t know why you&apos;d want 
+to convert zero miles to kilometers since they&apos;re both just zero. But that&apos;s 
 what we need to do first to get that to turn into a number. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 601. parsefloat distance value (334) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9911,14 +9969,14 @@ Remember, JavaScript works from the inside out.
   alt="Example, see if distance contains a number." />
 </p>
 The next thing we need to do is check to see if distance is an actual number. 
-If somebody put in something that's not a number, we can't convert that to 
+If somebody put in something that&apos;s not a number, we can&apos;t convert that to 
 kilometers. We need to make sure distance is a number. We can do that with an 
 if statement. Remember, if we put it in a number like five or 5.425 or whatever 
-it is, that's going to come back true. That's true, that's truthy whereas if 
-you put something that's not a number, parseInt is going to convert it to NaN, 
+it is, that&apos;s going to come back true. That&apos;s true, that&apos;s truthy whereas if 
+you put something that&apos;s not a number, parseInt is going to convert it to NaN, 
 which is not a number, and that comes back false or zero will come back false, 
-those kinds of things. We can just say if distance is a number, because we're 
-getting a number here, then we're going to convert it around the distance and 
+those kinds of things. We can just say if distance is a number, because we&apos;re 
+getting a number here, then we&apos;re going to convert it around the distance and 
 then put the answer down at the bottom, otherwise it will display an error 
 message down at the bottom. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9929,8 +9987,8 @@ message down at the bottom.
   title="Add if statement of distance as a number"
   alt="Add if statement of distance as a number." />
 </p>
-<p>Let's add this if statement down here. We're going to convert and then display 
-the answer. Let's take this alert(distance) and stick it in our if statement.</p>
+<p>Let&apos;s add this if statement down here. We&apos;re going to convert and then display 
+the answer. Let&apos;s take this alert(distance) and stick it in our if statement.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 604/605. test, 5 and chicken in converter (336) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9943,11 +10001,11 @@ the answer. Let's take this alert(distance) and stick it in our if statement.</p
   title="Test, chicken"
   alt="Test, chicken." />
 </p>
-<p>You'll see now with that, if I test this, if I put a number in here, it'll 
+<p>You&apos;ll see now with that, if I test this, if I put a number in here, it&apos;ll 
 alert out the number that I put in there. If I put something other than a 
-number in there, it won't, because the else is running. We haven't actually 
-done anything with the else, but it is running and it's not doing that alert. 
-We're all set up here and ready to write the rest of our script.</p>
+number in there, it won&apos;t, because the else is running. We haven&apos;t actually 
+done anything with the else, but it is running and it&apos;s not doing that alert. 
+We&apos;re all set up here and ready to write the rest of our script.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-03">4.03 Basic Distance Converter Project – Part 3 (6:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9963,12 +10021,12 @@ We're all set up here and ready to write the rest of our script.</p>
   alt="test, alert(distance) = 5." />
 </p>
 <p>We have a variable here, get rid of this Is making variable are conversion. 
-I've been assigned it the conversion, which is distance times .609344 and 
-what that will give us is the actual distance converted. But it's going to 
+I&apos;ve been assigned it the conversion, which is distance times .609344 and 
+what that will give us is the actual distance converted. But it&apos;s going to 
 give us a very large number or a number with a lot of numbers after the 
-decimal point potentially. And test that you'll see what I mean. I put in a 
-five here, I will get 8.04672. I don't want all these desperate numbers and 
-they can get even longer than that. That's kind of long. I just want to three 
+decimal point potentially. And test that you&apos;ll see what I mean. I put in a 
+five here, I will get 8.04672. I don&apos;t want all these desperate numbers and 
+they can get even longer than that. That&apos;s kind of long. I just want to three 
 decimals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 608. roundedconversion = math.round (337) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9979,12 +10037,12 @@ decimals.</p>
   alt="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;" />
 </p>
 <p>There are a couple different ways of addressing this. In dealing with this, 
-I'm going to show you the manual way and then the way that's a little bit 
-easier. I think sometimes it's it's nice to see the manual way. I'm going 
+I&apos;m going to show you the manual way and then the way that&apos;s a little bit 
+easier. I think sometimes it&apos;s it&apos;s nice to see the manual way. I&apos;m going 
 to make another variable roundedVariable equals Math.round(conversion). What 
-that's going to do is it's going to round it to the nearest whole number. I 
+that&apos;s going to do is it&apos;s going to round it to the nearest whole number. I 
 want some decimal points in there. What I want to do is take that number and 
-multiply it by 1000 and then after the conversion, divide by 1000.  That's 
+multiply it by 1000 and then after the conversion, divide by 1000.  That&apos;s 
 going to take the number round it and then divide it by 1000 for 3 decimal 
 places.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9995,18 +10053,19 @@ places.</p>
   title="Test, 54.32 converted & rounded to 3 decimal places"
   alt="Test, 54.32 converted & rounded to 3 decimal places." />
 </p>
-<p>Now let's see what that gives us. We come back here now if I try to convert 
-this 54.32, and you could see that it's cropping it off here after two decimal 
+<p>Now let&apos;s see what that gives us. We come back here now if I try to convert 
+this 54.32, and you could see that it&apos;s cropping it off here after two decimal 
 places here really wanted more decimal places than that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 610. round to 3 decimal using tofixed (338) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image610.png"
   style="width:50%"
+  title="Use toFixed(3) to round to 3 decimal places"
   alt="Use toFixed(3) to round to 3 decimal places." />
 </p>
-The other thing you can do that's easier, a little bit easier than this is to 
-use, something called toFixed. It's a method called toFixed so I could say 
+The other thing you can do that&apos;s easier, a little bit easier than this is to 
+use, something called toFixed. It&apos;s a method called toFixed so I could say 
 conversion and put toFixed and three in there and that will make sure I get 
 surrounded to three decimal points. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10017,9 +10076,9 @@ surrounded to three decimal points.
   title="Test, 54.32 converts to 87.420 kilometers"
   alt="Test, 54.32 converts to 87.420 kilometers." />
 </p>
-Let's see what that does 54.32 and now I'm getting 87.420, which is the right 
-thing there. That's actually rounding it and making it work exactly the way I 
-wanted to go, giving me three decimal points. That's kind of the easiest method 
+Let&apos;s see what that does 54.32 and now I&apos;m getting 87.420, which is the right 
+thing there. That&apos;s actually rounding it and making it work exactly the way I 
+wanted to go, giving me three decimal points. That&apos;s kind of the easiest method 
 to work with years is to fixed. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 612. calculate distance to 3 decimal places (339) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -10048,7 +10107,7 @@ max decimal places.
 Okay, one thing we want to look at really quickly here before we go on with the 
 script, is at this h2 down here. Right now, I have an h2 in there with a class 
 of invisible. If you go look at the styles, you will notice that this class, 
-invisible, over here in the styles, it's basically setting the color of that 
+invisible, over here in the styles, it&apos;s basically setting the color of that 
 text to the same color as the background of this div. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 615. answer barely visible (340) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10058,9 +10117,9 @@ text to the same color as the background of this div.
   title="Answer is barely visible"
   alt="Answer is barely visible." />
 </p>
-Over here, if you go and actually look at this thing, you'll notice down here, 
-that the answers is in there. It's in there, you can't really see it, because 
-it's the same color, but it's actually there. Currently, what it says is, 
+Over here, if you go and actually look at this thing, you&apos;ll notice down here, 
+that the answers is in there. It&apos;s in there, you can&apos;t really see it, because 
+it&apos;s the same color, but it&apos;s actually there. Currently, what it says is, 
 answer goes here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 616/617. define, display and test answer (341) ~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10075,18 +10134,18 @@ answer goes here.
   alt="Test, answer displayed visibly." />
 </p>
 What we can do is, we can use <b>innerHTML</b> to replace this entire h2 in here, 
-with a new h2. That h2 that we put in there, won't have the class invisible, 
+with a new h2. That h2 that we put in there, won&apos;t have the class invisible, 
 so it will be visible. We want to get this div id answer here first.
 
-First, I'm going to define a variable var answer, and set that to equal to 
-document.getElementById(‘answer’). That's our element there that we're 
+First, I&apos;m going to define a variable var answer, and set that to equal to 
+document.getElementById(‘answer’). That&apos;s our element there that we&apos;re 
 getting. Then we want to get that element and we want to use answer.innerHTML 
 equals tick marks, like that, semicolon. h2 close h2. This is going to be a 
-string, literary when we're done here. In here, 
-I'm going to add the distance. I want to put in here distance, miles converts 
-to x kilometers, where distance is really this variable distance here. That's 
-going to be a variable. In there, I'm going to put curly braces, dollar sign, 
-curly braces, distance, because that's a variable. Miles converts to, and x is 
+string, literary when we&apos;re done here. In here, 
+I&apos;m going to add the distance. I want to put in here distance, miles converts 
+to x kilometers, where distance is really this variable distance here. That&apos;s 
+going to be a variable. In there, I&apos;m going to put curly braces, dollar sign, 
+curly braces, distance, because that&apos;s a variable. Miles converts to, and x is 
 going to be dollar sign, curly braces, conversion in there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 618/619. if..else statement, test for number (341) ~~~~~~~~~~~~~~~~~~~~~-->
@@ -10100,19 +10159,19 @@ going to be dollar sign, curly braces, conversion in there.
   title="Test, else error"
   alt="Test, else error." />
 </p>
-The next thing we need to do is handle the error down here. We're going to put 
+The next thing we need to do is handle the error down here. We&apos;re going to put 
 it into this same element here, this answer element here. I could use 
 document.getElementById, and go get this answer div again, using innerHTML 
-again. Since we've already gotten this and put it into this variable here, it 
+again. Since we&apos;ve already gotten this and put it into this variable here, it 
 makes more sense to move this variable out of the if statement and stick it up 
-here somewhere, go anywhere really, I'll stick it here. That's going to get 
+here somewhere, go anywhere really, I&apos;ll stick it here. That&apos;s going to get 
 defined to begin with. It could even go after the preventDefault, it go 
-anywhere really. I'm going to just put it there. Then I can use the exact same 
+anywhere really. I&apos;m going to just put it there. Then I can use the exact same 
 variable down here. Answer.innerHTML equals. I can just use regular quotes, h2 
 close the h2. Always open and closed before it, then work on the inside from 
 that way. Please provide a number. That will handle the error. 
 
-Let's make sure that works. If we come back over here, and refresh this, if I 
+Let&apos;s make sure that works. If we come back over here, and refresh this, if I 
 put a chicken in here, a chicken cannot get converted to kilometers, so it 
 says please provide a number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10125,11 +10184,11 @@ says please provide a number.
   title="4.05 Refactored script"
   alt="4.05 Refactored script." />
 </p>
-This is our entire script and it's working pretty well at this point. We've 
+This is our entire script and it&apos;s working pretty well at this point. We&apos;ve 
 done a little bit of refactoring to get it to a little bit more compact and 
-a little bit more readable. We've tried a few different methods to make that 
-all work, and it's all working great. We could leave the script at the bottom 
-of the page, there's not that much to it and it's fine. 
+a little bit more readable. We&apos;ve tried a few different methods to make that 
+all work, and it&apos;s all working great. We could leave the script at the bottom 
+of the page, there&apos;s not that much to it and it&apos;s fine. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 621. move script to external file & invoke (343) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10138,21 +10197,21 @@ of the page, there's not that much to it and it's fine.
   title="Move script to external file and invoke immediately"
   alt="Move script to external file and invoke immediately." />
 </p>
-But just for the sake of practice, let's move it to an external file and link 
+But just for the sake of practice, let&apos;s move it to an external file and link 
 it up and then use our scope and best practices for converting everything. 
-I'm going to come over here, I'm going to need to make a folder. I'm going 
-to make a file and call it script.js. On that file, I'm going to add my IIFE, 
+I&apos;m going to come over here, I&apos;m going to need to make a folder. I&apos;m going 
+to make a file and call it script.js. On that file, I&apos;m going to add my IIFE, 
 my immediately invoked function expression. That starts with parentheses, and 
-then in there I add a function with its parentheses and it's curly braces, and 
+then in there I add a function with its parentheses and it&apos;s curly braces, and 
 then another set of parentheses and a /semicolon. This thing will run when the 
 script file loads, and my script is going to go inside the curly braces, so 
-I'm going to move those down. 
+I&apos;m going to move those down. 
 
-Also I'm going to add in here my use strict directive, which is going to make 
-sure that I'm not defining any variables without the var keyword, they don't 
-get put into the wrong scope. You don't really have to worry that much about 
-scope here since it's all pretty much within this one event handler, but still 
-it's a good idea to put it in. Then I'm going to just going to copy all of this 
+Also I&apos;m going to add in here my use strict directive, which is going to make 
+sure that I&apos;m not defining any variables without the var keyword, they don&apos;t 
+get put into the wrong scope. You don&apos;t really have to worry that much about 
+scope here since it&apos;s all pretty much within this one event handler, but still 
+it&apos;s a good idea to put it in. Then I&apos;m going to just going to copy all of this 
 stuff, or you can cut it and paste it over here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 622. example, add two event listeners (344) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10162,11 +10221,11 @@ stuff, or you can cut it and paste it over here.
   title="Example, Add Two Event Listeners"
   alt="Example, Add Two Event Listeners." />
 </p>
-In here, I'm going to come in and change my vars to either <b>const</b> or 
+In here, I&apos;m going to come in and change my vars to either <b>const</b> or 
 <b>let</b>. I think they will all work with <b>const</b>. Distance is going to get 
-that once, and that's in distance is not going to change. Const is going to come 
+that once, and that&apos;s in distance is not going to change. Const is going to come 
 down here and answer is always going to be answer, and then this one here const 
-as well, conversion. We've got all of that set.
+as well, conversion. We&apos;ve got all of that set.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 623. script - 1st half (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10177,9 +10236,9 @@ as well, conversion. We've got all of that set.
 </p>
 
 Over here on my HTML file, instead of having this script here, I can leave it at 
-the bottom of the screen if I want, that's fine, and just link to it here, src 
+the bottom of the screen if I want, that&apos;s fine, and just link to it here, src 
 equals "scripts.js", and that should work just fine. If I go ahead and test that, 
-it should work exactly the same as it worked before, and it works fine, that's great. 
+it should work exactly the same as it worked before, and it works fine, that&apos;s great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 624. script - 2nd half (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10192,15 +10251,15 @@ it should work exactly the same as it worked before, and it works fine, that's g
 Now, I could also move the script up into the head of the page. 
 
 Up here into the head, but I have to add the defer attribute here. If I come 
-back and test it, you'll see that it still works. If you forget the defer 
-attribute up here, then it's going to try to run that script before the page 
-loads and it won't work properly. Your file couldn't be accessed. It's trying 
+back and test it, you&apos;ll see that it still works. If you forget the defer 
+attribute up here, then it&apos;s going to try to run that script before the page 
+loads and it won&apos;t work properly. Your file couldn&apos;t be accessed. It&apos;s trying 
 to go to the some PHP file because that script never loaded and it never 
-prevented the default behavior. That didn't work, so you need to have that 
+prevented the default behavior. That didn&apos;t work, so you need to have that 
 differ keyword in there to make sure that the script is deferred until the 
-rest of the file loads. But there we have it. It's a great little tool and 
-it's allowed us to practice many of the things that we've been talking about 
-during this course, and we'll look at a slightly more advanced version of 
+rest of the file loads. But there we have it. It&apos;s a great little tool and 
+it&apos;s allowed us to practice many of the things that we&apos;ve been talking about 
+during this course, and we&apos;ll look at a slightly more advanced version of 
 the project next.
 
 <ul>
@@ -10219,7 +10278,7 @@ the project next.
 </p>
 <!-- 
 LAST CHANGED March, 2024 - going through entire document (389 pages) to more clearly identify images
-and give a clearer description of JavaScript and it's many nuances. For example, ECMA 2023, and what it
+and give a clearer description of JavaScript and it&apos;s many nuances. For example, ECMA 2023, and what it
 can do in comparison to ECMA 2017.
 Currently at 4.09 with 4.10 thru 4.25 to complete this class. That will add approximately 50 pages to
 the Word document this markdown was created from.
