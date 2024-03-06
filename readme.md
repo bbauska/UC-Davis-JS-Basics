@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/05/2024 2+pm"
+date last editted: "3/05/2024 9+pm"
 output: 
   markdown:
     with some style
@@ -2513,8 +2513,8 @@ scripts.</p>
 <p align="center" width="100%">
 <img src="./images/image122.png"
   style="width:40%"
-  title="2.04. Operators, Booleans & Selection in JavaScript"
-  alt="2.04. Operators, Booleans & Selection in JavaScript." />
+  title="2.04 Operators, Booleans & Selection in JavaScript"
+  alt="2.04 Operators, Booleans & Selection in JavaScript." />
 </p>
 
 <p>Operators, Booleans and Selection in JavaScript.</p>
@@ -2694,8 +2694,8 @@ console.log states false.</p>
 <p align="center" width="100%">
 <img src="./images/image137.png"
   style="width:40%"
-  title="2.05. Try This!"
-  alt="2.05. Try This!" />
+  title="2.05 Try This!"
+  alt="2.05 Try This!" />
 </p>
 
 <p>This is interesting. Let&apos;s try this.</p>
@@ -2768,8 +2768,8 @@ about JavaScript.</p>
 <p align="center" width="100%">
 <img src="./images/image144.png"
   style="width:40%"
-  title="2.06. Comparing Values"
-  alt="2.06. Comparing Values." />
+  title="2.06 Comparing Values"
+  alt="2.06 Comparing Values." />
 </p>
 
 <p>Let&apos;s look at comparing values.</p>
@@ -3035,8 +3035,8 @@ scripts and see how they work and what they do. It&apos;s really helpful to do t
 <p align="center" width="100%">
 <img src="./images/image163.png"
   style="width:40%"
-  title="2.08. Switch Statements"
-  alt="2.08. Switch Statements." />
+  title="2.08 Switch Statements"
+  alt="2.08 Switch Statements." />
 </p>
 
 <p>JavaScript also has a switch statement which will take a value like selected color 
@@ -3096,6 +3096,7 @@ first one. Now I&apos;ve got red and that break is bumping me out of there.</p>
 <p align="center" width="100%">
 <img src="./images/image167.png"
   style="width:50%"
+  title="Test, there was an error.  If outside of array, then gives error"
   alt="Test, there was an error.  If outside of array, then gives error." />
 </p>
 
@@ -3120,7 +3121,8 @@ with your code in a way that&apos;s helpful and useful.</p>
 <p align="center" width="100%">
 <img src="./images/image168.png"
   style="width:40%"
-  alt="2.09. Using &amp;&amp;." />
+  title="2.09 Using &amp;&amp;"
+  alt="2.09 Using &amp;&amp;." />
 </p>
 
 <p>In JavaScript, we can check to see if multiple things are true by using
@@ -3130,6 +3132,7 @@ the ampersand operator, or the pipe operator.</p>
 <p align="center" width="100%">
 <img src="./images/image169.png"
   style="width:50%"
+  title="Examples, using &amp;&amp;"
   alt="Examples, using &amp;&amp;." />
 </p>
 
@@ -3140,6 +3143,7 @@ ampersand operator, and we use two of them together here.</p>
 <p align="center" width="100%">
 <img src="./images/image170.png"
   style="width:50%"
+  title="Example, boolean with &amp;&amp;"
   alt="Example, boolean with &amp;&amp;." />
 </p>
 
@@ -3191,7 +3195,8 @@ going to have to happen.</p>
 <p align="center" width="100%">
 <img src="./images/image174.png"
   style="width:50%"
-  alt="." />
+  title="Boolean with double pipe (or)"
+  alt="Boolean with double pipe (or)." />
 </p>
 
 <p>Now, we can also use the double pipe. The pipe is the key on the
@@ -3205,6 +3210,7 @@ as true. So they would all have to be false for me to be starving.</p>
 <p align="center" width="100%">
 <img src="./images/image175.png"
   style="width:50%"
+  title="Add boolean and double pipe example"
   alt="Add boolean and double pipe example." />
 </p>
 
@@ -3218,6 +3224,7 @@ true, then <b>console.log(&quot;things are ok!&quot;</b>). Then down here, else
 <p align="center" width="100%">
 <img src="./images/image176.png"
   style="width:50%"
+  title="One or more variables are false, therefore things are ok"
   alt="One or more variables are false, therefore things are ok." />
 </p>
 
@@ -3821,8 +3828,8 @@ Here is a resource related to these lessons:
 <p align="center" width="100%">
 <img src="./images/image210.png"
   style="width:40%"
-  title="2.14. Structured Programming, Sequence - Part 1"
-  alt="2.14. Structured Programming, Sequence - Part 1." />
+  title="2.14 Structured Programming, Sequence - Part 1"
+  alt="2.14 Structured Programming, Sequence - Part 1." />
 </p>
 
 <p>Sequence, selection and loop.</p>
@@ -4886,7 +4893,7 @@ number, and we're going to take the min and add it to that randomVal.
 For example, if our random number gave us a zero and we add five to it, we'll get a 
 five. If we got a one and we add five to it, we'll get a six, all the way up to 10. 
 So that will give us our random numbers between five and 10 if we add the min value 
-to this final number here. Let's go ahead and add that in there and see what we get. 
+to this final number here. Let's and add that in there and see what we get. 
 Var finalNum equals min plus roundedRandomVal, and we can console.log that out. Come 
 back and check it, and you can see now I'm getting random numbers that can go as high 
 as 10 and as low as five, and our random number generator is actually working, which 
@@ -6052,34 +6059,32 @@ first paragraph and I&apos;m going to use the class name, element property
 to set the class to blue. And up here I&apos;ve added style and I&apos;ve added
 a class blue here to my document. So let&apos;s see how this works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 351.  (199) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 351. define class blue and assign to first paragraph (199) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image351.png"
   style="width:50%"
-  alt="." />
+  title="Define class 'blue' and assign to 1st paragraph"
+  alt="Define class 'blue' and assign to 1st paragraph." />
 </p>
 
-I&apos;m going to go over to my page over here and you can see I&apos;ve added
-up here, a rule here to set for anything that has the class blue here.
-So let&apos;s come down here. I&apos;m going to call this var firstPara equals
-**document.querySelector**. And remember, we have to use the CSS syntax.
-In this case, it&apos;s just a &quot; p&quot; because it&apos;s just a tag selector, but
-I&apos;m going to go get that first paragraph. Now I&apos;ve got three
-paragraphs, but remember querrySelector just returns the first one. And
-then I&apos;m going to say, okay, firstPara, Set the class name. And you can
-see here there&apos;s one called classList. I&apos;m just showing you a few of
-the document, select the document properties that are super useful, but
-there are plenty of other ones that you can look up and work with as
-well. Class name equals blue.
+I&apos;m going to go over to my page and you can see I&apos;ve added a rule here to set 
+for anything that has the class blue. I&apos;m going to call this var firstPara 
+equals document.querySelector. And remember, we have to use the CSS syntax. 
+In this case, it&apos;s just a "p" because it&apos;s just a tag selector, but I&apos;m going 
+to go get that first paragraph. Now I&apos;ve got three paragraphs, but remember 
+querySelector just returns the first one. And then I&apos;m going to say, okay, 
+firstPara, set the className to blue. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 352/353.  (199) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 352/353. test console, verify 1st paragraph is blue (200) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image352.png"
   style="width:45%"
-  alt="." />
+  title="Test console, first paragraph is blue"
+  alt="Test console, first paragraph is blue." />
 <img src="./images/image353.png"
   style="width:45%"
-  alt="." />
+  title="Test console, verify 1st paragraph turned blue"
+  alt="Test console, verify 1st paragraph turned blue." />
 </p>
 
 So now when I run this, come back here, click on My document here. I&apos;ve
@@ -6128,7 +6133,7 @@ So here I have a form and let&apos;s just do this one really quickly here. I
 have a form and I&apos;m going to say var myCheckbox equals document.get
 element or I can do a **querySelector**. **QuerySelector** input. And
 then I&apos;ll get my first input fields here. And then I could do okay,
-myCheckbox.setAttribute, and set attribute takes two parameters. I&apos;m
+**myCheckbox.setAttribute**, and set attribute takes two parameters. I&apos;m
 going to say what is the attribute that I want to set? In this case
 it&apos;s checked, and I&apos;m going to set the value which is also checked.
 Checked, checked, and that&apos;s the way. What that will do is it&apos;ll come
@@ -6423,11 +6428,12 @@ going to say, okay, **btn.onclick** run this function **ouch**. That&apos;s
 going to run the function using the onclick button. And we&apos;re using a
 special property that will capture the click event.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 373.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 373. test, button click & alert (212) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image373.png"
   style="width:40%"
-  alt="." />
+  title="Test, button click &amp; alert"
+  alt="Test, button click &amp; alert." />
 </p>
 
 If I come over here and refresh the page, if I click Don&apos;t Press Me, I
@@ -6440,11 +6446,12 @@ I did, **btn.onclick = ouch();** then that function would run right
 away, it would run immediately. It&apos;s not going to wait for me to click.
 Instead, it&apos;s going to run right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 374.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 374. function(){alert('I told you not to press me!');} (212) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image374.png"
   style="width:50%"
-  alt="." />
+  title="Add anonymous functon to call alert in btn.onclick"
+  alt="Add anonymous functon to call alert in btn.onclick." />
 </p>
 
 Now, you don&apos;t have to define a function here. We can actually just use
@@ -6459,21 +6466,23 @@ anonymous function to do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-12">3.12 Event Listeners (5:09)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 375.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 375. event listeners (3.12) (213) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image375.png"
   style="width:40%"
-  alt="." />
+  title="3.12 Event Listeners"
+  alt="3.12 Event Listeners." />
 </p>
 
-The unclick event property is useful, but a more frequent method that
+The onclick event property is useful, but a more frequent method that
 you&apos;ll see of capturing event is using the addEventListener method.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 376. example, event listners (214) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image376.png"
   style="width:50%"
-  alt="." />
+  title="Example, Event Listeners"
+  alt="Example, Event Listeners." />
 </p>
 
 This is a great way of capturing events because you can capture all
@@ -6485,14 +6494,16 @@ listening for one thing at a time. Here, I&apos;m going to go back to our
 version with the function **ouch**. In the alert in there, and then
 we&apos;ll use the **addEventListener** instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 377/378.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 377/378. addeventlistener rather than on click (214) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image377.png"
   style="width:45%"
-  alt="." />
+  title="btn.addEventListner();"
+  alt="btn.addEventListner();" />
 <img src="./images/image378.png"
   style="width:45%"
-  alt="." />
+  title="btn.addEventListner('click', ouch);"
+  alt="btn.addEventListner('click', ouch);" />
 </p>
 
 Let&apos;s give that a try really quickly over here. Instead of using the
@@ -6507,28 +6518,30 @@ going to run. When that event happens. And this is a very much more
 modern way of doing things is using the **addEventListener** method
 here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 379.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 379. test, addeventlistener (215) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image379.png"
   style="width:50%"
-  alt="." />
+  title="Test, addEventListener()"
+  alt="Test, addEventListener()." />
 </p>
 
 Let&apos;s see if that works. And sure enough, it works just the same as
 before.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 380.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 380. example, the most common (215) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image380.png"
   style="width:50%"
-  alt="." />
+  title="Example, The Most Common"
+  alt="Example, The Most Common." />
 </p>
 
 The most common syntax is to use the **addEventListener** with an
 anonymous function. It combines the two that we looked at before. Let&apos;s
 take a look at that instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 381.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 381.  (216) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image381.png"
   style="width:50%"
@@ -6550,7 +6563,7 @@ that, you&apos;re probably only going to use it within the context of this
 particular button. And in that case, an anonymous function is more
 appropriate.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 382.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 382.  (217) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image382.png"
   style="width:50%"
@@ -6560,7 +6573,7 @@ appropriate.
 I&apos;m going to come back and let&apos;s just test it one more time refresh
 the page. Don&apos;t press me and I get my alert.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383.  (###) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 383.  (217) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image383.png"
   style="width:50%"
@@ -6598,22 +6611,24 @@ help you with making sure that your syntax is clean.
 
 The next thing to look at is the event object.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 385.  (219) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 385. example, the event object (219) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image385.png"
   style="width:50%"
-  alt="." />
+  title="Example, The Event Object"
+  alt="Example, The Event Object." />
 </p>
 
 The event object can be passed into the function that runs when an event
 listener happens, and it&apos;s a very useful object to have access to.
 Let&apos;s take a look and see what it does.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 386.  (219) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 386. event.target.style.backgroundcolr = 'red'; (219) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image386.png"
   style="width:50%"
-  alt="." />
+  title="event.target.style.backgroundColor = 'red';"
+  alt="event.target.style.backgroundColor = 'red';" />
 </p>
 
 Over here, I&apos;m in my event listener here, and I have this function
@@ -6625,25 +6640,27 @@ event.target. The event.target will say what is the thing that triggered
 this event? Event.target.style.backgroundcolor equals red, something
 like that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 387.  (220) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 387. identify triggering event & do something with it (220) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image387.png"
   style="width:40%"
-  alt="." />
+  title="Identify triggering event &amp; do something with that event"
+  alt="Identify triggering event &amp; do something with that event." />
 </p>
 
 Let&apos;s see what this does. If I come over and run this, refresh my page,
 don&apos;t press me. It does that and sets the background of the button to
-red, which is very interesting there. What&apos;s going on here is we can
+red. What&apos;s going on here is we can 
 use the event object and the event target to actually know which element
 was triggering this event, and then we can do something with that
 **event.target**. This is often very useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 388.  (220) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 388. btn.addeventlistener('click', function(event)) (220) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image388.png"
   style="width:50%"
-  alt="." />
+  title="btn.addEventListener('click', function(event){ backgroundColor = 'red' });"
+  alt="btn.addEventListener('click', function(event){ backgroundColor = 'red' });" />
 </p>
 
 Now, this "event" is just a variable. You could call it whatever you
@@ -6664,11 +6681,12 @@ submission of the form so that we can do something with that form data
 before it&apos;s submitted, and so we&apos;ll use that frequently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 390.  (221) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 390. queryselect of 'a' link, click & preventdefault (221) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image390.png"
   style="width:50%"
-  alt="." />
+  title="querySelector of 'a' link, click command, &amp; preventDefault from running link"
+  alt="querySelector of 'a' link, click command, &amp; preventDefault from running link." />
 </p>
 
 Let&apos;s just take a look at a simple example of this here. If I go over
@@ -6683,11 +6701,12 @@ that default action from happening. In this case, we won&apos;t go to Google
 so I could do alert. Sorry, no Google for you.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 391.  (222) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 391. test, event.preventdefault (222) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image391.png"
   style="width:40%"
-  alt="." />
+  title="Test, event.preventDefault();"
+  alt="Test, event.preventDefault();" />
 </p>
 
 Now, if I test this page and I come over to my events page and refresh
@@ -6696,11 +6715,12 @@ Google for you,&quot; and the page does not go to Google. But it&apos;s the
 **event.preventDefault** that&apos;s keeping it from going into Google.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 392.  (222) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 392. comment out event.preventdefault & test (222) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image392.png"
   style="width:50%"
-  alt="." />
+  title="Comment out, then test event.preventDefault();"
+  alt="Comment out, then test event.preventDefault();" />
 </p>
 
 If I were to come back and comment this line out here, you&apos;ll see what
@@ -6763,11 +6783,12 @@ coming up, for some of our other projects, it&apos;ll be helpful for you to
 have these scripts to reference.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 397.  (224) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 397. form method = 'get', var = form (224) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image397.png"
   style="width:50%"
-  alt="." />
+  title="form method = 'get', var = form"
+  alt="form method = 'get', var = form." />
 </p>
 
 Here I&apos;ve got a form on my page here, and it&apos;s set to method get.
@@ -6775,7 +6796,7 @@ We&apos;ll see why in a few minutes here. And down here, I&apos;m going to get
 my form and stick it into a variable bar. My form documents, I&apos;m going
 to use my document query selector method to get the form. There&apos;s only
 one on the page so I don&apos;t have to do anything special there. If I add
-multiple forms, I could give it an ID. And then I could get it by the ID
+multiple forms, I could give it an Id. And then I could get it by the Id
 and that would be fine too. But since I only have one that&apos;s kind of
 nice and easy, and that&apos;s great, that gets me my form.
 
@@ -6809,11 +6830,12 @@ value property since I&apos;m not adding the property there explicitly,
 it&apos;ll be Whatever somebody types into the field, okay, so then I can
 just alert out alert form data and now if we go try this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 398.  (226) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 398. test, prompt, don't process yet (226) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image398.png"
   style="width:50%"
-  alt="." />
+  title="Test prompt, do not process yet with e.preventDefault();"
+  alt="Test prompt, do not process yet with e.preventDefault();" />
 </p>
 
 I need to open my file again. That&apos;s open. Here it is. And if I type
@@ -6822,25 +6844,28 @@ data is not processed but the the prevent default, has kept this from
 happening. So if I comment this out watch what happens here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 399/400.  (226) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 399/400. e.preventdefault commented out gives error (226) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image399.png"
   style="width:45%"
-  alt="." />
+  title="Comment out e.preventDefault"
+  alt="Comment out e.preventDefault." />
 <img src="./images/image400.png"
   style="width:45%"
-  alt="." />
+  title="1st gives submitted name, then next screen is error"
+  alt="1st gives submitted name, then next screen is error." />
 </p>
 
 Refresh this. If I take no again and now if I click submit you&apos;ll
 notice. Does that but then it actually processes the form. And I can see
 that up here because I use the get variable.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 401.  (227) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 401. test, value entered is put in url (227) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image401.png"
   style="width:50%"
-  alt="." />
+  title="Test, value entered is put in URL and subsequent error screen"
+  alt="Test, value entered is put in URL and subsequent error screen." />
 </p>
 
 I use the get method, it&apos;s actually putting the value that I typed into
@@ -6848,22 +6873,24 @@ that field up in the URL, by default, a form a form element when you
 submit it. The default behavior is that it will go to whatever you set
 the action here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402.  (227) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. action='processor.php' (227) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image402.png"
   style="width:50%"
-  alt="." />
+  title="form method='get' action='processor.php'"
+  alt="form method='get' action='processor.php'." />
 </p>
 
-If I had an **action="processor.PHP"**, some other file that&apos;s going to
+If I had an **action="processor.php"**, some other file that&apos;s going to
 process the data, it would go to that page where we tried to, in this
 case, it won&apos;t be able to because that page doesn&apos;t exist.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403.  (228) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 403. test, error not found (228) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image403.png"
   style="width:40%"
-  alt="." />
+  title="Test, error 'not found'"
+  alt="Test, error 'not found'." />
 </p>
 
 If I do, submit, it&apos;s going to do that. It either tries to go there or
@@ -6871,11 +6898,12 @@ it just refreshes if I don&apos;t put an action attribute up here, it will
 just refresh this page. And often I don&apos;t want to refresh the page. I
 want to use JavaScript to capture this data and do something with it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404.  (228) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 404. therefore, preventdefault (228) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image404.png"
   style="width:50%"
-  alt="." />
+  title="Add e.preventDefault so won't error out"
+  alt="Add e.preventDefault so won't error out." />
 </p>
 
 That&apos;s why I&apos;m doing prevent default down here, and I passing in this
@@ -6925,35 +6953,38 @@ Now, let&apos;s take a look at the script we can actually write to do this
 here. Let&apos;s do this over here. To begin with, I&apos;m going to make some
 variables for my heading and for the box to get those two elements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 408.  (230) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 408. define var heading & mydiv with h1 (230) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image408.png"
   style="width:50%"
-  alt="." />
+  title="Define vars heading &amp; myDiv along with h1"
+  alt="Define vars heading &amp; myDiv along with h1." />
 </p>
 
-Let&apos;s start with that. Down here in my script, var heading equals
-document.querySelector, h_1, and var **div** or my **div** equals
-document.querySelector **div**. That will get those two elements there.
+Let&apos;s start with that. Down here in my script, **var heading = **
+**document.querySelector('h1')**, and **var myDiv = **
+**document.querySelector('div')**. That will get those two elements there.
 I also want to change this text to, &quot;Roll Your Mouse Over The Box.&quot;
 Let&apos;s do that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 409.  (231) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 409. roll your mouse over the box (231) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image409.png"
   style="width:40%"
-  alt="." />
+  title="Roll your mouse over the box"
+  alt="Roll your mouse over the box." />
 </p>
 
 Then let&apos;s just go see with this page is looking like. If I come over
 here and refresh this, I have a box and I have directions to roll my
 mouse over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 410.  (231) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 410. add event listener & inner html (231) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image410.png"
   style="width:50%"
-  alt="." />
+  title="box.addEventListener('mouseover', function(){heading.innerHTML = 'The mouse is over the box';});"
+  alt="box.addEventListener('mouseover', function(){heading.innerHTML = 'The mouse is over the box';});" />
 </p>
 
 Now, I&apos;m going to put an event listener on the box that when I roll my
@@ -6969,11 +7000,12 @@ that box, we&apos;re going to go get the heading and change its inner HTML.
 Remember that&apos;s a property so we use the equal sign and we&apos;re going to
 change it to something like the mouse is over the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 411.  (232) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 411. test, the mouse is over the box (232) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image411.png"
   style="width:40%"
-  alt="." />
+  title="Test, The mouse is over the box"
+  alt="Test, The mouse is over the box." />
 </p>
 
 Let&apos;s see if that works. Let&apos;s test that. We come back to my page over
@@ -6981,11 +7013,12 @@ here, refresh, when I roll over the box, the mouse is over the box.
 Great, so that works, but now it&apos;s stuck there. It changed that
 content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 412.  (232) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 412. add mouse out message in heading (232) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image412.png"
   style="width:50%"
-  alt="." />
+  title="Add mouse out of the box as new heading"
+  alt="Add mouse out of the box as new heading." />
 </p>
 
 Now I want to do something where when I mouse out of the box, I&apos;m going
@@ -9710,6 +9743,7 @@ Let's take a quick look at the HTML that we have here.
   alt="index.html - head." />
 <img src="./images/image591.png"
   style="width:45%"
+  title="index.html - body with two divs; top & bottom"
   alt="index.html - body with two divs; top & bottom." />
 </p>
   
@@ -9895,8 +9929,8 @@ message down at the bottom.
   title="Add if statement of distance as a number"
   alt="Add if statement of distance as a number." />
 </p>
-Let's add this if statement down here. We're going to convert and then display 
-the answer. Let's take this alert(distance) and stick it in our if statement.
+<p>Let's add this if statement down here. We're going to convert and then display 
+the answer. Let's take this alert(distance) and stick it in our if statement.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 604/605. test, 5 and chicken in converter (336) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9909,11 +9943,11 @@ the answer. Let's take this alert(distance) and stick it in our if statement.
   title="Test, chicken"
   alt="Test, chicken." />
 </p>
-You'll see now with that, if I test this, if I put a number in here, it'll 
+<p>You'll see now with that, if I test this, if I put a number in here, it'll 
 alert out the number that I put in there. If I put something other than a 
 number in there, it won't, because the else is running. We haven't actually 
 done anything with the else, but it is running and it's not doing that alert. 
-We're all set up here and ready to write the rest of our script. 
+We're all set up here and ready to write the rest of our script.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-03">4.03 Basic Distance Converter Project – Part 3 (6:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9928,14 +9962,14 @@ We're all set up here and ready to write the rest of our script.
   title="test, alert(distance) = 5"
   alt="test, alert(distance) = 5." />
 </p>
-We have a variable here, get rid of this Is making variable are conversion. 
+<p>We have a variable here, get rid of this Is making variable are conversion. 
 I've been assigned it the conversion, which is distance times .609344 and 
 what that will give us is the actual distance converted. But it's going to 
 give us a very large number or a number with a lot of numbers after the 
 decimal point potentially. And test that you'll see what I mean. I put in a 
 five here, I will get 8.04672. I don't want all these desperate numbers and 
 they can get even longer than that. That's kind of long. I just want to three 
-decimals. 
+decimals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 608. roundedconversion = math.round (337) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9944,7 +9978,7 @@ decimals.
   title="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;"
   alt="var roundedConversion = (Math.round((distance * 1.609344) * 1000)) / 1000;" />
 </p>
-There are a couple different ways of addressing this. In dealing with this, 
+<p>There are a couple different ways of addressing this. In dealing with this, 
 I'm going to show you the manual way and then the way that's a little bit 
 easier. I think sometimes it's it's nice to see the manual way. I'm going 
 to make another variable roundedVariable equals Math.round(conversion). What 
@@ -9952,7 +9986,7 @@ that's going to do is it's going to round it to the nearest whole number. I
 want some decimal points in there. What I want to do is take that number and 
 multiply it by 1000 and then after the conversion, divide by 1000.  That's 
 going to take the number round it and then divide it by 1000 for 3 decimal 
-places.
+places.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 609. test, rounded to 3 decimals (338) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9961,9 +9995,9 @@ places.
   title="Test, 54.32 converted & rounded to 3 decimal places"
   alt="Test, 54.32 converted & rounded to 3 decimal places." />
 </p>
-Now let's see what that gives us. We come back here now if I try to convert 
+<p>Now let's see what that gives us. We come back here now if I try to convert 
 this 54.32, and you could see that it's cropping it off here after two decimal 
-places here really wanted more decimal places than that.
+places here really wanted more decimal places than that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 610. round to 3 decimal using tofixed (338) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
