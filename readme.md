@@ -204,8 +204,9 @@ values to these variables and arrays and be able to read values from them.</p>
 <ul>
   <li>1.00.A Note From UC Davis</li>
   <li>1.00 Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim">
-    1.00 Welcome/Intro to this Course!</a></li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/welcome-to-this-course-EGMim"
+    target="_blank" rel="noopener noreferrer">
+    1.00 Welcome/Intro to JavaScript Basics</a></li>
 </ul>
 
 <ol type="1">
@@ -259,7 +260,9 @@ and create custom functions that can be called to complete the instructions they
 
 <ul>
   <li>2.00 Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue">2.00 Module 2 Introduction</a></li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-2-introduction-8y2ue"
+    target="_blank" rel="noopener noreferrer">
+    2.00 Module 2 - Intro to Controlling Logical Flow in JS</a></li>
 </ul>
 
 <ol>
@@ -335,7 +338,9 @@ the course by putting together a simple slideshow on a web page.</p>
 
 <ul>
   <li>3.00 Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE">3.00 Module 3 Introduction</a></li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-3-introduction-xK7aE"
+     target="_blank" rel="noopener noreferrer">
+	 3.00 Module 3 - Intro to Using JS in the Web Browser</a></li>
 </ul>
 
 <ol type="1">
@@ -427,7 +432,9 @@ vacation destination list application.</p>
 
 <ul>
   <li>4.00 Learning Objectives</li>
-  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0">4.00 Module 4 - Intro to Basic JS Application Projects</a></li>
+  <li><a href="https://www.coursera.org/lecture/javascript-basics/module-4-introduction-FqHR0"
+     target="_blank" rel="noopener noreferrer">
+	 4.00 Module 4 - Intro to Basic JS Application Projects</a></li>
   <li>4.00 Basic Distance Converter START Files</li>
 </ul>
 
@@ -518,22 +525,23 @@ files</b>.</p>
 
 <p>If you run into any issues during this course, <b>learner support</b> is available to all 
 Coursera students. The link for Coursera&apos;s Learner support is included below. The 
-<a href="https://learner.coursera.help/hc/en-us">Help Center/Learner Support</a> includes 
-topics such as account setup, payments, enrollment questions, and troubleshooting common problems.</p>
+<a href="https://learner.coursera.help/hc/en-us" target="_blank" rel="noopener noreferrer">
+Help Center/Learner Support</a> includes topics such as account setup, payments, enrollment 
+questions, and troubleshooting common problems.</p>
 
 <p>If you find any content issues, be sure to let the course staff know by <b>flagging the 
 lecture</b>, assignment, reading, or quiz and this will inform us of where these issues occur. 
 Here is the link for more information on how to 
-<a href="https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course">
-Flag an Issue</a> &minus; it is also listed below.</p>
+<a href="https://learner.coursera.help/hc/en-us/articles/208280106-Report-a-problem-with-a-course"
+ target="_blank" rel="noopener noreferrer">Flag an Issue</a> &minus; it is also listed below.</p>
 
 <p>One of the great things about Coursera courses is that they are
 self-paced. The course dates are based on the average time it takes to
 complete a course. However, if you need additional time to complete a
 course you can <b>reset your deadlines</b> with no penalties. More
 information on resetting deadlines can be found here: 
-<a href="https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines">
-Assignment Deadlines</a>.</p>
+<a href="https://learner.coursera.help/hc/en-us/articles/208279866-Assignment-deadlines" 
+target="_blank" rel="noopener noreferrer">Assignment Deadlines</a>.</p>
 
 <p>Need additional help during your course session? Be sure to utilize the
 <b>discussion forums</b> and interact with your fellow peers. In this area,
@@ -543,13 +551,13 @@ answers, but specific course content questions can typically be found
 and answered in the discussion forums. This is also a great place to
 post your assignment if additional peer reviews are needed. Here is a
 link with more information on the discussion forums: 
-<a href="https://learner.coursera.help/hc/en-us/articles/208279996-Get-help-with-course-content-in-the-discussion-forums">
+<a href="https://learner.coursera.help/hc/en-us/articles/208279996-Get-help-with-course-content-in-the-discussion-forums" target="_blank" rel="noopener noreferrer">
 Discussion Forums</a>.</p>
 
 <p>Because of the self-paced nature of Coursera courses, this is an excellent opportunity 
 to show your commitment to your work and the work of your peers through academic integrity. 
 Be sure to read the Coursera guidelines and the <b>Coursera Honor Code</b> here: 
-<a href="https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code">
+<a href="https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code" target="_blank" rel="noopener noreferrer">
 Coursera Honor Code</a>.</p>
 
 <p>We look forward to having you in this course. Happy learning!<br>
@@ -558,7 +566,9 @@ Coursera Honor Code</a>.</p>
 <h3>Additional Links:</h3>
 
 <ul>
-  <li><a href="https://learner.coursera.help/hc/en-us">1.00.Coursera&apos;s Learner Support/Help Center:</a></li>
+  <li><a href="https://learner.coursera.help/hc/en-us"
+     target="_blank" rel="noopener noreferrer">
+	 1.00 Coursera&apos;s Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1">Week One:</h1>
@@ -719,7 +729,7 @@ interact with the website is this Awwwards website with the extra w&apos;s in he
 </p>
 
 <p>I have that website pulled up over here. You can come here and look through some of 
-the different sites that have won awards on <a href="https://www.awwwards.com/">
+the different sites that have won awards on <a href="https://www.awwwards.com/" target="_blank" rel="noopener noreferrer">
 awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 12. taptaro example in awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -730,7 +740,7 @@ awwwards.com.</a>. They tend to be pretty innovative and interesting sites.</p>
   alt="TapTaro example from awwwards.com website." />
 </p>
 
-<p>I have <a href="https://www.awwwards.com/sites/taptaro">this one</a>. Whether you&apos;re 
+<p>I have <a href="https://www.awwwards.com/sites/taptaro" target="_blank" rel="noopener noreferrer">this one</a>. Whether you&apos;re 
 talking about following the mouse, or coming over here and the animation around the circle, 
 or the way these images pop in, this is all being done with JavaScript, this kind of thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -754,7 +764,7 @@ some other interactions including some sounds as you work around it.</p>
   alt="Boyntonyards.com website from awwwards.com." />
 </p>
 
-<p>Or <a href="https://boyntonyards.com/">this website</a> which has some interesting 
+<p>Or <a href="https://boyntonyards.com/" target="_blank" rel="noopener noreferrer">this website</a> which has some interesting 
 interactions as you&apos;re scrolling through the website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont&apos;d (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1206,7 +1216,7 @@ have them.</p>
   title="Interneting is hard: a Great Place for Learning HTML &amp; CSS"
   alt="Interneting is hard: a Great Place for Learning HTML &amp; CSS." />
 
-<p>And a good place to go is this <a href="https://internetishard.com">
+<p>And a good place to go is this <a href="https://internetishard.com" target="_blank" rel="noopener noreferrer">
 Interneting Is Hard website</a>. This is a really great tutorial. They&apos;ve got 
 a lot of really great, it&apos;s very simple the way they&apos;ve explained things. 
 And they&apos;ve got a lot of great examples and tutorials here that will help you 
@@ -1233,15 +1243,16 @@ with JavaScript.</p>
 <!-- <h4>Here are resources related to these lessons:</h4> -->
 <ul>
   <li><h3 id="ch1-05-assess">
-  <a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css">
-  1.05 Assessing your Skills in HTML & CSS</a></h3></li>
+  <a href="https://www.coursera.org/learn/javascript-basics/quiz/Ff15D/assessing-your-skills-in-html-css" 
+    target="_blank" rel="noopener noreferrer">
+    1.05 Assessing your Skills in HTML & CSS</a></h3></li>
   <li><h3 id="ch1-05-add">1.05 Additional Resources;</a></h3>
     <ul>
-      <li><a href="https://www.awwwards.com/">Awwwards website</a></li>
-      <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-      <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
-      <li><a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a></li>
-      <li><a href="https://www.gimp.org/) https://www.gimp.org/">GNU Gimp</a></li>
+      <li><a href="https://www.awwwards.com/" target="_blank" rel="noopener noreferrer">Awwwards website</a></li>
+      <li><a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">Visual Studio Code</a></li>
+      <li><a href="https://www.google.com/chrome/" target="_blank" rel="noopener noreferrer">Google Chrome</a></li>
+      <li><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noopener noreferrer">Adobe Photoshop</a></li>
+      <li><a href="https://www.gimp.org/) https://www.gimp.org/" target="_blank" rel="noopener noreferrer">GNU Gimp</a></li>
     </ul>
   </li>
 </ul>
@@ -1375,9 +1386,10 @@ we&apos;re talking about <b>ECMAScript 5</b> which was released in 2009, that
 was the big release then, and <b>ECMAScript 6</b> or <b>ES6</b> was the
 version that was released in 2015. Then in 2022 came ECMAScript 7 & 8. Lastly,
 ECMAScript 2023, the 14th edition of JavaScript. Try 
-<a href="https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/">
-freecodecamp</a> for examples. Or, try 
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">MDN</a>. 
+<a href="https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/" 
+target="_blank" rel="noopener noreferrer">freecodecamp</a> for examples. Or, try 
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" 
+target="_blank" rel="noopener noreferrer">MDN (shortcut)</a>. 
 These are all keywords that you can use as names for variables in JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. variable rules and examples (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2047,10 +2059,12 @@ ways of getting elements out of arrays.</p>
 <p>Here are resources related to these lessons:</p>
 
 <ul>
-  <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp">
-    1.12 Reserved Words</a></li>
-  <li id="ch1-12-array"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array">
-    1.12 Array Methods</a></li>
+  <li id="ch1-12-res"><a href="https://www.w3schools.com/js/js_reserved.asp"
+     target="_blank" rel="noopener noreferrer">
+    1.12 Reserved Words (shortcut)</a></li>
+  <li id="ch1-12-array"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array"
+     target="_blank" rel="noopener noreferrer">
+    1.12 Array Methods (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch2">Week Two: Controlling Logical Flow in JavaScript</h1>
@@ -3259,9 +3273,11 @@ if you haven&apos;t had breakfast, lunch, or dinner, you&apos;re probably
 starving, so you should go eat something.</p>
 
 <ul>
-  <li id="ch2-09-oper"><a href="https://www.w3schools.com/js/js_operators.asp">
+  <li id="ch2-09-oper"><a href="https://www.w3schools.com/js/js_operators.asp" 
+    target="_blank" rel="noopener noreferrer">
     2.09 JavaScript Operators (shortcut)</a></li>
-  <li id="ch2-09-bool"><a href="https://www.w3schools.com/js/js_booleans.asp">
+  <li id="ch2-09-bool"><a href="https://www.w3schools.com/js/js_booleans.asp" 
+    target="_blank" rel="noopener noreferrer">
     2.09 JavaScript Booleans (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3828,7 +3844,7 @@ pat. Great, we&apos;re going to a move on to the next thing.</p>
 Here is a resource related to these lessons:
 
 <ul id="ch2-13-loop">
-  <li><a href="https://www.w3schools.com/js/js_loop_for.asp">
+  <li><a href="https://www.w3schools.com/js/js_loop_for.asp" target="_blank" rel="noopener noreferrer">
     2.13 JavaScript Loops (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3900,7 +3916,8 @@ can do with strings of text. You might be wondering, well, why would I
 want to do anything with a string of text? Why would I want to do this
 stuff?</p>
 
-<h5><a href="W3schools.com/js/js_string_methods.asp">JS String Methods</a></h5>
+<h5><a href="W3schools.com/js/js_string_methods.asp" 
+target="_blank" rel="noopener noreferrer">JS String Methods (shortcut)</a></h5>
 
 But if you think about it, a web page from the very first character of
 the web page to the very last character of a web page is nothing but a
@@ -4345,8 +4362,9 @@ as pretty much every script that we write will have some combination of them as 
 along. Great, see you in the next lesson.
 
 <ul>
-  <li id="ch2-17-01thru09"><a href="https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09">
-    2.17 JavaScript Basic Challenges 01thru09.pdf (download)</a></li>
+  <li id="ch2-17-01thru09"><a href="https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09"
+    target="_blank" rel="noopener noreferrer">
+    2.17 JavaScript-Basic-Challenges-01thru09.pdf (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-18">2.18 JavaScript Basic Challenges Introduction (5:02)</h2>
@@ -5240,10 +5258,12 @@ manipulating web pages. So this course only gets more fun from here. So stick wi
 it and keep working on the lessons, and I can&apos;t wait to see you in the next one.
 
 <ul>
-  <li id="ch2-24-func"><a href="https://www.w3schools.com/js/js_functions.asp">
+  <li id="ch2-24-func"><a href="https://www.w3schools.com/js/js_functions.asp" 
+    target="_blank" rel="noopener noreferrer">
     2.24 JavaScript Functions (shortcut)</a></li>
-  <li id="ch2-24-10thru16"><a href="https://www.w3schools.com/js/js_functions.asp">
-    2.24 JavaScrip Function Challenges 10thru16.pdf (download)</a></li>
+  <li id="ch2-24-10thru16"><a href="https://www.w3schools.com/js/js_functions.asp" 
+    target="_blank" rel="noopener noreferrer">
+    2.24 JavaScrip-Function-Challenges-10thru16.pdf (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3">Week Three: Using JavaScript in the Web Browser</h2>
@@ -6217,7 +6237,6 @@ content on our webpages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-09">3.09 Creating Elements and Text Nodes (5:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 358. creating elements and text nodes (3.09) (202) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image358.png"
@@ -6390,15 +6409,17 @@ different **methods** and **properties**, and that&apos;s how we&apos;re going
 to create all kinds of interactive elements in our webpages.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-10-dom"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction">
-3.10 JavaScript-and-the-DOM.html (shortcut)</a></h3>
+<h3 id="ch3-10-dom"><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction" 
+  target="_blank" rel="noopener noreferrer">
+  3.10 JavaScript-and-the-DOM.html (shortcut)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 > <https://www.coursera.org/learn/javascript-basics/supplement/DCOHD/additional-resource>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-10-17thru21"><a href="https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21">
-3.10 JavaScript DOM Challenges 17thru21.pdf (download)</a></h3>
+<h3 id="ch3-10-17thru21"><a href="https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21" 
+  target="_blank" rel="noopener noreferrer">
+  3.10 JavaScript-DOM-Challenges-17thru21.pdf (download)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-11">3.11 Capturing Events with JavaScript (5:16)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6459,12 +6480,12 @@ Here I have a webpage, I have a button on the webpage, it says Don&apos;t
 Press Me! And I&apos;m going to grab that button using my document element
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 372. define var btn = document.queryselector(&apos;button&apos;); (211) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 372. define var btn = document.queryselector('button'); (211) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image372.png"
   style="width:50%"
-  title="Define var btn = document.querySelector(&apos;button&apos;);"
-  alt="Define var btn = document.querySelector(&apos;button&apos;);" />
+  title="Define var btn = document.querySelector('button');"
+  alt="Define var btn = document.querySelector('button');" />
 </p>
 
 So I&apos;m going to make a variable var btn, and I&apos;m going to assign it
@@ -6498,7 +6519,7 @@ I did, **btn.onclick = ouch();** then that function would run right
 away, it would run immediately. It&apos;s not going to wait for me to click.
 Instead, it&apos;s going to run right away.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 374. function(){alert(&apos;I told you not to press me!&apos;);} (212) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~ 374. function(){alert(&apos;I told you not to press me!&apos;);} (212) ~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image374.png"
   style="width:50%"
@@ -6554,8 +6575,8 @@ we&apos;ll use the **addEventListener** instead.
   alt="btn.addEventListner();" />
 <img src="./images/image378.png"
   style="width:45%"
-  title="btn.addEventListner(&apos;click&apos;, ouch);"
-  alt="btn.addEventListner(&apos;click&apos;, ouch);" />
+  title="btn.addEventListner('click', ouch);"
+  alt="btn.addEventListner('click', ouch);" />
 </p>
 
 Let&apos;s give that a try really quickly over here. Instead of using the
@@ -6678,7 +6699,7 @@ The event object can be passed into the function that runs when an event
 listener happens, and it&apos;s a very useful object to have access to.
 Let&apos;s take a look and see what it does.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 386. event.target.style.backgroundcolr = &apos;red&apos;; (219) ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 386. event.target.style.backgroundcolr = &apos;red&apos;; (219) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image386.png"
   style="width:50%"
@@ -6710,7 +6731,7 @@ use the event object and the event target to actually know which element
 was triggering this event, and then we can do something with that
 **event.target**. This is often very useful.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 388. btn.addeventlistener(&apos;click&apos;, function(event)) (220) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 388. btn.addeventlistener(&apos;click&apos;, function(event)) (220) ~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image388.png"
   style="width:50%"
@@ -6736,7 +6757,7 @@ submission of the form so that we can do something with that form data
 before it&apos;s submitted, and so we&apos;ll use that frequently.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 390. queryselect of &apos;a&apos; link, click & preventdefault (221) ~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~ 390. queryselect of &apos;a&apos; link, click & preventdefault (221) ~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image390.png"
   style="width:50%"
@@ -6838,7 +6859,7 @@ coming up, for some of our other projects, it&apos;ll be helpful for you to
 have these scripts to reference.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 397. form method = &apos;get&apos;, var = form (224) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 397. form method = &apos;get&apos;, var = form (224) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image397.png"
   style="width:50%"
@@ -7517,15 +7538,18 @@ Here are resources related to these lessons:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events">
+  <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events" 
+    target="_blank" rel="noopener noreferrer">
     3.18 Introduction-to-Events-in-JS (shortcut)</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/Events">
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/Events" 
+    target="_blank" rel="noopener noreferrer">
     3.18 Event-Reference (shortcut)</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-18-22thru30"><a href="https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30">
-  3.18 JavaScript Event Challenges 22thru30.pdf (download)</a></h3>
+<h3 id="ch3-18-22thru30"><a href="https://www.coursera.org/learn/javascript-basics/supplement/PkaFc/javascript-event-challenges-22-30" 
+  target="_blank" rel="noopener noreferrer">
+  3.18 JavaScript-Event-Challenges-22thru30.pdf (download)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8369,11 +8393,10 @@ still functions just fine.
   alt="Move script declaration to head of index.html." />
 </p>
 
-Even more if you want you could even take this even further by 
-moving the declaration for the script here, up to the top of the 
-file. I can put it in here the head, but I have to add the defer 
-key word here. With defer it will make it run as if it&apos;s at the 
-bottom of the page. And you&apos;ll see that still works. 
+Even more if you want you could take this further by moving the declaration for 
+the script up to the top of the file. I can put it in the head, but I have to add 
+the **defer** key word here. With **defer** it will make it run as if it&apos;s at the 
+bottom of the page. And you&apos;ll see that still works.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504. test, remove defer and error (276) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8383,38 +8406,38 @@ bottom of the page. And you&apos;ll see that still works.
   alt="Test, remove &apos;defer&apos; command and receive error." />
 </p>
 
-If I take defer out of there, watch what happens. Refresh and, 
-it doesn&apos;t work. Because, addEventListener is null. What&apos;s going 
+If I take **defer** out of there, watch what happens. Refresh and, 
+it doesn&apos;t work. Because, **addEventListener** is null. What&apos;s going 
 on here, is that the page loads from the top to the bottom. So 
 it&apos;s loading the script first, before it gets to the bottom. 
 And on the script, it&apos;s saying, put an event listener on the 
 bottom. We can&apos;t put an event listener on a button, that doesn&apos;t 
-exist yet. But adding the defer keyword up here. What that does 
-is it makes it so that it loads that script after the rest of 
-the page is loaded. 
+exist yet. But adding the **defer** keyword up here makes it so that it loads 
+that script after the rest of the page is loaded.
 
 You can go through the rest of these and you&apos;ll create a new 
-file for script 23.js. And you&apos;ll do the same thing on this 
-one. On challenge 23, you&apos;ll notice that can be const. This 
-down here has to be let, that&apos;ll have to be let. Go through 
-and put in const and let wherever there&apos;s a var. Use const 
-as much as you can, and only use let where the variable 
+file for **script23.js**. And you&apos;ll do the same thing on this 
+one. On challenge 23, you&apos;ll notice that can be **const**. This 
+down here has to be **let**, that&apos;ll have to be **let**. Go through 
+and put in **const** and **let** wherever there&apos;s a var. Use **const** 
+as much as you can, and only use **let** where the variable 
 actually has to change here we&apos;re using an incrementer. 
 
-That&apos;s going to change as we loop through this for loop so it has to be let. 
-But use const wherever you can. And if you do that and create all these files 
-and do that repetition in your state times. But even just doing that eight 
-times, you&apos;ll start to get comfortable with the syntax of the immediately 
-invoked function. And using use strict and you&apos;ll start to get used to using 
-const and let Instead of are for your keywords and that will really help you 
-out in the long run.
+That&apos;s going to change as we loop through this **for loop** so it has to be **let**. 
+But use **const** wherever you can. And if you do that and create all these files 
+you&apos;ll start to get comfortable with the syntax of the immediately invoked 
+function. And using use strict and you&apos;ll start to get used to using **const** 
+and **let** instead of **var** for your keywords and that will help you out in the long run.
 
 <ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures">
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures" 
+    target="_blank" rel="noopener noreferrer">
     3.23 Closures in Javascript (shortcut)</a></li>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/IIFE">
+  <li><a href="https://developer.mozilla.org/en-US/docs/Glossary/IIFE"
+    target="_blank" rel="noopener noreferrer">
     3.23 IIFE in JavaScript (shortcut)</a></li>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/TOTXS/simple-slide-show-start-files">
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/TOTXS/simple-slide-show-start-files"
+    target="_blank" rel="noopener noreferrer">
     3.23 Simple-SlideShow-START-File.zip (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8903,7 +8926,7 @@ there.
   alt="Add script to head of index with &apos;defer&apos; attribute." />
 </p>
 
-But even better is to move it up into the head of the page and add a defer 
+But even better is to move it up into the head of the page and add a **defer** 
 attribute here. That will make the script load after the rest of the page is 
 loaded. It keeps it out of the body of my HTML, which I really want to keep my 
 HTML as clean as possible so it&apos;s easy to read, easy to understand, easy to 
@@ -8944,13 +8967,13 @@ to see if you can figure out something on your own without making it too hard,
 without going too far. 
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/4Ljvq/advanced-slide-show-start-files">
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/4Ljvq/advanced-slide-show-start-files"
+    target="_blank" rel="noopener noreferrer">
     3.28 Advanced-SlideShow-START-Files.zip (download)</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-29">3.29 Slideshow with Cross Fade Effect –- Part 1</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 538. slideshow with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9682,7 +9705,7 @@ constant. Now we&apos;ve got our files and that&apos;s all looking good.
 Over here on written index file, we need to get rid of that stuff and put it in 
 here, src equals script.js, that&apos;s our file. And we can put this up here like 
 so. We could leave it like that. Or even better, we could take this and move it 
-up here into the header of the page and add the defer attribute here, save that. 
+up here into the header of the page and add the **defer** attribute here, save that. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 584. test, script.js defer changes in index.html (324) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9748,7 +9771,9 @@ module, you&apos;ll be excited about what you&apos;ve learned so far in this cou
 you&apos;ll be excited to go on to the next course and learn even more about JavaScript.</p>
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files">4.00 Basic-Convert-START.zip</a></li>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files"
+    target="_blank" rel="noopener noreferrer">
+	4.00 Basic-Convert-START.zip (download)</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10250,10 +10275,11 @@ it should work exactly the same as it worked before, and it works fine, that&apo
 I could (and will) also move the script up into the head of the page, but I have 
 to add the **defer** attribute here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 625. your file couldn't be accessed (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 625. your file couldn't be accessed (344) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image625.png"
   style="width:50%"
+  title="Your file couldn't be accessed"
   alt="Your file couldn't be accessed." />
 </p>
 
@@ -10268,7 +10294,9 @@ talking about during this course, and we'll look at a slightly more advanced
 version of the project next.
 
 <ul>
-  <li id="ch4-05-start"><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
+  <li id="ch4-05-start"><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files"
+    target="_blank" rel="noopener noreferrer">
+	4.05 Advanced-Distance-Convert-START-Files.zip (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-06">4.06 Advanced Distance Converter Project -– Part 1 (5:13)</h2>
@@ -10287,9 +10315,11 @@ Advanced Distance Converter, Using JavaScript to Convert Distances.
 <p align="center" width="100%">
 <img src="./images/image627.png"
   style="width:45%"
+  title="Sample, Miles to Kilometers Converter"
   alt="Sample, Miles to Kilometers Converter." />
 <img src="./images/image628.png"
   style="width:45%"
+  title="Sample, Kilometers to Miles Converter"
   alt="Sample, Kilometers to Miles Converter." />
 </p>
 In this project, we're going to use an extension to what we did in the earlier 
@@ -10302,9 +10332,11 @@ key to go back. We can go back and forth between doing different types of conver
 <p align="center" width="100%">
 <img src="./images/image629.png"
   style="width:45%"
+  title="Test, 5 kilometers to 3.107 miles"
   alt="Test, 5 kilometers to 3.107 miles." />
 <img src="./images/image630.png"
   style="width:45%"
+  title="Test, 5 miles to 8.047 kilometers"
   alt="Test, 5 miles to 8.047 kilometers." />
 </p>
 If I put a five in here and click "Convert Distance", it'll tell me five 
@@ -10316,11 +10348,12 @@ down here. I've got a set of instructions down here in the bottom of the page
 that tell you which keys to press, and that kind of stuff. That gets us set 
 up to start coding this project and getting the script working. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 631.  (347) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 631. code, set up script (347) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image631.png"
   style="width:50%"
-  alt="." />
+  title="Code JS, set up script"
+  alt="Code JS, set up script." />
 </p>
 You'll notice that, if you look at the Start file here, it looks very similar 
 to what we had before. We just need to get started with a script tag down here, 
@@ -10332,18 +10365,20 @@ that we need in order to make this work.
 <p align="center" width="100%">
 <img src="./images/image632.png"
   style="width:50%"
-  alt="." />
+  title="Example, Define Some Variables"
+  alt="Example, Define Some Variables." />
 </p>
 We're going to need a variable called convertType that's going to be set 
 initially to miles, and then when you press the "K" key or the "M" key, it's 
 going to update that value to kilometers or miles, depending on which key you 
 press.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 633.  (348) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 633. js code to update headings (348) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image633.png"
   style="width:50%"
-  alt="." />
+  title="Extract header using document.querySelector('h1')"
+  alt="Extract header using document.querySelector('h1')." />
 </p>
 Then we also need to get the h1 because we're going to change that in the intro 
 text. We might as well gather the answer element down there as well, and also 
@@ -10453,133 +10488,188 @@ function.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-08">4.08 Advanced Distance Converter Project -- Part 3 (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 641. javascript code capturing event.code (352) ~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image641.png"
+  style="width:50%"
+  title="Capture event.code for KeyK (kilometers) or KeyM (miles)"
+  alt="Capture event.code for KeyK (kilometers) or KeyM (miles)." />
+</p>
 
-![](./3-6-images/media/image641.png){width="5.0in"
-height="2.835978783902012in"}
+Okay, so now we&apos;re going to put this in here, and have **var convertType** 
+because we already have it defined up there, so you don&apos;t use **var.convertType = "kilometers".** 
+That&apos;s going to get set to kilometers as a value, as opposed to miles. You could just use K and M
+in there if you wanted to keep it short, and that&apos;s fine.
 
-Okay, so now we\'re going to put this in here, and have **var
-convertType** because we already have it defined up there, so you don\'t
-use **var.convertType = "kilometers".** That\'s going to get set to
-kilometers as a value, as opposed to miles. You could just use K and M
-in there if you wanted to keep it short, and that\'s fine.
-
-And then I\'m going to change the heading in here next.
-**heading.innerHTML = "Kilometers to Miles** c**onverter"**. That\'s
+And then I&apos;m going to change the heading in here next.
+**heading.innerHTML = "Kilometers to Miles** c**onverter"**. That&apos;s
 going to change the heading up at the top of the page. And then the
-third thing I want to do is just change the intro paragraphs. That\'s
-the variable intro.InnerHTML = and then I\'m just going to paste this
-in, but you\'re going to have to type it. Type in a number of kilometers
-and click the button to convert the distance to miles. We\'ve got all of
+third thing I want to do is just change the intro paragraphs. That&apos;s
+the variable intro.InnerHTML = and then I&apos;m just going to paste this
+in, but you&apos;re going to have to type it. Type in a number of kilometers
+and click the button to convert the distance to miles. We&apos;ve got all of
 these set in here.
 
 And, what we need to do is put the same thing down below. But instead of
-kilometers it\'s going to be miles. And then over here we\'re going to
+kilometers it&apos;s going to be miles. And then over here we&apos;re going to
 say Miles to Kilometers converter. And then type the number of miles,
 and click the button to convert the distance to kilometers. That should
-be working in terms of which key I pressed here and how that\'s going to
+be working in terms of which key I pressed here and how that&apos;s going to
 work.
-
-![](./3-6-images/media/image642.png){width="3.5in"
-height="1.985184820647419in"}![](./3-6-images/media/image643.png){width="3.5in"
-height="1.985184820647419in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 642/643. test, k switches to kilometers, m to miles (353) ~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/imageXXX.png"
+  style="width:45%"
+  title="Test, 'K' key switches conversion to Kilometers"
+  alt="Test, 'K' key switches conversion to Kilometers." />
+<img src="./images/imageXXX.png"
+  style="width:45%"
+  title="Test, 'M' key switches conversion to Miles"
+  alt="Test, 'M' key switches conversion to Miles." />
+</p>
 
 And if I come over and test this, you should see if I press the K key,
 it switches to kilometers to miles, the statement changes. And if I
 press the M key it switches back.
-
-![](./3-6-images/media/image644.png){width="5.0in"
-height="2.835978783902012in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 644. example, starting the form submission handler (354) ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image644.png"
+  style="width:50%"
+  title="Example, Starting the Form Submission Handler"
+  alt="Example, Starting the Form Submission Handler." />
+</p>
 
 Now we can start the second part of the script which is the form
 submission handler. And we can pass in the event and once again do
 **event.preventDefault** to keep that form from being submitted,
-actually submitted. So we\'re going to pass in our event object here.
-
-![](./3-6-images/media/image645.png){width="5.0in"
-height="2.835978783902012in"}
+actually submitted. So we&apos;re going to pass in our event object here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 645. event.preventdefault (354) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image645.png"
+  style="width:50%"
+  title="event.preventDefault()"
+  alt="event.preventDefault()." />
+</p>
 
 And down here again do **event.preventDefault.** And then we want to do
 the same thing we did before and get our variable out of their distance.
-var **distance = document.getElementByID**. And we\'re going into our
-form and up here in our form we\'re getting this distance ID here. So
-getElementByID (\'distance\').value like that. But just as we did before
+var **distance = document.getElementByID**. And we&apos;re going into our
+form and up here in our form we&apos;re getting this distance ID here. So
+getElementByID (&apos;distance&apos;).value like that. But just as we did before
 we want to put parseFloat in front of this, parseFloat, parentheses, and
 then close the parentheses at the end after value there.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 646. verify a number is entered (355) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image646.png"
+  style="width:50%"
+  title="Verify a number is entered, otherwise answer.innerHTML gives error message"
+  alt="Verify a number is entered, otherwise answer.innerHTML gives error message." />
+</p>
 
-![](./3-6-images/media/image646.png){width="5.0in"
-height="2.835978783902012in"}
-
-Also, same as before, we\'re going to stay if (distance), if that\'s
-really a number, then we\'re going to do something here, right?
-Otherwise, we\'re going to do something down here, else, and really,
-what we want is just to set that answer.InnerHTML = h2 and in there I\'m
+Also, same as before, we&apos;re going to stay if (distance), if that&apos;s
+really a number, then we&apos;re going to do something here, right?
+Otherwise, we&apos;re going to do something down here, else, and really,
+what we want is just to set that answer.InnerHTML = h2 and in there I&apos;m
 going to just say please provide a number.
 
-So that will handle the error if somebody doesn\'t put in a number. But
-in here, what we\'re going to do is this is we\'re going to check to see
-what the value of this variable **convertType** is because it\'s either
-set to miles or kilometers. Because if it\'s one, we\'re going to do one
-type of conversion, if it\'s the other, we\'re going to do another type
+So that will handle the error if somebody doesn&apos;t put in a number. But
+in here, what we&apos;re going to do is this is we&apos;re going to check to see
+what the value of this variable **convertType** is because it&apos;s either
+set to miles or kilometers. Because if it&apos;s one, we&apos;re going to do one
+type of conversion, if it&apos;s the other, we&apos;re going to do another type
 of conversion.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-09">4.09 Advanced Distance Converter Project -- Part 4 (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./3-6-images/media/image647.png){width="5.0in"
-height="2.835978783902012in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 647. if..else distance command (356) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image647.png"
+  style="width:50%"
+  title="if..else distance command"
+  alt="if..else distance command." />
+</p>
 
 Okay, so now we need to actually do the conversion here, and based on
 which value this variable has your convert type. To convert miles to
 kilometers, the ratio is 1.609344 and to convert K to M, the ratio is
 .621371192.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 648. if converttype is miles, distance = 1.609344 * kilometers (356) ~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image648.png"
+  style="width:50%"
+  title="If convertType =='miles', calculate distance as kilometers times 1.609344"
+  alt="If convertType =='miles', calculate distance as kilometers times 1.609344." />
+</p>
 
-![](./3-6-images/media/image648.png){width="5.0in"
-height="2.835978783902012in"}
-
-If(convertType == "miles"){ var converted = (distance \*
+```
+if(convertType == "miles"){ var converted = (distance &ast;
 1.609344).tofixed(3);
 
-} else { var converted = (distance \* .621371192).tofixed(3)}
+} else { var converted = (distance &ast; .621371192).tofixed(3)}
+```
 
-**answer.innerHTML** equals we\'re going to use your tick marts and
-we\'re going to say. X miles converts to y kilometers. But x is now
-going to be dollar sign curly braces, and in there I\'m going to put
+**answer.innerHTML** equals we&apos;re going to use your tick marts and
+we&apos;re going to say. X miles converts to y kilometers. But x is now
+going to be dollar sign curly braces, and in there I&apos;m going to put
 distance converts to Dollar sign curly braces, converted.
 
-There we go. And down here, it\'s going to be the same thing. Answer,
-copy that, stick that down here except instead of miles, that\'s going
-to say kilometers converts to miles. There we go, so now we\'re able to
+There we go. And down here, it&apos;s going to be the same thing. Answer,
+copy that, stick that down here except instead of miles, that&apos;s going
+to say kilometers converts to miles. There we go, so now we&apos;re able to
 convert both miles and kilometers and put the correct answer.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 649/650. test, miles to kilometers, and kilometers to miles (357) ~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image649.png"
+  style="width:45%"
+  title="Test, Miles to Kilometers"
+  alt="Test, Miles to Kilometers." />
+<img src="./images/image650.png"
+  style="width:45%"
+  title="Test, Kilometers to Miles"
+  alt="Test, Kilometers to Miles." />
+</p>
 
-![](./3-6-images/media/image649.png){width="3.5in"
-height="1.985184820647419in"}![](./3-6-images/media/image650.png){width="3.5in"
-height="1.985184820647419in"}
-
-Yet if somebody enters in something, that\'s not a number that will
-still be handled, and that should work, let\'s test it and see. Refresh
+Yet if somebody enters in something, that&apos;s not a number that will
+still be handled, and that should work, let&apos;s test it and see. Refresh
 miles to kilometers if I put in one mile that converts to 1.69
-kilometers, that\'s correct. If I press my K key kilometers to miles,
-convert and I get 0.61 miles, and that\'s correct.
-
-![](./3-6-images/media/image651.png){width="5.0in"
-height="2.835978783902012in"}
+kilometers, that&apos;s correct. If I press my K key kilometers to miles,
+convert and I get 0.61 miles, and that&apos;s correct.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 651. key press keyk or keym code (357) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image651.png"
+  style="width:50%"
+  title="Key press KeyK or KeyM code"
+  alt="Key press KeyK or KeyM code." />
+</p>
 
 We have a working distance converter for more advanced distance
 converting, that will allow us to switch between miles and kilometers.
 And over here in our script, the important thing to recognize here is
-that we\'re using a variable up here at the top **convertType**. And
-we\'re adjusting the value of that variable here based on the key
-pressed. And then, we\'re adjusting which one of these were going to be
+that we&apos;re using a variable up here at the top **convertType**. And
+we&apos;re adjusting the value of that variable here based on the key
+pressed. And then, we&apos;re adjusting which one of these were going to be
 using based on what the value of that variable is.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 652. 2nd half of js code (358) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image652.png"
+  style="width:50%"
+  title="2nd half of script, javascript code"
+  alt="2nd half of script, javascript code." />
+</p>
 
-![](./3-6-images/media/image652.png){width="5.0in"
-height="2.835978783902012in"}
-
-Now, this is where we\'re starting to get into some scope and some it\'s
-a little bit more complex because we\'re looking at a value that you
+Now, this is where we&apos;re starting to get into some scope and some it&apos;s
+a little bit more complex because we&apos;re looking at a value that you
 need to get set in this function here, and then access it in that
-function there. And we\'re doing that by defining the value up here. The
+function there. And we&apos;re doing that by defining the value up here. The
 last thing you should do with this is put it all into a script file at
 the top of and link it to the top of the page instead of having it here
 in the bottom, and use all your best practices for that.
@@ -10587,144 +10677,176 @@ in the bottom, and use all your best practices for that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-10">4.10 Advanced Distance Converter Project -- Part 5 (5:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./3-6-images/media/image653.png){width="3.5in"
-height="2.044073709536308in"}![](./3-6-images/media/image654.png){width="3.5in"
-height="2.044073709536308in"}
+<!--~~~~~~~~~~~~~~~~~ 653/654. script for advanced distance converter (359) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image653.png"
+  style="width:45%"
+  title="Lines 1 thru 24 of script"
+  alt="Lines 1 thru 24 of script." />
+<img src="./images/image654.png"
+  style="width:45%"
+  title="Lines 25 thru 51 of script"
+  alt="Lines 25 thru 51 of script." />
+</p>
 
 You may not need to watch this video right now, but because you should
-know how to do this already, but I\'m going to do it anyway. I\'m going
+know how to do this already, but I&apos;m going to do it anyway. I&apos;m going
 to create a new file here called **script.js**, and you can name the
-file whatever you want. On this file, I\'m going to add my function
-here, my function that will run automatically, function and it\'s
+file whatever you want. On this file, I&apos;m going to add my function
+here, my function that will run automatically, function and it&apos;s
 parenthesis and curly braces, and an extra set of parenthesis at the
-end. This is my automatically invoked function here. Then everything\'s
-going to go inside the curly braces, and here I\'m going to add, **"use
-strict"** that directive to make sure I don\'t have any variables being
+end. This is my automatically invoked function here. Then everything&apos;s
+going to go inside the curly braces, and here I&apos;m going to add, **"use
+strict"** that directive to make sure I don&apos;t have any variables being
 defined in the wrong place.
 
-Then I\'m going to come in here and just copy all of this script, the
+Then I&apos;m going to come in here and just copy all of this script, the
 whole thing, all the way from the top, all the way down to the bottom.
-I\'m going to paste it over here like that. Now for this one, it\'s more
+I&apos;m going to paste it over here like that. Now for this one, it&apos;s more
 important to do this then we than for the previous script, partially
-because there\'s more code going on here, but also because we actually
-have some globally defined variables here. It\'s possible that you want
+because there&apos;s more code going on here, but also because we actually
+have some globally defined variables here. It&apos;s possible that you want
 these to not get used in the wrong place down there. **AnswerDiv**. It
 should be **answerDiv**.
-
-![](./3-6-images/media/image655.png){width="5.0in"
-height="2.920106080489939in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 655. move all script code to script.js (360) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image655.png"
+  style="width:50%"
+  title="Move javascript code to script.js"
+  alt="Move javascript code to script.js." />
+</p>
 
 Over here in our file, we can get rid of this stuff, and instead, we can
 link to **SRC = script.js**.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 656. add 'defer' to script command (360) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image656.png"
+  style="width:50%"
+  title="Add script source to head of index file with 'defer' command"
+  alt="Add script source to head of index file with 'defer' command." />
+</p>
 
-![](./3-6-images/media/image656.png){width="5.0in"
-height="2.920106080489939in"}
+Now, we could move this up to the top of the file here. **defer**, there we go.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 657. change converttype from var to let (361) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image657.png"
+  style="width:50%"
+  title="Change convertType to let and remaining variables to const"
+  alt="Change convertType to let and remaining variables to const." />
+</p>
 
-Now, we could move this up to the top of the file here. **defer**, there
-we go.
+The one last thing I didn&apos;t do is I didn&apos;t come in. Now **convertType** 
+needs to be **let** because that one&apos;s going to actually change values. But 
+the following variables can be **const**; **heading, intro, answerDiv,** and **form**.
 
-![](./3-6-images/media/image657.png){width="5.0in"
-height="2.920106080489939in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 658. change var to const or let (361) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image658.png"
+  style="width:50%"
+  title="Change var to const or let"
+  alt="Change var to const or let." />
+</p>
 
-The one last thing I didn\'t do is I didn\'t come in. Now this one needs
-to be left because that one\'s going to actually change values. But this
-one can be **const**.
-
-![](./3-6-images/media/image658.png){width="5.0in"
-height="2.920106080489939in"}
-
-We have used a lot of the things that we\'ve learned about in this
+We have used a lot of the things that we&apos;ve learned about in this
 course so far, in terms of capturing some data from a form, being able
 to manipulate that data, and then change the **DOM**, change the actual
 webpage based on what the user has done, including capturing key
 presses, which is pretty neat.
 
 <ul>
-  <li><h3><a href="https://www.coursera.org/learn/javascript-basics/supplement/h9569/vacation-desitnation-project-part-1-start-files">
-    4.10 Vacation-Destination-Part1-START.zip</a></h3></li>
+  <li><h3><a href="https://www.coursera.org/learn/javascript-basics/supplement/h9569/vacation-desitnation-project-part-1-start-files"
+    target="_blank" rel="noopener noreferrer">
+    4.10 Vacation-Destination-Part1-START.zip (download)</a></h3></li>
 </ul>
-
+<!-- INTERIM END OF CONVERSION PROJECT, 15 CHAPTERS TO GO TO COMPLETION -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-11">4.11 Vacation Destination Project: HTML & CSS -- Part 1 (6:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 659. vacation destination list (4.11) (362) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image659.png"
+  style="width:40%"
+  title="4.11 Vacation Destination List - Part 1: HTML &amp; CSS"
+  alt="4.11 Vacation Destination List - Part 1: HTML &amp; CSS." />
+</p>
 
-![](./3-6-images/media/image659.png){width="4.0in"
-height="2.4427351268591426in"}
-
-Vacation destination list. For this part, we\'re going to be building
+Vacation destination list. For this part, we&apos;re going to be building
 the HTML and CSS for this vacation destination wish list app for lack of
-a better word, we\'ll call it a nap. It\'s not really an application in
-that it\'s not really that sophisticated. There\'s no database involved
-or anything like that but, we\'ll call it a nap for lack of a better
-term if you I want to think of it differently. And basically what we\'ll
-do here is we\'ll have a form and you can add Place that you want to go
+a better word, we&apos;ll call it a nap. It&apos;s not really an application in
+that it&apos;s not really that sophisticated. There&apos;s no database involved
+or anything like that but, we&apos;ll call it a nap for lack of a better
+term if you I want to think of it differently. And basically what we&apos;ll
+do here is we&apos;ll have a form and you can add Place that you want to go
 visitors see in the form, and it will add it to your wish list with the
-picture and everything. So, that\'s pretty cool and pretty fun, but
+picture and everything. So, that&apos;s pretty cool and pretty fun, but
 before we get there, we need to build up the HTML and CSS, and in
-previous projects, I\'ve given you the HTML and CSS done, but with
-JavaScript because it\'s such a relationship between JavaScript, the
+previous projects, I&apos;ve given you the HTML and CSS done, but with
+JavaScript because it&apos;s such a relationship between JavaScript, the
 HTML and CSS, the three of them together working together to create your
-interface. It\'s important to see how the HTML comes together for this
+interface. It&apos;s important to see how the HTML comes together for this
 project.
 
-It\'s not super complicated, but it\'s definitely mawr complex than the
-previous projects we\'ve done the distance, converted projects and those
+It&apos;s not super complicated, but it&apos;s definitely mawr complex than the
+previous projects we&apos;ve done the distance, converted projects and those
 kinds of things. So this is a really great capstone for the end of the
-first course, which will really bring together everything that you\'ve
-learned in this course so far. And again, we\'ve got three more courses
-to go after this, you\'ll become an expert with javascript if you keep
-going but let\'s start here. Okay, three user\'s going to add some some
+first course, which will really bring together everything that you&apos;ve
+learned in this course so far. And again, we&apos;ve got three more courses
+to go after this, you&apos;ll become an expert with javascript if you keep
+going but let&apos;s start here. Okay, three user&apos;s going to add some some
 information to the page here and including a u R l for picture but if
 no, you are l for pictures provided it will put a generic image in there
-for them. And if we go over and look at the files that we\'ve got the
-start files that you\'re going to start with, you\'ll notice that we
-have some images in here and I have a sign post JPEG that\'s going to be
+for them. And if we go over and look at the files that we&apos;ve got the
+start files that you&apos;re going to start with, you&apos;ll notice that we
+have some images in here and I have a sign post JPEG that&apos;s going to be
 used as a default image there.
 
 If an image is not provided by the user when they add their item to the
-list. Other than that, the page is fairly simple we\'ve got a link to
+list. Other than that, the page is fairly simple we&apos;ve got a link to
 the normalize CSS script, which all that does is make sure that
 different browsers render pretty much the same way. Sort of normalizes
 the differences between different browsers in the way they render things
-so that you don\'t end up with a different looking page in a different
-browser. And usually it\'s just minor things, like different spacing and
-stuff like that but, that could be frustrating if you\'re a designer and
-you\'re you want it to look a certain way and and it and it changes up.
+so that you don&apos;t end up with a different looking page in a different
+browser. And usually it&apos;s just minor things, like different spacing and
+stuff like that but, that could be frustrating if you&apos;re a designer and
+you&apos;re you want it to look a certain way and and it and it changes up.
 
-Plus, we have linked a style sheet, which is currently empty, and we\'ll
+Plus, we have linked a style sheet, which is currently empty, and we&apos;ll
 be adding some styles in there and then on a body of our page. We have
 linked a JavaScript file, which is also empty, and in part two will
-actually be building the JavaScript for this project. So that\'s where
-we are, let\'s see where we need to go first to get this thing started,
+actually be building the JavaScript for this project. So that&apos;s where
+we are, let&apos;s see where we need to go first to get this thing started,
 the first thing we need to do is add a header element which will open
-and close, and inside the header element, I\'m going to add an H one
-heading and a paragraph, and I\'m going to paste them in here but
-you\'re going to have to type these.
+and close, and inside the header element, I&apos;m going to add an H one
+heading and a paragraph, and I&apos;m going to paste them in here but
+you&apos;re going to have to type these.
 
-So the H one vacation destinations with wish list that\'s going to be
+So the H one vacation destinations with wish list that&apos;s going to be
 our main. Each one for the page should have Your Web pages should have a
 main heading. If it all possible, that Google will search an index and
-that kind of stuff, and then I\'ve gotta follow a paragraph found
-exciting places to, to visit on your next vacation. It\'s my English
+that kind of stuff, and then I&apos;ve gotta follow a paragraph found
+exciting places to, to visit on your next vacation. It&apos;s my English
 there places to visit on your next vacation. Use the form below to add
 them to your wish list probably should put a period at the end of that
-paragraph two. So there we go, so we\'ve got kind of, place to start
+paragraph two. So there we go, so we&apos;ve got kind of, place to start
 here and a little bit of language to get us going.
 
 Once you have that done after the header, how the main element. And
-inside the main element, we\'re going to add a form just going to open
-and close, and then inside the form, we\'re going to add a button which
-is a can open and close. The form needs an ID and the idea that I\'m
+inside the main element, we&apos;re going to add a form just going to open
+and close, and then inside the form, we&apos;re going to add a button which
+is a can open and close. The form needs an ID and the idea that I&apos;m
 going to use and you can use something different if you want, but
-because this one\'s a little bit long, but, but it\'s kind of
-descriptive for me, so I\'m going to use this I\'d destination
+because this one&apos;s a little bit long, but, but it&apos;s kind of
+descriptive for me, so I&apos;m going to use this I&apos;d destination
 underscore details or no spaces. Destination details for and then the
 button is going to get a type, attributes type equals quotes a bit. Here
 we go. And then we need to add some text to the button, which is going
 to be add to list something like that had to wish list something like
 that. That could be the text that shows up on the button here, okay,
-great. We\'ll stop here, and we will pick this up in the next video.
+great. We&apos;ll stop here, and we will pick this up in the next video.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-12">4.12 Vacation Destination Project: HTML & CSS -- Part 2 (7:33)</h2>
@@ -10733,30 +10855,30 @@ great. We\'ll stop here, and we will pick this up in the next video.
 ![](./3-6-images/media/image660.png){width="5.0in"
 height="3.053418635170604in"}
 
-Next, we\'ll add two fields. One is going to hold the name of the
+Next, we&apos;ll add two fields. One is going to hold the name of the
 destination and the other is going to hold the location of the
 destination. Each of these fields needs a label element, destination
 name and that takes a for attribute for name. That for attribute
 connects to the id of the input that goes with it. Input type equals
 text, id equals name, and then also we want to make sure that users use
-this, so I\'m just going to put required.
+this, so I&apos;m just going to put required.
 
 Now your browser has to support this for this to actually work, but
-rather than built-in some form validation, which we\'re going to do in
-the next course. We\'ll talk more about form validation. But here we\'ll
-just use the built-in browser form validation, which isn\'t perfect, but
-it\'ll help. Now we\'ve got a field here that is required that has an id
-that\'s going to match the for attribute, and it\'s typed text. Great.
-Then we\'re going to need another one, label for location. Maybe I\'ll
+rather than built-in some form validation, which we&apos;re going to do in
+the next course. We&apos;ll talk more about form validation. But here we&apos;ll
+just use the built-in browser form validation, which isn&apos;t perfect, but
+it&apos;ll help. Now we&apos;ve got a field here that is required that has an id
+that&apos;s going to match the for attribute, and it&apos;s typed text. Great.
+Then we&apos;re going to need another one, label for location. Maybe I&apos;ll
 do destination location something like that and then of course we need
 the input for that, input type equals text, id equals location, and
 required just like before.
 
-There we go, so we\'ve got those two fields in place. From there we\'re
+There we go, so we&apos;ve got those two fields in place. From there we&apos;re
 going to add a couple more fields, I think. Yes, we want two more
-fields. One for the photo, so I\'m going to have a label for photo. This
-one is going to be an input type equals URL because we\'re going to
-paste in a URL here for a photo that\'s already online rather than
+fields. One for the photo, so I&apos;m going to have a label for photo. This
+one is going to be an input type equals URL because we&apos;re going to
+paste in a URL here for a photo that&apos;s already online rather than
 upload a photo or anything like that, that would be much more
 complicated.
 
@@ -10775,23 +10897,23 @@ for the destination, 10 year will do a placeholder. Where is this
 destination located, for the photo we can do on there as well. Provide a
 URL for a photo and for the description, or maybe describe the
 destination, and it gives us few things to look for, few directions for
-our user, which is helpful. Great, so we\'ve got that, we can save that,
-and we\'re ready to add the element that\'s going to take the results we
+our user, which is helpful. Great, so we&apos;ve got that, we can save that,
+and we&apos;re ready to add the element that&apos;s going to take the results we
 put in there. That will be an article after the format an article, and
-then we\'re going to add an h2 with an id set to title. Initially, this
-h2 is going to have a value set to enter destination details. That\'s
+then we&apos;re going to add an h2 with an id set to title. Initially, this
+h2 is going to have a value set to enter destination details. That&apos;s
 giving us some instructions there.
 
-Then after that, we\'re going to have just a div that\'s going to be a
-container for this thing, and it\'s going to get an id destinations
+Then after that, we&apos;re going to have just a div that&apos;s going to be a
+container for this thing, and it&apos;s going to get an id destinations
 container like so. This div is really going to have in it the content
-generated by JS. That\'s going to get the content that JavaScript is
+generated by JS. That&apos;s going to get the content that JavaScript is
 going to actually generate is going to go inside this container. I
 believe that pretty much finishes the HTML that we need for now.
-That\'ll pretty much finish the software for all the HTML we need. Save
-the file and then let\'s just go take a quick look at it over here. If I
-refresh this, you\'ll see it doesn\'t look like much, doesn\'t look very
-good. We don\'t have any styling in here yet, so we\'ll do the styling
+That&apos;ll pretty much finish the software for all the HTML we need. Save
+the file and then let&apos;s just go take a quick look at it over here. If I
+refresh this, you&apos;ll see it doesn&apos;t look like much, doesn&apos;t look very
+good. We don&apos;t have any styling in here yet, so we&apos;ll do the styling
 next.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10801,7 +10923,7 @@ next.
 ![](./3-6-images/media/image661.png){width="4.0in"
 height="2.4427351268591426in"}
 
-We have the HTML in place, and now we\'re ready to start styling the
+We have the HTML in place, and now we&apos;re ready to start styling the
 page and making it look a little bit better. We have the normalized
 script up at the top of the page, which will help smooth out the
 differences between different browsers But beyond that, personally, I
@@ -10810,53 +10932,53 @@ and then add them back the way I want them in order to get them to work.
 I have here a few reset CSS things that are helpful in general. This is
 just my own personal preference. You could leave these out if you wanted
 to but generally, I think they help with zeroing out some of the base
-styles that most browsers displayed by default. I\'m going to go ahead
+styles that most browsers displayed by default. I&apos;m going to go ahead
 and add these in.
 
-Over here I\'m going to add on my style sheet here a rule for h1, h2,
-h3, h4, ul, li and paragraphs. I don\'t know what\'s going on with that.
-I\'m putting this in the script page, styles h1, h2, h3, h4, ul, li, and
+Over here I&apos;m going to add on my style sheet here a rule for h1, h2,
+h3, h4, ul, li and paragraphs. I don&apos;t know what&apos;s going on with that.
+I&apos;m putting this in the script page, styles h1, h2, h3, h4, ul, li, and
 paragraphs. Margin 0, padding 0. That just gets rid of the margin and
-padding the zones. It\'s also helpful to say img max-width 100 percent.
-I think that\'s helpful to make sure images don\'t bust out of their
-containers. If you put an image in for URL that\'s too big to fit in the
-container, it will overflow it. We don\'t want that to happen. We\'ll
+padding the zones. It&apos;s also helpful to say img max-width 100 percent.
+I think that&apos;s helpful to make sure images don&apos;t bust out of their
+containers. If you put an image in for URL that&apos;s too big to fit in the
+container, it will overflow it. We don&apos;t want that to happen. We&apos;ll
 set that as well, and then I also have over here just some styles for
-the body. I\'m going to set the font to Arial. Arial is the font that
-most computers have so they work pretty well. I\'m going to set the
-color of the text to dark gray in this basic rule here. Let\'s just add
-that really quickly as well. I\'m going to have body, font-family, Arial
-and color 333. Already you\'ll see that the page is starting to come
+the body. I&apos;m going to set the font to Arial. Arial is the font that
+most computers have so they work pretty well. I&apos;m going to set the
+color of the text to dark gray in this basic rule here. Let&apos;s just add
+that really quickly as well. I&apos;m going to have body, font-family, Arial
+and color 333. Already you&apos;ll see that the page is starting to come
 together a little bit with some of that styling. There we go. Notice
-that we\'ve lost a bunch of the margin and padding on those things.
+that we&apos;ve lost a bunch of the margin and padding on those things.
 
-Next we\'re going to style up the header and the main content to get
-them to look the way we want them to look. Header, I\'m going to set the
+Next we&apos;re going to style up the header and the main content to get
+them to look the way we want them to look. Header, I&apos;m going to set the
 padding background color, text align center, the color of the text in
-there, and then the margin on the bottom. Let\'s go ahead and do that.
-Header, padding, 50 px, background color. I\'m using this cornflower
-blue. We\'re setting the color of the text to white. Text-align, center.
+there, and then the margin on the bottom. Let&apos;s go ahead and do that.
+Header, padding, 50 px, background color. I&apos;m using this cornflower
+blue. We&apos;re setting the color of the text to white. Text-align, center.
 I put the margin, bottom 20 px, and anything else that I did over here.
 
-That\'s all good. All right. Good. Then for main, we\'re going to have a
+That&apos;s all good. All right. Good. Then for main, we&apos;re going to have a
 max-width of 800 pixels, padding 20 pixels, margin auto that will center
 it on the page, display flex, that will make the two items in there sit
-next to each other and justify-content space-between, and then we\'ll
+next to each other and justify-content space-between, and then we&apos;ll
 set percentage width or a specific width for those two items that are
-going to sit next to each other on the page there. Let\'s go ahead and
-add that in. Main, max-width, 800px. It\'s a narrow page, but that\'s
-okay for what we\'re doing. Display, flex. That turns it into a flexbox
+going to sit next to each other on the page there. Let&apos;s go ahead and
+add that in. Main, max-width, 800px. It&apos;s a narrow page, but that&apos;s
+okay for what we&apos;re doing. Display, flex. That turns it into a flexbox
 and, I did some stuff with margin and padding. What did I do here?
-Padding 20 pixels margin auto. That above there. Actually it doesn\'t
+Padding 20 pixels margin auto. That above there. Actually it doesn&apos;t
 really matter. Padding 20 px, margin auto. There we go. Then with
 display flex we do justify-content, space-between which will put a gap
 between those two items.
 
 The two items that are going to go next to each other are the form on
 the left, and then this article on the right, those become flex items.
-They\'re going to go to sit next to each other in our design. Just like
-that and even with just those two rules, you\'ll see it\'s starting to
-come together a little bit there. Not very much yet, but it\'s starting
+They&apos;re going to go to sit next to each other in our design. Just like
+that and even with just those two rules, you&apos;ll see it&apos;s starting to
+come together a little bit there. Not very much yet, but it&apos;s starting
 to come together. Okay. Great. Well pick up the styling in the next
 video.
 
@@ -10867,60 +10989,60 @@ video.
 ![](./3-6-images/media/image662.png){width="4.0in"
 height="2.4427351268591426in"}
 
-Next, we\'re going to set the width of the form and the article
-respectively. We\'ll add some margin back in the bottom of these
+Next, we&apos;re going to set the width of the form and the article
+respectively. We&apos;ll add some margin back in the bottom of these
 elements so they start to look a little bit better and then the title is
-going to get text-align to the center. We\'ll be able to do all of that
-here. Let\'s go ahead and add that into our style sheet here. Main.form
+going to get text-align to the center. We&apos;ll be able to do all of that
+here. Let&apos;s go ahead and add that into our style sheet here. Main.form
 will target the form itself width 40 percent. Setting it up a little bit
 to be responsive but not entirely. Main article is going to be width 45
 percent. That adds up to 85 percent, which means that 15 percent will be
 left to be the gap between those two to create a little bit of a gutter
-between these two columns here. We\'ve got that in, and then we can just
+between these two columns here. We&apos;ve got that in, and then we can just
 put the margin in the bottom of these elements, h1, h2, h3, h4, we have
 all those, we might margin-bottom 1em.
 
 You might be wondering, well, it seems silly to tick the margin out up
-above and then put it back in down below. But I\'ve found that I get a
+above and then put it back in down below. But I&apos;ve found that I get a
 lot more control over the look of my pages and the visual spacing
 between things. If these elements only have margin on the bottom and not
 margin on top and bottom, which is what they get by default in most
-browsers. If save that and check it over here, you can see it\'s
+browsers. If save that and check it over here, you can see it&apos;s
 starting to come together a little bit more. But the last thing I was
-going to do is center that title over there. We\'ve got #titled
+going to do is center that title over there. We&apos;ve got #titled
 text-align center. There we go.
 
-Let\'s see what else we need to do for styling. Got that going so that
-is centered over there now it\'s great. Now, we\'re just going to do a
+Let&apos;s see what else we need to do for styling. Got that going so that
+is centered over there now it&apos;s great. Now, we&apos;re just going to do a
 little bit with forms. With forms, you can spend a lot of time designing
-forms and styling them. We\'re just going to do a little bit right now.
+forms and styling them. We&apos;re just going to do a little bit right now.
 What you should notice to begin with is that by default, form elements
-are inline or phrasing elements and we\'ll go next to each other and we
-don\'t really like that. We wanted to stack. If you set them to display
-block and then work with them, they\'re a little bit easier to work
+are inline or phrasing elements and we&apos;ll go next to each other and we
+don&apos;t really like that. We wanted to stack. If you set them to display
+block and then work with them, they&apos;re a little bit easier to work
 with.
 
-Let\'s go ahead and add these rules in here. For the label, we\'re going
+Let&apos;s go ahead and add these rules in here. For the label, we&apos;re going
 to tell that to display block and put a little bit of margin on the
-bottom margin-bottom, 1em is fine. That\'s cool. That\'ll work. Then for
-the other thing we\'ve got input, we\'ve got the text area, and we\'ve
+bottom margin-bottom, 1em is fine. That&apos;s cool. That&apos;ll work. Then for
+the other thing we&apos;ve got input, we&apos;ve got the text area, and we&apos;ve
 got this form. Put it a half over here. I called it, which is the
 destination details form button. This is just the button inside the form
-and I\'m being specific because we might end up with another button
-leader, #destinaton_details_form button. That\'s specific button that\'s
-in over here, so that\'s this form, destination_details_form, and then
+and I&apos;m being specific because we might end up with another button
+leader, #destinaton_details_form button. That&apos;s specific button that&apos;s
+in over here, so that&apos;s this form, destination_details_form, and then
 this button down here and put an ID on it. Being specific there and what
 we want to set is just display block width 100 percent margin-bottom 1em
 and put a little border on it with a sort of medium gray and some
 padding and box-sizing border-box.
 
-Let\'s do that. Display block that will make each one ticket its own
+Let&apos;s do that. Display block that will make each one ticket its own
 line. What was it again now? Width 100 percent margin-bottom 1em. We get
 that. Border 1px solid 666, padding 10px, box-sizing border-box. With
 box-sizing border-box, does is it makes the padding and border part of
 the width of the element? Remember, we set the width to 45 percent so we
-don\'t want to extend beyond that size there. Cool. Let\'s take a look
-and see what that looks like over here. That\'s looking much better,
+don&apos;t want to extend beyond that size there. Cool. Let&apos;s take a look
+and see what that looks like over here. That&apos;s looking much better,
 much cleaner. We will finish up the HTML in the next video. I mean the
 styling in the next video.
 
@@ -10931,46 +11053,46 @@ styling in the next video.
 ![](./3-6-images/media/image663.png){width="4.0in"
 height="2.4427351268591426in"}
 
-We\'re going to add cards dynamically using JavaScript, but we want to
-know what they\'re going to look like. The best way to do this is to add
+We&apos;re going to add cards dynamically using JavaScript, but we want to
+know what they&apos;re going to look like. The best way to do this is to add
 one manually, add a card that would get added by JavaScript with all the
-correct HTML, style that so we know that what it\'s supposed to look
-like, and then remove that card. That\'s what we\'ll do next. We\'re
+correct HTML, style that so we know that what it&apos;s supposed to look
+like, and then remove that card. That&apos;s what we&apos;ll do next. We&apos;re
 going to start by going back and adding just a little bit more HTML. We
 need a div with a class of card and an image with the signpost, and then
-in there we\'re going to have the card body with an H3 and H4 and a
+in there we&apos;re going to have the card body with an H3 and H4 and a
 paragraph in button. We do have another button here.
 
-Let\'s go in and add this into our HTML over here. It\'s going to go
-down here inside this generated content by JavaScript here we\'re going
-to do div class equals card. This has to be a class because we\'re going
-to have multiple cards. We\'d have multiple cards on the page, so you
-can only use an id once. That has to be a class. Then let\'s add an
+Let&apos;s go in and add this into our HTML over here. It&apos;s going to go
+down here inside this generated content by JavaScript here we&apos;re going
+to do div class equals card. This has to be a class because we&apos;re going
+to have multiple cards. We&apos;d have multiple cards on the page, so you
+can only use an id once. That has to be a class. Then let&apos;s add an
 image.
 
-Images/signpost. I\'m not going to put in all tag on it at the moment.
-We\'ve got that image and then we\'ve got the card body coming next.
-Div, class, card-body. I don\'t know why that is slightly misaligned.
-No, it\'s right. Maybe it\'s this one, it\'s slightly misaligned. Here
-we go. Div class card-body. Then inside the card body we\'re going to
-add h3 destination name. Then we\'ll do a h4 destination location. Then
-we\'re to add a Paragraph p with a class set to card-text, destination
-description. Then we\'re going to add a button that will allow you to
-remove the card if you need to. We\'ll have a feature that will allow
-you to take a card off, so we\'ll add that button in there. I believe
-that\'s what we need for the HTML. Let\'s take a look over here. Yeah,
+Images/signpost. I&apos;m not going to put in all tag on it at the moment.
+We&apos;ve got that image and then we&apos;ve got the card body coming next.
+Div, class, card-body. I don&apos;t know why that is slightly misaligned.
+No, it&apos;s right. Maybe it&apos;s this one, it&apos;s slightly misaligned. Here
+we go. Div class card-body. Then inside the card body we&apos;re going to
+add h3 destination name. Then we&apos;ll do a h4 destination location. Then
+we&apos;re to add a Paragraph p with a class set to card-text, destination
+description. Then we&apos;re going to add a button that will allow you to
+remove the card if you need to. We&apos;ll have a feature that will allow
+you to take a card off, so we&apos;ll add that button in there. I believe
+that&apos;s what we need for the HTML. Let&apos;s take a look over here. Yeah,
 there we go. Great.
 
-So we\'ve got all of the HTML for that card in. It won\'t look
-particularly good. Let\'s see what it looks like. Doesn\'t look
+So we&apos;ve got all of the HTML for that card in. It won&apos;t look
+particularly good. Let&apos;s see what it looks like. Doesn&apos;t look
 terrible, but it looks okay, but we might want to do a little bit more
-with it. Actually, it\'s fine for now. We\'ll leave it the way it is.
-We\'ve got our basic card in there. Although I do have a background
-color in there, don\'t I? Let\'s have that. Instead. One last rule down
-here. For the card. I\'m going to just give it a little bit of padding,
+with it. Actually, it&apos;s fine for now. We&apos;ll leave it the way it is.
+We&apos;ve got our basic card in there. Although I do have a background
+color in there, don&apos;t I? Let&apos;s have that. Instead. One last rule down
+here. For the card. I&apos;m going to just give it a little bit of padding,
 set a background color, and set some margin on the bottom and that
-should look good. Let\'s take a look and see how that goes. There we go.
-Now we\'ve got a card that\'s looking good. Ultimately, these are going
+should look good. Let&apos;s take a look and see how that goes. There we go.
+Now we&apos;ve got a card that&apos;s looking good. Ultimately, these are going
 to be put in through JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10980,66 +11102,67 @@ to be put in through JavaScript.
 ![](./3-6-images/media/image664.png){width="4.0in"
 height="2.4427351268591426in"}
 
-The HTML and CSS is in place now. And now that we\'ve got that in place,
+The HTML and CSS is in place now. And now that we&apos;ve got that in place,
 we can start thinking about how this little application is going to
-work. Essentially, user\'s going to type in a name and a location, and
+work. Essentially, user&apos;s going to type in a name and a location, and
 provide a URL for a photo and a little bit of a description here. And
 then that will get added, that card will get added to the list over
-here. Let\'s take a look at a little bit of a flow chart to sort of see
-how this is going to work and how we\'re going to kind of make that all
+here. Let&apos;s take a look at a little bit of a flow chart to sort of see
+how this is going to work and how we&apos;re going to kind of make that all
 work out here. So over here on the right side of this page, you see we
-have a little program here that when it starts, we\'re going to, when
-somebody fills out that form, we\'re going to prevent the default form
-submission. We\'re going to get the value from that destination name,
+have a little program here that when it starts, we&apos;re going to, when
+somebody fills out that form, we&apos;re going to prevent the default form
+submission. We&apos;re going to get the value from that destination name,
 the location field, the photo field, the description field. And then
-we\'re going to clear out the fields in the form, create a card, create
+we&apos;re going to clear out the fields in the form, create a card, create
 that HTML, and check to see, is the destination list empty? If it is,
-then we\'re going to change the title on the destination list up at the
-top. If it isn\'t, then we\'ll just upend the card to the container. In
-either case, we\'ll upend the card to the container, and we\'ll be able
+then we&apos;re going to change the title on the destination list up at the
+top. If it isn&apos;t, then we&apos;ll just upend the card to the container. In
+either case, we&apos;ll upend the card to the container, and we&apos;ll be able
 to move on from there, okay?
 
-So that\'s going to be the basic strategy for how we add stuff to the
+So that&apos;s going to be the basic strategy for how we add stuff to the
 page. So the first time we had something to the page, this title is
-going to get changed, but otherwise it\'s not. So that\'s the only thing
-that\'s kind of going on there that\'s interesting. These are going to
-be your little helper functions, clear out the fields, and then we\'re
-going to have a helper function that\'s going to create the actual card.
+going to get changed, but otherwise it&apos;s not. So that&apos;s the only thing
+that&apos;s kind of going on there that&apos;s interesting. These are going to
+be your little helper functions, clear out the fields, and then we&apos;re
+going to have a helper function that&apos;s going to create the actual card.
 So those are the next functions we need to look at here.
 
-The creating the card looks like a really long function, but it\'s very
-sequential. And basically we\'re just going to create a div and set the
+The creating the card looks like a really long function, but it&apos;s very
+sequential. And basically we&apos;re just going to create a div and set the
 class to card, create an image tag, set the alt attribute on the image
-tag. And then if the photo\'s provided, we\'re going to set that source
-to whatever the URL is. If it isn\'t, well, we\'ll use the default photo
+tag. And then if the photo&apos;s provided, we&apos;re going to set that source
+to whatever the URL is. If it isn&apos;t, well, we&apos;ll use the default photo
 and then assign that to the image element on the DOM that we just
-created. And then we\'ll create a div element. So basically, we\'re
+created. And then we&apos;ll create a div element. So basically, we&apos;re
 creating the elements manually or having JavaScript create them, to
-create these elements here. We\'re creating all of this HTML here.
+create these elements here. We&apos;re creating all of this HTML here.
 
-For each card, we\'re going to create that information, and then we\'re
-going to stick it on the card, and that\'s what\'s going on here. And
-you\'ll notice down here we\'ve got another helper function here for
+For each card, we&apos;re going to create that information, and then we&apos;re
+going to stick it on the card, and that&apos;s what&apos;s going on here. And
+you&apos;ll notice down here we&apos;ve got another helper function here for
 deleting the card. So if somebody clicks that remove button, then we
-need to be able to handle that as well. So let\'s take a look at that
-really quickly. So we\'ve got a function here for going through the form
-fields and emptying out the form fields. And then we\'ve got a little
+need to be able to handle that as well. So let&apos;s take a look at that
+really quickly. So we&apos;ve got a function here for going through the form
+fields and emptying out the form fields. And then we&apos;ve got a little
 function here for deleting the card if we want to delete the card. So
-we\'ve got a number of pieces here to write in our JavaScript to create
+we&apos;ve got a number of pieces here to write in our JavaScript to create
 this little application, this little functionality for this destination
-list. And that\'s it for part one. We\'ve created the interface that
-we\'re going to be using. And you may be wondering why we spent all this
-time in HTML and CSS. But it\'s really important to understand how the
+list. And that&apos;s it for part one. We&apos;ve created the interface that
+we&apos;re going to be using. And you may be wondering why we spent all this
+time in HTML and CSS. But it&apos;s really important to understand how the
 HTML and the CSS interact with the JavaScript, because all three come
 together to make the full interface and to make all the functionality
-work. So I think it\'s worth taking the time to build the HTML and the
-CSS for this project. So you understand what\'s going on and how the
+work. So I think it&apos;s worth taking the time to build the HTML and the
+CSS for this project. So you understand what&apos;s going on and how the
 JavaScript is going to manipulate that HTML and CSS in the end to make
 the final product.
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files">
-    4.16 Vacation-Destination-Project-Part2-START-Files.zip</a></li>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files"
+    target="_blank" rel="noopener noreferrer">
+    4.16 Vacation-Destination-Project-Part2-START-Files.zip (download)</a></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11054,66 +11177,66 @@ Vacation Destination List, part two.
 ![](./3-6-images/media/image666.png){width="4.0in"
 height="2.4427351268591426in"}
 
-This part we will add the JavaScript and I\'m picking up exactly where I
+This part we will add the JavaScript and I&apos;m picking up exactly where I
 left off after part one. In part one, you created the HTML and the CSS,
-and you should have a page that looks like this. If you don\'t, please
+and you should have a page that looks like this. If you don&apos;t, please
 go back and make sure you go through everything to make sure that you
-get a page that looks like this before you start and you\'ve got all the
-elements in there correctly, everything spelled right. Okay, now we\'ll
+get a page that looks like this before you start and you&apos;ve got all the
+elements in there correctly, everything spelled right. Okay, now we&apos;ll
 write the JavaScript we need to make this little application work. To
-start with, let\'s grab the actual destination details form and put that
-into a variable called details form and then we\'ll have a event
+start with, let&apos;s grab the actual destination details form and put that
+into a variable called details form and then we&apos;ll have a event
 listener for when that form is submitted and instead of running an
-anonymous function we\'re actually going to run a name function called
-handleFormSubmit and then we\'ll start writing the beginning of that
+anonymous function we&apos;re actually going to run a name function called
+handleFormSubmit and then we&apos;ll start writing the beginning of that
 function.
 
-Let\'s get started with this right off the bat. Over here, I\'m going to
-open up my script file and add a variable var destination. No. I\'m
-sorry, that\'s wrong. I\'m going to do a details form equals
-document.querySelector and then I\'m going to go get this pound details,
+Let&apos;s get started with this right off the bat. Over here, I&apos;m going to
+open up my script file and add a variable var destination. No. I&apos;m
+sorry, that&apos;s wrong. I&apos;m going to do a details form equals
+document.querySelector and then I&apos;m going to go get this pound details,
 you know this one is destination form details I think. Just check that
 really quickly here. Get this form here, destination. In fact if you
-want to be absolutely certain you spelled everything right it\'s always
+want to be absolutely certain you spelled everything right it&apos;s always
 a good idea, especially these long names to copy and paste that. Note
-that I\'m using a pound sign here because I\'m using querySelector, you
-could also use getElementByID but that\'ll get that form and put it in
-here. And that\'s great.
+that I&apos;m using a pound sign here because I&apos;m using querySelector, you
+could also use getElementByID but that&apos;ll get that form and put it in
+here. And that&apos;s great.
 
-Now we can do an \[inaudible\] for details form.
-Detailsform.addEventListener and we\'re going to look for submit event.
-And then instead of just doing function like we\'ve done in the past,
-I\'m actually going to have a named function here called, what did I
-call it over here? I called it handleFormSubmit. That\'s going to be a
+Now we can do an &lbrack;inaudible&rbrack; for details form.
+Detailsform.addEventListener and we&apos;re going to look for submit event.
+And then instead of just doing function like we&apos;ve done in the past,
+I&apos;m actually going to have a named function here called, what did I
+call it over here? I called it handleFormSubmit. That&apos;s going to be a
 function that runs when this form is submitted. Now I need to define
-that function, function handleFormSubmit. And this function we\'re going
+that function, function handleFormSubmit. And this function we&apos;re going
 pass in the event object and do event.preventDefault, there we go.
-That\'ll prevent the default submission of the form. You might wonder
-why at this point I\'ve opted to create a named function here as opposed
+That&apos;ll prevent the default submission of the form. You might wonder
+why at this point I&apos;ve opted to create a named function here as opposed
 to just the inline function.
 
-And it could be an inline function, there\'s no reason why it couldn\'t
+And it could be an inline function, there&apos;s no reason why it couldn&apos;t
 but this function is actually going to do quite a number of things.
-It\'s going to be a longer function. I think it makes sense, I think
-it\'s a little bit easier to read in the long run if this is a separate
-function, since it\'s going to be a little bit longer. And that\'s just
+It&apos;s going to be a longer function. I think it makes sense, I think
+it&apos;s a little bit easier to read in the long run if this is a separate
+function, since it&apos;s going to be a little bit longer. And that&apos;s just
 my own personal choice and my own style, you could certainly use an
 anonymous function here and not have a named handleFormSubmit function
-for this particular project, right? That\'s what I like because what
-we\'re going to do here if we go back and look at this is, this is going
-to extract out the value from each form field. We\'re going to clear out
-all the form fields. When you\'ve filled in the form and submitted it,
-you need to clear out these form fields so that you\'re ready to make
-another card and then we\'re going to run a function that creates the
+for this particular project, right? That&apos;s what I like because what
+we&apos;re going to do here if we go back and look at this is, this is going
+to extract out the value from each form field. We&apos;re going to clear out
+all the form fields. When you&apos;ve filled in the form and submitted it,
+you need to clear out these form fields so that you&apos;re ready to make
+another card and then we&apos;re going to run a function that creates the
 new card.
 
-And then if needed, meaning there\'s not already a card over on the
+And then if needed, meaning there&apos;s not already a card over on the
 right-hand side of the interface we need to change the header at the top
 of that destination list and then actually add the card. And you can go
 back to the flowchart from the previous version of this from part one
-and actually see how that\'s going to all come together in the flowchart
+and actually see how that&apos;s going to all come together in the flowchart
 there. Yeah, we start with event.preventDefault to keep the normal
-submission of the form from happening but then we\'re going to do all of
+submission of the form from happening but then we&apos;re going to do all of
 these things.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11127,42 +11250,42 @@ The first thing on our list of tasks to do, is to get the values out of
 the fields from the form. And, to do that, we can create a variable for
 each of the four form fields. The name, the location, the photo and the
 description. And then go and get the value out of those from the actual
-form. And you\'ll remember over here when we created this form, in the
+form. And you&apos;ll remember over here when we created this form, in the
 HTML, we made it such that these fields were required.
 
-So if you try to click add list without filling in anything, it\'s not
-going to do anything because of that required thing. At least if you\'re
+So if you try to click add list without filling in anything, it&apos;s not
+going to do anything because of that required thing. At least if you&apos;re
 using chrome or modern browser. And we can get more into form validation
 and making sure you get good data into forms in the second course in the
 specialization. But, for right now, we just want to do something quick
-and simple, and we\'ve got enough there to sort of keep it from it least
-being empty, even though we\'re not doing very much for that. And what
-we\'re going to use here is we\'re going to use event. The event target
+and simple, and we&apos;ve got enough there to sort of keep it from it least
+being empty, even though we&apos;re not doing very much for that. And what
+we&apos;re going to use here is we&apos;re going to use event. The event target
 will be the form submission, right.
 
-Because that\'s the event target or the form itself. And then we can get
+Because that&apos;s the event target or the form itself. And then we can get
 the elements property, and pull out each one of these elements out of
 the form and its value and put them into a variable here. The dot
 elements refers specifically to form elements, and you could come over
 to the MGM and look at HTML form elements dot elements, and find out
 more about what this is. But it will get you a specific set of elements
-specifically from forms. And so, it\'s kind of a helpful little,
+specifically from forms. And so, it&apos;s kind of a helpful little,
 property here, that we can use to get specific elements out of out of a
-form and get that data. So let\'s go ahead and put that onto our script.
-So over here, I\'m going to do for desk to nation. Name equals events.
+form and get that data. So let&apos;s go ahead and put that onto our script.
+So over here, I&apos;m going to do for desk to nation. Name equals events.
 Target the elements, square bracket because which element to my going to
 get name.
 
-That\'ll get me the first one. Now I could just copy this and paste it
+That&apos;ll get me the first one. Now I could just copy this and paste it
 destination location. If I could select this, Destination location is
-going to be the location field, And then I\'m going to paste again.
+going to be the location field, And then I&apos;m going to paste again.
 Destination photo Is going to be the photo field and then paste one more
-time. And then we\'ve got destination description, Which is going to be
+time. And then we&apos;ve got destination description, Which is going to be
 the description field. Actually, in a short this down, truth is down.
-Yes, see? And then, don\'t forget I forgot this already. We need to get
+Yes, see? And then, don&apos;t forget I forgot this already. We need to get
 the value, so we need to add value to each of these. Okay, on this one
-here, too, should have done that initially. But there we go. That\'s
-going to do the first part that\'s going to go in and into our form when
+here, too, should have done that initially. But there we go. That&apos;s
+going to do the first part that&apos;s going to go in and into our form when
 it submitted and get the values out of those fields that somebody typed
 in, and put them into these variables here.
 
@@ -11173,66 +11296,66 @@ in, and put them into these variables here.
 ![](./3-6-images/media/image668.png){width="4.0in"
 height="2.4559831583552056in"}
 
-The next thing we need to do in our list of things to do once we\'ve
+The next thing we need to do in our list of things to do once we&apos;ve
 captured the values from the form is to remove them till the form is
 ready for a new thing.
 
 ![](./3-6-images/media/image669.png){width="5.0in"
 height="3.0699781277340334in"}
 
-I\'m just going to use a for loop here to loop through the elements of
-the form, and set the value back to empty. Down here you can see I\'ve
-got just \"\", I\'m setting it back to empty. Let\'s go ahead and add
-this as the next thing that this function needs to do here. For, here\'s
-my for loop. For, and I\'m going to have just a counter variable, var i
+I&apos;m just going to use a for loop here to loop through the elements of
+the form, and set the value back to empty. Down here you can see I&apos;ve
+got just &quot;&quot;, I&apos;m setting it back to empty. Let&apos;s go ahead and add
+this as the next thing that this function needs to do here. For, here&apos;s
+my for loop. For, and I&apos;m going to have just a counter variable, var i
 equals zero, while i is less than detailsForm.length; i++, there we go.
 That loop is going to go through detailsForm.
 
 Remember, detailsForm is going to get everything inside of detailsForm
 there. Then what I can do in here is I can very easily say,
-detailsForm.elements. square bracket i.value equals \'\'\'\'. We\'re
+detailsForm.elements. square bracket i.value equals &apos;&apos;&apos;&apos;. We&apos;re
 going to go through the detailsForm. I starts at zero, and the first
-time through the form, it\'s going to say, \"Get Element 0 from that
-form and set its value to empty.\" Then we\'re going to increment i from
-zero to one, and if there\'s more than one element in the form, then
-we\'re going to go through and do that again for Element 1, setting its
-value to zero. We\'re going to do that for each element in the form
-until the form is completely cleared out. It\'s just a very simple for
-loop that\'s going to loop through and clear out each of the elements in
-that form. We\'ve taken care of the first two items on our list.
+time through the form, it&apos;s going to say, &quot;Get Element 0 from that
+form and set its value to empty.&quot; Then we&apos;re going to increment i from
+zero to one, and if there&apos;s more than one element in the form, then
+we&apos;re going to go through and do that again for Element 1, setting its
+value to zero. We&apos;re going to do that for each element in the form
+until the form is completely cleared out. It&apos;s just a very simple for
+loop that&apos;s going to loop through and clear out each of the elements in
+that form. We&apos;ve taken care of the first two items on our list.
 
 We gathered the information from the form and cleared the format. The
-third thing to do is to run a function that creates a new card. We\'re
+third thing to do is to run a function that creates a new card. We&apos;re
 going to hold off on that because we need to write that function. But we
 can take care of the fourth thing, which is to check to see if we
 already have a card in the other side, and if we do one thing and if we
-don\'t, we won\'t, we\'ll do a different thing. We can take care of that
+don&apos;t, we won&apos;t, we&apos;ll do a different thing. We can take care of that
 in terms of the header over there, and in showing, in determining what
-this header says here. Either it\'s going to say enter destination
-details, where we\'re going to change it so that it has something like
+this header says here. Either it&apos;s going to say enter destination
+details, where we&apos;re going to change it so that it has something like
 my wish list in there, because that makes a little bit more sense once
-there\'s something in that column over there. Let\'s do that really
+there&apos;s something in that column over there. Let&apos;s do that really
 quickly.
 
-We\'re going to make a variable. We\'ll just put in create card here, so
-we remember we need to come back and do that. But I\'m going to have var
-wishListContainer equals document.getElementById, and you\'ll remember
+We&apos;re going to make a variable. We&apos;ll just put in create card here, so
+we remember we need to come back and do that. But I&apos;m going to have var
+wishListContainer equals document.getElementById, and you&apos;ll remember
 we had an Id called title specifically so that we could do this. Over
-here in the HTML you\'ll remember we have 10-year title on that Id, so
+here in the HTML you&apos;ll remember we have 10-year title on that Id, so
 getElementById title. Then we just need a little if statement here. I
-realized I did the wrong thing here. I don\'t want the title here. I
+realized I did the wrong thing here. I don&apos;t want the title here. I
 want to get this Id down here, this destination container.
 
-That\'s the thing I want to check for. Destination container, because I
-want to see if we\'ll do the title in a minute. If
+That&apos;s the thing I want to check for. Destination container, because I
+want to see if we&apos;ll do the title in a minute. If
 wishListContainer.children.length is exactly the same as zero, so if
-there\'s nothing in this container. Over here we\'ve added a card in
-here temporarily, we\'re going to get rid of that. But if this container
-is empty, then we\'re going to do something. If it\'s empty, then we\'re
+there&apos;s nothing in this container. Over here we&apos;ve added a card in
+here temporarily, we&apos;re going to get rid of that. But if this container
+is empty, then we&apos;re going to do something. If it&apos;s empty, then we&apos;re
 going to say, document.getElementById. Now we want the title. Its
-innerHTML is going to be, what did I put in there? \'\'My Wish List\'\'.
+innerHTML is going to be, what did I put in there? &apos;&apos;My Wish List&apos;&apos;.
 There we go. That will take care of the fourth thing, which is, if we
-haven\'t added a card in there before, it\'ll change the title over on
+haven&apos;t added a card in there before, it&apos;ll change the title over on
 the right-hand side there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11248,82 +11371,82 @@ A var, it gets the data from the form fields, and then clears them out.
 height="2.801281714785652in"}
 
 We have a placeholder for a place where the function that creates new
-card is going to go and we\'re going to write that next. Then we check
-and see if the header on the right-hand side of the page, if there\'s
-already a card in there or not. If there isn\'t, we\'re going to change
+card is going to go and we&apos;re going to write that next. Then we check
+and see if the header on the right-hand side of the page, if there&apos;s
+already a card in there or not. If there isn&apos;t, we&apos;re going to change
 the text inside that header over there. Then finally the last thing that
-we\'ll do is actually add the card. Let\'s move on here. We\'re going to
-create a new function called createDestinationCard. It\'s going to take
+we&apos;ll do is actually add the card. Let&apos;s move on here. We&apos;re going to
+create a new function called createDestinationCard. It&apos;s going to take
 four parameters, and these parameters are the data that come in from the
 form that somebody filled out.
 
-Let\'s go ahead and do that first. Down here I\'m going to create a new
-function. **function createDestinationCard**, and it\'s going to take
+Let&apos;s go ahead and do that first. Down here I&apos;m going to create a new
+function. **function createDestinationCard**, and it&apos;s going to take
 name, location, photo, I think I just did **desc** for description.
-It\'s going to take those as parameters, although they don\'t get quotes
-on them. Name, location, photo, and description. That\'s right. We\'re
-going to pass those variables in. Actually, I\'m going to change this a
-little bit. I\'m going to actually make this **photoURL**, and I\'m
+It&apos;s going to take those as parameters, although they don&apos;t get quotes
+on them. Name, location, photo, and description. That&apos;s right. We&apos;re
+going to pass those variables in. Actually, I&apos;m going to change this a
+little bit. I&apos;m going to actually make this **photoURL**, and I&apos;m
 going to type out description over here. Then I need to make **var**
 **card**, and this is going to be assigned document.createElement.
 
-We\'re going to create a **div**, and then we\'re going take that card,
-and we\'re going to set the className equal to card, I think. Yeah,
-card. If you wonder where we\'re going here, you can go over to the
-index file here because we\'re basically going to use JavaScript to
-create these elements and put them in the card. Now, we\'ve just created
-this **div** here and given it the class of card. That\'s what we\'ve
+We&apos;re going to create a **div**, and then we&apos;re going take that card,
+and we&apos;re going to set the className equal to card, I think. Yeah,
+card. If you wonder where we&apos;re going here, you can go over to the
+index file here because we&apos;re basically going to use JavaScript to
+create these elements and put them in the card. Now, we&apos;ve just created
+this **div** here and given it the class of card. That&apos;s what we&apos;ve
 done. This is going to be a long function because you have to create
 each one of these elements individually and put the content in them and
-then add them to the card. But it\'s not that long, but it\'s useful to
-see how this can work. We\'ve got that. Next, we\'re going to add the
+then add them to the card. But it&apos;s not that long, but it&apos;s useful to
+see how this can work. We&apos;ve got that. Next, we&apos;re going to add the
 image.
 
 First thing we need to do is make a var called img or image or whatever
-you want to call it here. I\'m just going to call it img. Then from
-there I\'m going to do equals document.createElement, and we\'re going
+you want to call it here. I&apos;m just going to call it img. Then from
+there I&apos;m going to do equals document.createElement, and we&apos;re going
 to create an img in our element. Then images really should have an alt
-attribute, so I\'m going to say img.setAttribute alt. I\'m just going to
+attribute, so I&apos;m going to say img.setAttribute alt. I&apos;m just going to
 set it to name. Whatever gets passed in as the name of this location is
-going to get set as the attribute for the alt tag. If somebody\'s using
-a screen reader, they will still be able to know what it\'s a picture of
-even if they can\'t see the picture if they\'ve got a visual disability
-of some sort or another. Great. We\'re setting that attribute. We need
+going to get set as the attribute for the alt tag. If somebody&apos;s using
+a screen reader, they will still be able to know what it&apos;s a picture of
+even if they can&apos;t see the picture if they&apos;ve got a visual disability
+of some sort or another. Great. We&apos;re setting that attribute. We need
 to set the source based on what comes in through this photoURL here. We
 want to be able to set that photo source, but the photo source is not
 required.
 
 The first thing we need to do is determine whether or not a photo has
 been brought in. Before that, we want to just make a variable var, and I
-think I called this **constantphotoUrl**. I\'m going to make that equal
-to **images/signpost.jpg**, because that\'s the image that\'s in this
+think I called this **constantphotoUrl**. I&apos;m going to make that equal
+to **images/signpost.jpg**, because that&apos;s the image that&apos;s in this
 folder over in here. Then I just need to see if **photoURL**, that
 variable there that gets passed in, did somebody actually add a URL in
 there? We know that it has to be URL in there because over here in our
-form, we set this to type URL, so it\'ll only take a URL. Otherwise
-you\'ll get Chrome barking at you and telling you that you didn\'t put
+form, we set this to type URL, so it&apos;ll only take a URL. Otherwise
+you&apos;ll get Chrome barking at you and telling you that you didn&apos;t put
 in a URL. We put URL in there and if we want to actually got put in
-because it\'s optional. If **photoURL**.length is greater than zero, I
-think that\'s what I\'m doing. No, actually I want to check and see if
-it\'s exactly the same as zero. If it\'s exactly the same as zero, then
+because it&apos;s optional. If **photoURL**.length is greater than zero, I
+think that&apos;s what I&apos;m doing. No, actually I want to check and see if
+it&apos;s exactly the same as zero. If it&apos;s exactly the same as zero, then
 what I want to do is I want to set the img.src equal to this constant
 photo here. I want to set it to that. I want to set the image source to
 that. That should work. On my slide I use setAttribute again, so maybe
-I\'ll do that just to make sure. But really this should actually work
-just fine. But let me just put this in just so it matches what I\'m
+I&apos;ll do that just to make sure. But really this should actually work
+just fine. But let me just put this in just so it matches what I&apos;m
 doing on my slide there. SetAttribute src is going to be this constant
-photo here, constant **PhotoUrl**. If that length isn\'t exactly zero,
-the else will be okay, we\'re going to do image **setAttribute** to not
+photo here, constant **PhotoUrl**. If that length isn&apos;t exactly zero,
+the else will be okay, we&apos;re going to do image **setAttribute** to not
 constant.
 
-For this source table, we\'re going to say its a **photoURL**. If
+For this source table, we&apos;re going to say its a **photoURL**. If
 somebody put in a URL for a photo, it will get set to that. Otherwise,
-we\'ll use the default one that\'s in there. This is unhappy about
-something here. I\'m not sure what I\'ve done wrong. I\'m sure it\'ll
-come up sooner or later. I\'m not quite ready to test this yet even
-though I\'m picking up that there\'s an error on my script somewhere,
-but we\'ll find it in a minute here. But this should work for now, and
-then we\'ll pick this up in the next video.
+we&apos;ll use the default one that&apos;s in there. This is unhappy about
+something here. I&apos;m not sure what I&apos;ve done wrong. I&apos;m sure it&apos;ll
+come up sooner or later. I&apos;m not quite ready to test this yet even
+though I&apos;m picking up that there&apos;s an error on my script somewhere,
+but we&apos;ll find it in a minute here. But this should work for now, and
+then we&apos;ll pick this up in the next video.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-21">4.21 Vacation Destination Project: JavaScript -- Part 5</h2>
@@ -11332,62 +11455,62 @@ then we\'ll pick this up in the next video.
 ![](./3-6-images/media/image672.png){width="5.0in"
 height="2.801281714785652in"}
 
-This function is getting long, and it\'s going to get longer because
-we\'re creating all of these elements here. If you look over here on the
-index file, what we\'ve created so far of our card is we\'ve created
-this **div**, and we\'ve created the image. Next we need to create this
+This function is getting long, and it&apos;s going to get longer because
+we&apos;re creating all of these elements here. If you look over here on the
+index file, what we&apos;ve created so far of our card is we&apos;ve created
+this **div**, and we&apos;ve created the image. Next we need to create this
 **div** for the card body and then add into that the h3, the h4, and
 then the description text. The description text is actually optional. If
-you come up here, you\'ll notice there\'s no required on the text area
-there. We\'re going to have to deal with what happens if that\'s empty
-as well, and then we\'ll have to add the remove button as well but
-let\'s go ahead and continue forward with this.
+you come up here, you&apos;ll notice there&apos;s no required on the text area
+there. We&apos;re going to have to deal with what happens if that&apos;s empty
+as well, and then we&apos;ll have to add the remove button as well but
+let&apos;s go ahead and continue forward with this.
 
 Over here the next thing we need to add after the image is a variable
-for the card body. We\'re going to make a variable card body and create
+for the card body. We&apos;re going to make a variable card body and create
 element **div** and then set the class name to card body for that, and
 that will create that card body element here and then next we need to do
-the same with the h3 and the h4. Here\'s the h3 and I\'m just going to
-paste it in. You\'ll have to type it, but I made var card title,
-document create element h3s. I\'ve created an h3, and then I\'m setting
+the same with the h3 and the h4. Here&apos;s the h3 and I&apos;m just going to
+paste it in. You&apos;ll have to type it, but I made var card title,
+document create element h3s. I&apos;ve created an h3, and then I&apos;m setting
 the inner text to the name. Again, this is the name that came through
-from the form. That\'s what\'s going to get put in there, so that\'s
-going to be the name. I\'m going to append child card title. I\'m
-putting the actual card title into the card body here, and then we\'ll
+from the form. That&apos;s what&apos;s going to get put in there, so that&apos;s
+going to be the name. I&apos;m going to append child card title. I&apos;m
+putting the actual card title into the card body here, and then we&apos;ll
 do the same thing with the subtitle.
 
-Now I can add in the subtitle, and again I\'m going to paste this in, so
-you don\'t have to watch me type it because it\'s getting painful for
-everybody. But I\'m going to make a variable card subtitle and create
-element h4, and then I\'m going to set the inner text to the location.
-That\'s this location that\'s getting passed in here. That\'s the
-location that somebody typed in on the form and so that\'s going to get
-set for the inner text there. I\'m taking card body, and I\'m appending
-the child card subtitle. That\'s going to add this to the card. I\'m
-appending that in there. I\'ve got a card body, and I\'ve appended in
+Now I can add in the subtitle, and again I&apos;m going to paste this in, so
+you don&apos;t have to watch me type it because it&apos;s getting painful for
+everybody. But I&apos;m going to make a variable card subtitle and create
+element h4, and then I&apos;m going to set the inner text to the location.
+That&apos;s this location that&apos;s getting passed in here. That&apos;s the
+location that somebody typed in on the form and so that&apos;s going to get
+set for the inner text there. I&apos;m taking card body, and I&apos;m appending
+the child card subtitle. That&apos;s going to add this to the card. I&apos;m
+appending that in there. I&apos;ve got a card body, and I&apos;ve appended in
 the h3 and the h4. Next step is to check and see if somebody typed
 something into the description because it could be empty potentially,
-and we\'ll put that in next. Again, I\'m going to paste this in so that
-I know that it\'s right. But here we go. If description dot length is
-not zero meaning it\'s longer than nothing then we\'re going to make a
-variable card text and create a paragraph, and then we\'re going to take
+and we&apos;ll put that in next. Again, I&apos;m going to paste this in so that
+I know that it&apos;s right. But here we go. If description dot length is
+not zero meaning it&apos;s longer than nothing then we&apos;re going to make a
+variable card text and create a paragraph, and then we&apos;re going to take
 the class name and set it to card texts because again over here,
-remember we did that. We have p class card text. I\'m setting that class
+remember we did that. We have p class card text. I&apos;m setting that class
 name in there to card text.
 
 We could start with specifically if we wanted to and then setting the
 inner HTML to description and then appending that card text to the card
 body again. We get that appended in. The next thing we need to add is
-the remove button. I\'ll put that in here. Here I\'ve got a variable
-called card delete button, and I\'m creating a button, and I\'m setting
+the remove button. I&apos;ll put that in here. Here I&apos;ve got a variable
+called card delete button, and I&apos;m creating a button, and I&apos;m setting
 the inner text to remove and that will create that button and set the
-for it to remove. But then I need to add an event listener. I\'m going
+for it to remove. But then I need to add an event listener. I&apos;m going
 to add an event listener, so that button is going to create an event
-listener, and I\'m going to add an event listener called removed
-destination. We\'ll write another little function that will actually
-remove this destination. But I\'m putting an event listener on this
-button right now as soon as I add it, and it\'s going to have its own
-event listener that\'s going to run a function, and then I take that
+listener, and I&apos;m going to add an event listener called removed
+destination. We&apos;ll write another little function that will actually
+remove this destination. But I&apos;m putting an event listener on this
+button right now as soon as I add it, and it&apos;s going to have its own
+event listener that&apos;s going to run a function, and then I take that
 button and I append it.
 
 Append the card delete button to the card body. Again, if we come over
@@ -11396,30 +11519,30 @@ remove has been added to this card body. The card body includes four
 items the h3, the h4, the paragraph and the button. It only includes the
 paragraph if somebody types something in that field, but it includes the
 button and the button has an event listener on it. That will run a
-function that we haven\'t written yet, but it\'s there.
+function that we haven&apos;t written yet, but it&apos;s there.
 
-That\'s going to put all of those things on there. Now the next thing we
-need to do is take this card. We\'ve been building up this card body, so
+That&apos;s going to put all of those things on there. Now the next thing we
+need to do is take this card. We&apos;ve been building up this card body, so
 we need to take this whole card body and add it to the card because we
 added the image to the card. We created the image, and we set its
-attribute, and we set its photo. Maybe we didn\'t add that to the card.
+attribute, and we set its photo. Maybe we didn&apos;t add that to the card.
 We need to do that too, and then we created the card. We need to add the
 image to the card as well, but we need to add the card body to the card
-too. Since I forgot to add the image let\'s do that first. Here we\'ve
+too. Since I forgot to add the image let&apos;s do that first. Here we&apos;ve
 got the image in place. In here we need to add card, append child image
-so that we\'ll put the image on the card.
+so that we&apos;ll put the image on the card.
 
 Down at the bottom here, we need to add append child card body, and then
-we just need to return card. That\'s going to take this card object or
-this piece of HTML that we\'ve created that has all this stuff in it and
+we just need to return card. That&apos;s going to take this card object or
+this piece of HTML that we&apos;ve created that has all this stuff in it and
 return it. This is a long function that makes all of these elements and
 returns that card which should be a big piece of HTML. Well not a very
-big piece of HTML, but a piece of HTML that\'s this card here, **div**
+big piece of HTML, but a piece of HTML that&apos;s this card here, **div**
 class card and in it will have the image, either the signpost image or
 one that somebody entered a **div** called card body and an h3 and h4
 possibly a paragraph if somebody typed one in and a button and then that
-gets added on there, and then it gets returned. Great, we\'ve got all of
-that in place. Let\'s save this, and I\'m going to pick it up in the
+gets added on there, and then it gets returned. Great, we&apos;ve got all of
+that in place. Let&apos;s save this, and I&apos;m going to pick it up in the
 next.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11430,62 +11553,62 @@ next.
 height="2.801281714785652in"}
 
 The next step in this process is to actually write the function that
-removes the card. And that\'s what this is going to look like here.
-We\'re going to make a function called removeDestination. We\'re going
+removes the card. And that&apos;s what this is going to look like here.
+We&apos;re going to make a function called removeDestination. We&apos;re going
 to pass in the event object so that when you click on that button, the
 remove button that event gets passed through, the event object gets
-passed through. I\'m going to say variable card
+passed through. I&apos;m going to say variable card
 event.target.parentElement.parentElement. So when you click this button,
 I need to go up to this parent and then to this parent and say
 card.remove. So, I have to get up to that parent to actually remove that
 card.
 
-I\'m going up one parent to another parent to remove the card. So let\'s
-go ahead and add this function over here. So down here I\'ve got
-function **removeDestination**, and it\'s going to take an event object.
-And I\'m going to say var card = event. No, yeah, you then, what did I
-say here? Yeah, that\'s right.
-**event.target.parentElement.parentElement**. So that\'s going to be
+I&apos;m going up one parent to another parent to remove the card. So let&apos;s
+go ahead and add this function over here. So down here I&apos;ve got
+function **removeDestination**, and it&apos;s going to take an event object.
+And I&apos;m going to say var card = event. No, yeah, you then, what did I
+say here? Yeah, that&apos;s right.
+**event.target.parentElement.parentElement**. So that&apos;s going to be
 card. Once I get all of all the way up there, I could do
 **card.remove**.
 
-And that removes that card from the dog, we hope. Okay, cool. So, we\'ve
-got our remove destination function that\'s going to take in that event
+And that removes that card from the dog, we hope. Okay, cool. So, we&apos;ve
+got our remove destination function that&apos;s going to take in that event
 and then go up and actually remove that one, and that will get called
-here if you click on the **cardDeleteBtn**. Okay, cool. So we\'ve got
+here if you click on the **cardDeleteBtn**. Okay, cool. So we&apos;ve got
 all of that in place. The last thing we need to do is kind of put it
-together. Up here you\'ll remember we had to things that we needed to
+together. Up here you&apos;ll remember we had to things that we needed to
 do. We needed to create the card, and then down here, we needed to
-actually add the card. So, let\'s do these two things and then we\'ll be
-able to finish off this script here. So to create the card, what we\'re
-going to need is make it variable destination card, and that\'s going to
+actually add the card. So, let&apos;s do these two things and then we&apos;ll be
+able to finish off this script here. So to create the card, what we&apos;re
+going to need is make it variable destination card, and that&apos;s going to
 run. This is going to be using a function expression here.
 
-So we\'re going to use a function expression to create the destination
-card passing in these variables, so let\'s do that. DestinationCard,
-actually, I\'m going to shorten it down to just destCard = and then what
-I\'m actually doing is this thing here, create the destination card. So
-I\'m going to put that in here, createDestinationCard. But what I\'m
-passing in is the destination name, and I\'m passing in the destination
-location. I\'m passing in the destination photo to the photoURL, oops.
-And I\'m passing in the destination description. And then that should
-var, that\'s going to create, it\'s going to go in and create that and
-then down here now I just need to add destination card. So that\'s going
-to say, okay, destination card\'s going to actually hold that card. And
+So we&apos;re going to use a function expression to create the destination
+card passing in these variables, so let&apos;s do that. DestinationCard,
+actually, I&apos;m going to shorten it down to just destCard = and then what
+I&apos;m actually doing is this thing here, create the destination card. So
+I&apos;m going to put that in here, createDestinationCard. But what I&apos;m
+passing in is the destination name, and I&apos;m passing in the destination
+location. I&apos;m passing in the destination photo to the photoURL, oops.
+And I&apos;m passing in the destination description. And then that should
+var, that&apos;s going to create, it&apos;s going to go in and create that and
+then down here now I just need to add destination card. So that&apos;s going
+to say, okay, destination card&apos;s going to actually hold that card. And
 remember, this function returns HTML, so that HTML for the card is now
 in destCard.
 
-Because remember that\'s what this dysfunction does, create destination
+Because remember that&apos;s what this dysfunction does, create destination
 card down here at the end, it returns the card, which is the HTML for
 all the stuff in the card. So now all of that stuff, all that HTML we
-created is now in this little variable right here, it\'s in this bucket.
+created is now in this little variable right here, it&apos;s in this bucket.
 Okay, so the last thing we need to do is go in and find our container
-and upend the child, right? So let\'s go ahead and do that,
-document.querySelector. And what are we looking for, we\'re actually
-looking for this id here. \' Go get that id .appendChild. And what are
-we adding? We\'re adding destCard. All right, cool. All right, great.
-Now we\'ve gotten all five pieces of our script together, and in the
-next video, we\'ll do some error checking and fixing of stuff and see if
+and upend the child, right? So let&apos;s go ahead and do that,
+document.querySelector. And what are we looking for, we&apos;re actually
+looking for this id here. &apos; Go get that id .appendChild. And what are
+we adding? We&apos;re adding destCard. All right, cool. All right, great.
+Now we&apos;ve gotten all five pieces of our script together, and in the
+next video, we&apos;ll do some error checking and fixing of stuff and see if
 it all works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11496,98 +11619,98 @@ it all works.
 height="2.801281714785652in"}
 
 All along as I had been working on that script, I knew that there was an
-error on it somewhere, but I didn\'t have a chance yet to test it.
+error on it somewhere, but I didn&apos;t have a chance yet to test it.
 Usually you want to test scripts a little bit sooner than that. But I
-could tell that there was an error here, because of this one. Let\'s see
-what it is. Often, you\'re going to have errors in your scripts, and
-that\'s completely normal, and you want to be able to find them. I\'m
-glad that that\'s in there. We come over here. If I just refresh this
-page, and then run the inspector, you can see up here there\'s an error
+could tell that there was an error here, because of this one. Let&apos;s see
+what it is. Often, you&apos;re going to have errors in your scripts, and
+that&apos;s completely normal, and you want to be able to find them. I&apos;m
+glad that that&apos;s in there. We come over here. If I just refresh this
+page, and then run the inspector, you can see up here there&apos;s an error
 of one. If I look down here, it says in line 3, missing parentheses
-after argument list. Let\'s go take a look at that, and see if we can
-determine what\'s really wrong there.
+after argument list. Let&apos;s go take a look at that, and see if we can
+determine what&apos;s really wrong there.
 
 Because sometimes those error messages are a little bit cryptic. If I
-come in here and go to line 3, I\'ve got my addEventListener. I don\'t
-think I\'m missing a parenthesis here, but I do notice that I should
+come in here and go to line 3, I&apos;ve got my addEventListener. I don&apos;t
+think I&apos;m missing a parenthesis here, but I do notice that I should
 have a comma here. I think that that will fix this whole thing. A lot of
-times scripts won\'t work. You may feel like, \"Oh my goodness, I\'m
-completely in a quagmire of misery here.\" But you could be really
-close, because I think if I put in that one comma, it will work. If I\'m
-off by one comma, that\'s pretty normal, and can be frustrating
-sometimes, but that\'s the way life is when you\'re working with
+times scripts won&apos;t work. You may feel like, &quot;Oh my goodness, I&apos;m
+completely in a quagmire of misery here.&quot; But you could be really
+close, because I think if I put in that one comma, it will work. If I&apos;m
+off by one comma, that&apos;s pretty normal, and can be frustrating
+sometimes, but that&apos;s the way life is when you&apos;re working with
 JavaScript
 
-or code in general. But let\'s see now if it actually works. If I come
+or code in general. But let&apos;s see now if it actually works. If I come
 over here, and refresh this thing. I still have an error. Cannot read
-property of null on line 3. Let\'s see what else do I have here on line
-3. HandleFormSubmit. What I\'m getting here is this, cannot read
+property of null on line 3. Let&apos;s see what else do I have here on line
+3. HandleFormSubmit. What I&apos;m getting here is this, cannot read
 property of null, and usually that means something is misnamed
 somewhere. If I come back here and look at this, I think the problem is
-here. It\'s saying, I can\'t put an event handler on nothing. That\'s
+here. It&apos;s saying, I can&apos;t put an event handler on nothing. That&apos;s
 it.
 
 The null means there. I think the problem is here,
-destination_details_forms. I don\'t think there\'s supposed to be an S
-on the end of that. Let\'s come over here and check that if I have my
-form here. It should be this ID here. It\'s always best to just copy and
-paste these just to make sure they are exact. But it\'s really just the
-same thing without the S. Let\'s give that a try. Now, I don\'t have an
-error. I should be able to test this out. I\'m going to put a name of a
-destination. Let\'s try Boston. Let\'s try Fanuel Hall, I got that
-spelling wrong. I\'ll do Fenway Park. Destination location, I will do
-Boston. Provide a photo. I\'ve got a photo here, for URL. I can put in a
-description here, and click \"Add to the List\". Now, I\'ve got it.
+destination_details_forms. I don&apos;t think there&apos;s supposed to be an S
+on the end of that. Let&apos;s come over here and check that if I have my
+form here. It should be this ID here. It&apos;s always best to just copy and
+paste these just to make sure they are exact. But it&apos;s really just the
+same thing without the S. Let&apos;s give that a try. Now, I don&apos;t have an
+error. I should be able to test this out. I&apos;m going to put a name of a
+destination. Let&apos;s try Boston. Let&apos;s try Fanuel Hall, I got that
+spelling wrong. I&apos;ll do Fenway Park. Destination location, I will do
+Boston. Provide a photo. I&apos;ve got a photo here, for URL. I can put in a
+description here, and click &quot;Add to the List&quot;. Now, I&apos;ve got it.
 
-Cannot read property of zero, of undefined in line 14. Let\'s go back
-and see what\'s going on there. Also, while I\'m here, I should probably
-empty out down here. I should get rid of this card. I don\'t need this
+Cannot read property of zero, of undefined in line 14. Let&apos;s go back
+and see what&apos;s going on there. Also, while I&apos;m here, I should probably
+empty out down here. I should get rid of this card. I don&apos;t need this
 one here anymore. This one should come out altogether. Make sure you
-don\'t get rid of too much. They should line up here. This **div**
-closes down there, so make sure you\'re getting rid of just the **div**
-here. Like so, make sure this one still closes. But let\'s go over to
-script of line 14. I\'ve got a problem here, detailsForm.length, it\'s
+don&apos;t get rid of too much. They should line up here. This **div**
+closes down there, so make sure you&apos;re getting rid of just the **div**
+here. Like so, make sure this one still closes. But let&apos;s go over to
+script of line 14. I&apos;ve got a problem here, detailsForm.length, it&apos;s
 got a problem doing that script there. I value equals zero. I see the
 problem here is actually, this needs to be elements. Again, no S, off by
-one S. Let\'s go back and test this. Now, I\'ve entered that out, so
-that doesn\'t have anything in there at all. Let\'s do this again.
+one S. Let&apos;s go back and test this. Now, I&apos;ve entered that out, so
+that doesn&apos;t have anything in there at all. Let&apos;s do this again.
 Fenway Park, Boston, put my photo in there, here is a description, Add
 to List. Reference **div** is not defined on line 31.
 
-Let\'s go back and take a look at line 31. Line 31 var card,
+Let&apos;s go back and take a look at line 31. Line 31 var card,
 document.createElement **div**. Hopefully you can see right away what I
-did wrong here. It thinks that\'s a variable. That needs to be in
-quotes, createElement \"div\", either single quotes or double quotes,
-doesn\'t really matter. Good. Slowly we\'re working our way down the
-script, clearing out errors. It\'s a long script to test. Let\'s try it
-again. Now, let\'s do Fenway Park \[inaudible\] Fenway Park in Boston.
-Maybe we\'ll get an actual thing here, Add to List, and look there it
+did wrong here. It thinks that&apos;s a variable. That needs to be in
+quotes, createElement &quot;div&quot;, either single quotes or double quotes,
+doesn&apos;t really matter. Good. Slowly we&apos;re working our way down the
+script, clearing out errors. It&apos;s a long script to test. Let&apos;s try it
+again. Now, let&apos;s do Fenway Park &lbrack;inaudible&rbrack; Fenway Park in Boston.
+Maybe we&apos;ll get an actual thing here, Add to List, and look there it
 is. We were able to add a card to the list. Now, we can check and see,
 does the removed card function work? It sure does.
 
-We can now add cards, and remove them from the list. Let\'s try it again
-here. We\'ll do Fenway Park again. We\'ll do Boston. Put in the photo
+We can now add cards, and remove them from the list. Let&apos;s try it again
+here. We&apos;ll do Fenway Park again. We&apos;ll do Boston. Put in the photo
 that I have in my form already. Then what happens if we leave the photo
-app? Let\'s do that. No photo in there. See if the regular photo shows
-up. It does. So that\'s the default photo, and that\'s working. Let\'s
+app? Let&apos;s do that. No photo in there. See if the regular photo shows
+up. It does. So that&apos;s the default photo, and that&apos;s working. Let&apos;s
 add another one. Over here, I did a quick search for New York. I found
 this photo, right-click it, and open that photo up into a new tab.
-Here\'s a photo that I can use. I\'m just going to copy that URL, and
-come back here. Let\'s say destination name, Empire State Building in
-New York. I\'m going to paste that URL in for that JPEG, and then add a
+Here&apos;s a photo that I can use. I&apos;m just going to copy that URL, and
+come back here. Let&apos;s say destination name, Empire State Building in
+New York. I&apos;m going to paste that URL in for that JPEG, and then add a
 description, is visiting New York. Here we go, Add to List. You can see
-that it\'s appended that card, it\'s added it to the list. So now I\'ve
-got two here, and they\'re both working.
+that it&apos;s appended that card, it&apos;s added it to the list. So now I&apos;ve
+got two here, and they&apos;re both working.
 
 I can remove either one. If I remove this one, and that one will go
 away, and the New York one will stay. Notice, that the header here
 changed as it was supposed to change. Everything else is working. Here,
-in this little application we\'ve created here, and it\'s not very
-sophisticated. It\'s only got a few features, but we can add elements,
+in this little application we&apos;ve created here, and it&apos;s not very
+sophisticated. It&apos;s only got a few features, but we can add elements,
 and remove elements on the page pretty easily with a little bit of
 scripting effort there. This is a really great capstone project for the
 end of the course here. Now, our last final pieces here, are to refactor
-the script down a little bit, and use our best practices, and we\'ll do
+the script down a little bit, and use our best practices, and we&apos;ll do
 that in the next video.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11598,29 +11721,29 @@ that in the next video.
 height="2.801281714785652in"}
 
 Now that we have a working project which is great, and we had some
-errors and that\'s normal and I\'m glad they appeared here for me
-because they\'ll certainly appear for you. It\'s very easy to end up
+errors and that&apos;s normal and I&apos;m glad they appeared here for me
+because they&apos;ll certainly appear for you. It&apos;s very easy to end up
 with little mistakes whether you spelled something wrong or use the
-wrong ID. There\'s a lot of moving parts with little web application,
-even one small like this. You have your HTML with IDs things you\'re
-hooking into. You have the styles where there\'s different elements that
-are affecting the way the page looks, and then in the script, you\'re
+wrong ID. There&apos;s a lot of moving parts with little web application,
+even one small like this. You have your HTML with IDs things you&apos;re
+hooking into. You have the styles where there&apos;s different elements that
+are affecting the way the page looks, and then in the script, you&apos;re
 manipulating many times both of those things on the fly.
 
 Just for a quick summary of the script here, when you submit that form,
-what we\'re doing is we\'re running this handle form submit function
+what we&apos;re doing is we&apos;re running this handle form submit function
 which is getting the values out of the form, clearing out those values
-from the form when it\'s done. Then going through and actually creating
+from the form when it&apos;s done. Then going through and actually creating
 the actual card, after that going in and fixing the header at the top of
 that container, at this part of the page up here.
 
-Over here you\'re fixing the header if we need to, after that, we
+Over here you&apos;re fixing the header if we need to, after that, we
 actually put the card on the page. The create destination card is a long
-function because we\'re creating each one of these HTML elements
+function because we&apos;re creating each one of these HTML elements
 manually or individually here having JavaScript create those elements
 and put the contents inside of them, and then add them actually to the
-DOM as they\'re needed. Plus we have an extra function that allows you
-to remove a card so that\'s one more extra piece of functionality that
+DOM as they&apos;re needed. Plus we have an extra function that allows you
+to remove a card so that&apos;s one more extra piece of functionality that
 we have in this little application.
 
 The last thing to do is to clean it up by adding a function up at the
@@ -11629,50 +11752,50 @@ Again, we would just do open parenthesis and run an anonymous function
 with its parentheses in its curly braces, and then one more set of
 parentheses to make it run. This will run when the page loads. I can
 move this down and I can stick in here, use strict. That will make sure
-that I\'m not introducing any variables by accident in the global scope.
-Then I could take everything that\'s in here, and stick it inside this
+that I&apos;m not introducing any variables by accident in the global scope.
+Then I could take everything that&apos;s in here, and stick it inside this
 function here, and I may need to tab it in once. There we go, and that
 should look good. That should still work the same as before we can test
-it. Fenway Park, I can type Boston, let\'s go to this Boston link, and
+it. Fenway Park, I can type Boston, let&apos;s go to this Boston link, and
 that still works.
 
-We\'ve got that, and then the last thing you could do is go through and
-replace all the R\'s we\'ve constant lab. They should be constant as
+We&apos;ve got that, and then the last thing you could do is go through and
+replace all the R&apos;s we&apos;ve constant lab. They should be constant as
 much as possible. So we can just click **const** there, come down
-through here, that\'s going to be const, that\'s going to be const. All
-of these can be const. Now this one needs to be let because that\'s
-actually in a loop. That\'s going to need to be let, and then down here
-this can be const. That\'s containers, that\'s going to be const.
-That\'s going to be const, that\'s going to be const, that\'s going to
-be const, this one, and this one. If you\'re comfortable with this now
+through here, that&apos;s going to be const, that&apos;s going to be const. All
+of these can be const. Now this one needs to be let because that&apos;s
+actually in a loop. That&apos;s going to need to be let, and then down here
+this can be const. That&apos;s containers, that&apos;s going to be const.
+That&apos;s going to be const, that&apos;s going to be const, that&apos;s going to
+be const, this one, and this one. If you&apos;re comfortable with this now
 you can just start using const, to begin with rather than coming through
-and doing this at the end, and that\'s certainly fine as well.
+and doing this at the end, and that&apos;s certainly fine as well.
 
-When you\'re new at this I think it\'s helpful to start with var and
+When you&apos;re new at this I think it&apos;s helpful to start with var and
 then come in and add **const** as you need to or let. Again, let is for
-if the value is going to change. Now use other values you\'re going to
+if the value is going to change. Now use other values you&apos;re going to
 change when the script runs. Just the one inside the loop. I think
-that\'s the only one. I could be wrong. Let\'s just check and see if
-I\'m wrong. If you are wrong, you\'ll get an error and you can fix it.
+that&apos;s the only one. I could be wrong. Let&apos;s just check and see if
+I&apos;m wrong. If you are wrong, you&apos;ll get an error and you can fix it.
 Just refresh this, type in Fenway Park one more time, Boston, and the
 URL. Look at that it works great. Click renewals and it removes it.
-Everything\'s working the way it should. This is really great capstone
-project that brings together everything we\'ve done in this first course
+Everything&apos;s working the way it should. This is really great capstone
+project that brings together everything we&apos;ve done in this first course
 of this specialization, and I look forward to seeing you in the second
-course of this specialization where we\'ll get into **jQuery** and
+course of this specialization where we&apos;ll get into **jQuery** and
 creating all cool interactive elements on my pages.
 
 <h2 id="ch4-25">4.25 Course Summary (0:57)</h2>
 
-Congratulations, you\'ve made it to the end of our first course on
-JavaScript, I hope you\'ve had a lot of fun with it. And I hope you had
+Congratulations, you&apos;ve made it to the end of our first course on
+JavaScript, I hope you&apos;ve had a lot of fun with it. And I hope you had
 fun doing it with me while I stand outside here in California on this
 beautiful day, not that many miles away from where JavaScript was
-invented over 25 years ago. But JavaScript is a lot of fun, and you\'ve
+invented over 25 years ago. But JavaScript is a lot of fun, and you&apos;ve
 learned a lot, so you should give yourself a pat on the back, and I hope
-you\'re excited about the projects we\'ve done so far. Also, I hope you
-realize that there\'s a lot more to learn about JavaScript and that
-you\'ll join us in the next course in the specialization where we get
+you&apos;re excited about the projects we&apos;ve done so far. Also, I hope you
+realize that there&apos;s a lot more to learn about JavaScript and that
+you&apos;ll join us in the next course in the specialization where we get
 into **jQuery**. And we look at some of the cool things that we can do
 with the **jQuery** library and some of the cool interactions that we
 can make. So thank you for coming along this far and I hope to see you
