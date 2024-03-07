@@ -1941,7 +1941,7 @@ arrays as well.</p>
 <p>Let&apos;s do a little bit of practice with arrays, so I can make a new
 variable bar Animals and assign an array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 83. define var animals = [&apos;cat&apos;, &apos;dog&apos;, &apos;chicken&apos;]; (57) ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 83. define var animals = ['cat', 'dog', 'chicken']; (57) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image083.png"
   style="width:50%"
@@ -1953,7 +1953,7 @@ just do animals. You&apos;ll see that I get back an array with three
 elements, cat, dog and chicken. Now, arrays come with certain array
 methods that you can do to arrays specifically, so if I do animals.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push(&apos;llama&apos;); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 84. animals.push('llama'); to array (58) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image084.png"
   style="width:50%"
@@ -2088,8 +2088,9 @@ ways of getting elements out of arrays.</p>
     <li>Combine logic flow control structures within simple programs.</li>
     <li>Output program results to the console window.</li>
     <li>Create custom functions that can be called to complete the instructions they contain.</li>
-    <li>Practice working with combining control structures (<b><i>sequence, selection</i></b> and <b><i>loop</i></b>) and creating functions to create
-	  basic programs that output to the browser console.</li>
+    <li>Practice working with combining control structures (<b><i>sequence, selection</i></b> 
+	  and <b><i>loop</i></b>) and creating functions to create basic programs that output to 
+	  the browser console.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-00-intro">2.00 Module 2 - Controlling Logical Flow in JS (0:51)</h2>
@@ -2218,7 +2219,7 @@ when you save files, the filename is always lowercase and never has a space in i
 <p>I&apos;m back in my code editor. And now, I&apos;m ready to add a script. Let&apos;s add a script 
 to this file. And we can see some JavaScript actually happened here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add &apos;my first script&apos; as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 99. add 'my first script' as an h1 (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image099.png"
   style="width:50%"
@@ -2710,7 +2711,10 @@ console.log states false.</p>
   alt="Testing Selections; new vars; red=true, blue=false." />
 </p>
 
-<p>Usually you&apos;ll see more like this, I just add the extra space in there just to make it a little bit easier to read and a little bit easier to evaluate. So red is either blue false or true. And blue is either false or true because I&apos;ve used these Boolean &apos;s here.</p>
+<p>Usually you&apos;ll see more like this, I just add the extra space in there 
+just to make it a little bit easier to read and a little bit easier to evaluate. 
+So red is either blue false or true. And blue is either false or true because 
+I&apos;ve used these Boolean &apos;s here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-05">2.05 Try This! (3:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5189,7 +5193,7 @@ return the exact same data. Again, we&apos;ll get to the arrow functions later i
 third course, but for right now, I just want you to be aware that they exist and 
 that really they&apos;re just a different syntax for writing functions. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. &apos;function&apos; and &apos;methods&apos; (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 298. 'function' and 'methods' (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image298.png"
   style="width:50%"
@@ -5728,7 +5732,7 @@ A little bit easier way of doing this, I don&apos;t really need a loop here
 because I know that there&apos;s only one element in this collection, so I
 know it&apos;s going to be element zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~ 327/328. dom.html - getelementsbyclassname(&apos;classname&apos;) (187) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 327/328. dom.html - getelementsbyclassname('classname') (187) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image327.png"
   style="width:45%"
@@ -5773,8 +5777,7 @@ that&apos;s an important thing to understand about
   alt="3.05 DOM: querySelector();" />
 </p>
 
-The next document method that we&apos;re going to look at is
-**querySelector**.
+The next document method that we&apos;re going to look at is **querySelector**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 330. example, dom: queryselector(); (189) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5803,7 +5806,7 @@ second course in specialization. But now we can actually get elements
 into our **DOM** a little bit easier than we could just with the older
 methods.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~ 331/332. define/test mytext = document.queryselector(&apos;special.someclass&apos;) (190) ~~~~~~-->
+<!--~~~~~ 331/332. define/test mytext = document.queryselector('special.someclass') (190) ~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image331.png"
   style="width:45%"
@@ -6906,7 +6909,7 @@ value property since I&apos;m not adding the property there explicitly,
 it&apos;ll be Whatever somebody types into the field, okay, so then I can
 just alert out alert form data and now if we go try this.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 398. test, prompt, don&apos;t process yet (226) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 398. test, prompt, don't process yet (226) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image398.png"
   style="width:50%"
@@ -6949,7 +6952,7 @@ that field up in the URL, by default, a form a form element when you
 submit it. The default behavior is that it will go to whatever you set
 the action here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. action=&apos;processor.php&apos; (227) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 402. action='processor.php' (227) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image402.png"
   style="width:50%"
@@ -7406,7 +7409,7 @@ down event. You could also look for key up or some other types of events
 that have to do with keys as well. Function. Then I&apos;m just going to
 alert, A key was pressed.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert(&apos;a key was pressed&apos;) (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert('a key was pressed') (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image432.png"
   style="width:50%"
@@ -7948,7 +7951,7 @@ technique that we have at our disposal.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-21">3.21 Strategy 2: "use strict;"</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: &apos;use strict;&apos; (3.21) (260) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 467. strategy 2: 'use strict;' (3.21) (260) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image467.png"
   style="width:40%"
@@ -7959,7 +7962,7 @@ technique that we have at our disposal.
 The first strategy was to use some closure with name spacing to make
 sure that variables stay out of the global scope.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 &apos;use strict;&apos; (261) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 468. example, strategy 2 'use strict;' (261) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image468.png"
   style="width:50%"
@@ -8000,7 +8003,7 @@ We can do this and we can console log that out. I can save that and go over it
 and run it over here in my browser and you&apos;ll see that that variable gets 
 sent out to the console log as described there, which is fine.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 471. add &apos;use strict&apos; to catch error (262) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 471. add 'use strict' to catch error (262) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image471.png"
   style="width:50%"
@@ -8123,7 +8126,7 @@ variable when I don&apos;t want it to.
 The next thing we can look at is the let keyword and using that instead of art 
 and we&apos;ll do this with a for loop. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 480/481. define &apos;for&apos; loop  using let (267) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 480/481. define 'for' loop  using let (267) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image480.png"
   style="width:45%"
@@ -8365,7 +8368,7 @@ will catch that problem and tell me explicitly that I&apos;ve done a bad
 thing. And I&apos;ve changed my variables declarations from using var to 
 const. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~ 501/502. script src=&apos;script22.js&apos; to end of body (274) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 501/502. script src='script22.js' to end of body (274) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image501.png"
   style="width:45%"
@@ -8650,12 +8653,11 @@ click &apos;&apos;Next&apos;&apos; again, notice that got changed to image3, ima
 </p>
 
 What happened? We got to image5 because there are five images. Then I click 
-&apos;&apos;Next&apos;&apos; again, and now I have undefined. You&apos;ll notice there&apos;s an error over 
-here as well. I can go to my console log and see undefined error file not 
-found. Could not find I&apos;ve gotten beyond the end of my array. At a certain 
-point, it ceases to work depending on how many pictures are in the array. 
-That&apos;s what we&apos;re going to fix next.
-
+&apos;&apos;Next&apos;&apos; again, and now I have undefined. You&apos;ll 
+notice there&apos;s an error over here as well. I can go to my console log 
+and see undefined error file not found. Could not find I&apos;ve gotten beyond 
+the end of my array. At a certain point, it ceases to work depending on how 
+many pictures are in the array. That&apos;s what we&apos;re going to fix next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-26">3.26 Simple JS Slideshow –- Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8892,7 +8894,7 @@ image is going to get reassigned as we go through our scripts down here. But
 these variables will now be local to this function and they won&apos;t be 
 available at the global scope. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 533. script src=&apos;script.js&apos; (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 533. script src='script.js' (294) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image533.png"
   style="width:50%"
@@ -9232,7 +9234,7 @@ image back to zero. That part’s the same as before.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 555. define photo array, container & buttons (307) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png"
+<img src="./images/image555.png"
   style="width:50%"
   title="Define variables; current image, photo array, container, next &amp; previous button"
   alt="Define variables; current image, photo array, container, next &amp; previous button." />
@@ -9664,7 +9666,7 @@ and then an additional set of parentheses and a semicolon. This function will
 run immediately when the page runs, and then click between the curly braces 
 and move that down. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581. add &apos;use strict&apos; to index (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 581. add 'use strict' to index (322) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image581.png"
   style="width:50%"
@@ -10519,11 +10521,11 @@ work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 642/643. test, k switches to kilometers, m to miles (353) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/imageXXX.png"
+<img src="./images/image642.png"
   style="width:45%"
   title="Test, 'K' key switches conversion to Kilometers"
   alt="Test, 'K' key switches conversion to Kilometers." />
-<img src="./images/imageXXX.png"
+<img src="./images/image643.png"
   style="width:45%"
   title="Test, 'M' key switches conversion to Miles"
   alt="Test, 'M' key switches conversion to Miles." />
