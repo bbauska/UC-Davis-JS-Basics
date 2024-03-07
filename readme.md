@@ -2096,7 +2096,7 @@ sort of work in this second module. There&apos;s a lot of practice and there&apo
 opportunities along the way to get used to the JavaScript syntax. I encourage you to do 
 as much of that as you possibly can.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-01">2.01 Visual Studio – Part 1 (4:39)</h2>
+<h2 id="ch2-01">2.01 Visual Studio -– Part 1 (4:39)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 92. visual studio - part 1 (2.01) (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2191,7 +2191,7 @@ But here I have a screenshot of it so please make sure you do that. Also. Make s
 when you save files, the filename is always lowercase and never has a space in it so I have 
 "myfile" all as one word here. Do not put spaces in filenames.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-02">2.02 Visual Studio – Part 2 (5:48)</h2>
+<h2 id="ch2-02">2.02 Visual Studio -- Part 2 (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 98. visual studio - part 2 (2.02) (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -2294,7 +2294,7 @@ larger or smaller. And depending on how good your eyes are, you might want the c
 larger or smaller, Cmd+0 will put it at its default size, but command minus will make it 
 smaller. So make sure you&apos;re setting your code to a size that&apos;s comfortable for you to read.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-03">2.03 Visual Studio – Part 3 (9:48)</h2>
+<h2 id="ch2-03">2.03 Visual Studio –- Part 3 (9:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 105. visual studio - part 3 (2.03) (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -3832,7 +3832,7 @@ Here is a resource related to these lessons:
     2.13 JavaScript Loops (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-14">2.14 Structured Programming, Sequence - Part 1 (4:43)</h2>
+<h2 id="ch2-14">2.14 Structured Programming, Sequence -- Part 1 (4:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 210. structured programming, sequence - part 1 (2.14) (121) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4721,7 +4721,7 @@ something, doing something to it, and then returning the result to you so that y
 then turn it over to another machine that has its special features and does what it 
 needs to do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-21">2.21 Useful Example – Step 1 (6:21)</h2>
+<h2 id="ch2-21">2.21 Useful Example –- Step 1 (6:21)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 269. useful example - step 1 (2.21) (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4840,7 +4840,7 @@ going to say I want random numbers from 5-10. I want to include five and 10, so 
 get a 5, a 6, a 7, an 8, a 9 or 10, that&apos;s six possible values. Step 1 of this is 
 correct. Then, we&apos;ll go on from there to the next step.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-22">2.22 Useful Example – Steps 2-4 (6:05)</h2>
+<h2 id="ch2-22">2.22 Useful Example –- Steps 2-4 (6:05)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 277. useful example - steps 2-4 (2.22) (159) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4939,7 +4939,7 @@ back and check it, and you can see now I&apos;m getting random numbers that can 
 as 10 and as low as five, and our random number generator is actually working, which 
 is great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-23">2.23 Useful Example – Step 5</h2>
+<h2 id="ch2-23">2.23 Useful Example –- Step 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 286. useful example - step 5 (2.23) (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8418,7 +8418,7 @@ out in the long run.
     3.23 Simple-SlideShow-START-File.zip (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-24">3.24 Simple JS Slideshow – Part 1</h2>
+<h2 id="ch3-24">3.24 Simple JS Slideshow –- Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 505. simplage js slideshow - part 1 (3.24) (277) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8516,7 +8516,7 @@ same folder as the index.html. Next, we&apos;ll start working on how to actually
 capture the event of clicking the next button and then handling the swapping 
 of the source attribute.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-25">3.25 Simple JS Slideshow – Part 2</h2>
+<h2 id="ch3-25">3.25 Simple JS Slideshow –- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 512. simple js slideshow - part 2 (3.25) (281) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8634,7 +8634,7 @@ point, it ceases to work depending on how many pictures are in the array.
 That&apos;s what we&apos;re going to fix next.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-26">3.26 Simple JS Slideshow – Part 3</h2>
+<h2 id="ch3-26">3.26 Simple JS Slideshow –- Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 520. simple js slideshow - part 3 (3.26) (285) ~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8723,7 +8723,7 @@ for yourself. It&apos;s great challenge. It&apos;s not that different than what 
 did. It&apos;s a little bit different, but it&apos;s not that different. You might be 
 able to do the previous button by yourself.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-27">3.27 Simple JS Slideshow – Part 4</h2>
+<h2 id="ch3-27">3.27 Simple JS Slideshow –- Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 526. simple js slideshow - part 4 (3.27) (289) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8809,7 +8809,7 @@ five from the array. So now I can loop through in either direction I can loop
 through, going frontwards and I can loop through going backwards.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-28">3.28 Simple JS Slideshow – Part 5</h2>
+<h2 id="ch3-28">3.28 Simple JS Slideshow –- Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 529. simple js slideshow - part 5 (292) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8949,7 +8949,7 @@ without going too far.
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-29">3.29 Slideshow with Cross Fade Effect – Part 1</h2>
+<h2 id="ch3-29">3.29 Slideshow with Cross Fade Effect –- Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 538. slideshow with cross fade effect - part 1 (3.29) (297) ~~~~~~~~~~~~~~~~-->
@@ -9113,7 +9113,7 @@ JavaScript, whenever we can use it to trigger CSS animations, it&apos;s better f
 performance across all kinds of devices.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-30">3.30 Slideshow with Cross Fade Effect – Part 2</h2>
+<h2 id="ch3-30">3.30 Slideshow with Cross Fade Effect –- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 549. slideshow with cross fade effect - part 2 (3.30) (303) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9173,7 +9173,7 @@ to go to the next slide. Just like we did before, we&apos;ll build out the next
 one and then when we&apos;re done with that, when we get that all working or work 
 on the previous one. We&apos;ll go ahead and work on that one first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-31">3.31 Slideshow with Cross Fade Effect – Part 3</h2>
+<h2 id="ch3-31">3.31 Slideshow with Cross Fade Effect –- Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 553. slideshow with cross fade effect - part 3 (3.31) (306) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9234,7 +9234,7 @@ put it back to where it was initially. Now current image is going to increment,
 it&apos;s going to go up, and it&apos;s going to go from zero to one, to two, to three, 
 to four, and then back to zero.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect – Part 4</h2>
+<h2 id="ch3-32">3.32 Slideshow with Cross Fade Effect –- Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 556. slideshow with cross fade effect - part 4 (3.32) (308) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9324,7 +9324,7 @@ animation is taking place. In over two seconds the picture comes in as
 transparent and then over two seconds it fades to opaque, and that&apos;s what&apos;s 
 creating that crossfade effect.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect – Part 5</h2>
+<h2 id="ch3-33">3.33 Slideshow with Cross Fade Effect –- Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 560. slideshow with cross fade effect - part 5 (3.33) (311) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9436,7 +9436,7 @@ it gets added to the page second and because of the absolute positioning, that
 means it ends up on top, it&apos;s on top of the first image, so that&apos;s working just 
 great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-34">3.34 Slideshow with Cross Fade Effect – Part 6</h2>
+<h2 id="ch3-34">3.34 Slideshow with Cross Fade Effect -– Part 6</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 567. slideshow with cross fade effect - part 6 (315) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9543,7 +9543,7 @@ of the array. Then back on down through the array like that. That&apos;s working
 perfectly. Just exactly what we want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-35">3.35 Slideshow with Cross Fade Effect – Part 7</h2>
+<h2 id="ch3-35">3.35 Slideshow with Cross Fade Effect -– Part 7</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 574. slideshow with cross fade effect - part 7 (318) ~~~~~~~~~~~~~~~~~~~-->
@@ -9752,7 +9752,7 @@ you&apos;ll be excited to go on to the next course and learn even more about Jav
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-01">4.01 Basic Distance Converter Project – Part 1 (6:28)</h2>
+<h2 id="ch4-01">4.01 Basic Distance Converter Project –- Part 1 (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 587. basic distance converter (miles to kilometers) (327) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -9899,7 +9899,7 @@ data, but then it&apos;s trying to go through to the form. We don&apos;t want th
 We want to prevent the default behavior and that&apos;s what that does. We&apos;re 
 getting that distance there, and we&apos;re often running here with our project.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-02">4.02 Basic Distance Convert Project – Part 2 (5:33)</h2>
+<h2 id="ch4-02">4.02 Basic Distance Convert Project -– Part 2 (5:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 598. sample screen - distance converter (332) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10007,7 +10007,7 @@ number in there, it won&apos;t, because the else is running. We haven&apos;t act
 done anything with the else, but it is running and it&apos;s not doing that alert. 
 We&apos;re all set up here and ready to write the rest of our script.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-03">4.03 Basic Distance Converter Project – Part 3 (6:32)</h2>
+<h2 id="ch4-03">4.03 Basic Distance Converter Project -– Part 3 (6:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 606/607. conversion & test 5 (337) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10090,7 +10090,7 @@ to work with years is to fixed.
 Now I can calculate the distance variable in parentheses adding toFixed(3) for 3
 max decimal places.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-04">4.04 Basic Distance Convert Project – Part 4 (6:15)</h2>
+<h2 id="ch4-04">4.04 Basic Distance Convert Project –- Part 4 (6:15)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 613/614. add invisible class for answer (340) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10174,7 +10174,7 @@ Let&apos;s make sure that works. If we come back over here, and refresh this, if
 put a chicken in here, a chicken cannot get converted to kilometers, so it 
 says please provide a number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-05">4.05 Basic Distance Convert Project – Part 5 (4:27)</h2>
+<h2 id="ch4-05">4.05 Basic Distance Convert Project -– Part 5 (4:27)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 620. refactored script (4.05) (343) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10271,8 +10271,7 @@ version of the project next.
   <li id="ch4-05-start"><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-06">4.06 Advanced Distance Converter Project – Part 1 (5:13)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-06">4.06 Advanced Distance Converter Project -– Part 1 (5:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 626. advanced distance converter project - part 1 (4.06) (346) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10367,7 +10366,7 @@ that we need right here at the top of our script, and we're ready to start
 working on what we need to work on to continue the script.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-07">4.07 Advanced Distance Converter Project – Part 2 (5:44)</h2>
+<h2 id="ch4-07">4.07 Advanced Distance Converter Project -– Part 2 (5:44)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 634. advanced distance converter project - part 2 (4.07) (349) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10450,6 +10449,1240 @@ What are we going to do in here? We're going to change the heading. We're going
 to change the intro paragraph and the convertype variable. Those are three 
 things that we need to do in each of these as we go forward here with this 
 function.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-08">4.08 Advanced Distance Converter Project -- Part 3 (5:48)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image641.png){width="5.0in"
+height="2.835978783902012in"}
+
+Okay, so now we\'re going to put this in here, and have **var
+convertType** because we already have it defined up there, so you don\'t
+use **var.convertType = "kilometers".** That\'s going to get set to
+kilometers as a value, as opposed to miles. You could just use K and M
+in there if you wanted to keep it short, and that\'s fine.
+
+And then I\'m going to change the heading in here next.
+**heading.innerHTML = "Kilometers to Miles** c**onverter"**. That\'s
+going to change the heading up at the top of the page. And then the
+third thing I want to do is just change the intro paragraphs. That\'s
+the variable intro.InnerHTML = and then I\'m just going to paste this
+in, but you\'re going to have to type it. Type in a number of kilometers
+and click the button to convert the distance to miles. We\'ve got all of
+these set in here.
+
+And, what we need to do is put the same thing down below. But instead of
+kilometers it\'s going to be miles. And then over here we\'re going to
+say Miles to Kilometers converter. And then type the number of miles,
+and click the button to convert the distance to kilometers. That should
+be working in terms of which key I pressed here and how that\'s going to
+work.
+
+![](./3-6-images/media/image642.png){width="3.5in"
+height="1.985184820647419in"}![](./3-6-images/media/image643.png){width="3.5in"
+height="1.985184820647419in"}
+
+And if I come over and test this, you should see if I press the K key,
+it switches to kilometers to miles, the statement changes. And if I
+press the M key it switches back.
+
+![](./3-6-images/media/image644.png){width="5.0in"
+height="2.835978783902012in"}
+
+Now we can start the second part of the script which is the form
+submission handler. And we can pass in the event and once again do
+**event.preventDefault** to keep that form from being submitted,
+actually submitted. So we\'re going to pass in our event object here.
+
+![](./3-6-images/media/image645.png){width="5.0in"
+height="2.835978783902012in"}
+
+And down here again do **event.preventDefault.** And then we want to do
+the same thing we did before and get our variable out of their distance.
+var **distance = document.getElementByID**. And we\'re going into our
+form and up here in our form we\'re getting this distance ID here. So
+getElementByID (\'distance\').value like that. But just as we did before
+we want to put parseFloat in front of this, parseFloat, parentheses, and
+then close the parentheses at the end after value there.
+
+![](./3-6-images/media/image646.png){width="5.0in"
+height="2.835978783902012in"}
+
+Also, same as before, we\'re going to stay if (distance), if that\'s
+really a number, then we\'re going to do something here, right?
+Otherwise, we\'re going to do something down here, else, and really,
+what we want is just to set that answer.InnerHTML = h2 and in there I\'m
+going to just say please provide a number.
+
+So that will handle the error if somebody doesn\'t put in a number. But
+in here, what we\'re going to do is this is we\'re going to check to see
+what the value of this variable **convertType** is because it\'s either
+set to miles or kilometers. Because if it\'s one, we\'re going to do one
+type of conversion, if it\'s the other, we\'re going to do another type
+of conversion.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-09">4.09 Advanced Distance Converter Project -- Part 4 (6:28)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image647.png){width="5.0in"
+height="2.835978783902012in"}
+
+Okay, so now we need to actually do the conversion here, and based on
+which value this variable has your convert type. To convert miles to
+kilometers, the ratio is 1.609344 and to convert K to M, the ratio is
+.621371192.
+
+![](./3-6-images/media/image648.png){width="5.0in"
+height="2.835978783902012in"}
+
+If(convertType == "miles"){ var converted = (distance \*
+1.609344).tofixed(3);
+
+} else { var converted = (distance \* .621371192).tofixed(3)}
+
+**answer.innerHTML** equals we\'re going to use your tick marts and
+we\'re going to say. X miles converts to y kilometers. But x is now
+going to be dollar sign curly braces, and in there I\'m going to put
+distance converts to Dollar sign curly braces, converted.
+
+There we go. And down here, it\'s going to be the same thing. Answer,
+copy that, stick that down here except instead of miles, that\'s going
+to say kilometers converts to miles. There we go, so now we\'re able to
+convert both miles and kilometers and put the correct answer.
+
+![](./3-6-images/media/image649.png){width="3.5in"
+height="1.985184820647419in"}![](./3-6-images/media/image650.png){width="3.5in"
+height="1.985184820647419in"}
+
+Yet if somebody enters in something, that\'s not a number that will
+still be handled, and that should work, let\'s test it and see. Refresh
+miles to kilometers if I put in one mile that converts to 1.69
+kilometers, that\'s correct. If I press my K key kilometers to miles,
+convert and I get 0.61 miles, and that\'s correct.
+
+![](./3-6-images/media/image651.png){width="5.0in"
+height="2.835978783902012in"}
+
+We have a working distance converter for more advanced distance
+converting, that will allow us to switch between miles and kilometers.
+And over here in our script, the important thing to recognize here is
+that we\'re using a variable up here at the top **convertType**. And
+we\'re adjusting the value of that variable here based on the key
+pressed. And then, we\'re adjusting which one of these were going to be
+using based on what the value of that variable is.
+
+![](./3-6-images/media/image652.png){width="5.0in"
+height="2.835978783902012in"}
+
+Now, this is where we\'re starting to get into some scope and some it\'s
+a little bit more complex because we\'re looking at a value that you
+need to get set in this function here, and then access it in that
+function there. And we\'re doing that by defining the value up here. The
+last thing you should do with this is put it all into a script file at
+the top of and link it to the top of the page instead of having it here
+in the bottom, and use all your best practices for that.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-10">4.10 Advanced Distance Converter Project -- Part 5 (5:23)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image653.png){width="3.5in"
+height="2.044073709536308in"}![](./3-6-images/media/image654.png){width="3.5in"
+height="2.044073709536308in"}
+
+You may not need to watch this video right now, but because you should
+know how to do this already, but I\'m going to do it anyway. I\'m going
+to create a new file here called **script.js**, and you can name the
+file whatever you want. On this file, I\'m going to add my function
+here, my function that will run automatically, function and it\'s
+parenthesis and curly braces, and an extra set of parenthesis at the
+end. This is my automatically invoked function here. Then everything\'s
+going to go inside the curly braces, and here I\'m going to add, **"use
+strict"** that directive to make sure I don\'t have any variables being
+defined in the wrong place.
+
+Then I\'m going to come in here and just copy all of this script, the
+whole thing, all the way from the top, all the way down to the bottom.
+I\'m going to paste it over here like that. Now for this one, it\'s more
+important to do this then we than for the previous script, partially
+because there\'s more code going on here, but also because we actually
+have some globally defined variables here. It\'s possible that you want
+these to not get used in the wrong place down there. **AnswerDiv**. It
+should be **answerDiv**.
+
+![](./3-6-images/media/image655.png){width="5.0in"
+height="2.920106080489939in"}
+
+Over here in our file, we can get rid of this stuff, and instead, we can
+link to **SRC = script.js**.
+
+![](./3-6-images/media/image656.png){width="5.0in"
+height="2.920106080489939in"}
+
+Now, we could move this up to the top of the file here. **defer**, there
+we go.
+
+![](./3-6-images/media/image657.png){width="5.0in"
+height="2.920106080489939in"}
+
+The one last thing I didn\'t do is I didn\'t come in. Now this one needs
+to be left because that one\'s going to actually change values. But this
+one can be **const**.
+
+![](./3-6-images/media/image658.png){width="5.0in"
+height="2.920106080489939in"}
+
+We have used a lot of the things that we\'ve learned about in this
+course so far, in terms of capturing some data from a form, being able
+to manipulate that data, and then change the **DOM**, change the actual
+webpage based on what the user has done, including capturing key
+presses, which is pretty neat.
+
+<ul>
+  <li><h3><a href="https://www.coursera.org/learn/javascript-basics/supplement/h9569/vacation-desitnation-project-part-1-start-files">
+    4.10 Vacation-Destination-Part1-START.zip</a></h3></li>
+</ul>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-11">4.11 Vacation Destination Project: HTML & CSS -- Part 1 (6:06)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image659.png){width="4.0in"
+height="2.4427351268591426in"}
+
+Vacation destination list. For this part, we\'re going to be building
+the HTML and CSS for this vacation destination wish list app for lack of
+a better word, we\'ll call it a nap. It\'s not really an application in
+that it\'s not really that sophisticated. There\'s no database involved
+or anything like that but, we\'ll call it a nap for lack of a better
+term if you I want to think of it differently. And basically what we\'ll
+do here is we\'ll have a form and you can add Place that you want to go
+visitors see in the form, and it will add it to your wish list with the
+picture and everything. So, that\'s pretty cool and pretty fun, but
+before we get there, we need to build up the HTML and CSS, and in
+previous projects, I\'ve given you the HTML and CSS done, but with
+JavaScript because it\'s such a relationship between JavaScript, the
+HTML and CSS, the three of them together working together to create your
+interface. It\'s important to see how the HTML comes together for this
+project.
+
+It\'s not super complicated, but it\'s definitely mawr complex than the
+previous projects we\'ve done the distance, converted projects and those
+kinds of things. So this is a really great capstone for the end of the
+first course, which will really bring together everything that you\'ve
+learned in this course so far. And again, we\'ve got three more courses
+to go after this, you\'ll become an expert with javascript if you keep
+going but let\'s start here. Okay, three user\'s going to add some some
+information to the page here and including a u R l for picture but if
+no, you are l for pictures provided it will put a generic image in there
+for them. And if we go over and look at the files that we\'ve got the
+start files that you\'re going to start with, you\'ll notice that we
+have some images in here and I have a sign post JPEG that\'s going to be
+used as a default image there.
+
+If an image is not provided by the user when they add their item to the
+list. Other than that, the page is fairly simple we\'ve got a link to
+the normalize CSS script, which all that does is make sure that
+different browsers render pretty much the same way. Sort of normalizes
+the differences between different browsers in the way they render things
+so that you don\'t end up with a different looking page in a different
+browser. And usually it\'s just minor things, like different spacing and
+stuff like that but, that could be frustrating if you\'re a designer and
+you\'re you want it to look a certain way and and it and it changes up.
+
+Plus, we have linked a style sheet, which is currently empty, and we\'ll
+be adding some styles in there and then on a body of our page. We have
+linked a JavaScript file, which is also empty, and in part two will
+actually be building the JavaScript for this project. So that\'s where
+we are, let\'s see where we need to go first to get this thing started,
+the first thing we need to do is add a header element which will open
+and close, and inside the header element, I\'m going to add an H one
+heading and a paragraph, and I\'m going to paste them in here but
+you\'re going to have to type these.
+
+So the H one vacation destinations with wish list that\'s going to be
+our main. Each one for the page should have Your Web pages should have a
+main heading. If it all possible, that Google will search an index and
+that kind of stuff, and then I\'ve gotta follow a paragraph found
+exciting places to, to visit on your next vacation. It\'s my English
+there places to visit on your next vacation. Use the form below to add
+them to your wish list probably should put a period at the end of that
+paragraph two. So there we go, so we\'ve got kind of, place to start
+here and a little bit of language to get us going.
+
+Once you have that done after the header, how the main element. And
+inside the main element, we\'re going to add a form just going to open
+and close, and then inside the form, we\'re going to add a button which
+is a can open and close. The form needs an ID and the idea that I\'m
+going to use and you can use something different if you want, but
+because this one\'s a little bit long, but, but it\'s kind of
+descriptive for me, so I\'m going to use this I\'d destination
+underscore details or no spaces. Destination details for and then the
+button is going to get a type, attributes type equals quotes a bit. Here
+we go. And then we need to add some text to the button, which is going
+to be add to list something like that had to wish list something like
+that. That could be the text that shows up on the button here, okay,
+great. We\'ll stop here, and we will pick this up in the next video.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-12">4.12 Vacation Destination Project: HTML & CSS -- Part 2 (7:33)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image660.png){width="5.0in"
+height="3.053418635170604in"}
+
+Next, we\'ll add two fields. One is going to hold the name of the
+destination and the other is going to hold the location of the
+destination. Each of these fields needs a label element, destination
+name and that takes a for attribute for name. That for attribute
+connects to the id of the input that goes with it. Input type equals
+text, id equals name, and then also we want to make sure that users use
+this, so I\'m just going to put required.
+
+Now your browser has to support this for this to actually work, but
+rather than built-in some form validation, which we\'re going to do in
+the next course. We\'ll talk more about form validation. But here we\'ll
+just use the built-in browser form validation, which isn\'t perfect, but
+it\'ll help. Now we\'ve got a field here that is required that has an id
+that\'s going to match the for attribute, and it\'s typed text. Great.
+Then we\'re going to need another one, label for location. Maybe I\'ll
+do destination location something like that and then of course we need
+the input for that, input type equals text, id equals location, and
+required just like before.
+
+There we go, so we\'ve got those two fields in place. From there we\'re
+going to add a couple more fields, I think. Yes, we want two more
+fields. One for the photo, so I\'m going to have a label for photo. This
+one is going to be an input type equals URL because we\'re going to
+paste in a URL here for a photo that\'s already online rather than
+upload a photo or anything like that, that would be much more
+complicated.
+
+But we can just very easily find a photo online of where we want to put
+it and put that in there, and your id is going to be set to your photo.
+This one is not going to be required because we can have a default photo
+in case we need it. Then the last one we need label for description will
+have a location or destination description. This is going to be a text
+area, like so. It needs to have an id, so to description to match the
+for attribute, and there we go. A form is basically built. The only
+thing that would be nice is if we had some placeholder text in these
+fields.
+
+We can add a placeholder attribute and set this one to provide a name
+for the destination, 10 year will do a placeholder. Where is this
+destination located, for the photo we can do on there as well. Provide a
+URL for a photo and for the description, or maybe describe the
+destination, and it gives us few things to look for, few directions for
+our user, which is helpful. Great, so we\'ve got that, we can save that,
+and we\'re ready to add the element that\'s going to take the results we
+put in there. That will be an article after the format an article, and
+then we\'re going to add an h2 with an id set to title. Initially, this
+h2 is going to have a value set to enter destination details. That\'s
+giving us some instructions there.
+
+Then after that, we\'re going to have just a div that\'s going to be a
+container for this thing, and it\'s going to get an id destinations
+container like so. This div is really going to have in it the content
+generated by JS. That\'s going to get the content that JavaScript is
+going to actually generate is going to go inside this container. I
+believe that pretty much finishes the HTML that we need for now.
+That\'ll pretty much finish the software for all the HTML we need. Save
+the file and then let\'s just go take a quick look at it over here. If I
+refresh this, you\'ll see it doesn\'t look like much, doesn\'t look very
+good. We don\'t have any styling in here yet, so we\'ll do the styling
+next.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-13">4.13 Vacation Destination Project: HTML & CSS -- Part 3 (7:03)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image661.png){width="4.0in"
+height="2.4427351268591426in"}
+
+We have the HTML in place, and now we\'re ready to start styling the
+page and making it look a little bit better. We have the normalized
+script up at the top of the page, which will help smooth out the
+differences between different browsers But beyond that, personally, I
+find it helpful to zero out some margins and padding and some elements
+and then add them back the way I want them in order to get them to work.
+I have here a few reset CSS things that are helpful in general. This is
+just my own personal preference. You could leave these out if you wanted
+to but generally, I think they help with zeroing out some of the base
+styles that most browsers displayed by default. I\'m going to go ahead
+and add these in.
+
+Over here I\'m going to add on my style sheet here a rule for h1, h2,
+h3, h4, ul, li and paragraphs. I don\'t know what\'s going on with that.
+I\'m putting this in the script page, styles h1, h2, h3, h4, ul, li, and
+paragraphs. Margin 0, padding 0. That just gets rid of the margin and
+padding the zones. It\'s also helpful to say img max-width 100 percent.
+I think that\'s helpful to make sure images don\'t bust out of their
+containers. If you put an image in for URL that\'s too big to fit in the
+container, it will overflow it. We don\'t want that to happen. We\'ll
+set that as well, and then I also have over here just some styles for
+the body. I\'m going to set the font to Arial. Arial is the font that
+most computers have so they work pretty well. I\'m going to set the
+color of the text to dark gray in this basic rule here. Let\'s just add
+that really quickly as well. I\'m going to have body, font-family, Arial
+and color 333. Already you\'ll see that the page is starting to come
+together a little bit with some of that styling. There we go. Notice
+that we\'ve lost a bunch of the margin and padding on those things.
+
+Next we\'re going to style up the header and the main content to get
+them to look the way we want them to look. Header, I\'m going to set the
+padding background color, text align center, the color of the text in
+there, and then the margin on the bottom. Let\'s go ahead and do that.
+Header, padding, 50 px, background color. I\'m using this cornflower
+blue. We\'re setting the color of the text to white. Text-align, center.
+I put the margin, bottom 20 px, and anything else that I did over here.
+
+That\'s all good. All right. Good. Then for main, we\'re going to have a
+max-width of 800 pixels, padding 20 pixels, margin auto that will center
+it on the page, display flex, that will make the two items in there sit
+next to each other and justify-content space-between, and then we\'ll
+set percentage width or a specific width for those two items that are
+going to sit next to each other on the page there. Let\'s go ahead and
+add that in. Main, max-width, 800px. It\'s a narrow page, but that\'s
+okay for what we\'re doing. Display, flex. That turns it into a flexbox
+and, I did some stuff with margin and padding. What did I do here?
+Padding 20 pixels margin auto. That above there. Actually it doesn\'t
+really matter. Padding 20 px, margin auto. There we go. Then with
+display flex we do justify-content, space-between which will put a gap
+between those two items.
+
+The two items that are going to go next to each other are the form on
+the left, and then this article on the right, those become flex items.
+They\'re going to go to sit next to each other in our design. Just like
+that and even with just those two rules, you\'ll see it\'s starting to
+come together a little bit there. Not very much yet, but it\'s starting
+to come together. Okay. Great. Well pick up the styling in the next
+video.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-14">4.14 Vacation Destination Project: HTML & CSS -- Part 4 (6:56)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image662.png){width="4.0in"
+height="2.4427351268591426in"}
+
+Next, we\'re going to set the width of the form and the article
+respectively. We\'ll add some margin back in the bottom of these
+elements so they start to look a little bit better and then the title is
+going to get text-align to the center. We\'ll be able to do all of that
+here. Let\'s go ahead and add that into our style sheet here. Main.form
+will target the form itself width 40 percent. Setting it up a little bit
+to be responsive but not entirely. Main article is going to be width 45
+percent. That adds up to 85 percent, which means that 15 percent will be
+left to be the gap between those two to create a little bit of a gutter
+between these two columns here. We\'ve got that in, and then we can just
+put the margin in the bottom of these elements, h1, h2, h3, h4, we have
+all those, we might margin-bottom 1em.
+
+You might be wondering, well, it seems silly to tick the margin out up
+above and then put it back in down below. But I\'ve found that I get a
+lot more control over the look of my pages and the visual spacing
+between things. If these elements only have margin on the bottom and not
+margin on top and bottom, which is what they get by default in most
+browsers. If save that and check it over here, you can see it\'s
+starting to come together a little bit more. But the last thing I was
+going to do is center that title over there. We\'ve got #titled
+text-align center. There we go.
+
+Let\'s see what else we need to do for styling. Got that going so that
+is centered over there now it\'s great. Now, we\'re just going to do a
+little bit with forms. With forms, you can spend a lot of time designing
+forms and styling them. We\'re just going to do a little bit right now.
+What you should notice to begin with is that by default, form elements
+are inline or phrasing elements and we\'ll go next to each other and we
+don\'t really like that. We wanted to stack. If you set them to display
+block and then work with them, they\'re a little bit easier to work
+with.
+
+Let\'s go ahead and add these rules in here. For the label, we\'re going
+to tell that to display block and put a little bit of margin on the
+bottom margin-bottom, 1em is fine. That\'s cool. That\'ll work. Then for
+the other thing we\'ve got input, we\'ve got the text area, and we\'ve
+got this form. Put it a half over here. I called it, which is the
+destination details form button. This is just the button inside the form
+and I\'m being specific because we might end up with another button
+leader, #destinaton_details_form button. That\'s specific button that\'s
+in over here, so that\'s this form, destination_details_form, and then
+this button down here and put an ID on it. Being specific there and what
+we want to set is just display block width 100 percent margin-bottom 1em
+and put a little border on it with a sort of medium gray and some
+padding and box-sizing border-box.
+
+Let\'s do that. Display block that will make each one ticket its own
+line. What was it again now? Width 100 percent margin-bottom 1em. We get
+that. Border 1px solid 666, padding 10px, box-sizing border-box. With
+box-sizing border-box, does is it makes the padding and border part of
+the width of the element? Remember, we set the width to 45 percent so we
+don\'t want to extend beyond that size there. Cool. Let\'s take a look
+and see what that looks like over here. That\'s looking much better,
+much cleaner. We will finish up the HTML in the next video. I mean the
+styling in the next video.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-15">4.15 Vacation Destination Project: HTML & CSS -- Part 5 (4:32)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image663.png){width="4.0in"
+height="2.4427351268591426in"}
+
+We\'re going to add cards dynamically using JavaScript, but we want to
+know what they\'re going to look like. The best way to do this is to add
+one manually, add a card that would get added by JavaScript with all the
+correct HTML, style that so we know that what it\'s supposed to look
+like, and then remove that card. That\'s what we\'ll do next. We\'re
+going to start by going back and adding just a little bit more HTML. We
+need a div with a class of card and an image with the signpost, and then
+in there we\'re going to have the card body with an H3 and H4 and a
+paragraph in button. We do have another button here.
+
+Let\'s go in and add this into our HTML over here. It\'s going to go
+down here inside this generated content by JavaScript here we\'re going
+to do div class equals card. This has to be a class because we\'re going
+to have multiple cards. We\'d have multiple cards on the page, so you
+can only use an id once. That has to be a class. Then let\'s add an
+image.
+
+Images/signpost. I\'m not going to put in all tag on it at the moment.
+We\'ve got that image and then we\'ve got the card body coming next.
+Div, class, card-body. I don\'t know why that is slightly misaligned.
+No, it\'s right. Maybe it\'s this one, it\'s slightly misaligned. Here
+we go. Div class card-body. Then inside the card body we\'re going to
+add h3 destination name. Then we\'ll do a h4 destination location. Then
+we\'re to add a Paragraph p with a class set to card-text, destination
+description. Then we\'re going to add a button that will allow you to
+remove the card if you need to. We\'ll have a feature that will allow
+you to take a card off, so we\'ll add that button in there. I believe
+that\'s what we need for the HTML. Let\'s take a look over here. Yeah,
+there we go. Great.
+
+So we\'ve got all of the HTML for that card in. It won\'t look
+particularly good. Let\'s see what it looks like. Doesn\'t look
+terrible, but it looks okay, but we might want to do a little bit more
+with it. Actually, it\'s fine for now. We\'ll leave it the way it is.
+We\'ve got our basic card in there. Although I do have a background
+color in there, don\'t I? Let\'s have that. Instead. One last rule down
+here. For the card. I\'m going to just give it a little bit of padding,
+set a background color, and set some margin on the bottom and that
+should look good. Let\'s take a look and see how that goes. There we go.
+Now we\'ve got a card that\'s looking good. Ultimately, these are going
+to be put in through JavaScript.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-16">4.16 Vacation Destination Project: HTML & CSS -- Part 6 (4:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image664.png){width="4.0in"
+height="2.4427351268591426in"}
+
+The HTML and CSS is in place now. And now that we\'ve got that in place,
+we can start thinking about how this little application is going to
+work. Essentially, user\'s going to type in a name and a location, and
+provide a URL for a photo and a little bit of a description here. And
+then that will get added, that card will get added to the list over
+here. Let\'s take a look at a little bit of a flow chart to sort of see
+how this is going to work and how we\'re going to kind of make that all
+work out here. So over here on the right side of this page, you see we
+have a little program here that when it starts, we\'re going to, when
+somebody fills out that form, we\'re going to prevent the default form
+submission. We\'re going to get the value from that destination name,
+the location field, the photo field, the description field. And then
+we\'re going to clear out the fields in the form, create a card, create
+that HTML, and check to see, is the destination list empty? If it is,
+then we\'re going to change the title on the destination list up at the
+top. If it isn\'t, then we\'ll just upend the card to the container. In
+either case, we\'ll upend the card to the container, and we\'ll be able
+to move on from there, okay?
+
+So that\'s going to be the basic strategy for how we add stuff to the
+page. So the first time we had something to the page, this title is
+going to get changed, but otherwise it\'s not. So that\'s the only thing
+that\'s kind of going on there that\'s interesting. These are going to
+be your little helper functions, clear out the fields, and then we\'re
+going to have a helper function that\'s going to create the actual card.
+So those are the next functions we need to look at here.
+
+The creating the card looks like a really long function, but it\'s very
+sequential. And basically we\'re just going to create a div and set the
+class to card, create an image tag, set the alt attribute on the image
+tag. And then if the photo\'s provided, we\'re going to set that source
+to whatever the URL is. If it isn\'t, well, we\'ll use the default photo
+and then assign that to the image element on the DOM that we just
+created. And then we\'ll create a div element. So basically, we\'re
+creating the elements manually or having JavaScript create them, to
+create these elements here. We\'re creating all of this HTML here.
+
+For each card, we\'re going to create that information, and then we\'re
+going to stick it on the card, and that\'s what\'s going on here. And
+you\'ll notice down here we\'ve got another helper function here for
+deleting the card. So if somebody clicks that remove button, then we
+need to be able to handle that as well. So let\'s take a look at that
+really quickly. So we\'ve got a function here for going through the form
+fields and emptying out the form fields. And then we\'ve got a little
+function here for deleting the card if we want to delete the card. So
+we\'ve got a number of pieces here to write in our JavaScript to create
+this little application, this little functionality for this destination
+list. And that\'s it for part one. We\'ve created the interface that
+we\'re going to be using. And you may be wondering why we spent all this
+time in HTML and CSS. But it\'s really important to understand how the
+HTML and the CSS interact with the JavaScript, because all three come
+together to make the full interface and to make all the functionality
+work. So I think it\'s worth taking the time to build the HTML and the
+CSS for this project. So you understand what\'s going on and how the
+JavaScript is going to manipulate that HTML and CSS in the end to make
+the final product.
+
+<ul>
+  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files">
+    4.16 Vacation-Destination-Project-Part2-START-Files.zip</a></li>
+</ul>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-17">4.17 Vacation Destination Project: JavaScript -- Part 1</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image665.png){width="4.0in"
+height="2.4559831583552056in"}
+
+Vacation Destination List, part two.
+
+![](./3-6-images/media/image666.png){width="4.0in"
+height="2.4427351268591426in"}
+
+This part we will add the JavaScript and I\'m picking up exactly where I
+left off after part one. In part one, you created the HTML and the CSS,
+and you should have a page that looks like this. If you don\'t, please
+go back and make sure you go through everything to make sure that you
+get a page that looks like this before you start and you\'ve got all the
+elements in there correctly, everything spelled right. Okay, now we\'ll
+write the JavaScript we need to make this little application work. To
+start with, let\'s grab the actual destination details form and put that
+into a variable called details form and then we\'ll have a event
+listener for when that form is submitted and instead of running an
+anonymous function we\'re actually going to run a name function called
+handleFormSubmit and then we\'ll start writing the beginning of that
+function.
+
+Let\'s get started with this right off the bat. Over here, I\'m going to
+open up my script file and add a variable var destination. No. I\'m
+sorry, that\'s wrong. I\'m going to do a details form equals
+document.querySelector and then I\'m going to go get this pound details,
+you know this one is destination form details I think. Just check that
+really quickly here. Get this form here, destination. In fact if you
+want to be absolutely certain you spelled everything right it\'s always
+a good idea, especially these long names to copy and paste that. Note
+that I\'m using a pound sign here because I\'m using querySelector, you
+could also use getElementByID but that\'ll get that form and put it in
+here. And that\'s great.
+
+Now we can do an \[inaudible\] for details form.
+Detailsform.addEventListener and we\'re going to look for submit event.
+And then instead of just doing function like we\'ve done in the past,
+I\'m actually going to have a named function here called, what did I
+call it over here? I called it handleFormSubmit. That\'s going to be a
+function that runs when this form is submitted. Now I need to define
+that function, function handleFormSubmit. And this function we\'re going
+pass in the event object and do event.preventDefault, there we go.
+That\'ll prevent the default submission of the form. You might wonder
+why at this point I\'ve opted to create a named function here as opposed
+to just the inline function.
+
+And it could be an inline function, there\'s no reason why it couldn\'t
+but this function is actually going to do quite a number of things.
+It\'s going to be a longer function. I think it makes sense, I think
+it\'s a little bit easier to read in the long run if this is a separate
+function, since it\'s going to be a little bit longer. And that\'s just
+my own personal choice and my own style, you could certainly use an
+anonymous function here and not have a named handleFormSubmit function
+for this particular project, right? That\'s what I like because what
+we\'re going to do here if we go back and look at this is, this is going
+to extract out the value from each form field. We\'re going to clear out
+all the form fields. When you\'ve filled in the form and submitted it,
+you need to clear out these form fields so that you\'re ready to make
+another card and then we\'re going to run a function that creates the
+new card.
+
+And then if needed, meaning there\'s not already a card over on the
+right-hand side of the interface we need to change the header at the top
+of that destination list and then actually add the card. And you can go
+back to the flowchart from the previous version of this from part one
+and actually see how that\'s going to all come together in the flowchart
+there. Yeah, we start with event.preventDefault to keep the normal
+submission of the form from happening but then we\'re going to do all of
+these things.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-18">4.18 Vacation Destination Project: JavaScript -- Part 2</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image667.png){width="5.0in"
+height="3.0699781277340334in"}
+
+The first thing on our list of tasks to do, is to get the values out of
+the fields from the form. And, to do that, we can create a variable for
+each of the four form fields. The name, the location, the photo and the
+description. And then go and get the value out of those from the actual
+form. And you\'ll remember over here when we created this form, in the
+HTML, we made it such that these fields were required.
+
+So if you try to click add list without filling in anything, it\'s not
+going to do anything because of that required thing. At least if you\'re
+using chrome or modern browser. And we can get more into form validation
+and making sure you get good data into forms in the second course in the
+specialization. But, for right now, we just want to do something quick
+and simple, and we\'ve got enough there to sort of keep it from it least
+being empty, even though we\'re not doing very much for that. And what
+we\'re going to use here is we\'re going to use event. The event target
+will be the form submission, right.
+
+Because that\'s the event target or the form itself. And then we can get
+the elements property, and pull out each one of these elements out of
+the form and its value and put them into a variable here. The dot
+elements refers specifically to form elements, and you could come over
+to the MGM and look at HTML form elements dot elements, and find out
+more about what this is. But it will get you a specific set of elements
+specifically from forms. And so, it\'s kind of a helpful little,
+property here, that we can use to get specific elements out of out of a
+form and get that data. So let\'s go ahead and put that onto our script.
+So over here, I\'m going to do for desk to nation. Name equals events.
+Target the elements, square bracket because which element to my going to
+get name.
+
+That\'ll get me the first one. Now I could just copy this and paste it
+destination location. If I could select this, Destination location is
+going to be the location field, And then I\'m going to paste again.
+Destination photo Is going to be the photo field and then paste one more
+time. And then we\'ve got destination description, Which is going to be
+the description field. Actually, in a short this down, truth is down.
+Yes, see? And then, don\'t forget I forgot this already. We need to get
+the value, so we need to add value to each of these. Okay, on this one
+here, too, should have done that initially. But there we go. That\'s
+going to do the first part that\'s going to go in and into our form when
+it submitted and get the values out of those fields that somebody typed
+in, and put them into these variables here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-19">4.19 Vacation Destination Project: JavaScript -- Part 3</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image668.png){width="4.0in"
+height="2.4559831583552056in"}
+
+The next thing we need to do in our list of things to do once we\'ve
+captured the values from the form is to remove them till the form is
+ready for a new thing.
+
+![](./3-6-images/media/image669.png){width="5.0in"
+height="3.0699781277340334in"}
+
+I\'m just going to use a for loop here to loop through the elements of
+the form, and set the value back to empty. Down here you can see I\'ve
+got just \"\", I\'m setting it back to empty. Let\'s go ahead and add
+this as the next thing that this function needs to do here. For, here\'s
+my for loop. For, and I\'m going to have just a counter variable, var i
+equals zero, while i is less than detailsForm.length; i++, there we go.
+That loop is going to go through detailsForm.
+
+Remember, detailsForm is going to get everything inside of detailsForm
+there. Then what I can do in here is I can very easily say,
+detailsForm.elements. square bracket i.value equals \'\'\'\'. We\'re
+going to go through the detailsForm. I starts at zero, and the first
+time through the form, it\'s going to say, \"Get Element 0 from that
+form and set its value to empty.\" Then we\'re going to increment i from
+zero to one, and if there\'s more than one element in the form, then
+we\'re going to go through and do that again for Element 1, setting its
+value to zero. We\'re going to do that for each element in the form
+until the form is completely cleared out. It\'s just a very simple for
+loop that\'s going to loop through and clear out each of the elements in
+that form. We\'ve taken care of the first two items on our list.
+
+We gathered the information from the form and cleared the format. The
+third thing to do is to run a function that creates a new card. We\'re
+going to hold off on that because we need to write that function. But we
+can take care of the fourth thing, which is to check to see if we
+already have a card in the other side, and if we do one thing and if we
+don\'t, we won\'t, we\'ll do a different thing. We can take care of that
+in terms of the header over there, and in showing, in determining what
+this header says here. Either it\'s going to say enter destination
+details, where we\'re going to change it so that it has something like
+my wish list in there, because that makes a little bit more sense once
+there\'s something in that column over there. Let\'s do that really
+quickly.
+
+We\'re going to make a variable. We\'ll just put in create card here, so
+we remember we need to come back and do that. But I\'m going to have var
+wishListContainer equals document.getElementById, and you\'ll remember
+we had an Id called title specifically so that we could do this. Over
+here in the HTML you\'ll remember we have 10-year title on that Id, so
+getElementById title. Then we just need a little if statement here. I
+realized I did the wrong thing here. I don\'t want the title here. I
+want to get this Id down here, this destination container.
+
+That\'s the thing I want to check for. Destination container, because I
+want to see if we\'ll do the title in a minute. If
+wishListContainer.children.length is exactly the same as zero, so if
+there\'s nothing in this container. Over here we\'ve added a card in
+here temporarily, we\'re going to get rid of that. But if this container
+is empty, then we\'re going to do something. If it\'s empty, then we\'re
+going to say, document.getElementById. Now we want the title. Its
+innerHTML is going to be, what did I put in there? \'\'My Wish List\'\'.
+There we go. That will take care of the fourth thing, which is, if we
+haven\'t added a card in there before, it\'ll change the title over on
+the right-hand side there.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-20">4.20 Vacation Destination Project: JavaScript -- Part 4</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image670.png){width="4.0in"
+height="2.4559831583552056in"}
+
+A var, it gets the data from the form fields, and then clears them out.
+
+![](./3-6-images/media/image671.png){width="5.0in"
+height="2.801281714785652in"}
+
+We have a placeholder for a place where the function that creates new
+card is going to go and we\'re going to write that next. Then we check
+and see if the header on the right-hand side of the page, if there\'s
+already a card in there or not. If there isn\'t, we\'re going to change
+the text inside that header over there. Then finally the last thing that
+we\'ll do is actually add the card. Let\'s move on here. We\'re going to
+create a new function called createDestinationCard. It\'s going to take
+four parameters, and these parameters are the data that come in from the
+form that somebody filled out.
+
+Let\'s go ahead and do that first. Down here I\'m going to create a new
+function. **function createDestinationCard**, and it\'s going to take
+name, location, photo, I think I just did **desc** for description.
+It\'s going to take those as parameters, although they don\'t get quotes
+on them. Name, location, photo, and description. That\'s right. We\'re
+going to pass those variables in. Actually, I\'m going to change this a
+little bit. I\'m going to actually make this **photoURL**, and I\'m
+going to type out description over here. Then I need to make **var**
+**card**, and this is going to be assigned document.createElement.
+
+We\'re going to create a **div**, and then we\'re going take that card,
+and we\'re going to set the className equal to card, I think. Yeah,
+card. If you wonder where we\'re going here, you can go over to the
+index file here because we\'re basically going to use JavaScript to
+create these elements and put them in the card. Now, we\'ve just created
+this **div** here and given it the class of card. That\'s what we\'ve
+done. This is going to be a long function because you have to create
+each one of these elements individually and put the content in them and
+then add them to the card. But it\'s not that long, but it\'s useful to
+see how this can work. We\'ve got that. Next, we\'re going to add the
+image.
+
+First thing we need to do is make a var called img or image or whatever
+you want to call it here. I\'m just going to call it img. Then from
+there I\'m going to do equals document.createElement, and we\'re going
+to create an img in our element. Then images really should have an alt
+attribute, so I\'m going to say img.setAttribute alt. I\'m just going to
+set it to name. Whatever gets passed in as the name of this location is
+going to get set as the attribute for the alt tag. If somebody\'s using
+a screen reader, they will still be able to know what it\'s a picture of
+even if they can\'t see the picture if they\'ve got a visual disability
+of some sort or another. Great. We\'re setting that attribute. We need
+to set the source based on what comes in through this photoURL here. We
+want to be able to set that photo source, but the photo source is not
+required.
+
+The first thing we need to do is determine whether or not a photo has
+been brought in. Before that, we want to just make a variable var, and I
+think I called this **constantphotoUrl**. I\'m going to make that equal
+to **images/signpost.jpg**, because that\'s the image that\'s in this
+folder over in here. Then I just need to see if **photoURL**, that
+variable there that gets passed in, did somebody actually add a URL in
+there? We know that it has to be URL in there because over here in our
+form, we set this to type URL, so it\'ll only take a URL. Otherwise
+you\'ll get Chrome barking at you and telling you that you didn\'t put
+in a URL. We put URL in there and if we want to actually got put in
+because it\'s optional. If **photoURL**.length is greater than zero, I
+think that\'s what I\'m doing. No, actually I want to check and see if
+it\'s exactly the same as zero. If it\'s exactly the same as zero, then
+what I want to do is I want to set the img.src equal to this constant
+photo here. I want to set it to that. I want to set the image source to
+that. That should work. On my slide I use setAttribute again, so maybe
+I\'ll do that just to make sure. But really this should actually work
+just fine. But let me just put this in just so it matches what I\'m
+doing on my slide there. SetAttribute src is going to be this constant
+photo here, constant **PhotoUrl**. If that length isn\'t exactly zero,
+the else will be okay, we\'re going to do image **setAttribute** to not
+constant.
+
+For this source table, we\'re going to say its a **photoURL**. If
+somebody put in a URL for a photo, it will get set to that. Otherwise,
+we\'ll use the default one that\'s in there. This is unhappy about
+something here. I\'m not sure what I\'ve done wrong. I\'m sure it\'ll
+come up sooner or later. I\'m not quite ready to test this yet even
+though I\'m picking up that there\'s an error on my script somewhere,
+but we\'ll find it in a minute here. But this should work for now, and
+then we\'ll pick this up in the next video.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-21">4.21 Vacation Destination Project: JavaScript -- Part 5</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image672.png){width="5.0in"
+height="2.801281714785652in"}
+
+This function is getting long, and it\'s going to get longer because
+we\'re creating all of these elements here. If you look over here on the
+index file, what we\'ve created so far of our card is we\'ve created
+this **div**, and we\'ve created the image. Next we need to create this
+**div** for the card body and then add into that the h3, the h4, and
+then the description text. The description text is actually optional. If
+you come up here, you\'ll notice there\'s no required on the text area
+there. We\'re going to have to deal with what happens if that\'s empty
+as well, and then we\'ll have to add the remove button as well but
+let\'s go ahead and continue forward with this.
+
+Over here the next thing we need to add after the image is a variable
+for the card body. We\'re going to make a variable card body and create
+element **div** and then set the class name to card body for that, and
+that will create that card body element here and then next we need to do
+the same with the h3 and the h4. Here\'s the h3 and I\'m just going to
+paste it in. You\'ll have to type it, but I made var card title,
+document create element h3s. I\'ve created an h3, and then I\'m setting
+the inner text to the name. Again, this is the name that came through
+from the form. That\'s what\'s going to get put in there, so that\'s
+going to be the name. I\'m going to append child card title. I\'m
+putting the actual card title into the card body here, and then we\'ll
+do the same thing with the subtitle.
+
+Now I can add in the subtitle, and again I\'m going to paste this in, so
+you don\'t have to watch me type it because it\'s getting painful for
+everybody. But I\'m going to make a variable card subtitle and create
+element h4, and then I\'m going to set the inner text to the location.
+That\'s this location that\'s getting passed in here. That\'s the
+location that somebody typed in on the form and so that\'s going to get
+set for the inner text there. I\'m taking card body, and I\'m appending
+the child card subtitle. That\'s going to add this to the card. I\'m
+appending that in there. I\'ve got a card body, and I\'ve appended in
+the h3 and the h4. Next step is to check and see if somebody typed
+something into the description because it could be empty potentially,
+and we\'ll put that in next. Again, I\'m going to paste this in so that
+I know that it\'s right. But here we go. If description dot length is
+not zero meaning it\'s longer than nothing then we\'re going to make a
+variable card text and create a paragraph, and then we\'re going to take
+the class name and set it to card texts because again over here,
+remember we did that. We have p class card text. I\'m setting that class
+name in there to card text.
+
+We could start with specifically if we wanted to and then setting the
+inner HTML to description and then appending that card text to the card
+body again. We get that appended in. The next thing we need to add is
+the remove button. I\'ll put that in here. Here I\'ve got a variable
+called card delete button, and I\'m creating a button, and I\'m setting
+the inner text to remove and that will create that button and set the
+for it to remove. But then I need to add an event listener. I\'m going
+to add an event listener, so that button is going to create an event
+listener, and I\'m going to add an event listener called removed
+destination. We\'ll write another little function that will actually
+remove this destination. But I\'m putting an event listener on this
+button right now as soon as I add it, and it\'s going to have its own
+event listener that\'s going to run a function, and then I take that
+button and I append it.
+
+Append the card delete button to the card body. Again, if we come over
+here and look at the HTML here, you can see that this button called
+remove has been added to this card body. The card body includes four
+items the h3, the h4, the paragraph and the button. It only includes the
+paragraph if somebody types something in that field, but it includes the
+button and the button has an event listener on it. That will run a
+function that we haven\'t written yet, but it\'s there.
+
+That\'s going to put all of those things on there. Now the next thing we
+need to do is take this card. We\'ve been building up this card body, so
+we need to take this whole card body and add it to the card because we
+added the image to the card. We created the image, and we set its
+attribute, and we set its photo. Maybe we didn\'t add that to the card.
+We need to do that too, and then we created the card. We need to add the
+image to the card as well, but we need to add the card body to the card
+too. Since I forgot to add the image let\'s do that first. Here we\'ve
+got the image in place. In here we need to add card, append child image
+so that we\'ll put the image on the card.
+
+Down at the bottom here, we need to add append child card body, and then
+we just need to return card. That\'s going to take this card object or
+this piece of HTML that we\'ve created that has all this stuff in it and
+return it. This is a long function that makes all of these elements and
+returns that card which should be a big piece of HTML. Well not a very
+big piece of HTML, but a piece of HTML that\'s this card here, **div**
+class card and in it will have the image, either the signpost image or
+one that somebody entered a **div** called card body and an h3 and h4
+possibly a paragraph if somebody typed one in and a button and then that
+gets added on there, and then it gets returned. Great, we\'ve got all of
+that in place. Let\'s save this, and I\'m going to pick it up in the
+next.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-22">4.22 Vacation Destination Project: JavaScript -- Part 6</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image673.png){width="5.0in"
+height="2.801281714785652in"}
+
+The next step in this process is to actually write the function that
+removes the card. And that\'s what this is going to look like here.
+We\'re going to make a function called removeDestination. We\'re going
+to pass in the event object so that when you click on that button, the
+remove button that event gets passed through, the event object gets
+passed through. I\'m going to say variable card
+event.target.parentElement.parentElement. So when you click this button,
+I need to go up to this parent and then to this parent and say
+card.remove. So, I have to get up to that parent to actually remove that
+card.
+
+I\'m going up one parent to another parent to remove the card. So let\'s
+go ahead and add this function over here. So down here I\'ve got
+function **removeDestination**, and it\'s going to take an event object.
+And I\'m going to say var card = event. No, yeah, you then, what did I
+say here? Yeah, that\'s right.
+**event.target.parentElement.parentElement**. So that\'s going to be
+card. Once I get all of all the way up there, I could do
+**card.remove**.
+
+And that removes that card from the dog, we hope. Okay, cool. So, we\'ve
+got our remove destination function that\'s going to take in that event
+and then go up and actually remove that one, and that will get called
+here if you click on the **cardDeleteBtn**. Okay, cool. So we\'ve got
+all of that in place. The last thing we need to do is kind of put it
+together. Up here you\'ll remember we had to things that we needed to
+do. We needed to create the card, and then down here, we needed to
+actually add the card. So, let\'s do these two things and then we\'ll be
+able to finish off this script here. So to create the card, what we\'re
+going to need is make it variable destination card, and that\'s going to
+run. This is going to be using a function expression here.
+
+So we\'re going to use a function expression to create the destination
+card passing in these variables, so let\'s do that. DestinationCard,
+actually, I\'m going to shorten it down to just destCard = and then what
+I\'m actually doing is this thing here, create the destination card. So
+I\'m going to put that in here, createDestinationCard. But what I\'m
+passing in is the destination name, and I\'m passing in the destination
+location. I\'m passing in the destination photo to the photoURL, oops.
+And I\'m passing in the destination description. And then that should
+var, that\'s going to create, it\'s going to go in and create that and
+then down here now I just need to add destination card. So that\'s going
+to say, okay, destination card\'s going to actually hold that card. And
+remember, this function returns HTML, so that HTML for the card is now
+in destCard.
+
+Because remember that\'s what this dysfunction does, create destination
+card down here at the end, it returns the card, which is the HTML for
+all the stuff in the card. So now all of that stuff, all that HTML we
+created is now in this little variable right here, it\'s in this bucket.
+Okay, so the last thing we need to do is go in and find our container
+and upend the child, right? So let\'s go ahead and do that,
+document.querySelector. And what are we looking for, we\'re actually
+looking for this id here. \' Go get that id .appendChild. And what are
+we adding? We\'re adding destCard. All right, cool. All right, great.
+Now we\'ve gotten all five pieces of our script together, and in the
+next video, we\'ll do some error checking and fixing of stuff and see if
+it all works.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-23">4.23 Vacation Destination Project: JavaScript -- Part 7</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image674.png){width="5.0in"
+height="2.801281714785652in"}
+
+All along as I had been working on that script, I knew that there was an
+error on it somewhere, but I didn\'t have a chance yet to test it.
+Usually you want to test scripts a little bit sooner than that. But I
+could tell that there was an error here, because of this one. Let\'s see
+what it is. Often, you\'re going to have errors in your scripts, and
+that\'s completely normal, and you want to be able to find them. I\'m
+glad that that\'s in there. We come over here. If I just refresh this
+page, and then run the inspector, you can see up here there\'s an error
+of one. If I look down here, it says in line 3, missing parentheses
+after argument list. Let\'s go take a look at that, and see if we can
+determine what\'s really wrong there.
+
+Because sometimes those error messages are a little bit cryptic. If I
+come in here and go to line 3, I\'ve got my addEventListener. I don\'t
+think I\'m missing a parenthesis here, but I do notice that I should
+have a comma here. I think that that will fix this whole thing. A lot of
+times scripts won\'t work. You may feel like, \"Oh my goodness, I\'m
+completely in a quagmire of misery here.\" But you could be really
+close, because I think if I put in that one comma, it will work. If I\'m
+off by one comma, that\'s pretty normal, and can be frustrating
+sometimes, but that\'s the way life is when you\'re working with
+JavaScript
+
+or code in general. But let\'s see now if it actually works. If I come
+over here, and refresh this thing. I still have an error. Cannot read
+property of null on line 3. Let\'s see what else do I have here on line
+3. HandleFormSubmit. What I\'m getting here is this, cannot read
+property of null, and usually that means something is misnamed
+somewhere. If I come back here and look at this, I think the problem is
+here. It\'s saying, I can\'t put an event handler on nothing. That\'s
+it.
+
+The null means there. I think the problem is here,
+destination_details_forms. I don\'t think there\'s supposed to be an S
+on the end of that. Let\'s come over here and check that if I have my
+form here. It should be this ID here. It\'s always best to just copy and
+paste these just to make sure they are exact. But it\'s really just the
+same thing without the S. Let\'s give that a try. Now, I don\'t have an
+error. I should be able to test this out. I\'m going to put a name of a
+destination. Let\'s try Boston. Let\'s try Fanuel Hall, I got that
+spelling wrong. I\'ll do Fenway Park. Destination location, I will do
+Boston. Provide a photo. I\'ve got a photo here, for URL. I can put in a
+description here, and click \"Add to the List\". Now, I\'ve got it.
+
+Cannot read property of zero, of undefined in line 14. Let\'s go back
+and see what\'s going on there. Also, while I\'m here, I should probably
+empty out down here. I should get rid of this card. I don\'t need this
+one here anymore. This one should come out altogether. Make sure you
+don\'t get rid of too much. They should line up here. This **div**
+closes down there, so make sure you\'re getting rid of just the **div**
+here. Like so, make sure this one still closes. But let\'s go over to
+script of line 14. I\'ve got a problem here, detailsForm.length, it\'s
+got a problem doing that script there. I value equals zero. I see the
+problem here is actually, this needs to be elements. Again, no S, off by
+one S. Let\'s go back and test this. Now, I\'ve entered that out, so
+that doesn\'t have anything in there at all. Let\'s do this again.
+Fenway Park, Boston, put my photo in there, here is a description, Add
+to List. Reference **div** is not defined on line 31.
+
+Let\'s go back and take a look at line 31. Line 31 var card,
+document.createElement **div**. Hopefully you can see right away what I
+did wrong here. It thinks that\'s a variable. That needs to be in
+quotes, createElement \"div\", either single quotes or double quotes,
+doesn\'t really matter. Good. Slowly we\'re working our way down the
+script, clearing out errors. It\'s a long script to test. Let\'s try it
+again. Now, let\'s do Fenway Park \[inaudible\] Fenway Park in Boston.
+Maybe we\'ll get an actual thing here, Add to List, and look there it
+is. We were able to add a card to the list. Now, we can check and see,
+does the removed card function work? It sure does.
+
+We can now add cards, and remove them from the list. Let\'s try it again
+here. We\'ll do Fenway Park again. We\'ll do Boston. Put in the photo
+that I have in my form already. Then what happens if we leave the photo
+app? Let\'s do that. No photo in there. See if the regular photo shows
+up. It does. So that\'s the default photo, and that\'s working. Let\'s
+add another one. Over here, I did a quick search for New York. I found
+this photo, right-click it, and open that photo up into a new tab.
+Here\'s a photo that I can use. I\'m just going to copy that URL, and
+come back here. Let\'s say destination name, Empire State Building in
+New York. I\'m going to paste that URL in for that JPEG, and then add a
+description, is visiting New York. Here we go, Add to List. You can see
+that it\'s appended that card, it\'s added it to the list. So now I\'ve
+got two here, and they\'re both working.
+
+I can remove either one. If I remove this one, and that one will go
+away, and the New York one will stay. Notice, that the header here
+changed as it was supposed to change. Everything else is working. Here,
+in this little application we\'ve created here, and it\'s not very
+sophisticated. It\'s only got a few features, but we can add elements,
+and remove elements on the page pretty easily with a little bit of
+scripting effort there. This is a really great capstone project for the
+end of the course here. Now, our last final pieces here, are to refactor
+the script down a little bit, and use our best practices, and we\'ll do
+that in the next video.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-24">4.24 Vacation Destination Project: JavaScript -- Part 8</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+![](./3-6-images/media/image675.png){width="5.0in"
+height="2.801281714785652in"}
+
+Now that we have a working project which is great, and we had some
+errors and that\'s normal and I\'m glad they appeared here for me
+because they\'ll certainly appear for you. It\'s very easy to end up
+with little mistakes whether you spelled something wrong or use the
+wrong ID. There\'s a lot of moving parts with little web application,
+even one small like this. You have your HTML with IDs things you\'re
+hooking into. You have the styles where there\'s different elements that
+are affecting the way the page looks, and then in the script, you\'re
+manipulating many times both of those things on the fly.
+
+Just for a quick summary of the script here, when you submit that form,
+what we\'re doing is we\'re running this handle form submit function
+which is getting the values out of the form, clearing out those values
+from the form when it\'s done. Then going through and actually creating
+the actual card, after that going in and fixing the header at the top of
+that container, at this part of the page up here.
+
+Over here you\'re fixing the header if we need to, after that, we
+actually put the card on the page. The create destination card is a long
+function because we\'re creating each one of these HTML elements
+manually or individually here having JavaScript create those elements
+and put the contents inside of them, and then add them actually to the
+DOM as they\'re needed. Plus we have an extra function that allows you
+to remove a card so that\'s one more extra piece of functionality that
+we have in this little application.
+
+The last thing to do is to clean it up by adding a function up at the
+top here to enclose the whole thing and then changing out the variables.
+Again, we would just do open parenthesis and run an anonymous function
+with its parentheses in its curly braces, and then one more set of
+parentheses to make it run. This will run when the page loads. I can
+move this down and I can stick in here, use strict. That will make sure
+that I\'m not introducing any variables by accident in the global scope.
+Then I could take everything that\'s in here, and stick it inside this
+function here, and I may need to tab it in once. There we go, and that
+should look good. That should still work the same as before we can test
+it. Fenway Park, I can type Boston, let\'s go to this Boston link, and
+that still works.
+
+We\'ve got that, and then the last thing you could do is go through and
+replace all the R\'s we\'ve constant lab. They should be constant as
+much as possible. So we can just click **const** there, come down
+through here, that\'s going to be const, that\'s going to be const. All
+of these can be const. Now this one needs to be let because that\'s
+actually in a loop. That\'s going to need to be let, and then down here
+this can be const. That\'s containers, that\'s going to be const.
+That\'s going to be const, that\'s going to be const, that\'s going to
+be const, this one, and this one. If you\'re comfortable with this now
+you can just start using const, to begin with rather than coming through
+and doing this at the end, and that\'s certainly fine as well.
+
+When you\'re new at this I think it\'s helpful to start with var and
+then come in and add **const** as you need to or let. Again, let is for
+if the value is going to change. Now use other values you\'re going to
+change when the script runs. Just the one inside the loop. I think
+that\'s the only one. I could be wrong. Let\'s just check and see if
+I\'m wrong. If you are wrong, you\'ll get an error and you can fix it.
+Just refresh this, type in Fenway Park one more time, Boston, and the
+URL. Look at that it works great. Click renewals and it removes it.
+Everything\'s working the way it should. This is really great capstone
+project that brings together everything we\'ve done in this first course
+of this specialization, and I look forward to seeing you in the second
+course of this specialization where we\'ll get into **jQuery** and
+creating all cool interactive elements on my pages.
+
+<h2 id="ch4-25">4.25 Course Summary (0:57)</h2>
+
+Congratulations, you\'ve made it to the end of our first course on
+JavaScript, I hope you\'ve had a lot of fun with it. And I hope you had
+fun doing it with me while I stand outside here in California on this
+beautiful day, not that many miles away from where JavaScript was
+invented over 25 years ago. But JavaScript is a lot of fun, and you\'ve
+learned a lot, so you should give yourself a pat on the back, and I hope
+you\'re excited about the projects we\'ve done so far. Also, I hope you
+realize that there\'s a lot more to learn about JavaScript and that
+you\'ll join us in the next course in the specialization where we get
+into **jQuery**. And we look at some of the cool things that we can do
+with the **jQuery** library and some of the cool interactions that we
+can make. So thank you for coming along this far and I hope to see you
+in the next course.
+
+###### .the end. 2.24.24 11:42pm
+###### .the end, again. 3.06.24 5:24pm
+
+
+
 
 
 <!-- 
