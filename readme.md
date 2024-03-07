@@ -10020,8 +10020,7 @@ We&apos;re all set up here and ready to write the rest of our script.</p>
   title="test, alert(distance) = 5"
   alt="test, alert(distance) = 5." />
 </p>
-<p>We have a variable here, get rid of this Is making variable are conversion. 
-I&apos;ve been assigned it the conversion, which is distance times .609344 and 
+<p>We have a variable here, **conversion**.  It equals **distance** times 1.609344 and 
 what that will give us is the actual distance converted. But it&apos;s going to 
 give us a very large number or a number with a lot of numbers after the 
 decimal point potentially. And test that you&apos;ll see what I mean. I put in a 
@@ -10057,7 +10056,7 @@ places.</p>
 this 54.32, and you could see that it&apos;s cropping it off here after two decimal 
 places here really wanted more decimal places than that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 610. round to 3 decimal using tofixed (338) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 610. round to 2 decimal using tofixed (338) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image610.png"
   style="width:50%"
@@ -10248,19 +10247,25 @@ it should work exactly the same as it worked before, and it works fine, that&apo
   alt="Second half of script." />
 </p>
 
-Now, I could also move the script up into the head of the page. 
+I could (and will) also move the script up into the head of the page, but I have 
+to add the **defer** attribute here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 625. your file couldn't be accessed (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image625.png"
+  style="width:50%"
+  alt="Your file couldn't be accessed." />
+</p>
 
-Up here into the head, but I have to add the defer attribute here. If I come 
-back and test it, you&apos;ll see that it still works. If you forget the defer 
-attribute up here, then it&apos;s going to try to run that script before the page 
-loads and it won&apos;t work properly. Your file couldn&apos;t be accessed. It&apos;s trying 
-to go to the some PHP file because that script never loaded and it never 
-prevented the default behavior. That didn&apos;t work, so you need to have that 
-differ keyword in there to make sure that the script is deferred until the 
-rest of the file loads. But there we have it. It&apos;s a great little tool and 
-it&apos;s allowed us to practice many of the things that we&apos;ve been talking about 
-during this course, and we&apos;ll look at a slightly more advanced version of 
-the project next.
+If you forget the **defer** attribute up here, then it's going to try to run that 
+script before the page loads and it won't work properly. Your file couldn't be 
+accessed. It's trying to go to the some **PHP** file because that script never 
+loaded and it never prevented the default behavior. That didn't work, so you 
+need to have that **defer** keyword in there to make sure that the script is 
+deferred until the rest of the file loads. But there we have it. It's a great 
+little tool and it's allowed us to practice many of the things that we've been 
+talking about during this course, and we'll look at a slightly more advanced 
+version of the project next.
 
 <ul>
   <li id="ch4-05-start"><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files">4.05 Advanced-Distance-Convert-START-Files.zip</a></li>
@@ -10269,13 +10274,184 @@ the project next.
 <h2 id="ch4-06">4.06 Advanced Distance Converter Project – Part 1 (5:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 623. advanced distance converter project - part 1 (4.06) (344) ~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 626. advanced distance converter project - part 1 (4.06) (346) ~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="./images/image623.png"
+<img src="./images/image626.png"
   style="width:40%"
   title="4.06 Advanced Distance Converter Project - Part 1"
   alt="4.06 Advanced Distance Converter Project - Part 1." />
 </p>
+
+Advanced Distance Converter, Using JavaScript to Convert Distances. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~ 627/628. sample, miles to kilometers & kilometers to miles (346) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image627.png"
+  style="width:45%"
+  alt="Sample, Miles to Kilometers Converter." />
+<img src="./images/image628.png"
+  style="width:45%"
+  alt="Sample, Kilometers to Miles Converter." />
+</p>
+In this project, we're going to use an extension to what we did in the earlier 
+project for the distance converter. We're just going to add an additional feature. 
+What that additional feature is, it'll convert miles to kilometers, where we 
+can press the "K" key to convert kilometers to miles, or we can press the "M" 
+key to go back. We can go back and forth between doing different types of conversions. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 629/630. test, 5 kilos to miles & 5 miles to kilos (347) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image629.png"
+  style="width:45%"
+  alt="Test, 5 kilometers to 3.107 miles." />
+<img src="./images/image630.png"
+  style="width:45%"
+  alt="Test, 5 miles to 8.047 kilometers." />
+</p>
+If I put a five in here and click "Convert Distance", it'll tell me five 
+kilometers converts to 3.107 miles, or if I press the "M" key, I can convert 
+five miles to 8.047 kilometers. That's pretty neat. Notice that a few things 
+are changing when I do this, the header changes here, this little piece of 
+instruction changes slightly here, and a few other things have to be managed 
+down here. I've got a set of instructions down here in the bottom of the page 
+that tell you which keys to press, and that kind of stuff. That gets us set 
+up to start coding this project and getting the script working. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 631.  (347) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image631.png"
+  style="width:50%"
+  alt="." />
+</p>
+You'll notice that, if you look at the Start file here, it looks very similar 
+to what we had before. We just need to get started with a script tag down here, 
+and then the very first thing we're going to put in there is just some variables 
+that we need in order to make this work. 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 632. example, define some variables (348) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image632.png"
+  style="width:50%"
+  alt="." />
+</p>
+We're going to need a variable called convertType that's going to be set 
+initially to miles, and then when you press the "K" key or the "M" key, it's 
+going to update that value to kilometers or miles, depending on which key you 
+press.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 633.  (348) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image633.png"
+  style="width:50%"
+  alt="." />
+</p>
+Then we also need to get the h1 because we're going to change that in the intro 
+text. We might as well gather the answer element down there as well, and also 
+the form that we have in there. 
+
+Let's add these variables, var convertType. Set to “miles” initially. Then 
+I've got var heading = document.querySelector(“h1”);, that will get the 
+heading. Then we need this intro paragraph here, var, and just to make it 
+match what I have over here, it doesn't really matter, I'm just going to 
+call it intro = document.querySelector("p");. This is the first paragraph 
+on the page. Actually, it's the only paragraph on the page. 
+
+Remember, the querySelector will grab the first one that it finds, so that's 
+handy. I can just do querySelector(“p”); I don't have to do anything complicated 
+to get to that paragraph. We might as well grab this answerDiv down here. 
+var answerDiv = document.getElementById(“answer”);. Then we might as well 
+also get the actual form. var form = document.getElementById(“convert”);, 
+and the form is as the ID, set to 'convert'. That gives us all the variables 
+that we need right here at the top of our script, and we're ready to start 
+working on what we need to work on to continue the script.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-07">4.07 Advanced Distance Converter Project – Part 2 (5:44)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 634. advanced distance converter project - part 2 (4.07) (349) ~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image634.png"
+  style="width:50%"
+  title="4.07 Advanced Distance Converter Project - Part 2"
+  alt="4.07 Advanced Distance Converter Project - Part 2." />
+</p>
+Okay, next we need to add two event listeners. One is going to handle key down. 
+When we handle the press of the K key, the M key and the other one is going to 
+handle the submission of the form. Let's add these two event listeners before 
+we do anything else. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 635. document.addeventlistener('keydown',function()) (350) ~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image635.png"
+  style="width:50%"
+  title="Listen for 'keydown' event using document.addEventListener('keydown'..."
+  alt="Listen for 'keydown' event using document.addEventListener('keydown'..." />
+</p>
+Come over here to my code. Down here, my script, I'm going to have 
+document.addEventListener. The event I'm listening for is a ‘keydown’ event. 
+Then I'm going to run a function. Everything for that event listener will go 
+between those curly braces, that's one. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 636. form.addeventlistener('submit',function()) (350) ~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image636.png"
+  style="width:50%"
+  alt="Listen for 'submit' event." />
+</p>
+Then we need to deal with the submission of the form. We already have a variable 
+that's getting that form by ID, so I can just do the form.addEventListener, and 
+again, we want to do submit. When the form is submitted, we want to run the 
+function. It's going to run and do all the fancy stuff. That is going to happen 
+in there. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 637. capture key code using event.code (351) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image637.png"
+  style="width:50%"
+  title="Capture key code using event.code"
+  alt="Capture key code using event.code." />
+</p>
+We've got our two event listeners and we're ready to get started the keydown 
+event listener first. To do that, we're going to pass in the event object here. 
+Before we had used event.which, to figure out which key was pressed. But 
+event.which is now deprecated. Really what they want us to be using over MDN is 
+event.code. Let's assign that to a variable, var key = event.code. Then I'm going 
+to alert our key to see what I get. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 638/639. test, keyk and keym (351) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image638.png"
+  style="width:45%"
+  alt="Test, 'M' key was pressed." />
+<img src="./images/image639.png"
+  style="width:45%"
+  alt="Test, 'K' key was pressed." />
+</p>
+
+All right great, let's go over here and test this. If I refresh and I press the 
+M key, I get key M. If I press the K, I get key K. Instead of giving you a number, 
+gives you actually a key within the letter than the actual letter that you're 
+pressing. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 640. if keyk..else keym (352) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image640.png"
+  style="width:50%"
+  title="If KeyK, convert to Kilometers, elseif KeyM, convert to Miles"
+  alt="If KeyK, convert to Kilometers, elseif KeyM, convert to Miles." />
+</p>
+
+We know how to capture those keys and know which one has been pressed. From 
+here, writing the If statement is very simple. We can say if key is the same 
+as; you could even do triple equals if you wanted to. key K, we're going to do 
+one thing, else, if key is the same as key M we're going to do something else. 
+What are we going to do in here? We're going to change the heading. We're going 
+to change the intro paragraph and the convertype variable. Those are three 
+things that we need to do in each of these as we go forward here with this 
+function.
+
+
 <!-- 
 LAST CHANGED March, 2024 - going through entire document (389 pages) to more clearly identify images
 and give a clearer description of JavaScript and it&apos;s many nuances. For example, ECMA 2023, and what it
