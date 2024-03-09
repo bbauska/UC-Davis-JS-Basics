@@ -10866,18 +10866,46 @@ stop here, and we will pick this up in the next lesson.
   style="width:50%"
   alt="." />
 </p>
-Next, we'll add two fields. One is going to hold the name of the destination and the other is going to hold the location of the destination. Each of these fields needs a label element, destination name and that takes a “for” attribute for name. That “for” attribute connects to the id of the input that goes with it. Input type equals text, id equals name, and then also we want to make sure that users use this, so I'm just going to put required. 
-Now your browser has to support this for this to actually work, but rather than built-in some form validation, which we're going to do in the next course. We'll talk more about form validation. But here we'll just use the built-in browser form validation, which isn't perfect, but it'll help. Now we've got a field here that is required that has an id that's going to match the “for” attribute, and it's typed text. 
-Then we're going to need another one, label for location. Maybe I'll do destination location something like that and then of course we need the input for that, input type equals text, id equals location, and required just like before.<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Next, we'll add two fields. One is going to hold the name of the destination 
+and the other is going to hold the location of the destination. Each of these 
+fields needs a label element, destination name and that takes a “for” attribute 
+for name. That “for” attribute connects to the id of the input that goes with 
+it. Input type equals text, id equals name, and then also we want to make sure 
+that users use this, so I'm just going to put required. 
+
+Now your browser has to support this for this to actually work, but rather than 
+built-in some form validation, which we're going to do in the next course. We'll 
+talk more about form validation. But here we'll just use the built-in browser 
+form validation, which isn't perfect, but it'll help. Now we've got a field here 
+that is required that has an id that's going to match the “for” attribute, and 
+it's typed text. 
+
+Then we're going to need another one, label for location. Maybe I'll do 
+destination location something like that and then of course we need the 
+input for that, input type equals text, id equals location, and required 
+just like before.<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 665.  (366) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image665.png"
   style="width:50%"
   alt="." />
 </p>
-From there we're going to add a couple more fields, I think. Yes, we want two more fields. One for the photo, so I'm going to have a label for photo. This one is going to be an input type equals URL because we're going to paste in a URL here for a photo that's already online rather than upload a photo or anything like that, that would be much more complicated. 
-But we can just very easily find a photo online of where we want to put it and put that in there, and your id is going to be set to your photo. This one is not going to be required because we can have a default photo in case we need it. 
-Then the last one we need label for description will have a location or destination description. This is going to be a text area, like so. It needs to have an id, so to description to match the for attribute, and there we go. A form is basically built. 
+
+From there we're going to add a couple more fields, I think. Yes, we want two 
+more fields. One for the photo, so I'm going to have a label for photo. This 
+one is going to be an input type equals URL because we're going to paste in a 
+URL here for a photo that's already online rather than upload a photo or 
+anything like that, that would be much more complicated. 
+
+But we can just very easily find a photo online of where we want to put it 
+and put that in there, and your id is going to be set to your photo. This 
+one is not going to be required because we can have a default photo in case 
+we need it. 
+
+Then the last one we need label for description will have a location or 
+destination description. This is going to be a text area, like so. It needs to 
+have an id, so to description to match the for attribute, and there we go. A 
+form is basically built. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 666.  (367) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10885,7 +10913,10 @@ Then the last one we need label for description will have a location or destinat
   style="width:50%"
   alt="." />
 </p>
-Another thing that would be nice is if we had some placeholder text in these fields. We can add a placeholder attribute and set it for each. Placeholder for destination name, destination location, photo and description.
+
+Another thing that would be nice is if we had some placeholder text in these 
+fields. We can add a placeholder attribute and set it for each. Placeholder 
+for destination name, destination location, photo and description.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 667.  (367) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10893,15 +10924,29 @@ Another thing that would be nice is if we had some placeholder text in these fie
   style="width:50%"
   alt="." />
 </p>
-We're ready to add the element that's going to take the results we put in there. That will be an article after the format an article, and then we're going to add an h2 with an id set to title. Initially, this h2 is going to have a value set to enter destination details. That's giving us some instructions there. 
-Then after that, we're going to have just a div that's going to be a container for this thing, and it's going to get an id destinations container like so. This div is going to have in it the content generated by JS. That's going to get the content that JavaScript is going to generate is going to go inside this container. I believe that finishes the HTML that we need for now. That'll pretty much finish the software for all the HTML we need. 
+
+We're ready to add the element that's going to take the results we put in 
+there. That will be an article after the format an article, and then we're 
+going to add an h2 with an id set to title. Initially, this h2 is going to 
+have a value set to enter destination details. That's giving us some 
+instructions there. 
+
+Then after that, we're going to have just a div that's going to be a container 
+for this thing, and it's going to get an id destinations container like so. 
+This div is going to have in it the content generated by JS. That's going to 
+get the content that JavaScript is going to generate is going to go inside 
+this container. I believe that finishes the HTML that we need for now. That'll 
+pretty much finish the software for all the HTML we need. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 668.  (368) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image668.png"
   style="width:50%"
   alt="." />
-  Save the file and then let's just go take a quick look at it over here. If I refresh this, you'll see it doesn't look like much, doesn't look very good. We don't have any styling in here yet, so we'll do the styling next.
+</p>
+Save the file and then let's just go take a quick look at it over here. If I 
+refresh this, you'll see it doesn't look like much, doesn't look very good. 
+We don't have any styling in here yet, so we'll do the styling next.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-13">4.13 Vacation Destination Project: HTML & CSS -- Part 3 (7:03)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10911,9 +10956,21 @@ Then after that, we're going to have just a div that's going to be a container f
 <img src="./images/image669.png"
   style="width:50%"
   alt="." />
-We have the HTML in place, and now we're ready to start styling the page and making it look a little bit better. 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
-We have the normalized script up at the top of the page, which will help smooth out the differences between different browsers but beyond that, personally, I find it helpful to zero out some margins and padding and some elements and then add them back the way I want them in order to get them to work. I have here a few reset CSS things that are helpful in general. This is just my own personal preference. You could leave these out if you wanted to but generally, I think they help with zeroing out some of the base styles that most browsers display by default
+</p>
+
+We have the HTML in place, and now we're ready to start styling the page and 
+making it look a little bit better. 
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" 
+rel="stylesheet">
+
+We have the normalized script up at the top of the page, which will help smooth 
+out the differences between different browsers but beyond that, personally, I 
+find it helpful to zero out some margins and padding and some elements and then 
+add them back the way I want them in order to get them to work. I have here a 
+few reset CSS things that are helpful in general. This is just my own personal 
+preference. You could leave these out if you wanted to but generally, I think 
+they help with zeroing out some of the base styles that most browsers display 
+by default
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 670.  (370) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10922,38 +10979,82 @@ We have the normalized script up at the top of the page, which will help smooth 
   style="width:50%"
   title=""
   alt="." />
-  I'm going to add these in. Over here I'm going to add on my style sheet here a rule for h1, h2, h3, h4, ul, li and p. I'm putting this in the script page, styles.css. h1, h2, h3, h4, ul, li, and p { margin: 0; padding: 0;}. That gets rid of the margin and padding. 
-It's also helpful to say img {max-width: 100%;}. I think that's helpful to make sure images don't bust out of their containers. If you put an image in for URL that's too big to fit in the container, it will overflow it. We don't want that to happen. We'll set that as well, and then I also have over here just some styles for the body. 
-I'm going to set the font to Arial. Arial is the font that most computers have so they work pretty well. I'm going to set the color of the text to dark gray in this basic rule here. I'm going to have body{font-family: Arial; color: #333;}. 
+</p>
+
+I'm going to add these in. Over here I'm going to add on my style sheet here a 
+rule for h1, h2, h3, h4, ul, li and p. I'm putting this in the script page, 
+styles.css. h1, h2, h3, h4, ul, li, and p { margin: 0; padding: 0;}. That gets 
+rid of the margin and padding. 
+
+It's also helpful to say img {max-width: 100%;}. I think that's helpful to make 
+sure images don't bust out of their containers. If you put an image in for URL 
+that's too big to fit in the container, it will overflow it. We don't want that 
+to happen. We'll set that as well, and then I also have over here just some 
+styles for the body. 
+
+I'm going to set the font to Arial. Arial is the font that most computers have 
+so they work pretty well. I'm going to set the color of the text to dark gray 
+in this basic rule here. I'm going to have body{font-family: Arial; color: #333;}. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 671.  (371) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image671.png"
   style="width:50%"
   alt="." />
-Already you'll see that the page is starting to come together a little bit with some of that styling. Notice that we've lost a bunch of the margin and padding on those things. 
+</p>
+
+Already you'll see that the page is starting to come together a little bit with 
+some of that styling. Notice that we've lost a bunch of the margin and padding 
+on those things. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 672. example, continue styling (371) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image672.png"
   style="width:50%"
   alt="." />
-  Next we're going to style up the header and the main content to get them to look the way we want them to look. Header, I'm going to set the padding background color, text align center, the color of the text in there, and then the margin on the bottom. Let's go ahead and do that. Header, padding, 50 px, background color. I'm using this cornflower blue. We're setting the color of the text to white. Text-align, center. I put the margin, bottom 20 px, and anything else that I did over here. 
-Then for main, we're going to have a max-width of 800 pixels, padding 20 pixels, margin auto that will center it on the page, display flex, that will make the two items in there sit next to each other and justify-content space-between, and then we'll set percentage width or a specific width for those two items that are going to sit next to each other on the page there. Let's go ahead and add that in. Main, max-width, 800px. It's a narrow page, but that's okay for what we're doing. Display, flex. That turns it into a flexbox and, I did some stuff with margin and padding. What did I do here? Padding 20 pixels margin auto. That above there. Actually it doesn't really matter. Padding 20 px, margin auto. There we go. Then with display flex; we do justify-content: space-between; which will put a gap between those two items. 
+</p>
+
+Next we're going to style up the header and the main content to get them to 
+look the way we want them to look. Header, I'm going to set the padding 
+background color, text align center, the color of the text in there, and then 
+the margin on the bottom. Let's go ahead and do that. Header, padding, 50 px, 
+background color. I'm using this cornflower blue. We're setting the color of 
+the text to white. Text-align, center. I put the margin, bottom 20 px, and 
+anything else that I did over here. 
+
+Then for main, we're going to have a max-width of 800 pixels, padding 20 
+pixels, margin auto that will center it on the page, display flex, that will 
+make the two items in there sit next to each other and justify-content space-
+between, and then we'll set percentage width or a specific width for those 
+two items that are going to sit next to each other on the page there. 
+
+Let's go ahead and add that in. Main, max-width, 800px. It's a narrow page, 
+but that's okay for what we're doing. Display, flex. That turns it into a 
+flexbox and, I did some stuff with margin and padding. What did I do here? 
+Padding 20 pixels margin auto. That above there. Actually it doesn't really 
+matter. Padding 20 px, margin auto. There we go. Then with display flex; 
+we do justify-content: space-between; which will put a gap between those 
+two items. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 673.  (372) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image673.png"
   style="width:50%"
   alt="." />
-The two items that are going to go next to each other are the form on the left, and then this article on the right, those become flex items. They're going to sit next to each other in our design.
+</p>  
+The two items that are going to go next to each other are the form on the left, 
+and then this article on the right, those become flex items. They're going to 
+sit next to each other in our design.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 674.  (373) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image674.png"
   style="width:50%"
   alt="." />
-Just like that and even with just those two rules, you'll see it's starting to come together a little bit there. Not very much yet, but it's starting to come together. Well pick up the styling in the next video.
+</p>
+Just like that and even with just those two rules, you'll see it's starting 
+to come together a little bit there. Not very much yet, but it's starting to 
+come together. Well pick up the styling in the next video.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-14">4.14 Vacation Destination Project: HTML & CSS -- Part 4 (6:56)</h2>
@@ -10963,46 +11064,95 @@ Just like that and even with just those two rules, you'll see it's starting to c
 <img src="./images/image675.png"
   style="width:50%"
   alt="." />
-Next, we're going to set the width of the form and the article respectively. We'll add some margin back in the bottom of these elements so they start to look a little bit better and then the title is going to get text-align to the center. We'll be able to do all of that here. 
+</p>
+  
+Next, we're going to set the width of the form and the article respectively. 
+We'll add some margin back in the bottom of these elements so they start to 
+look a little bit better and then the title is going to get text-align to the 
+center. We'll be able to do all of that here. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 676.  (374) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image676.png"
   style="width:50%"
   alt="." />
+</p>
+Let's add that into our style sheet here. Main.form will target the form itself 
+width 40 percent. Setting it up a little bit to be responsive but not entirely. 
+Main article is going to be width 45 percent. That adds up to 85 percent, which 
+means that 15 percent will be left to be the gap between those two to create a 
+little bit of a gutter between these two columns here. We've got that in, and 
+then we can just put the margin in the bottom of these elements, h1, h2, h3, 
+h4, we have all those, we might margin-bottom 1em. 
 
-Let's add that into our style sheet here. Main.form will target the form itself width 40 percent. Setting it up a little bit to be responsive but not entirely. Main article is going to be width 45 percent. That adds up to 85 percent, which means that 15 percent will be left to be the gap between those two to create a little bit of a gutter between these two columns here. We've got that in, and then we can just put the margin in the bottom of these elements, h1, h2, h3, h4, we have all those, we might margin-bottom 1em. 
-You might be wondering, well, it seems silly to tick the margin out up above and then put it back in down below. But I've found that I get a lot more control over the look of my pages and the visual spacing between things. If these elements only have margin on the bottom and not margin on top and bottom, which is what they get by default in most browsers. 
+You might be wondering, well, it seems silly to tick the margin out up above 
+and then put it back in down below. But I've found that I get a lot more control 
+over the look of my pages and the visual spacing between things. If these 
+elements only have margin on the bottom and not margin on top and bottom, 
+which is what they get by default in most browsers. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 677.  (375) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image677.png"
   style="width:50%"
   alt="." />
-If save that and check it over here, you can see it's starting to come together a little bit more. But the last thing I was going to do is center that title over there. We've got #titled text-align center. There we go. 
-Let's see what else we need to do for styling. Got that going so that is centered over there now it's great. 
+</p>
+
+If save that and check it over here, you can see it's starting to come together 
+a little bit more. But the last thing I was going to do is center that title 
+over there. We've got #titled text-align center. There we go. 
+
+Let's see what else we need to do for styling. Got that going so that is 
+centered over there now it's great. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 678.  (375) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image678.png"
   style="width:50%"
   alt="." />
-Now, we're just going to do a little bit with forms. With forms, you can spend a lot of time designing forms and styling them. We're just going to do a little bit right now. What you should notice to begin with is that by default, form elements are inline or phrasing elements and we'll go next to each other and we don't really like that. We wanted to stack. If you set them to display block and then work with them, they're a little bit easier to work with. 
+</p>
+  
+Now, we're just going to do a little bit with forms. With forms, you can spend 
+a lot of time designing forms and styling them. We're just going to do a little 
+bit right now. What you should notice to begin with is that by default, form 
+elements are inline or phrasing elements and we'll go next to each other and 
+we don't really like that. We wanted to stack. If you set them to display 
+block and then work with them, they're a little bit easier to work with. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 679.  (376) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image679.png"
   style="width:50%"
   alt="." />
-Let's go ahead and add these rules in here. For the label, we're going to tell that to display block and put a little bit of margin on the bottom margin-bottom, 1em is fine. That's cool. That'll work. Then for the other thing we've got input, we've got the text area, and we've got this form. Put it a half over here. I called it, which is the destination details form button. This is just the button inside the form and I'm being specific because we might end up with another button leader, #destinaton_details_form button. That's specific button that's in over here, so that's this form, destination_details_form, and then this button down here and put an ID on it. Being specific there and what we want to set is just display block width 100 percent margin-bottom 1em and put a little border on it with a sort of medium gray and some padding and box-sizing border-box. 
-Display block that will make each one ticket its own line. Width 100 percent margin-bottom 1em. Border 1px solid 666, padding 10px, box-sizing border-box. With box-sizing border-box, does is it makes the padding and border part of the width of the element? Remember, we set the width to 45 percent so we don't want to extend beyond that size there. 
+</p>
+
+Let's go ahead and add these rules in here. For the label, we're going to tell 
+that to display block and put a little bit of margin on the bottom margin-bottom, 
+1em is fine. That's cool. That'll work. Then for the other thing we've got input, 
+we've got the text area, and we've got this form. Put it a half over here. I 
+called it, which is the destination details form button. This is just the button 
+inside the form and I'm being specific because we might end up with another 
+button leader, #destinaton_details_form button. That's specific button that's 
+in over here, so that's this form, destination_details_form, and then this button 
+down here and put an ID on it. Being specific there and what we want to set is 
+just display block width 100 percent margin-bottom 1em and put a little border 
+on it with a sort of medium gray and some padding and box-sizing border-box. 
+
+Display block that will make each one ticket its own line. Width 100 percent 
+margin-bottom 1em. Border 1px solid 666, padding 10px, box-sizing border-box. 
+With box-sizing border-box, does is it makes the padding and border part of 
+the width of the element? Remember, we set the width to 45 percent so we don't 
+want to extend beyond that size there. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 680.  (377) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image680.png"
   style="width:50%"
   alt="." />
-Let's take a look and see what that looks like over here. That's looking much better, much cleaner. We will finish up the styling in the next lesson.
+</p>
+
+Let's take a look and see what that looks like over here. That's looking much 
+better, much cleaner. We will finish up the styling in the next lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-15">4.15 Vacation Destination Project: HTML & CSS -- Part 5 (4:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11012,6 +11162,7 @@ Let's take a look and see what that looks like over here. That's looking much be
 <img src="./images/image681.png"
   style="width:50%"
   alt="." />
+</p>
 
 We\'re going to add **cards** dynamically using JavaScript, but we want
 to know what they\'re going to look like. The best way to do this is to
@@ -11024,6 +11175,8 @@ like, and then remove that card. That\'s what we\'ll do next.
 <img src="./images/image682.png"
   style="width:50%"
   alt="." />
+</p>
+  
 We\'re going to start by going back and adding just a little bit more
 HTML. We need a div with a class of **card** and an image with the
 signpost, and then in there we\'re going to have the **card** body with
@@ -11035,6 +11188,8 @@ button here.
 <img src="./images/image683.png"
   style="width:50%"
   alt="." />
+</p>
+
 Let\'s add this into our HTML over here. It\'s going to go down here
 inside this generated content by JavaScript here we\'re going to do
 **div class** equals **card-body**. This has to be a class because
@@ -11060,6 +11215,7 @@ the HTML for that card in. It won\'t look particularly good.
 <img src="./images/image684.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s see what it looks like. Doesn\'t look terrible, but it looks
 okay, but we might want to do a little bit more with it. Actually, it\'s
@@ -11072,6 +11228,7 @@ Let\'s have that. Instead.
 <img src="./images/image685.png"
   style="width:50%"
   alt="." />
+</p>
 
 One last rule down here. For the card. I\'m going to just give it a
 little bit of padding, set a background color, and set some margin on
@@ -11082,6 +11239,7 @@ the bottom and that should look good.
 <img src="./images/image686.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s take a look and see how that goes. There we go. Now we\'ve got a
 card that\'s looking good. Ultimately, these are going to be put in
@@ -11095,6 +11253,7 @@ through JavaScript.
 <img src="./images/image687.png"
   style="width:50%"
   alt="." />
+</p>
 
 The HTML and CSS is in place now. And now that we\'ve got that in place,
 we can start thinking about how this little application is going to
@@ -11109,6 +11268,7 @@ will get added, that card will get added to the list over here.
 <img src="./images/image688.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s take a look at a little bit of a flow chart to sort of see how
 this is going to work and how we\'re going to kind of make that all work
@@ -11130,6 +11290,7 @@ for how we add stuff to the page.
 <img src="./images/image689.png"
   style="width:50%"
   alt="." />
+</p>
 
 So the first time we add something to the page, this title is going to
 get changed, but otherwise it\'s not. That\'s the only thing that\'s
@@ -11143,6 +11304,7 @@ need to look at here.
 <img src="./images/image690.png"
   style="width:50%"
   alt="." />
+</p>
 
 The creating the card looks like a really long function, but it\'s very
 sequential. And basically we\'re going to create a **div** and set the
@@ -11160,6 +11322,7 @@ JavaScript create them, to create these elements here.
 <img src="./images/image691.png"
   style="width:50%"
   alt="." />
+</p>
 
 We\'re creating all of this HTML here.
 
@@ -11176,6 +11339,7 @@ really quickly.
 <img src="./images/image692.png"
   style="width:50%"
   alt="." />
+</p>
 
 We\'ve got a function here for going through the form fields and
 emptying out the form fields. And then we\'ve got a little function here
@@ -11204,6 +11368,7 @@ manipulate that HTML and CSS in the end to make the final product.
 <img src="./images/image693.png"
   style="width:50%"
   alt="." />
+</p>
 
 Vacation Destination List, part two.
 
@@ -11213,6 +11378,7 @@ Vacation Destination List, part two.
 <img src="./images/image694.png"
   style="width:50%"
   alt="." />
+</p>
 
 This part (2) we will add the JavaScript and I\'m picking up exactly
 where I left off after part one.
@@ -11223,6 +11389,7 @@ where I left off after part one.
 <img src="./images/image695.png"
   style="width:50%"
   alt="." />
+</p>
 
 In part one, you created the HTML and the CSS, and you should have a
 page that looks like this. If you don\'t, please go back and make sure
@@ -11236,6 +11403,8 @@ correctly, everything spelled right.
 <img src="./images/image696.png"
   style="width:50%"
   alt="." />
+</p>
+  
 Okay, now we\'ll write the JavaScript we need to make this little
 application work. To start with, let\'s grab the actual destination
 details form and put that into a variable called **detailsForm** and
@@ -11250,6 +11419,7 @@ the beginning of that function.
 <img src="./images/image697.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s get started with this right off the bat. Over here, I\'m going to
 open up my script file and add a variable **var detailsForm** =
@@ -11297,6 +11467,7 @@ these things.
 <img src="./images/image698.png"
   style="width:50%"
   alt="." />
+</p>
 
 The first thing on our list of tasks to do, is to get the values out of
 the fields from the form. And, to do that, we can create a variable for
@@ -11310,6 +11481,8 @@ form.
 <img src="./images/image699.png"
   style="width:50%"
   alt="." />
+</p>
+  
 And you\'ll remember over here when we created this form, in the HTML,
 we made it such that these fields were required. So if you try to click
 add list without filling in anything, it\'s not going to do anything
@@ -11323,6 +11496,7 @@ you get good data into forms in the second course in the specialization.
 <img src="./images/image700.png"
   style="width:50%"
   alt="." />
+</p>
 
 But, for right now, we just want to do something quick and simple, and
 we\'ve got enough there to sort of keep it from it least being empty,
@@ -11346,6 +11520,7 @@ out of a form and get that data.
 <img src="./images/image701.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s put that onto our script. Over here, I\'m going to do for
 **destName** equals **events.target.elements\['name'\].value;** That's
@@ -11359,6 +11534,7 @@ going to get the name. That\'ll get me the first one. And the rest;
 <img src="./images/image702.png"
   style="width:50%"
   alt="." />
+</p>
 
 The next thing we need to do once we\'ve captured the values from the
 form is to remove them until the form is ready for a new thing.
@@ -11369,6 +11545,8 @@ form is to remove them until the form is ready for a new thing.
 <img src="./images/image703.png"
   style="width:50%"
   alt="." />
+</p>
+  
 I\'m just going to use a for loop here to loop through the elements of
 the form, and set the value back to empty. For, here\'s my for loop.
 For, and I\'m going to have just a counter variable, var **i** equals
@@ -11394,6 +11572,7 @@ form. We\'ve taken care of the first two items on our list.
 <img src="./images/image704.png"
   style="width:50%"
   alt="." />
+</p>
 
 We gathered the information from the form and cleared the format. The
 third thing to do is to run a function that creates a new card. We\'re
@@ -11414,6 +11593,7 @@ more sense once there\'s something in that column over there.
 <img src="./images/image705.png"
   style="width:50%"
   alt="." />
+</p>
 
 We\'re going to make a variable. We\'ll just put in create card here, so
 we remember we need to come back and do that. But I\'m going to have var
@@ -11444,6 +11624,7 @@ the right-hand side there.
 <img src="./images/image706.png"
   style="width:50%"
   alt="." />
+</p>
 
 So far, it gets the data from the form fields, and then clears them out.
 
@@ -11460,6 +11641,7 @@ we\'ll do is actually add the card. Let\'s move on here.
 <img src="./images/image707.png"
   style="width:50%"
   alt="." />
+</p>
 
 We\'re going to create a new function called **createDestinationCard**.
 It\'s going to take four parameters, and these parameters are the data
@@ -11471,6 +11653,7 @@ that come in from the form that somebody filled out.
 <img src="./images/image708.png"
   style="width:50%"
   alt="." />
+</p>
   
 Let\'s go ahead and do that first. Down here I\'m going to create a new
 function. **function createDestinationCard**, and it\'s going to take
@@ -11490,6 +11673,7 @@ and we\'re going to set the className equal to card.
 <img src="./images/image709.png"
   style="width:50%"
   alt="." />
+</p>
 
 If you wonder where we\'re going here, you can go over to the index file
 here because we\'re basically going to use JavaScript to create these
@@ -11541,6 +11725,7 @@ constant.
 <img src="./images/image710.png"
   style="width:50%"
   alt="." />
+</p>
 
 For this source table, we\'re going to say its a **photoURL**. If
 somebody put in a URL for a photo, it will get set to that. Otherwise,
@@ -11554,6 +11739,7 @@ we\'ll use the default one that\'s in there.
 <img src="./images/image711.png"
   style="width:50%"
   alt="." />
+</p>
 
 This function is getting long, and it\'s going to get longer because
 we\'re creating all of these elements here.
@@ -11564,6 +11750,7 @@ we\'re creating all of these elements here.
 <img src="./images/image712.png"
   style="width:50%"
   alt="." />
+</p>
 
 If you look over here on the index file, what we\'ve created so far of
 our card is we\'ve created this **div**, and we\'ve created the image.
@@ -11577,6 +11764,7 @@ description text is actually optional.
 <img src="./images/image713.png"
   style="width:50%"
   alt="." />
+</p>
 
 If you come up here, you\'ll notice there\'s no required on the text
 area there. We\'re going to have to deal with what happens if that\'s
@@ -11589,6 +11777,7 @@ let\'s go ahead and continue forward with this.
 <img src="./images/image714.png"
   style="width:50%"
   alt="." />
+</p>
 
 Over here the next thing we need to add after the image is a variable
 for the card body. We\'re going to make a variable card body and create
@@ -11620,6 +11809,7 @@ the h3 and the h4.
 <img src="./images/image715.png"
   style="width:50%"
   alt="." />
+</p>
 
 Next step is to check and see if somebody typed something into the
 description because it could be empty potentially, and we\'ll put that
@@ -11641,6 +11831,7 @@ body again. We get that appended in.
 <img src="./images/image716.png"
   style="width:50%"
   alt="." />
+</p>
 
 The next thing we need to add is the remove button. I\'ll put that in
 here. Here I\'ve got a variable called card delete button, and I\'m
@@ -11660,6 +11851,7 @@ and then I take that button and I append it.
 <img src="./images/image717.png"
   style="width:50%"
   alt="." />
+</p>
 
 Append the card delete button to the card body.
 
@@ -11669,6 +11861,7 @@ Append the card delete button to the card body.
 <img src="./images/image718.png"
   style="width:50%"
   alt="." />
+</p>
 
 Again, if we come over here and look at the HTML here, you can see that
 this button called remove has been added to this card body. The card
@@ -11690,6 +11883,7 @@ that to the card.
 <img src="./images/image719.png"
   style="width:50%"
   alt="." />
+</p>
 
 We need to do that too, and then we created the card. We need to add the
 image to the card as well, but we need to add the card body to the card
@@ -11703,6 +11897,7 @@ so that we\'ll put the image on the card.
 <img src="./images/image720.png"
   style="width:50%"
   alt="." />
+</p>
 
 Down at the bottom here, we need to add append child card body, and then
 we just need to return card. That\'s going to take this card object or
@@ -11716,6 +11911,7 @@ returns that card which should be a big piece of HTML.
 <img src="./images/image721.png"
   style="width:50%"
   alt="." />
+</p>
 
 Well not a very big piece of HTML, but a piece of HTML that\'s this card
 here, **div** class card and in it will have the image, either the
@@ -11731,6 +11927,7 @@ button and then that gets added on there, and then it gets returned.
 <img src="./images/image722.png"
   style="width:50%"
   alt="." />
+</p>
 
 The next step in this process is to actually write the function that
 removes the card. And that\'s what this is going to look like here.
@@ -11749,6 +11946,7 @@ card. I\'m going up one parent to another parent to remove the card.
 <img src="./images/image723.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s add this function over here. Down here I\'ve got function
 **removeDestination**, and it\'s going to take an event object. And I\'m
@@ -11766,6 +11964,7 @@ will get called here if you click on the **cardDeleteBtn**.
 <img src="./images/image724.png"
   style="width:50%"
   alt="." />
+</p>
 
 The last thing we need to do is kind of put it together. Up here you\'ll
 remember we had to things that we needed to do. We needed to create the
@@ -11779,6 +11978,7 @@ here.
 <img src="./images/image725.png"
   style="width:50%"
   alt="." />
+</p>
 
 To create the card, what we\'re going to need is make it variable
 destination card, and that\'s going to run. This is going to be using a
@@ -11790,6 +11990,7 @@ function expression here.
 <img src="./images/image726.png"
   style="width:50%"
   alt="." />
+</p>
 
 So we\'re going to use a function expression to create the destination
 card passing in these variables, so let\'s do that. **destCard** = and
@@ -11823,6 +12024,7 @@ checking and fixing of stuff and see if it all works.
 <img src="./images/image727.png"
   style="width:50%"
   alt="." />
+</p>
 
 We can now add cards, and remove them from the list.
 
@@ -11832,6 +12034,7 @@ We can now add cards, and remove them from the list.
 <img src="./images/image728.png"
   style="width:50%"
   alt="." />
+</p>
 
 Let\'s try it again here. We\'ll do Fenway Park again. We\'ll do Boston.
 Put in the photo that I have in my form already.
@@ -11842,6 +12045,7 @@ Put in the photo that I have in my form already.
 <img src="./images/image729.png"
   style="width:50%"
   alt="." />
+</p>
 
 Then what happens if we leave the photo app? Let\'s do that. No photo in
 there. See if the regular photo shows up. It does. So that\'s the
@@ -11858,6 +12062,7 @@ go, Add to List.
 <img src="./images/image730.png"
   style="width:50%"
   alt="." />
+</p>
 
 You can see that it\'s appended that card, it\'s added it to the list.
 So now I\'ve got two here, and they\'re both working. I can remove
@@ -11871,6 +12076,7 @@ supposed to change. Everything else is working.
 <img src="./images/image731.png"
   style="width:50%"
   alt="." />
+</p>
 
 Here, in this little application we\'ve created here, and it\'s not very
 sophisticated. It\'s only got a few features, but we can add elements,
@@ -11888,6 +12094,7 @@ that in the next video.
 <img src="./images/image732.png"
   style="width:50%"
   alt="." />
+</p>
 
 Now that we have a working project which is great, and we had some
 errors and that\'s normal and I\'m glad they appeared here for me
@@ -11905,6 +12112,7 @@ manipulating many times both of those things on the fly.
 <img src="./images/image732.png"
   style="width:50%"
   alt="." />
+</p>
 
 Just for a quick summary of the script here, when you submit that form,
 what we\'re doing is we\'re running this handle form submit function
@@ -11917,6 +12125,7 @@ from the form when it\'s done.
 <img src="./images/image733.png"
   style="width:50%"
   alt="." />
+</p>
 
 Then going through and actually creating the actual card, after that
 going in and fixing the header at the top of that container, at this
@@ -11931,6 +12140,7 @@ actually put the card on the page.
 <img src="./images/image734.png"
   style="width:50%"
   alt="." />
+</p>
 
 The create destination card is a long function because we\'re creating
 each one of these HTML elements manually or individually here having
@@ -11945,6 +12155,7 @@ extra piece of functionality that we have in this little application.
 <img src="./images/image735.png"
   style="width:50%"
   alt="." />
+</p>
   
 The last thing to do is to clean it up by adding a function up at the
 top here to enclose the whole thing and then changing out the variables.
@@ -11955,6 +12166,7 @@ top here to enclose the whole thing and then changing out the variables.
 <img src="./images/image736.png"
   style="width:50%"
   alt="." />
+</p>
   
 Again, we would just do open parenthesis and run an anonymous function
 with its parentheses in its curly braces, and then one more set of
@@ -11969,6 +12181,7 @@ scope.
 <img src="./images/image737.png"
   style="width:50%"
   alt="." />
+</p>
 
 Then I could take everything that\'s in here, and stick it inside this
 function here.
@@ -11979,6 +12192,7 @@ function here.
 <img src="./images/image738.png"
   style="width:50%"
   alt="." />
+</p>
   
 The last thing you could do is go through and replace all the **vars**
 we\'ve got with **const**. They should be **constant** as much as
@@ -11998,6 +12212,7 @@ this at the end, and that\'s certainly fine as well.
 <img src="./images/image739.png"
   style="width:50%"
   alt="." />
+</p>
 
 When you\'re new at this I think it\'s helpful to start with **var** and
 then come in and add **const** as you need to or **let**. Again, **let**
@@ -12013,6 +12228,7 @@ think that\'s the only one. I could be wrong.
 <img src="./images/image741.png"
   style="width:45%"
   alt="." />
+</p>
 
 Let\'s just check and see if I\'m wrong. If you are wrong, you\'ll get
 an error and you can fix it. Just refresh this, type in Fenway Park one
