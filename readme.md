@@ -11945,6 +11945,7 @@ extra piece of functionality that we have in this little application.
 <img src="./images/image735.png"
   style="width:50%"
   alt="." />
+  
 The last thing to do is to clean it up by adding a function up at the
 top here to enclose the whole thing and then changing out the variables.
 
@@ -11954,6 +11955,7 @@ top here to enclose the whole thing and then changing out the variables.
 <img src="./images/image736.png"
   style="width:50%"
   alt="." />
+  
 Again, we would just do open parenthesis and run an anonymous function
 with its parentheses in its curly braces, and then one more set of
 parentheses to make it run. This will run when the page loads. I can
@@ -11977,6 +11979,7 @@ function here.
 <img src="./images/image738.png"
   style="width:50%"
   alt="." />
+  
 The last thing you could do is go through and replace all the **vars**
 we\'ve got with **const**. They should be **constant** as much as
 possible. So we can just click **const** there, come down through here,
@@ -12037,17 +12040,15 @@ with the **jQuery** library and some of the cool interactions that we
 can make. So thank you for coming along this far and I hope to see you
 in the next course.
 
-# .the end. 2.24.24 11:42pm
-
-# .the end, again. 3.06.23 5:25pm
-
-# .the end, again. 3.09.23 3:31am
+<h5>.the end. 2.24.24 11:42pm</h5>
+<h5>.the end, again. 3.06.23 5:25pm</h5>
+<h5>.the end, again. 3.09.23 3:31am</h5>
 
 <h2 id="add">Additional Materials re JavaScript Basics</h2>
 
 Appendix:
 
-# Loops Defined
+<h2>Loops Defined</h2>
 
 Looping in JavaScript allows you to repeatedly execute a block of code.
 There are several types of loops in JavaScript, each serving a different
