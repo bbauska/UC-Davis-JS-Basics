@@ -10955,7 +10955,6 @@ The two items that are going to go next to each other are the form on the left, 
   alt="." />
 Just like that and even with just those two rules, you'll see it's starting to come together a little bit there. Not very much yet, but it's starting to come together. Well pick up the styling in the next video.
 
-<!-- INTERIM END OF CONVERSION PROJECT, 11 CHAPTERS TO GO TO COMPLETION -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-14">4.14 Vacation Destination Project: HTML & CSS -- Part 4 (6:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -11013,110 +11012,1146 @@ Let's take a look and see what that looks like over here. That's looking much be
 <img src="./images/image681.png"
   style="width:50%"
   alt="." />
-We're going to add cards dynamically using JavaScript, but we want to know what they're going to look like. The best way to do this is to add one manually, add a card that would get added by JavaScript with all the correct HTML, style that so we know that what it's supposed to look like, and then remove that card. That's what we'll do next. 
 
+We\'re going to add **cards** dynamically using JavaScript, but we want
+to know what they\'re going to look like. The best way to do this is to
+add one manually, add a card that would get added by JavaScript with all
+the correct HTML, style that so we know that what it\'s supposed to look
+like, and then remove that card. That\'s what we\'ll do next.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 682.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image682.png"
+  style="width:50%"
+  alt="." />
+We\'re going to start by going back and adding just a little bit more
+HTML. We need a div with a class of **card** and an image with the
+signpost, and then in there we\'re going to have the **card** body with
+an **h3** and **h4** and a **paragraph** in button. We do have another
+button here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 683.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image683.png"
+  style="width:50%"
+  alt="." />
+Let\'s add this into our HTML over here. It\'s going to go down here
+inside this generated content by JavaScript here we\'re going to do
+**div class** equals **card-body**. This has to be a class because
+we\'re going to have multiple cards. We\'d have multiple cards on the
+page, so you can only use an **id** once. That has to be a **class**.
+Then let\'s add an image.
 
+Images/signpost. I\'m not going to put in all tag on it at the moment.
+We\'ve got that image and then we\'ve got the card body coming next. div
+class="card-body". Then inside the card body we\'re going to add h3
+destination name. Then we\'ll do a h4 destination location. Then we\'re
+to add a Paragraph p with a class set to card-text, destination
+description. Then we\'re going to add a button that will allow you to
+remove the card if you need to. We\'ll have a feature that will allow
+you to take a card off, so we\'ll add that button in there. I believe
+that\'s what we need for the HTML.
 
+Let\'s take a look over here. Yeah, there we go. So we\'ve got all of
+the HTML for that card in. It won\'t look particularly good.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 684.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image684.png"
+  style="width:50%"
+  alt="." />
 
+Let\'s see what it looks like. Doesn\'t look terrible, but it looks
+okay, but we might want to do a little bit more with it. Actually, it\'s
+fine for now. We\'ll leave it the way it is. We\'ve got our basic card
+in there. Although I do have a background color in there, don\'t I?
+Let\'s have that. Instead.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 685.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image685.png"
+  style="width:50%"
+  alt="." />
 
+One last rule down here. For the card. I\'m going to just give it a
+little bit of padding, set a background color, and set some margin on
+the bottom and that should look good.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 686.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image686.png"
+  style="width:50%"
+  alt="." />
 
-
-
-
-
+Let\'s take a look and see how that goes. There we go. Now we\'ve got a
+card that\'s looking good. Ultimately, these are going to be put in
+through JavaScript.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-16">4.16 Vacation Destination Project: HTML & CSS -- Part 6 (4:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 687.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image687.png"
+  style="width:50%"
+  alt="." />
+
+The HTML and CSS is in place now. And now that we\'ve got that in place,
+we can start thinking about how this little application is going to
+work.
+
+Essentially, user\'s going to type in a name and a location, and provide
+a URL for a photo and a little bit of a description here. And then that
+will get added, that card will get added to the list over here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 688.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image688.png"
+  style="width:50%"
+  alt="." />
+
+Let\'s take a look at a little bit of a flow chart to sort of see how
+this is going to work and how we\'re going to kind of make that all work
+out here. Over here on the right side of this page, you see we have a
+little program here that when it starts, we\'re going to, when somebody
+fills out that form, we\'re going to prevent the default form
+submission. We\'re going to get the value from that destination name,
+the location field, the photo field, the description field. And then
+we\'re going to clear out the fields in the form, create a card, create
+that HTML, and check to see, is the destination list empty? If it is,
+then we\'re going to change the title on the destination list up at the
+top. If it isn\'t, then we\'ll just upend the card to the container. In
+either case, we\'ll upend the card to the container, and we\'ll be able
+to move on from there, okay? So that\'s going to be the basic strategy
+for how we add stuff to the page.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 689.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image689.png"
+  style="width:50%"
+  alt="." />
+
+So the first time we add something to the page, this title is going to
+get changed, but otherwise it\'s not. That\'s the only thing that\'s
+going on there. These are going to be your little helper functions,
+clear out the fields, and then we\'re going to have a helper function
+that\'s going to create the actual card. Those are the next functions we
+need to look at here.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 690.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image690.png"
+  style="width:50%"
+  alt="." />
+
+The creating the card looks like a really long function, but it\'s very
+sequential. And basically we\'re going to create a **div** and set the
+**class** to **card**, create an image **tag**, set the **alt**
+attribute on the image tag. And then if the photo\'s provided, we\'re
+going to set that source to whatever the **URL** is. If it isn\'t, well,
+we\'ll use the default photo and then assign that to the image element
+on the **DOM** that we just created. And then we\'ll create a **div**
+element. So basically, we\'re creating the elements manually or having
+JavaScript create them, to create these elements here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 691.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image691.png"
+  style="width:50%"
+  alt="." />
+
+We\'re creating all of this HTML here.
+
+For each card, we\'re going to create that information, and then we\'re
+going to stick it on the card, and that\'s what\'s going on here. And
+you\'ll notice down here we\'ve got another helper function here for
+deleting the card. So if somebody clicks that remove button, then we
+need to be able to handle that as well. So let\'s take a look at that
+really quickly.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 692.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image692.png"
+  style="width:50%"
+  alt="." />
+
+We\'ve got a function here for going through the form fields and
+emptying out the form fields. And then we\'ve got a little function here
+for deleting the card if we want to delete the card. We\'ve got a number
+of pieces here to write in our JavaScript to create this little
+application for this destination list. And that\'s it for part one.
+We\'ve created the interface that we\'re going to be using. And you may
+be wondering why we spent all this time in HTML and CSS. But it\'s
+really important to understand how the HTML and the CSS interact with
+the JavaScript, because all three come together to make the full
+interface and to make all the functionality work. I think it\'s worth
+taking the time to build the HTML and the CSS for this project. This way
+you understand what\'s going on and how JavaScript is going to
+manipulate that HTML and CSS in the end to make the final product.
 
 <ul>
-  <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files"
-    target="_blank" rel="noopener noreferrer">
-    4.16 Vacation-Destination-Project-Part2-START-Files.zip (download)</a></li>
+  <li><h3 id="ch4-16"><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files">
+    4.16 Vacation-Destination-Project-Part2-START-Files.zip</a></h3></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-17">4.17 Vacation Destination Project: JavaScript -- Part 1</h2>
+<h2 id="ch4-17">4.17 Vacation Destination Project: JavaScript -- Part 1 (5:37)</h2> 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 693.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image693.png"
+  style="width:50%"
+  alt="." />
 
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-18">4.18 Vacation Destination Project: JavaScript -- Part 2</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-19">4.19 Vacation Destination Project: JavaScript -- Part 3</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+Vacation Destination List, part two.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-20">4.20 Vacation Destination Project: JavaScript -- Part 4</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 694.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image694.png"
+  style="width:50%"
+  alt="." />
 
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-21">4.21 Vacation Destination Project: JavaScript -- Part 5</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-22">4.22 Vacation Destination Project: JavaScript -- Part 6</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+This part (2) we will add the JavaScript and I\'m picking up exactly
+where I left off after part one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-23">4.23 Vacation Destination Project: JavaScript -- Part 7</h2>
+<!--~~~~~~~~~~~ 695.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image695.png"
+  style="width:50%"
+  alt="." />
+
+In part one, you created the HTML and the CSS, and you should have a
+page that looks like this. If you don\'t, please go back and make sure
+you go through everything to make sure that you get a page that looks
+like this before you start and you\'ve got all the elements in there
+correctly, everything spelled right.
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<!--~~~~~~~~~~~ 696.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image696.png"
+  style="width:50%"
+  alt="." />
+Okay, now we\'ll write the JavaScript we need to make this little
+application work. To start with, let\'s grab the actual destination
+details form and put that into a variable called **detailsForm** and
+then we\'ll have a event listener for when that form is submitted and
+instead of running an anonymous function we\'re actually going to run a
+name function called **handleFormSubmit** and then we\'ll start writing
+the beginning of that function.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-24">4.24 Vacation Destination Project: JavaScript -- Part 8</h2>
+<!--~~~~~~~~~~~ 697.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image697.png"
+  style="width:50%"
+  alt="." />
+
+Let\'s get started with this right off the bat. Over here, I\'m going to
+open up my script file and add a variable **var detailsForm** =
+**document.querySelector** **('#destination_details_form');** Get this
+form here, destination. Note that I\'m using a pound sign here because
+I\'m using **querySelector**. You could also use **getElementByID** but
+that\'ll get that form and put it in here. Now we can do
+**detailsForm.addEventListener("submit", handleFormSubmit)** and we\'re
+going to look for submit event.
+
+And then instead of just doing function like we\'ve done in the past,
+I\'m actually going to have a named function here called,
+**handleFormSubmit**. That\'s going to be a function that runs when this
+form is submitted. Now, I need to define that function
+**handleFormSubmit**. And this function we\'re going pass in the event
+object and do **event.preventDefault**, there we go. That\'ll prevent
+the default submission of the form. You might wonder why at this point
+I\'ve opted to create a named function here as opposed to just the
+inline function.
+
+And it could be an inline function, there\'s no reason why it couldn\'t
+but this function is actually going to do quite a number of things. You
+could use an anonymous function here and not have a named
+**handleFormSubmit** function for this particular project. That\'s what
+I like because what we\'re going to do here is going to extract out the
+value from each form field. We\'re going to clear out all the form
+fields. When you\'ve filled in the form and submitted it, you need to
+clear out these form fields so that you\'re ready to make another card
+and then we\'re going to run a function that creates the new card.
+
+And then if needed, meaning there\'s not already a card over on the
+right-hand side of the interface we need to change the header at the top
+of that destination list and then actually add the card. And you can go
+back to the flowchart from the previous version of this from part one
+and actually see how that\'s going to all come together in the flowchart
+there. Yeah, we start with event.preventDefault to keep the normal
+submission of the form from happening but then we\'re going to do all of
+these things.
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-18">4.18 Vacation Destination Project: JavaScript -- Part 2 (4:33)</h2> 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 698.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image698.png"
+  style="width:50%"
+  alt="." />
 
+The first thing on our list of tasks to do, is to get the values out of
+the fields from the form. And, to do that, we can create a variable for
+each of the four form fields. The name, the location, the photo and the
+description. And then go and get the value out of those from the actual
+form.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 699.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image699.png"
+  style="width:50%"
+  alt="." />
+And you\'ll remember over here when we created this form, in the HTML,
+we made it such that these fields were required. So if you try to click
+add list without filling in anything, it\'s not going to do anything
+because of that required thing. At least if you\'re using chrome or
+modern browser. And we can get more into form validation and making sure
+you get good data into forms in the second course in the specialization.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 700.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image700.png"
+  style="width:50%"
+  alt="." />
+
+But, for right now, we just want to do something quick and simple, and
+we\'ve got enough there to sort of keep it from it least being empty,
+even though we\'re not doing very much for that. And what we\'re going
+to use here is we\'re going to use event. The event target will be the
+form submission, right. Because that\'s the event target for the form
+itself. And then we can get the elements property, and pull out each one
+of these elements out of the form and its value and put them into a
+variable here.
+
+The dot elements refers specifically to form elements, and you could
+come over to the MDN and look at HTML form elements dot elements, and
+find out more about what this is. But it will get you a specific set of
+elements specifically from forms. And so, it\'s kind of a helpful
+little, property here, that we can use to get specific elements out of
+out of a form and get that data.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 701.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image701.png"
+  style="width:50%"
+  alt="." />
+
+Let\'s put that onto our script. Over here, I\'m going to do for
+**destName** equals **events.target.elements\['name'\].value;** That's
+going to get the name. That\'ll get me the first one. And the rest;
+**destLocation**, **destPhoto**, and **destDesc**.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-19">4.19 Vacation Destination Project: JavaScript -- Part 3 (6:37)</h2> <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 702.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image702.png"
+  style="width:50%"
+  alt="." />
+
+The next thing we need to do once we\'ve captured the values from the
+form is to remove them until the form is ready for a new thing.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 703.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image703.png"
+  style="width:50%"
+  alt="." />
+I\'m just going to use a for loop here to loop through the elements of
+the form, and set the value back to empty. For, here\'s my for loop.
+For, and I\'m going to have just a counter variable, var **i** equals
+zero, while **i** is less than **detailsForm.length; i++,** there we go.
+That loop is going to go through **detailsForm**.
+
+Remember, **detailsForm** is going to get everything inside of
+**detailsForm** there. Then what I can do in here is I can very easily
+say, **detailsForm.elements\[i\].value = "";** We\'re going to go
+through the **detailsForm**. I starts at zero, and the first time
+through the form, it\'s going to say, \"Get Element 0 from that form and
+set its value to empty.\" Then we\'re going to increment **i** from zero
+to one, and if there\'s more than one element in the form, then we\'re
+going to go through and do that again for Element 1, setting its value
+to zero. We\'re going to do that for each element in the form until the
+form is completely cleared out. It\'s just a very simple for loop
+that\'s going to loop through and clear out each of the elements in that
+form. We\'ve taken care of the first two items on our list.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 704.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image704.png"
+  style="width:50%"
+  alt="." />
+
+We gathered the information from the form and cleared the format. The
+third thing to do is to run a function that creates a new card. We\'re
+going to hold off on that because we need to write that function.
+
+But we can take care of the **fourth** thing, which is to check to see
+if we already have a card in the other side, and if we do one thing and
+if we don\'t, we won\'t, we\'ll do a different thing. We can take care
+of that in terms of the header over there, and in showing, in
+determining what this header says here. Either it\'s going to say enter
+destination details, where we\'re going to change it so that it has
+something like "My Wish List" in there, because that makes a little bit
+more sense once there\'s something in that column over there.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 705.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image705.png"
+  style="width:50%"
+  alt="." />
+
+We\'re going to make a variable. We\'ll just put in create card here, so
+we remember we need to come back and do that. But I\'m going to have var
+wishListContainer equals document.getElementById, and you\'ll remember
+we had an Id called title specifically so that we could do this. Over
+here in the HTML you\'ll remember we have 10-year title on that Id, so
+getElementById title. Then we just need a little if statement here. I
+realized I did the wrong thing here. I don\'t want the title here. I
+want to get this Id down here, this destination container.
+
+That\'s the thing I want to check for. Destination container, because I
+want to see if we\'ll do the title in a minute. If
+wishListContainer.children.length is exactly the same as zero, so if
+there\'s nothing in this container. Over here we\'ve added a card in
+here temporarily, we\'re going to get rid of that. But if this container
+is empty, then we\'re going to do something. If it\'s empty, then we\'re
+going to say, document.getElementById. Now we want the title. Its
+innerHTML is going to be, what did I put in there? \'\'My Wish List\'\'.
+There we go. That will take care of the fourth thing, which is, if we
+haven\'t added a card in there before, it\'ll change the title over on
+the right-hand side there.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-20">4.20 Vacation Destination Project: JavaScript -- Part 4 (9:07)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 706.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image706.png"
+  style="width:50%"
+  alt="." />
+
+So far, it gets the data from the form fields, and then clears them out.
+
+We have a placeholder for a place where the function that creates new
+card is going to go and we\'re going to write that next. Then we check
+and see if the header on the right-hand side of the page, if there\'s
+already a card in there or not. If there isn\'t, we\'re going to change
+the text inside that header over there. Then finally the last thing that
+we\'ll do is actually add the card. Let\'s move on here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 707.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image707.png"
+  style="width:50%"
+  alt="." />
+
+We\'re going to create a new function called **createDestinationCard**.
+It\'s going to take four parameters, and these parameters are the data
+that come in from the form that somebody filled out.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 708.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image708.png"
+  style="width:50%"
+  alt="." />
+  
+Let\'s go ahead and do that first. Down here I\'m going to create a new
+function. **function createDestinationCard**, and it\'s going to take
+name, location, photo, I think I just did **desc** for description.
+It\'s going to take those as parameters, although they don\'t get quotes
+on them. Name, location, photo, and description. That\'s right. We\'re
+going to pass those variables in. Actually, I\'m going to change this a
+little bit. I\'m going to actually make this **photoURL**, and I\'m
+going to type out description over here. Then I need to make **var**
+**card**, and this is going to be assigned document.createElement.
+We\'re going to create a **div**, and then we\'re going take that card,
+and we\'re going to set the className equal to card.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 709.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image709.png"
+  style="width:50%"
+  alt="." />
+
+If you wonder where we\'re going here, you can go over to the index file
+here because we\'re basically going to use JavaScript to create these
+elements and put them in the card. Now, we\'ve just created this **div**
+here and given it the class of **card**. This is going to be a long
+function because you have to create each one of these elements
+individually and put the content in them and then add them to the card.
+Next, we\'re going to add the image.
+
+First thing we need to do is make a var called image, I\'m just going to
+call it img. Then from there I\'m going to do equals
+document.createElement, and we\'re going to create an img in our
+element. Then images really should have an alt attribute, so I\'m going
+to say img.setAttribute alt. I\'m just going to set it to name. Whatever
+gets passed in as the name of this location is going to get set as the
+attribute for the alt tag. If somebody\'s using a screen reader, they
+will still be able to know what it\'s a picture of even if they can\'t
+see the picture if they\'ve got a visual disability of some sort or
+another. Great. We\'re setting that attribute. We need to set the source
+based on what comes in through this photoURL here. We want to be able to
+set that photo source, but the photo source is not required.
+
+The first thing we need to do is determine whether or not a photo has
+been brought in. Before that, we want to just make a variable var, and I
+think I called this **constantphotoUrl**. I\'m going to make that equal
+to **images/signpost.jpg**, because that\'s the image that\'s in this
+folder over in here. Then I just need to see if **photoURL**, that
+variable there that gets passed in, did somebody actually add a URL in
+there? We know that it has to be URL in there because over here in our
+form, we set this to type URL, so it\'ll only take a URL. Otherwise
+you\'ll get Chrome barking at you and telling you that you didn\'t put
+in a URL. We put URL in there and if we want to actually got put in
+because it\'s optional. If **photoURL**.length is greater than zero, I
+think that\'s what I\'m doing. No, actually I want to check and see if
+it\'s exactly the same as zero. If it\'s exactly the same as zero, then
+what I want to do is I want to set the img.src equal to this constant
+photo here. I want to set it to that. I want to set the image source to
+that. That should work. On my slide I use setAttribute again, so maybe
+I\'ll do that just to make sure. But really this should actually work
+just fine. But let me just put this in just so it matches what I\'m
+doing on my slide there. SetAttribute src is going to be this constant
+photo here, constant **PhotoUrl**. If that length isn\'t exactly zero,
+the else will be okay, we\'re going to do image **setAttribute** to not
+constant.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 710.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image710.png"
+  style="width:50%"
+  alt="." />
+
+For this source table, we\'re going to say its a **photoURL**. If
+somebody put in a URL for a photo, it will get set to that. Otherwise,
+we\'ll use the default one that\'s in there.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-21">4.21 Vacation Destination Project: JavaScript -- Part 5 (7:37)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 711.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image711.png"
+  style="width:50%"
+  alt="." />
+
+This function is getting long, and it\'s going to get longer because
+we\'re creating all of these elements here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 712.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image712.png"
+  style="width:50%"
+  alt="." />
+
+If you look over here on the index file, what we\'ve created so far of
+our card is we\'ve created this **div**, and we\'ve created the image.
+Next we need to create this **div** for the **card body** and then add
+into that the **h3**, the **h4**, and then the description text. The
+description text is actually optional.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 713.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image713.png"
+  style="width:50%"
+  alt="." />
+
+If you come up here, you\'ll notice there\'s no required on the text
+area there. We\'re going to have to deal with what happens if that\'s
+empty as well, and then we\'ll have to add the remove button as well but
+let\'s go ahead and continue forward with this.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 714.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image714.png"
+  style="width:50%"
+  alt="." />
+
+Over here the next thing we need to add after the image is a variable
+for the card body. We\'re going to make a variable card body and create
+element **div** and then set the class name to card body for that, and
+that will create that card body element here and then next we need to do
+the same with the **h3** and the **h4**. Here\'s the **h3** and I\'m
+just going to paste it in. You\'ll have to type it, but I made **var
+card** title, document create element **h3**. I\'ve created an h3, and
+then I\'m setting the inner text to the name. Again, this is the name
+that came through from the form. That\'s what\'s going to get put in
+there, so that\'s going to be the name. I\'m going to append child card
+title. I\'m putting the actual card title into the card body here, and
+then we\'ll do the same thing with the subtitle.
+
+Now I can add in the subtitle, and again I\'m going to paste this in, so
+you don\'t have to watch me type it because it\'s getting painful for
+everybody. But I\'m going to make a variable card subtitle and create
+element h4, and then I\'m going to set the inner text to the location.
+That\'s this location that\'s getting passed in here. That\'s the
+location that somebody typed in on the form and so that\'s going to get
+set for the inner text there. I\'m taking card body, and I\'m appending
+the child card subtitle. That\'s going to add this to the card. I\'m
+appending that in there. I\'ve got a card body, and I\'ve appended in
+the h3 and the h4.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 715.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image715.png"
+  style="width:50%"
+  alt="." />
+
+Next step is to check and see if somebody typed something into the
+description because it could be empty potentially, and we\'ll put that
+in next. Again, I\'m going to paste this in so that I know that it\'s
+right. But here we go. If description dot length is not zero meaning
+it\'s longer than nothing then we\'re going to make a variable card text
+and create a paragraph, and then we\'re going to take the class name and
+set it to card texts because again over here, remember we did that. We
+have p class card text. I\'m setting that class name in there to card
+text.
+
+We could start with specifically if we wanted to and then setting the
+inner HTML to description and then appending that card text to the card
+body again. We get that appended in.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 716.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image716.png"
+  style="width:50%"
+  alt="." />
+
+The next thing we need to add is the remove button. I\'ll put that in
+here. Here I\'ve got a variable called card delete button, and I\'m
+creating a button, and I\'m setting the inner text to remove and that
+will create that button and set the for it to remove. But then I need to
+add an event listener. I\'m going to add an event listener, so that
+button is going to create an event listener, and I\'m going to add an
+event listener called removed destination. We\'ll write another little
+function that will actually remove this destination. But I\'m putting an
+event listener on this button right now as soon as I add it, and it\'s
+going to have its own event listener that\'s going to run a function,
+and then I take that button and I append it.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 717.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image717.png"
+  style="width:50%"
+  alt="." />
+
+Append the card delete button to the card body.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 718.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image718.png"
+  style="width:50%"
+  alt="." />
+
+Again, if we come over here and look at the HTML here, you can see that
+this button called remove has been added to this card body. The card
+body includes four items the **h3**, the **h4**, the **paragraph** and
+the **button**. It only includes the **paragraph** if somebody types
+something in that field, but it includes the **button** and the
+**button** has an event listener on it. That will run a function that we
+haven\'t written yet, but it\'s there. That\'s going to put all of those
+things on there.
+
+Now the next thing we need to do is take this card. We\'ve been building
+up this card body, so we need to take this whole card body and add it to
+the card because we added the image to the card. We created the image,
+and we set its attribute, and we set its photo. Maybe we didn\'t add
+that to the card.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 719.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image719.png"
+  style="width:50%"
+  alt="." />
+
+We need to do that too, and then we created the card. We need to add the
+image to the card as well, but we need to add the card body to the card
+too. Since I forgot to add the image let\'s do that first. Here we\'ve
+got the image in place. In here we need to add card, append child image
+so that we\'ll put the image on the card.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 720.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image720.png"
+  style="width:50%"
+  alt="." />
+
+Down at the bottom here, we need to add append child card body, and then
+we just need to return card. That\'s going to take this card object or
+this piece of HTML that we\'ve created that has all this stuff in it and
+return it. This is a long function that makes all of these elements and
+returns that card which should be a big piece of HTML.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 721.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image721.png"
+  style="width:50%"
+  alt="." />
+
+Well not a very big piece of HTML, but a piece of HTML that\'s this card
+here, **div** class card and in it will have the image, either the
+signpost image or one that somebody entered a **div** called card body
+and an h3 and h4 possibly a paragraph if somebody typed one in and a
+button and then that gets added on there, and then it gets returned.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-22">4.22 Vacation Destination Project: JavaScript -- Part 6 (7:00)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 722.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image722.png"
+  style="width:50%"
+  alt="." />
+
+The next step in this process is to actually write the function that
+removes the card. And that\'s what this is going to look like here.
+We\'re going to make a function called **removeDestination**. We\'re
+going to pass in the event object so that when you click on that
+**button**, the remove **button** that event gets passed through, the
+event object gets passed through. I\'m going to say variable card
+**event.target.parentElement.parentElement;** When you click this
+button, I need to go up to this parent and then to this parent and say
+card.remove. I have to get up to that parent to actually remove that
+card. I\'m going up one parent to another parent to remove the card.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 723.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image723.png"
+  style="width:50%"
+  alt="." />
+
+Let\'s add this function over here. Down here I\'ve got function
+**removeDestination**, and it\'s going to take an event object. And I\'m
+going to say **var card = event**. No, yeah, you then, what did I say
+here? Yeah, that\'s right. **event.target.parentElement.parentElement;**
+That\'s going to be card. Once I get all of all the way up there, I
+could do **card.remove()**. And that removes that card from the body, we
+hope. We\'ve got our **removeDestination** function that\'s going to
+take in that event and then go up and actually remove that one, and that
+will get called here if you click on the **cardDeleteBtn**.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 724.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image724.png"
+  style="width:50%"
+  alt="." />
+
+The last thing we need to do is kind of put it together. Up here you\'ll
+remember we had to things that we needed to do. We needed to create the
+card, and then down here, we needed to actually add the card. So, let\'s
+do these two things and then we\'ll be able to finish off this script
+here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 725.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image725.png"
+  style="width:50%"
+  alt="." />
+
+To create the card, what we\'re going to need is make it variable
+destination card, and that\'s going to run. This is going to be using a
+function expression here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 726.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image726.png"
+  style="width:50%"
+  alt="." />
+
+So we\'re going to use a function expression to create the destination
+card passing in these variables, so let\'s do that. **destCard** = and
+then what I\'m actually doing is this thing here, createDestinationCard.
+So I\'m going to put that in here, createDestinationCard. But what I\'m
+passing in is the destination name, and I\'m passing in the destination
+location. I\'m passing in the destination photo to the photoURL, oops.
+And I\'m passing in the destination description. And then that should
+var, that\'s going to create, it\'s going to go in and create that and
+then down here now I just need to add destination card. So that\'s going
+to say, okay, destination card\'s going to actually hold that card. And
+remember, this function returns HTML, so that HTML for the card is now
+in destCard.
+
+Because remember that\'s what this function does, create destination
+card down here at the end, it returns the card, which is the HTML for
+all the stuff in the card. So now all of that stuff, all that HTML we
+created is now in this little variable right here, it\'s in this bucket.
+Okay, so the last thing we need to do is go in and find our container
+and upend the child, right? So let\'s go ahead and do that,
+document.querySelector. And what are we looking for, we\'re actually
+looking for this id here. \' Go get that id .appendChild. And what are
+we adding? We\'re adding **destCard**. Now we\'ve gotten all five pieces
+of our script together, and in the next video, we\'ll do some error
+checking and fixing of stuff and see if it all works.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-23">4.23 Vacation Destination Project: JavaScript -- Part 7 (9:39)</h2> <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 727.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image727.png"
+  style="width:50%"
+  alt="." />
+
+We can now add cards, and remove them from the list.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 728.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image728.png"
+  style="width:50%"
+  alt="." />
+
+Let\'s try it again here. We\'ll do Fenway Park again. We\'ll do Boston.
+Put in the photo that I have in my form already.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 729.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image729.png"
+  style="width:50%"
+  alt="." />
+
+Then what happens if we leave the photo app? Let\'s do that. No photo in
+there. See if the regular photo shows up. It does. So that\'s the
+default photo, and that\'s working. Let\'s add another one. Over here, I
+did a quick search for New York. I found this photo, right-click it, and
+open that photo up into a new tab. Here\'s a photo that I can use. I\'m
+just going to copy that URL, and come back here. Let\'s say destination
+name, Empire State Building in New York. I\'m going to paste that URL in
+for that JPEG, and then add a description, is visiting New York. Here we
+go, Add to List.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 730.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image730.png"
+  style="width:50%"
+  alt="." />
+
+You can see that it\'s appended that card, it\'s added it to the list.
+So now I\'ve got two here, and they\'re both working. I can remove
+either one. If I remove this one, and that one will go away, and the New
+York one will stay. Notice, that the header here changed as it was
+supposed to change. Everything else is working.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 731.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image731.png"
+  style="width:50%"
+  alt="." />
+
+Here, in this little application we\'ve created here, and it\'s not very
+sophisticated. It\'s only got a few features, but we can add elements,
+and remove elements on the page pretty easily with a little bit of
+scripting effort there. This is a really great capstone project for the
+end of the course here. Now, our last final pieces here, are to refactor
+the script down a little bit, and use our best practices, and we\'ll do
+that in the next video.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch4-24">4.24 Vacation Destination Project: JavaScript -- Part 8 (6:06)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 732.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image732.png"
+  style="width:50%"
+  alt="." />
+
+Now that we have a working project which is great, and we had some
+errors and that\'s normal and I\'m glad they appeared here for me
+because they\'ll certainly appear for you. It\'s very easy to end up
+with little mistakes whether you spelled something wrong or use the
+wrong ID. There\'s a lot of moving parts with little web application,
+even one small like this. You have your HTML with IDs things you\'re
+hooking into. You have the styles where there\'s different elements that
+are affecting the way the page looks, and then in the script, you\'re
+manipulating many times both of those things on the fly.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 732.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image732.png"
+  style="width:50%"
+  alt="." />
+
+Just for a quick summary of the script here, when you submit that form,
+what we\'re doing is we\'re running this handle form submit function
+which is getting the values out of the form, clearing out those values
+from the form when it\'s done.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 733.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image733.png"
+  style="width:50%"
+  alt="." />
+
+Then going through and actually creating the actual card, after that
+going in and fixing the header at the top of that container, at this
+part of the page up here.
+
+Over here you\'re fixing the header if we need to, after that, we
+actually put the card on the page.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 734.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image734.png"
+  style="width:50%"
+  alt="." />
+
+The create destination card is a long function because we\'re creating
+each one of these HTML elements manually or individually here having
+JavaScript create those elements and put the contents inside of them,
+and then add them actually to the DOM as they\'re needed. Plus we have
+an extra function that allows you to remove a card so that\'s one more
+extra piece of functionality that we have in this little application.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 735.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image735.png"
+  style="width:50%"
+  alt="." />
+The last thing to do is to clean it up by adding a function up at the
+top here to enclose the whole thing and then changing out the variables.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 736.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image736.png"
+  style="width:50%"
+  alt="." />
+Again, we would just do open parenthesis and run an anonymous function
+with its parentheses in its curly braces, and then one more set of
+parentheses to make it run. This will run when the page loads. I can
+move this down and I can stick in here, **use strict**. That will make
+sure that I\'m not introducing any variables by accident in the global
+scope.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 737.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image737.png"
+  style="width:50%"
+  alt="." />
+
+Then I could take everything that\'s in here, and stick it inside this
+function here.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 738.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image738.png"
+  style="width:50%"
+  alt="." />
+The last thing you could do is go through and replace all the **vars**
+we\'ve got with **const**. They should be **constant** as much as
+possible. So we can just click **const** there, come down through here,
+that\'s going to be const, that\'s going to be const. All of these can
+be const. Now this one needs to be let because that\'s actually in a
+loop. That\'s going to need to be let, and then down here this can be
+const. That\'s containers, that\'s going to be const. That\'s going to
+be const, that\'s going to be const, that\'s going to be const, this
+one, and this one. If you\'re comfortable with this now you can just
+start using const, to begin with rather than coming through and doing
+this at the end, and that\'s certainly fine as well.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 739.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image739.png"
+  style="width:50%"
+  alt="." />
+
+When you\'re new at this I think it\'s helpful to start with **var** and
+then come in and add **const** as you need to or **let**. Again, **let**
+is for if the value is going to change. Now use other values you\'re
+going to change when the script runs. Just the one inside the loop. I
+think that\'s the only one. I could be wrong.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 740/741.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image740.png"
+  style="width:45%"
+  alt="." />
+<img src="./images/image741.png"
+  style="width:45%"
+  alt="." />
+
+Let\'s just check and see if I\'m wrong. If you are wrong, you\'ll get
+an error and you can fix it. Just refresh this, type in Fenway Park one
+more time, Boston, and the URL. Look at that it works great. Click
+renewals and it removes it. Everything\'s working the way it should.
+This is really great capstone project that brings together everything
+we\'ve done in this first course of this specialization, and I look
+forward to seeing you in the second course of this specialization where
+we\'ll get into **jQuery** and creating all cool interactive elements on
+my pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-25">4.25 Course Summary (0:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Congratulations, you\'ve made it to the end of our first course on
+JavaScript, I hope you\'ve had a lot of fun with it. And I hope you had
+fun doing it with me while I stand outside here in California on this
+beautiful day, not that many miles away from where JavaScript was
+invented over 25 years ago. But JavaScript is a lot of fun, and you\'ve
+learned a lot, so you should give yourself a pat on the back, and I hope
+you\'re excited about the projects we\'ve done so far. Also, I hope you
+realize that there\'s a lot more to learn about JavaScript and that
+you\'ll join us in the next course in the specialization where we get
+into **jQuery**. And we look at some of the cool things that we can do
+with the **jQuery** library and some of the cool interactions that we
+can make. So thank you for coming along this far and I hope to see you
+in the next course.
 
+# .the end. 2.24.24 11:42pm
 
-###### .the end. 2.24.24 11:42pm
-###### .the end, again. 3.06.24 5:24pm
+# .the end, again. 3.06.23 5:25pm
 
+# .the end, again. 3.09.23 3:31am
 
+<h2 id="add">Additional Materials re JavaScript Basics</h2>
 
+Appendix:
 
+# Loops Defined
 
-<!-- 
-LAST CHANGED March, 2024 - going through entire document (389 pages) to more clearly identify images
-and give a clearer description of JavaScript and it&apos;s many nuances. For example, ECMA 2023, and what it
-can do in comparison to ECMA 2017.
-Currently at 4.09 with 4.10 thru 4.25 to complete this class. That will add approximately 50 pages to
-the Word document this markdown was created from.
+Looping in JavaScript allows you to repeatedly execute a block of code.
+There are several types of loops in JavaScript, each serving a different
+purpose. Here are the main types of loops:
 
-Bear with me.  It does get convoluted as hell. Time and practice. Practice and time.
---> 
+1.  **for Loop:** The for loop is a traditional loop that consists of
+    three expressions: initialization, condition, and
+    increment/decrement. It continues executing the block of code as
+    long as the condition is true.
 
+**javascript**
 
+for (let i = 0; i \< 5; i++) {
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ XXX/XXX.  (###) ~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png"
-  style="width:45%"
-  alt="." />
-<img src="./images/imageXXX.png"
-  style="width:45%"
-  alt="." />
-</p>
+// code to be executed
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/imageXXX.png"
-  style="width:50%"
-  alt="." />
-</p>
+}
+
+2.  **while Loop:** The while loop continues executing a block of code
+    as long as the specified condition is true. It only has a condition,
+    and the loop will keep running until the condition becomes false.
+
+**javascript**
+
+let i = 0;
+
+while (i \< 5) {
+
+// code to be executed
+
+i++;
+
+}
+
+3.  **do\...while Loop:** Similar to the while loop, but the block of
+    code is executed at least once before the condition is checked.
+
+**javascript**
+
+let i = 0;
+
+do {
+
+// code to be executed
+
+i++;
+
+} while (i \< 5);
+
+4.  **for\...in Loop:** The for\...in loop is used to iterate over the
+    properties of an object. It loops through enumerable properties,
+    including inherited ones.
+
+**javascript**
+
+const person = { name: \'John\', age: 30 };
+
+for (const key in person) {
+
+// code to be executed for each property
+
+console.log(key, person\[key\]);
+
+}
+
+5.  **for\...of Loop:** The for\...of loop is used to iterate over the
+    values of an iterable object (arrays, strings, etc.). It provides a
+    simpler syntax compared to the for\...in loop.
+
+**javascript**
+
+> const fruits = \[\'apple\', \'banana\', \'orange\'\];
+>
+> for (const fruit of fruits) {
+>
+> // code to be executed for each element
+>
+> console.log(fruit);
+>
+> }
+
+6.  **forEach Loop:** The forEach Loop method is a higher-order function
+    in JavaScript that is available for arrays. It allows you to iterate
+    over each element in an array and apply a provided function to each
+    element. The primary purpose of forEach is to perform an action or
+    operation on each item in the array without the need for an explicit
+    loop.
+
+**javascript**
+
+array.forEach(function(currentValue, index, array) {
+
+// code to be executed for each element
+
+});
+
+-   currentValue: The current element being processed in the array.
+
+-   index: The index of the current element being processed.
+
+-   array: The array on which forEach was called.
+
+These loops offer flexibility in handling different types of scenarios,
+and the choice of which loop to use depends on the specific requirements
+of your code. Additionally, starting from ECMAScript 6 (ES6), JavaScript
+introduced the forEach() method for arrays, providing another convenient
+way to iterate over array elements.
