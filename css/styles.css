@@ -2,7 +2,10 @@
 
 /* image location, size and border */
   img {
-    width: 400px;
+    max-width: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
   }
   .displayed {
     display: block;
