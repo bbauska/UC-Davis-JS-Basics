@@ -1,56 +1,31 @@
 /* styles.css of uc-davis-js-basics */
-
+<!-- image size and alignment -->
   img {
     width: 400px;
   }
-
   .displayed {
     display: block;
     margin: 0 auto; }
-
   .border {
     border: 2px solid #778899; 
   }
-
-  ol,ul li { 
-
-    line-height: 130%;
+  .center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 
+<!-- order and unordered lists -->
+  ol,ul li { 
+    line-height: 130%;
+  }
+<!-- paragraph -->
   p { 
     font-size: 13.5px;
     font-family: Bahnschrift, Inter, Helvetic, sans-serif;
     text-align: left; 
     margin-left: 10px;
   }
-
-  pre, code {
-    font-family: Consolas, monospace, monospace;
-    font-size: 10px;
-    margin-left: 10px;
-  }
-
-  pre {
-    overflow: auto;
-  }
-
-  pre > code {
-    display: block;
-    margin-left: 10px;
-    padding: 1rem;
-    word-wrap: normal;
-  }
-
-  a {
-    text-decoration: none; 
-  }
-
-  a[href]:hover {
-    text-decoration: underline; 
-  }
-
-  pre:hover, pre:focus { width: min-content; }
-
   p.em1 {
     margin-left: 1em; }
   p.em2 {
@@ -59,6 +34,30 @@
     margin-left: 3em; }
   p.em4 {
     margin-left: 4em; }
+
+<!-- pre and code -->
+  pre, code {
+    font-family: Consolas, monospace, monospace;
+    font-size: 10px;
+    margin-left: 10px;
+  }
+  pre {
+    overflow: auto;
+  }
+  pre > code {
+    display: block;
+    margin-left: 10px;
+    padding: 1rem;
+    word-wrap: normal;
+  }
+  pre:hover, pre:focus { width: min-content; }
+
+  a {
+    text-decoration: none; 
+  }
+  a[href]:hover {
+    text-decoration: underline; 
+  }
 
   div {
     float: left; }
@@ -102,7 +101,6 @@ summary {
   font: 13px Inter, sans-serif, Bahnschrift, Calibri;
   width: 65%;
 }
-
 details > summary {
   padding: 2px 6px;
   width: 15em;  /* 12em */
@@ -112,7 +110,6 @@ details > summary {
   cursor: pointer;
   margin-left: 10px;
 }
-
 details > p {
   border-radius: 0 0 10px 10px;
   background-color: #fff;  /* white */
@@ -120,7 +117,6 @@ details > p {
   margin: 0;
   box-shadow: 3px 3px 4px #00008b;  /* dark blue*/
 }
-
 details[open] > summary {
   background-color: yellow;
 }
@@ -152,7 +148,6 @@ body {
   padding: 10px;
   border-radius: 1px;
 }
-
 #myBtn:hover {
   background-color: #555;  /* very dark gray */
 }
@@ -164,12 +159,10 @@ body {
   font-size: 11px;  /* 12px */
   border: none;
 }
-
 .dropdown {
   position: relative;
   display: inline-block;
 }
-
 .dropdown-content {
   display: none;
   position: absolute;
@@ -179,7 +172,6 @@ body {
   font-size: 10px;  /* 11px */
   z-index: 1;
 }
-
 .dropdown-content a {
   color: #00b300;  /* dark green */
   padding: 8px 10px;  /* 12px 16px */
@@ -187,9 +179,6 @@ body {
   font-size: 8px;  /* blank, 11px */
   display: block;
 }
-
 .dropdown-content a:hover {background-color: #d9ead3;}  /* light grayish green */
-
 .dropdown:hover .dropdown-content {display: block;}
-
 .dropdown:hover .dropbtn {background-color: #398e41;} /* dark moderate lime green */
