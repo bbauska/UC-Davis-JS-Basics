@@ -18,11 +18,11 @@ output:
 <!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / uc davis log (01) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg"
-  style="width:20% float:right"
+  style="width:20%"
   title="JavaScript coffee cup logo version"
   alt="JavaScript coffee cup logo version." />
 <img src="./images/image002.png"
-  style="width:20% float:left"
+  style="width:20%"
   title="UC Davis logo"
   alt="UC Davis logo." />
 </p>
