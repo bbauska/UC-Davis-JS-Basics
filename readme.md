@@ -3,7 +3,7 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "3/08/2024 1+pm"
+date last editted: "4/17/2024 Thu 8+pm"
 output: 
   markdown:
     with some style
@@ -88,7 +88,7 @@ skills.</p>
 >#### [**2.15 Sequence - Part 2**](#ch2-15)
 >#### [**2.16 Sequence - Part 3, Loop**](#ch2-16)
 >#### [**2.17 Loop + Selection**](#ch2-17)
->	- #### [**2.17 JavaScript Basic Challenges Introduction 1-9**](#ch2-17-1thru9)
+>	- #### [**2.17 JavaScript Basic Challenges Introduction 1-9**](#ch2-17-01thru09)
 >#### [**2.18 JavaScript Basic Challenges**](#ch2-18)
 >#### [**2.19 JavaScript Basic Challenges**](#ch2-19)
 >#### [**2.20 JavaScript Basic Challenges**](#ch2-20)
@@ -707,7 +707,7 @@ the C in chicken. Because zero, one, two, three, four is going to get me that C 
 chicken. Or I could do, joke dot length, and it will tell me that there are 28 characters 
 in that string. That&apos;s kind of an interesting thing to understand about arrays as well.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-02">1.02 Intro to JavaScript -- Part 2</h2>
+<h2 id="ch1-02">1.02 Intro to JavaScript -- Part 2 (mm:ss)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 10. inro to javascript - part 2 (1.02) (13) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -1587,7 +1587,7 @@ you the <b>console.log</b> method because when we start working with files,
 we&apos;ll use this method a lot to send things to this console. While I&apos;m
 in the console, I don&apos;t actually need to use it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-08">1.08 JavaScript Variables Practice -- Part 2</h2>
+<h2 id="ch1-08">1.08 JavaScript Variables Practice -- Part 2 (mm:ss)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 63. javascript variables practice - part 2 (1.08) (45) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -4366,7 +4366,7 @@ as pretty much every script that we write will have some combination of them as 
 along. Great, see you in the next lesson.
 
 <ul>
-  <li id="ch2-17-01thru09"><a href="https://www.coursera.org/learn/javascript-basics/supplement/9clcg/javascript-basic-challenges-01-09"
+  <li id="ch2-17-01thru09"><a href="./pdf/2.17-JS-Basic-Challenges-01thru09.pdf" 
     target="_blank" rel="noopener noreferrer">
     2.17 JavaScript-Basic-Challenges-01thru09.pdf (download)</a></li>
 </ul>
@@ -5265,9 +5265,9 @@ it and keep working on the lessons, and I can&apos;t wait to see you in the next
   <li id="ch2-24-func"><a href="https://www.w3schools.com/js/js_functions.asp" 
     target="_blank" rel="noopener noreferrer">
     2.24 JavaScript Functions (shortcut)</a></li>
-  <li id="ch2-24-10thru16"><a href="https://www.w3schools.com/js/js_functions.asp" 
+  <li id="ch2-24-10thru16"><a href="./pdf/2.24-JS-Function-Challenges-10thru16.pdf" 
     target="_blank" rel="noopener noreferrer">
-    2.24 JavaScrip-Function-Challenges-10thru16.pdf (download)</a></li>
+    2.24 JavaScript-Function-Challenges-10thru16.pdf (download)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3">Week Three: Using JavaScript in the Web Browser</h2>
@@ -6420,8 +6420,7 @@ to create all kinds of interactive elements in our webpages.
 > <https://www.coursera.org/learn/javascript-basics/supplement/DCOHD/additional-resource>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3 id="ch3-10-17thru21"><a href="https://www.coursera.org/learn/javascript-basics/supplement/Jjf7e/javascript-dom-challenges-17-21" 
-  target="_blank" rel="noopener noreferrer">
+<h3 id="ch3-10-17thru21"><a href="./pdf/3.10-JS-DOM-Challenges-17thru21.pdf" target="_blank" rel="noopener noreferrer">
   3.10 JavaScript-DOM-Challenges-17thru21.pdf (download)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-11">3.11 Capturing Events with JavaScript (5:16)</h2>
