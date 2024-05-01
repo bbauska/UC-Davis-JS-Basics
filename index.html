@@ -8351,36 +8351,39 @@ the immediately invoked function expression. That runs automatically
 as well as the use strict directive that will keep me from accidentally 
 having variables that don&apos;t have a keyword starting them. And then I 
 want to switch my keywords from var to either const or let wherever 
-I possibly can. 
+I possibly can.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 496/497. create script22.js and move variables/functions (273) ~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image496.png"
-  style="width:45%"
+<img class="displayed border"
+  src="./images/image496.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Add functions and variables to script22.js"
   alt="Add functions and variables to script22.js." />
-<img src="./images/image497.png"
-  style="width:45%"
+<img class="displayed border"
+  src="./images/image497.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Challenge 22, move code to script22.js"
   alt="Challenge 22, move code to script22.js." />
-</p>
+<p style="clear: both;"></p>
 
-So let&apos;s do that. Over here, I&apos;m going to make a new file and you 
+<p>So let&apos;s do that. Over here, I&apos;m going to make a new file and you 
 can click this button here to make a new file. I&apos;m going to call 
-it <b>script22.js</b> to go with challenge 22 here. 
+it <b>script22.js</b> to go with challenge 22 here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~ 498/499. wrap entire script with parentheses to invoke immediately (273) ~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image498.png"
-  style="width:45%"
+<img class="displayed border"
+  src="./images/image498.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Select entire script and move to script22.js"
   alt="Select entire script and move to script22.js." />
-<img src="./images/image499.png"
+<img class="displayed border"
+  src="./images/image499.png"
   style="width:45%"
   title="In script22.js, add &apos;use strict&apos; and wrap with parentheses to invoke immediately"
   alt="In script22.js, add &apos;use strict&apos; and wrap with parentheses to invoke immediately." />
-</p>
-And on script 22 js I&apos;m going to start by adding my immediately 
+<p style="clear: both;"></p>
+
+<p>And on script 22 js I&apos;m going to start by adding my immediately 
 invoked function expression by starting with the parentheses. And 
 then I&apos;m going to put in here function that&apos;s parentheses and curly 
 braces. And then don&apos;t forget, I need one more set of parentheses 
@@ -8390,7 +8393,7 @@ going to do is I&apos;m going to come over to challenge 22 here.
 And I&apos;m going to come down to the bottom, and I&apos;m going to copy 
 or cut, I can actually just cut Command x or Control x. Cut this 
 script right from here, and instead I&apos;m going to paste it in here. 
-Might have to shift tab to move that over. 
+Might have to shift tab to move that over.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 500. replace var with const (274) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8400,7 +8403,7 @@ Might have to shift tab to move that over.
   alt="Replace var with const wherever possible." />
 </p>
 
-The next thing I want to do is replace any variable declarations. 
+<p>The next thing I want to do is replace any variable declarations. 
 So they&apos;re not using the var keyword they&apos;re using either const. 
 Use const wherever you possibly can, and use let where you have 
 to. So this can be const and this can be const. Why? Because I&apos;m 
@@ -8411,7 +8414,7 @@ immediately invoked function expression as a closure. And then I&apos;m
 using the use strict directive, if I forgot to put const here that 
 will catch that problem and tell me explicitly that I&apos;ve done a bad 
 thing. And I&apos;ve changed my variables declarations from using var to 
-const. 
+const.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 501/502. script src='script22.js' to end of body (274) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8425,13 +8428,13 @@ const.
   alt="Test console, turn green dammit!." />
 </p>
 
-Now over here in my file, instead of having the script here I&apos;m 
+<p>Now over here in my file, instead of having the script here I&apos;m 
 going to add a source src=. And then I can actually put in here, 
 script 22. And that&apos;s fine and I can move this up to here really. 
 So you have to keep the closing tag but that will work. 
 And now I can come over to my file in the browser (right image) 
 over here, refresh, test it and you can see it still works. It 
-still functions just fine. 
+still functions just fine.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 503. move script declaration to head of index.html (275) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8441,10 +8444,10 @@ still functions just fine.
   alt="Move script declaration to head of index.html." />
 </p>
 
-Even more if you want you could take this further by moving the declaration for 
+<p>Even more if you want you could take this further by moving the declaration for 
 the script up to the top of the file. I can put it in the head, but I have to add 
 the <b>defer</b> key word here. With <b>defer</b> it will make it run as if it&apos;s at the 
-bottom of the page. And you&apos;ll see that still works.
+bottom of the page. And you&apos;ll see that still works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 504. test, remove defer and error (276) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8454,28 +8457,28 @@ bottom of the page. And you&apos;ll see that still works.
   alt="Test, remove &apos;defer&apos; command and receive error." />
 </p>
 
-If I take <b>defer</b> out of there, watch what happens. Refresh and, 
+<p>If I take <b>defer</b> out of there, watch what happens. Refresh and, 
 it doesn&apos;t work. Because, <b>addEventListener</b> is null. What&apos;s going 
 on here, is that the page loads from the top to the bottom. So 
 it&apos;s loading the script first, before it gets to the bottom. 
 And on the script, it&apos;s saying, put an event listener on the 
 bottom. We can&apos;t put an event listener on a button, that doesn&apos;t 
 exist yet. But adding the <b>defer</b> keyword up here makes it so that it loads 
-that script after the rest of the page is loaded.
+that script after the rest of the page is loaded.</p>
 
-You can go through the rest of these and you&apos;ll create a new 
+<p>You can go through the rest of these and you&apos;ll create a new 
 file for <b>script23.js</b>. And you&apos;ll do the same thing on this 
 one. On challenge 23, you&apos;ll notice that can be <b>const</b>. This 
 down here has to be <b>let</b>, that&apos;ll have to be <b>let</b>. Go through 
 and put in <b>const</b> and <b>let</b> wherever there&apos;s a var. Use <b>const</b> 
 as much as you can, and only use <b>let</b> where the variable 
-actually has to change here we&apos;re using an incrementer. 
+actually has to change here we&apos;re using an incrementer.</p>
 
-That&apos;s going to change as we loop through this <b>for loop</b> so it has to be <b>let</b>. 
+<p>That&apos;s going to change as we loop through this <b>for loop</b> so it has to be <b>let</b>. 
 But use <b>const</b> wherever you can. And if you do that and create all these files 
 you&apos;ll start to get comfortable with the syntax of the immediately invoked 
 function. And using use strict and you&apos;ll start to get used to using <b>const</b> 
-and <b>let</b> instead of <b>var</b> for your keywords and that will help you out in the long run.
+and <b>let</b> instead of <b>var</b> for your keywords and that will help you out in the long run.</p>
 
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures" 
@@ -8498,7 +8501,8 @@ and <b>let</b> instead of <b>var</b> for your keywords and that will help you ou
   title="3.24 Simple JS Slideshow - Part 1"
   alt="3.24 Simple JS Slideshow - Part 1." />
 </p>
-Simple JavaScript slideshow demonstrating basic DOM manipulation and event handling. 
+
+<p>Simple JavaScript slideshow demonstrating basic DOM manipulation and event handling.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 506. simple js slideshow (277) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8508,10 +8512,10 @@ Simple JavaScript slideshow demonstrating basic DOM manipulation and event handl
   alt="Simple JS Slideshow." />
 </p>
 
-We&apos;ve done a lot of the basics and you&apos;ve learned a lot about how JavaScript works 
+<p>We&apos;ve done a lot of the basics and you&apos;ve learned a lot about how JavaScript works 
 and how you can manipulate the DOM and capture events. Now, it&apos;s time to put together 
 some scripts that are actually doing some interesting things and will allow us to 
-test out what we know so far. 
+test out what we know so far.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 507. example, the start file (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8521,8 +8525,8 @@ test out what we know so far.
   alt="Example, The Start File." />
 </p>
 
-If you look in the start files for this project, you&apos;ll notice there&apos;s some images 
-and an index.html file. 
+<p>If you look in the start files for this project, you&apos;ll notice there&apos;s some images 
+and an index.html file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 508. example, simple html (278) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8531,10 +8535,10 @@ and an index.html file.
   title="Example, Simple HTML"
   alt="Example, Simple HTML." />
 
-If you open up that index.html file in your code editor, you&apos;ll see that it&apos;s just 
+<p>If you open up that index.html file in your code editor, you&apos;ll see that it&apos;s just 
 got some very basic markup inside of it that includes a div with an image, one of 
 the images in the folder, and a paragraph with two links, one for a previous link 
-and one for our next link. 
+and one for our next link.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 509. next and previous links (279) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8544,10 +8548,10 @@ and one for our next link.
   alt="Next and Previous links." />
 </p>
 
-Over here in my browser, I can see that it looks like this. When the user clicks 
+<p>Over here in my browser, I can see that it looks like this. When the user clicks 
 the "Next" link, it&apos;ll bring up the next picture and when they click the "Previous" 
 link, it&apos;ll bring up the previous picture. That&apos;s what we&apos;re going to make in this 
-particular exercise here. 
+particular exercise here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 510. example, add script tags and array (279) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8557,7 +8561,7 @@ particular exercise here.
   alt="Example, Add Script Tags &amp; Array." />
 </p>
 
-There are lots of ways of going about creating this simple slideshow. But one 
+<p>There are lots of ways of going about creating this simple slideshow. But one 
 way of doing it is to make a variable that includes an array and a variable which 
 is an array, and it includes all of the images that we have in the folder. Let&apos;s 
 start right there with that because that&apos;s a really nice simple place to start. 
@@ -8568,7 +8572,7 @@ array, and then when you click &apos;&apos;Next&apos;&apos; we&apos;ll get image
 which is actually image 2. It&apos;s a little bit confusing because these are labeled 
 1, 2, 3, 4, 5 but they&apos;re actually in the array 0, 1, 2, 3, and 4. But let&apos;s 
 start by putting in the array into our script over here. Down here at the bottom 
-of the page, just add script tags like so. 
+of the page, just add script tags like so.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 511. define array myimages (280) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8578,14 +8582,14 @@ of the page, just add script tags like so.
   alt="Define variable array myImages." />
 </p>
 
-In this script tag, we&apos;re going to add an array, var myImages equals square 
+<p>In this script tag, we&apos;re going to add an array, var myImages equals square 
 brackets, and then each element goes inside quotes. It doesn&apos;t matter if 
 they&apos;re single quotes or double-quotes. It doesn&apos;t really matter. You can do it 
 either way. image1.jpg, image2.jpg, image4.jpg and finally image5.jpg. There&apos;s 
 our array, and that&apos;s going to go and get these images, and they&apos;re all in the 
 same folder as the index.html. Next, we&apos;ll start working on how to actually 
 capture the event of clicking the next button and then handling the swapping 
-of the source attribute.
+of the source attribute.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-25">3.25 Simple JS Slideshow –- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -8597,8 +8601,8 @@ of the source attribute.
   alt="3.25 Simple JS Slideshow - Part 2." />
 </p>
 
-You will need some variables that we can adjust along the way 
-to capture which image that we&apos;re on in this array. 
+<p>You will need some variables that we can adjust along the way to capture which 
+image that we&apos;re on in this array.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 513. example, the current image (281) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8608,10 +8612,9 @@ to capture which image that we&apos;re on in this array.
   alt="Example, The Current Image." />
 </p>
   
-I&apos;m going to make a variable called currentImage and I&apos;m 
-going to set it to zero because when the page loads, this 
-image is showing which is number 0 in the array. Images 
-square brackets zero would get that image. 
+<p>I&apos;m going to make a variable called currentImage and I&apos;m going to 
+set it to zero because when the page loads, this image is showing which is number 
+0 in the array. Images square brackets zero would get that image.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 514. define currentimage, set to 0 (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8621,8 +8624,8 @@ square brackets zero would get that image.
   alt="Define currentImage = 0." />
 </p>
 
-Let&apos;s set that over here. Let&apos;s make a variable here, our currentImage and set 
-that to a value of zero to start with. 
+<p>Let&apos;s set that over here. Let&apos;s make a variable here, our currentImage and set 
+that to a value of zero to start with.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 515. example, handle the event (282) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8632,13 +8635,13 @@ that to a value of zero to start with.
   alt="Example, Handle the Event." />
 </p>
 
-Then from there, we need to create an event handler that will handle the 
+<p>Then from there, we need to create an event handler that will handle the 
 clicking for the &apos;&apos;Next&apos;&apos; button. We&apos;ll do the next link first. This is what 
 it will look like; document.getElementById(&apos;next&apos;). It&apos;s going to go into our 
 document and find that link that has the ID set to next. I&apos;m using the Onclick 
 event property. I&apos;m going to run a function called nextPhoto. Notice it doesn&apos;t 
 have parentheses at the end of it, but I&apos;m going to assign it a function called 
-nextPhoto, so then I can create that function nextPhoto. 
+nextPhoto, so then I can create that function nextPhoto.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 516. define next and current images (283) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8648,7 +8651,7 @@ nextPhoto, so then I can create that function nextPhoto.
   alt="Define and increment next, current images." />
 </p>
 
-Let&apos;s go ahead and add this to our script. Document.getElementById. That&apos;s 
+<p>Let&apos;s go ahead and add this to our script. Document.getElementById. That&apos;s 
 going to go in here and look for this link here that has the ID of next. It&apos;s 
 going to go into our document link for that. Onclick equals nextPhoto;. Then 
 down here we&apos;re going to make a function called nextPhoto. Notice that if we 
@@ -8659,12 +8662,12 @@ and increment it. I&apos;m going to say currentImage++. Now I&apos;m going to co
 here. I&apos;m going to say, I need to go document.getElementById. What ID do I 
 want? I want myimage up here. I want to set its dot source SRC equal to 
 myimages, that array currentImage. That will go into this array here and find 
-currentImage. 
-Now, the first time I click that link, currentImage is going to get incremented 
+currentImage.</p>
+<p>Now, the first time I click that link, currentImage is going to get incremented 
 to one. It will come in here, that&apos;s zero, this is one. So it says, that&apos;s 
 image2.jpg. This is going to be image2.jpg and I&apos;m assigning that to this 
 source attribute up here the source. Instead of saying image1.jpg, it&apos;s going 
-to say image2.jpg. Let&apos;s save that and see if that works. 
+to say image2.jpg. Let&apos;s save that and see if that works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 517. next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8674,7 +8677,7 @@ to say image2.jpg. Let&apos;s save that and see if that works.
   alt="Next image." />
 </p>
 
-Come over here, refresh. If I click &apos;&apos;Next&apos;&apos;, you can see that it&apos;s changed. 
+<p>Come over here, refresh. If I click &apos;&apos;Next&apos;&apos;, you can see that it&apos;s changed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 518. test, inspect next image (284) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8684,10 +8687,10 @@ Come over here, refresh. If I click &apos;&apos;Next&apos;&apos;, you can see th
   alt="Test Inspect, next image." />
 </p>
 
-If I do inspect down here, let me arrange this the way I want it. I&apos;m going to 
+<p>If I do inspect down here, let me arrange this the way I want it. I&apos;m going to 
 put this down at the bottom. I&apos;m going to turn off that button there. But if I 
 come in here and look at this div, notice this source says image2.jpg. If I 
-click &apos;&apos;Next&apos;&apos; again, notice that got changed to image3, image4, image5. 
+click &apos;&apos;Next&apos;&apos; again, notice that got changed to image3, image4, image5.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 519. test, next image undefined (285) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8697,15 +8700,14 @@ click &apos;&apos;Next&apos;&apos; again, notice that got changed to image3, ima
   alt="Test, next image undefined." />
 </p>
 
-What happened? We got to image5 because there are five images. Then I click 
+<p>What happened? We got to image5 because there are five images. Then I click 
 &apos;&apos;Next&apos;&apos; again, and now I have undefined. You&apos;ll 
 notice there&apos;s an error over here as well. I can go to my console log 
 and see undefined error file not found. Could not find I&apos;ve gotten beyond 
 the end of my array. At a certain point, it ceases to work depending on how 
-many pictures are in the array. That&apos;s what we&apos;re going to fix next.
+many pictures are in the array. That&apos;s what we&apos;re going to fix next.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-26">3.26 Simple JS Slideshow –- Part 3</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 520. simple js slideshow - part 3 (3.26) (285) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8715,7 +8717,7 @@ many pictures are in the array. That&apos;s what we&apos;re going to fix next.
   alt="3.26 Simple JS Slideshow - Part 3." />
 </p>
 
-Let&apos;s think about this for a minute. 
+<p>Let&apos;s think about this for a minute.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 521. example, end of the array (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8725,10 +8727,10 @@ Let&apos;s think about this for a minute.
   alt="Example, End of the Array." />
 </p>
  
-What we want to do is we need some code that says, if you&apos;re at the end of the 
+<p>What we want to do is we need some code that says, if you&apos;re at the end of the 
 array, go back to the beginning. Think about that for a minute. What do we know 
 about JavaScript that will allow us to do this kind of thing? What logical flow 
-control structure can we use to handle this? 
+control structure can we use to handle this?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 522. example, adding if (286) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8738,12 +8740,12 @@ control structure can we use to handle this?
   alt="Example, Adding If." />
 </p>
 
-If you were thinking of something like this, you&apos;re on the right track. If 
+<p>If you were thinking of something like this, you&apos;re on the right track. If 
 current image is greater than four, because remember, the numbers in the array 
 are 0, 1, 2, 3, and 4. If it gets greater than four, V becomes greater than 
-four. 
-We can set current image back to zero, and then go and get the next image. With 
-this if statement in place, you can make the slideshow effectively loop around. 
+four.</p>
+<p>We can set current image back to zero, and then go and get the next image. With 
+this if statement in place, you can make the slideshow effectively loop around.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 523. if current image > 4, current image = 0 (287) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -8753,9 +8755,9 @@ this if statement in place, you can make the slideshow effectively loop around.
   alt="If current image > 4, set image to 0." />
 </p>
 
-Let&apos;s go ahead and add this. I was just going to go in here, if parentheses 
+<p>Let&apos;s go ahead and add this. I was just going to go in here, if parentheses 
 currently rises. In the parentheses we want to say, if current image is greater 
-than four. Current image equals zero. 
+than four. Current image equals zero.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 524. test, next image (287) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10306,10 +10308,10 @@ as well, conversion. We&apos;ve got all of that set.
   alt="First half of script." />
 </p>
 
-Over here on my HTML file, instead of having this script here, I can leave it at 
+<p>Over here on my HTML file, instead of having this script here, I can leave it at 
 the bottom of the screen if I want, that&apos;s fine, and just link to it here, src 
 equals "scripts.js", and that should work just fine. If I go ahead and test that, 
-it should work exactly the same as it worked before, and it works fine, that&apos;s great. 
+it should work exactly the same as it worked before, and it works fine, that&apos;s great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 624. script - 2nd half (344) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10319,8 +10321,8 @@ it should work exactly the same as it worked before, and it works fine, that&apo
   alt="Second half of script." />
 </p>
 
-I could (and will) also move the script up into the head of the page, but I have 
-to add the <b>defer</b> attribute here.
+<p>I could (and will) also move the script up into the head of the page, but I have 
+to add the <b>defer</b> attribute here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 625. your file couldn't be accessed (344) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10330,7 +10332,7 @@ to add the <b>defer</b> attribute here.
   alt="Your file couldn't be accessed." />
 </p>
 
-If you forget the <b>defer</b> attribute up here, then it's going to try to run that 
+<p>If you forget the <b>defer</b> attribute up here, then it's going to try to run that 
 script before the page loads and it won't work properly. Your file couldn't be 
 accessed. It's trying to go to the some <b>PHP</b> file because that script never 
 loaded and it never prevented the default behavior. That didn't work, so you 
@@ -10338,7 +10340,7 @@ need to have that <b>defer</b> keyword in there to make sure that the script is
 deferred until the rest of the file loads. But there we have it. It's a great 
 little tool and it's allowed us to practice many of the things that we've been 
 talking about during this course, and we'll look at a slightly more advanced 
-version of the project next.
+version of the project next.</p>
 
 <ul>
   <li id="ch4-05-start"><a href="https://www.coursera.org/learn/javascript-basics/supplement/WRAUF/advanced-distance-converter-start-files"
@@ -10356,7 +10358,7 @@ version of the project next.
   alt="4.06 Advanced Distance Converter Project - Part 1." />
 </p>
 
-Advanced Distance Converter, Using JavaScript to Convert Distances. 
+<p>Advanced Distance Converter, Using JavaScript to Convert Distances.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 627/628. sample, miles to kilometers & kilometers to miles (346) ~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10369,11 +10371,12 @@ Advanced Distance Converter, Using JavaScript to Convert Distances.
   title="Sample, Kilometers to Miles Converter"
   alt="Sample, Kilometers to Miles Converter." />
 </p>
-In this project, we're going to use an extension to what we did in the earlier 
+
+<p>In this project, we're going to use an extension to what we did in the earlier 
 project for the distance converter. We're just going to add an additional feature. 
 What that additional feature is, it'll convert miles to kilometers, where we 
 can press the "K" key to convert kilometers to miles, or we can press the "M" 
-key to go back. We can go back and forth between doing different types of conversions. 
+key to go back. We can go back and forth between doing different types of conversions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 629/630. test, 5 kilos to miles & 5 miles to kilos (347) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10386,14 +10389,15 @@ key to go back. We can go back and forth between doing different types of conver
   title="Test, 5 miles to 8.047 kilometers"
   alt="Test, 5 miles to 8.047 kilometers." />
 </p>
-If I put a five in here and click "Convert Distance", it'll tell me five 
+
+<p>If I put a five in here and click "Convert Distance", it'll tell me five 
 kilometers converts to 3.107 miles, or if I press the "M" key, I can convert 
 five miles to 8.047 kilometers. That's pretty neat. Notice that a few things 
 are changing when I do this, the header changes here, this little piece of 
 instruction changes slightly here, and a few other things have to be managed 
 down here. I've got a set of instructions down here in the bottom of the page 
 that tell you which keys to press, and that kind of stuff. That gets us set 
-up to start coding this project and getting the script working. 
+up to start coding this project and getting the script working.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 631. code, set up script (347) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10402,11 +10406,11 @@ up to start coding this project and getting the script working.
   title="Code JS, set up script"
   alt="Code JS, set up script." />
 </p>
-You'll notice that, if you look at the Start file here, it looks very similar 
+
+<p>You'll notice that, if you look at the Start file here, it looks very similar 
 to what we had before. We just need to get started with a script tag down here, 
 and then the very first thing we're going to put in there is just some variables 
-that we need in order to make this work. 
-
+that we need in order to make this work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 632. example, define some variables (348) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10415,10 +10419,11 @@ that we need in order to make this work.
   title="Example, Define Some Variables"
   alt="Example, Define Some Variables." />
 </p>
-We're going to need a variable called convertType that's going to be set 
+
+<p>We're going to need a variable called convertType that's going to be set 
 initially to miles, and then when you press the "K" key or the "M" key, it's 
 going to update that value to kilometers or miles, depending on which key you 
-press.
+press.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 633. js code to update headings (348) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10427,26 +10432,24 @@ press.
   title="Extract header using document.querySelector('h1')"
   alt="Extract header using document.querySelector('h1')." />
 </p>
-Then we also need to get the h1 because we're going to change that in the intro 
-text. We might as well gather the answer element down there as well, and also 
-the form that we have in there. 
 
-Let's add these variables, var convertType. Set to “miles” initially. Then 
+<p>Then we also need to get the h1 because we're going to change that in the intro 
+text. We might as well gather the answer element down there as well, and also 
+the form that we have in there.</p>
+<p>Let's add these variables, var convertType. Set to “miles” initially. Then 
 I've got var heading = document.querySelector(“h1”);, that will get the 
 heading. Then we need this intro paragraph here, var, and just to make it 
 match what I have over here, it doesn't really matter, I'm just going to 
 call it intro = document.querySelector("p");. This is the first paragraph 
-on the page. Actually, it's the only paragraph on the page. 
-
-Remember, the querySelector will grab the first one that it finds, so that's 
+on the page. Actually, it's the only paragraph on the page.</p>
+<p>Remember, the querySelector will grab the first one that it finds, so that's 
 handy. I can just do querySelector(“p”); I don't have to do anything complicated 
 to get to that paragraph. We might as well grab this answerDiv down here. 
 var answerDiv = document.getElementById(“answer”);. Then we might as well 
 also get the actual form. var form = document.getElementById(“convert”);, 
 and the form is as the ID, set to 'convert'. That gives us all the variables 
 that we need right here at the top of our script, and we're ready to start 
-working on what we need to work on to continue the script.
-
+working on what we need to work on to continue the script.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-07">4.07 Advanced Distance Converter Project -– Part 2 (5:44)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10457,10 +10460,11 @@ working on what we need to work on to continue the script.
   title="4.07 Advanced Distance Converter Project - Part 2"
   alt="4.07 Advanced Distance Converter Project - Part 2." />
 </p>
-Okay, next we need to add two event listeners. One is going to handle key down. 
+
+<p>Okay, next we need to add two event listeners. One is going to handle key down. 
 When we handle the press of the K key, the M key and the other one is going to 
 handle the submission of the form. Let's add these two event listeners before 
-we do anything else. 
+we do anything else.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 635. document.addeventlistener('keydown',function()) (350) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10469,10 +10473,11 @@ we do anything else.
   title="Listen for 'keydown' event using document.addEventListener('keydown'..."
   alt="Listen for 'keydown' event using document.addEventListener('keydown'..." />
 </p>
-Come over here to my code. Down here, my script, I'm going to have 
+
+<p>Come over here to my code. Down here, my script, I'm going to have 
 document.addEventListener. The event I'm listening for is a ‘keydown’ event. 
 Then I'm going to run a function. Everything for that event listener will go 
-between those curly braces, that's one. 
+between those curly braces, that's one.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 636. form.addeventlistener('submit',function()) (350) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10480,11 +10485,12 @@ between those curly braces, that's one.
   style="width:50%"
   alt="Listen for 'submit' event." />
 </p>
-Then we need to deal with the submission of the form. We already have a variable 
+
+<p>Then we need to deal with the submission of the form. We already have a variable 
 that's getting that form by ID, so I can just do the form.addEventListener, and 
 again, we want to do submit. When the form is submitted, we want to run the 
 function. It's going to run and do all the fancy stuff. That is going to happen 
-in there. 
+in there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 637. capture key code using event.code (351) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10493,12 +10499,13 @@ in there.
   title="Capture key code using event.code"
   alt="Capture key code using event.code." />
 </p>
-We've got our two event listeners and we're ready to get started the keydown 
+
+<p>We've got our two event listeners and we're ready to get started the keydown 
 event listener first. To do that, we're going to pass in the event object here. 
 Before we had used event.which, to figure out which key was pressed. But 
 event.which is now deprecated. Really what they want us to be using over MDN is 
 event.code. Let's assign that to a variable, var key = event.code. Then I'm going 
-to alert our key to see what I get. 
+to alert our key to see what I get.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 638/639. test, keyk and keym (351) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10510,10 +10517,10 @@ to alert our key to see what I get.
   alt="Test, 'K' key was pressed." />
 </p>
 
-All right great, let's go over here and test this. If I refresh and I press the 
+<p>All right great, let's go over here and test this. If I refresh and I press the 
 M key, I get key M. If I press the K, I get key K. Instead of giving you a number, 
 gives you actually a key within the letter than the actual letter that you're 
-pressing. 
+pressing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 640. if keyk..else keym (352) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10523,15 +10530,14 @@ pressing.
   alt="If KeyK, convert to Kilometers, elseif KeyM, convert to Miles." />
 </p>
 
-We know how to capture those keys and know which one has been pressed. From 
+<p>We know how to capture those keys and know which one has been pressed. From 
 here, writing the If statement is very simple. We can say if key is the same 
 as; you could even do triple equals if you wanted to. key K, we're going to do 
 one thing, else, if key is the same as key M we're going to do something else. 
 What are we going to do in here? We're going to change the heading. We're going 
 to change the intro paragraph and the convertype variable. Those are three 
 things that we need to do in each of these as we go forward here with this 
-function.
-
+function.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-08">4.08 Advanced Distance Converter Project -- Part 3 (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10543,26 +10549,24 @@ function.
   alt="Capture event.code for KeyK (kilometers) or KeyM (miles)." />
 </p>
 
-Okay, so now we&apos;re going to put this in here, and have <b>var convertType</b> 
+<p>Okay, so now we&apos;re going to put this in here, and have <b>var convertType</b> 
 because we already have it defined up there, so you don&apos;t use <b>var.convertType = "kilometers".</b> 
 That&apos;s going to get set to kilometers as a value, as opposed to miles. You could just use K and M
-in there if you wanted to keep it short, and that&apos;s fine.
-
-And then I&apos;m going to change the heading in here next.
+in there if you wanted to keep it short, and that&apos;s fine.</p>
+<p>And then I&apos;m going to change the heading in here next.
 <b>heading.innerHTML = "Kilometers to Miles</b> c<b>onverter"</b>. That&apos;s
 going to change the heading up at the top of the page. And then the
 third thing I want to do is just change the intro paragraphs. That&apos;s
 the variable intro.InnerHTML = and then I&apos;m just going to paste this
 in, but you&apos;re going to have to type it. Type in a number of kilometers
 and click the button to convert the distance to miles. We&apos;ve got all of
-these set in here.
-
-And, what we need to do is put the same thing down below. But instead of
+these set in here.</p>
+<p>And, what we need to do is put the same thing down below. But instead of
 kilometers it&apos;s going to be miles. And then over here we&apos;re going to
 say Miles to Kilometers converter. And then type the number of miles,
 and click the button to convert the distance to kilometers. That should
 be working in terms of which key I pressed here and how that&apos;s going to
-work.
+work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 642/643. test, k switches to kilometers, m to miles (353) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10576,9 +10580,9 @@ work.
   alt="Test, 'M' key switches conversion to Miles." />
 </p>
 
-And if I come over and test this, you should see if I press the K key,
+<p>And if I come over and test this, you should see if I press the K key,
 it switches to kilometers to miles, the statement changes. And if I
-press the M key it switches back.
+press the M key it switches back.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 644. example, starting the form submission handler (354) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10588,10 +10592,10 @@ press the M key it switches back.
   alt="Example, Starting the Form Submission Handler." />
 </p>
 
-Now we can start the second part of the script which is the form
+<p>Now we can start the second part of the script which is the form
 submission handler. And we can pass in the event and once again do
 <b>event.preventDefault</b> to keep that form from being submitted,
-actually submitted. So we&apos;re going to pass in our event object here.
+actually submitted. So we&apos;re going to pass in our event object here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 645. event.preventdefault (354) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10601,13 +10605,13 @@ actually submitted. So we&apos;re going to pass in our event object here.
   alt="event.preventDefault()." />
 </p>
 
-And down here again do <b>event.preventDefault.</b> And then we want to do
+<p>And down here again do <b>event.preventDefault.</b> And then we want to do
 the same thing we did before and get our variable out of their distance.
 var <b>distance = document.getElementByID</b>. And we&apos;re going into our
 form and up here in our form we&apos;re getting this distance ID here. So
 getElementByID (&apos;distance&apos;).value like that. But just as we did before
 we want to put parseFloat in front of this, parseFloat, parentheses, and
-then close the parentheses at the end after value there.
+then close the parentheses at the end after value there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 646. verify a number is entered (355) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10617,19 +10621,17 @@ then close the parentheses at the end after value there.
   alt="Verify a number is entered, otherwise answer.innerHTML gives error message." />
 </p>
 
-Also, same as before, we&apos;re going to stay if (distance), if that&apos;s
+<p>Also, same as before, we&apos;re going to stay if (distance), if that&apos;s
 really a number, then we&apos;re going to do something here, right?
 Otherwise, we&apos;re going to do something down here, else, and really,
 what we want is just to set that answer.InnerHTML = h2 and in there I&apos;m
-going to just say please provide a number.
-
-So that will handle the error if somebody doesn&apos;t put in a number. But
+going to just say please provide a number.</p>
+<p>So that will handle the error if somebody doesn&apos;t put in a number. But
 in here, what we&apos;re going to do is this is we&apos;re going to check to see
 what the value of this variable <b>convertType</b> is because it&apos;s either
 set to miles or kilometers. Because if it&apos;s one, we&apos;re going to do one
 type of conversion, if it&apos;s the other, we&apos;re going to do another type
-of conversion.
-
+of conversion.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-09">4.09 Advanced Distance Converter Project -- Part 4 (6:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10641,10 +10643,10 @@ of conversion.
   alt="if..else distance command." />
 </p>
 
-Okay, so now we need to actually do the conversion here, and based on
+<p>Okay, so now we need to actually do the conversion here, and based on
 which value this variable has your convert type. To convert miles to
 kilometers, the ratio is 1.609344 and to convert K to M, the ratio is
-.621371192.
+.621371192.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 648. if converttype is miles, distance = 1.609344 * kilometers (356) ~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10661,15 +10663,14 @@ if(convertType == "miles"){ var converted = (distance &ast;
 } else { var converted = (distance &ast; .621371192).tofixed(3)}
 ```
 
-<b>answer.innerHTML</b> equals we&apos;re going to use your tick marts and
+<p><b>answer.innerHTML</b> equals we&apos;re going to use your tick marts and
 we&apos;re going to say. X miles converts to y kilometers. But x is now
 going to be dollar sign curly braces, and in there I&apos;m going to put
-distance converts to Dollar sign curly braces, converted.
-
-There we go. And down here, it&apos;s going to be the same thing. Answer,
+distance converts to Dollar sign curly braces, converted.</p>
+<p>There we go. And down here, it&apos;s going to be the same thing. Answer,
 copy that, stick that down here except instead of miles, that&apos;s going
 to say kilometers converts to miles. There we go, so now we&apos;re able to
-convert both miles and kilometers and put the correct answer.
+convert both miles and kilometers and put the correct answer.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 649/650. test, miles to kilometers, and kilometers to miles (357) ~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10683,11 +10684,11 @@ convert both miles and kilometers and put the correct answer.
   alt="Test, Kilometers to Miles." />
 </p>
 
-Yet if somebody enters in something, that&apos;s not a number that will
+<p>Yet if somebody enters in something, that&apos;s not a number that will
 still be handled, and that should work, let&apos;s test it and see. Refresh
 miles to kilometers if I put in one mile that converts to 1.69
 kilometers, that&apos;s correct. If I press my K key kilometers to miles,
-convert and I get 0.61 miles, and that&apos;s correct.
+convert and I get 0.61 miles, and that&apos;s correct.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 651. key press keyk or keym code (357) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10697,13 +10698,12 @@ convert and I get 0.61 miles, and that&apos;s correct.
   alt="Key press KeyK or KeyM code." />
 </p>
 
-We have a working distance converter for more advanced distance
-converting, that will allow us to switch between miles and kilometers.
-And over here in our script, the important thing to recognize here is
-that we&apos;re using a variable up here at the top <b>convertType</b>. And
-we&apos;re adjusting the value of that variable here based on the key
-pressed. And then, we&apos;re adjusting which one of these were going to be
-using based on what the value of that variable is.
+<p>We have a working distance converter for more advanced distance converting, 
+that will allow us to switch between miles and kilometers. And over here in our 
+script, the important thing to recognize here is that we&apos;re using a variable 
+up here at the top <b>convertType</b>. And we&apos;re adjusting the value of that 
+variable here based on the key pressed. And then, we&apos;re adjusting which one 
+of these were going to be using based on what the value of that variable is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 652. 2nd half of js code (358) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -10713,14 +10713,13 @@ using based on what the value of that variable is.
   alt="2nd half of script, javascript code." />
 </p>
 
-Now, this is where we&apos;re starting to get into some scope and some it&apos;s
+<p>Now, this is where we&apos;re starting to get into some scope and some it&apos;s
 a little bit more complex because we&apos;re looking at a value that you
 need to get set in this function here, and then access it in that
 function there. And we&apos;re doing that by defining the value up here. The
 last thing you should do with this is put it all into a script file at
 the top of and link it to the top of the page instead of having it here
-in the bottom, and use all your best practices for that.
-
+in the bottom, and use all your best practices for that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-10">4.10 Advanced Distance Converter Project -- Part 5 (5:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10788,7 +10787,6 @@ to <b>SRC = script.js</b>.</p>
 <p>The one last thing I didn&apos;t do is I didn&apos;t come in. Now <b>convertType</b> 
 needs to be <b>let</b> because that one&apos;s going to actually change values. But 
 the following variables can be <b>const</b>; <b>heading, intro, answerDiv,</b> and <b>form</b>.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 658. change var to const or let (361) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -11099,7 +11097,11 @@ come together. Well pick up the styling in the next video.</p>
 <img src="./images/image675.png"
   style="width:50%"
   alt="." />
-Next, we're going to set the width of the form and the article respectively. We'll add some margin back in the bottom of these elements so they start to look a little bit better and then the title is going to get text-align to the center. We'll be able to do all of that here. 
+
+<p>Next, we're going to set the width of the form and the article respectively. 
+We'll add some margin back in the bottom of these elements so they start to 
+look a little bit better and then the title is going to get text-align to the 
+center. We'll be able to do all of that here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 676. style for main, main form, main article, h's and p (374) ~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -11176,10 +11178,11 @@ beyond that size there.</p>
 <img src="./images/image680.png"
   style="width:50%"
   alt="." />
-Let's take a look and see what that looks like over here. That's looking much better, much cleaner. We will finish up the styling in the next lesson.
+  
+<p>Let's take a look and see what that looks like over here. That's looking much 
+better, much cleaner. We will finish up the styling in the next lesson.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-15">4.15 Vacation Destination Project: HTML & CSS -- Part 5 (4:32)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~ 681. vacation destination project: html & css - part 5 (4.15) (377) ~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -11187,7 +11190,12 @@ Let's take a look and see what that looks like over here. That's looking much be
   style="width:50%"
   title="4.15 Vacation Destination Project: HTML &amp; CSS -- Part 5"
   alt="4.15 Vacation Destination Project: HTML &amp; CSS -- Part 5." />
-We're going to add cards dynamically using JavaScript, but we want to know what they're going to look like. The best way to do this is to add one manually, add a card that would get added by JavaScript with all the correct HTML, style that so we know that what it's supposed to look like, and then remove that card. That's what we'll do next. 
+
+<p>We're going to add cards dynamically using JavaScript, but we want to know what 
+they're going to look like. The best way to do this is to add one manually, add 
+a card that would get added by JavaScript with all the correct HTML, style that 
+so we know that what it's supposed to look like, and then remove that card. 
+That's what we'll do next.</p>
 
 
 
