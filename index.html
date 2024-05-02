@@ -10830,16 +10830,17 @@ to say kilometers converts to miles. There we go, so now we&apos;re able to
 convert both miles and kilometers and put the correct answer.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~ 649/650. test, miles to kilometers, and kilometers to miles (357) ~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image649.png"
-  style="width:45%"
+<img class="displayed"
+  src="./images/image649.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Test, Miles to Kilometers"
   alt="Test, Miles to Kilometers." />
-<img src="./images/image650.png"
-  style="width:45%"
+<img class="displayed"
+  src="./images/image650.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Test, Kilometers to Miles"
   alt="Test, Kilometers to Miles." />
-</p>
+<p style="clear: both;"></p>
 
 <p>Yet if somebody enters in something, that&apos;s not a number that will
 still be handled, and that should work, let&apos;s test it and see. Refresh
@@ -10848,12 +10849,11 @@ kilometers, that&apos;s correct. If I press my K key kilometers to miles,
 convert and I get 0.61 miles, and that&apos;s correct.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 651. key press keyk or keym code (357) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image651.png"
+<img class="displayed"
+  src="./images/image651.png"
   style="width:50%"
   title="Key press KeyK or KeyM code"
   alt="Key press KeyK or KeyM code." />
-</p>
 
 <p>We have a working distance converter for more advanced distance converting, 
 that will allow us to switch between miles and kilometers. And over here in our 
@@ -10863,12 +10863,11 @@ variable here based on the key pressed. And then, we&apos;re adjusting which one
 of these were going to be using based on what the value of that variable is.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 652. 2nd half of js code (358) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image652.png"
+<img class="displayed"
+  src="./images/image652.png"
   style="width:50%"
   title="2nd half of script, javascript code"
   alt="2nd half of script, javascript code." />
-</p>
 
 <p>Now, this is where we&apos;re starting to get into some scope and some it&apos;s
 a little bit more complex because we&apos;re looking at a value that you
@@ -10881,16 +10880,17 @@ in the bottom, and use all your best practices for that.</p>
 <h2 id="ch4-10">4.10 Advanced Distance Converter Project -- Part 5 (5:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 653/654. script for advanced distance converter (359) ~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image653.png"
-  style="width:45%"
+<img class="displayed"
+  src="./images/image653.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Lines 1 thru 24 of script"
   alt="Lines 1 thru 24 of script." />
-<img src="./images/image654.png"
-  style="width:45%"
+<img class="displayed"
+  src="./images/image654.png"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="Lines 25 thru 51 of script"
   alt="Lines 25 thru 51 of script." />
-</p>
+<p style="clear: both;"></p>
 
 <p>You may not need to watch this video right now, but because you should
 know how to do this already, but I&apos;m going to do it anyway. I&apos;m going
@@ -10913,45 +10913,41 @@ these to not get used in the wrong place down there. <b>AnswerDiv</b>. It
 should be <b>answerDiv</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 655. move all script code to script.js (360) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image655.png"
+<img class="displayed"
+  src="./images/image655.png"
   style="width:50%"
   title="Move javascript code to script.js"
   alt="Move javascript code to script.js." />
-</p>
 
 <p>Over here in our file, we can get rid of this stuff, and instead, we can link 
 to <b>SRC = script.js</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 656. add 'defer' to script command (360) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image656.png"
+<img class="displayed"
+  src="./images/image656.png"
   style="width:50%"
   title="Add script source to head of index file with 'defer' command"
   alt="Add script source to head of index file with 'defer' command." />
-</p>
 
 <p>Now, we could move this up to the top of the file here. <b>defer</b>, there we go.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 657. change converttype from var to let (361) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image657.png"
+<img class="displayed"
+  src="./images/image657.png"
   style="width:50%"
   title="Change convertType to let and remaining variables to const"
   alt="Change convertType to let and remaining variables to const." />
-</p>
 
 <p>The one last thing I didn&apos;t do is I didn&apos;t come in. Now <b>convertType</b> 
 needs to be <b>let</b> because that one&apos;s going to actually change values. But 
 the following variables can be <b>const</b>; <b>heading, intro, answerDiv,</b> and <b>form</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 658. change var to const or let (361) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image658.png"
+<img class="displayed"
+  src="./images/image658.png"
   style="width:50%"
   title="Change var to const or let"
   alt="Change var to const or let." />
-</p>
 
 <p>We have used a lot of the things that we&apos;ve learned about in this
 course so far, in terms of capturing some data from a form, being able
@@ -10968,12 +10964,11 @@ presses, which is pretty neat.</p>
 <h2 id="ch4-11">4.11 Vacation Destination Project: HTML & CSS -- Part 1 (6:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 659. vacation destination list (4.11) (362) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image659.png"
+<img class="displayed"
+  src="./images/image659.png"
   style="width:40%"
   title="4.11 Vacation Destination List - Part 1: HTML &amp; CSS"
   alt="4.11 Vacation Destination List - Part 1: HTML &amp; CSS." />
-</p>
 
 <p>Vacation destination list. For this part, we're going to be building the HTML 
 and CSS for this ‘vacation destination wish list app’ for lack of a better word, 
@@ -10982,12 +10977,11 @@ that sophisticated. There's no database involved but, we'll call it an app for
 lack of a better term.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 660. form, about the project (362) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image660.png"
+<img class="displayed"
+  src="./images/image660.png"
   style="width:50%"
   title="Form, About the Project"
   alt="Form, About the Project." />
-</p>
 
 <p>Basically, what we'll do here is we'll have a form and you can add destination 
 name, location, photo and description to the form, and it will add it to your 
@@ -11003,11 +10997,11 @@ together everything that you've learned in this course so far. And again,
 we've got three more courses to go after this.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 661.  (363) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image661.png"
+<img class="displayed"
+  src="./images/image661.png"
   style="width:50%"
   alt="." />
-</p>
+
 <p>Okay, they are going to add some some information to the page here including a 
 URL for the picture but if they don’t have a picture URL, one will be  provided.  
 It will put a generic image.  A sign post JPEG. And if we go over and look at 
@@ -11025,22 +11019,20 @@ a JavaScript file, which is also empty, and in part two will actually be buildin
 the JavaScript for this project.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 662.  (364) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image662.png"
+<img class="displayed"
+  src="./images/image662.png"
   style="width:50%"
   alt="." />
-</p>
 
 <p>The first thing we need to do is add a header element which will open and close, 
 and inside the header element, I'm going to add an h1 heading and a paragraph, 
 and I'm going to paste them in here but you're going to have to type these.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 663.  (364) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image663.png"
+<img class="displayed"
+  src="./images/image663.png"
   style="width:50%"
   alt="." />
-</p>
 
 <p>Add <b>h1 ‘Vacation Destinations Wish List’</b>. Each h1 should have a main heading. 
 If it all possible, that Google will search as an index.  And then I've got a 
@@ -11057,11 +11049,10 @@ stop here, and we will pick this up in the next lesson.</p>
 <h2 id="ch4-12">4.12 Vacation Destination Project: HTML & CSS -- Part 2 (7:33)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 664.  (365) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image664.png"
+<img class="displayed"
+  src="./images/image664.png"
   style="width:50%"
   alt="." />
-</p>
 
 <p>Next, we'll add two fields. One is going to hold the name of the destination 
 and the other is going to hold the location of the destination. Each of these 
@@ -11081,11 +11072,10 @@ for that, input type equals text, id equals location, and required just like
 before.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 665.  (366) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image665.png"
+<img class="displayed"
+  src="./images/image665.png"
   style="width:50%"
   alt="." />
-</p>
 
 <p>From there we're going to add a couple more fields. We want two more fields. One 
 for the photo, so I'm going to have a label for photo. This one is going to be an 
@@ -11100,23 +11090,21 @@ description. This is going to be a text area, like so. It needs to have an id, s
 to description to match the for attribute, and there we go. A form is basically built.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 666. placeholder for textarea description (367) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image666.png"
+<img class="displayed"
+  src="./images/image666.png"
   style="width:50%"
   title="placeholder for textarea description"
   alt="placeholder for textarea description." />
-</p>
 
 <p>Another thing that would be nice is if we had some placeholder text in these 
 fields. We can add a placeholder attribute and set it for each. Placeholder for 
 destination name, destination location, photo and description.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 667.  (367) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image667.png"
+<img class="displayed"
+  src="./images/image667.png"
   style="width:50%"
   alt="." />
-</p>
 
 <p>We're ready to add the element that's going to take the results we put in there. 
 That will be an article after the format an article, and then we're going to add 
@@ -11130,8 +11118,8 @@ I believe that finishes the HTML that we need for now. That'll pretty much finis
 the software for all the HTML we need.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 668. vacation destinations wish list (368) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image668.png"
+<img class="displayed"
+  src="./images/image668.png"
   style="width:50%"
   title="Vacation Destinations Wish List"
   alt="Vacation Destinations Wish List." />
@@ -11143,8 +11131,8 @@ don't have any styling in here yet, so we'll do the styling next.</p>
 <h2 id="ch4-13">4.13 Vacation Destination Project: HTML & CSS -- Part 3 (7:03)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 669. example, adding styling (369) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image669.png"
+<img class="displayed"
+  src="./images/image669.png"
   style="width:50%"
   title="Example, Adding Styling"
   alt="Example, Adding Styling." />
@@ -11162,11 +11150,11 @@ they help with zeroing out some of the base styles that most browsers display
 by default.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 670. style.css; h's, ul, li, p, img and body (370) ~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image669.png"
+<img class="displayed"
+  src="./images/image669.png"
   style="width:50%"
-  title=""
-  alt="style.css; h1,h2,h3,h4,ul,li,p with margin 0, padding 0. img max-width 100%, body ." />
+  title="style.css; h1,h2,h3,h4,ul,li,p with margin 0, padding 0. img max-width 100%, body"
+  alt="style.css; h1,h2,h3,h4,ul,li,p with margin 0, padding 0. img max-width 100%, body." />
 
 <p>I'm going to add these in. Over here I'm going to add on my style sheet here 
 a rule for h1, h2, h3, h4, ul, li and p. I'm putting this in the script page, 
@@ -11183,8 +11171,8 @@ gray in this basic rule here. I'm going to have body{font-family: Arial;
 color: #333;}.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 671. vacations destinations wish list (371) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image671.png"
+<img class="displayed"
+  src="./images/image671.png"
   style="width:50%"
   title="Vacation Destinations Wish List"
   alt="Vacation Destinations Wish List." />
@@ -11194,8 +11182,8 @@ some of that styling. Notice that we've lost a bunch of the margin and padding
 on those things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 672. example, continue styling (371) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image672.png"
+<img class="displayed"
+  src="./images/image672.png"
   style="width:50%"
   title="Example, Continue Styling"
   alt="Example, Continue Styling." />
@@ -11221,8 +11209,8 @@ flex; we do justify-content: space-between; which will put a gap between those t
 items.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 673. vacation destinations wish list (372) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image673.png"
+<img class="displayed"
+  src="./images/image673.png"
   style="width:50%"
   title="Vacation Destinations Wish List"
   alt="Vacation Destinations Wish List." />
@@ -11232,8 +11220,8 @@ left, and then this article on the right, those become flex items. They're
 going to sit next to each other in our design.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 674.  (373) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image674.png"
+<img class="displayed"
+  src="./images/image674.png"
   style="width:50%"
   alt="." />
 
@@ -11250,8 +11238,8 @@ come together. Well pick up the styling in the next video.</p>
 <h2 id="ch4-14">4.14 Vacation Destination Project: HTML & CSS -- Part 4 (6:56)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 675.  (373) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image675.png"
+<img class="displayed"
+  src="./images/image675.png"
   style="width:50%"
   alt="." />
 
@@ -11261,8 +11249,8 @@ look a little bit better and then the title is going to get text-align to the
 center. We'll be able to do all of that here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 676. style for main, main form, main article, h's and p (374) ~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image676.png"
+<img class="displayed"
+  src="./images/image676.png"
   style="width:50%"
   title="Style for main, main form, main article, h1-h4 and p"
   alt="Style for main, main form, main article, h1-h4 and p." />
@@ -11282,8 +11270,8 @@ only have margin on the bottom and not margin on top and bottom, which is what
 they get by default in most browsers.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 677. vacation destinations wish list (375) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image677.png"
+<img class="displayed"
+  src="./images/image677.png"
   style="width:50%"
   title="Vacation Destinations Wish List"
   alt="Vacation Destinations Wish List." />
@@ -11294,8 +11282,9 @@ there. We've got #titled text-align center. Let's see what else we need to do fo
 styling. Got that going so that is centered over there now it's great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 678. example, continue styling (375) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image678.png"
+<img class="displayed"
+  src="./images/image678.png"
+  loading="lazy"
   style="width:50%"
   title="Example, Continue Styling"
   alt="Example, Continue Styling." />
@@ -11308,9 +11297,11 @@ we don't really like that. We wanted to stack. If you set them to display block
 and then work with them, they're a little bit easier to work with.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 679. styles.css; label, input, textarea (376) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image679.png"
+<img class="displayed"
+  src="./images/image679.png"
+  loading="lazy"
   style="width:50%"
+  title="styles.css; add label, input, textarea, & destination_details_form button"
   alt="styles.css; add label, input, textarea, & destination_details_form button." />
   
 <p>Let's add these rules in here. For the label, we're going to 
@@ -11331,8 +11322,9 @@ element? Remember, we set the width to 45 percent so we don't want to extend
 beyond that size there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 680.  (377) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image680.png"
+<img class="displayed"
+  src="./images/image680.png"
+  loading="lazy"
   style="width:50%"
   alt="." />
   
@@ -11342,8 +11334,9 @@ better, much cleaner. We will finish up the styling in the next lesson.</p>
 <h2 id="ch4-15">4.15 Vacation Destination Project: HTML & CSS -- Part 5 (4:32)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~ 681. vacation destination project: html & css - part 5 (4.15) (377) ~~~~~~~~~~~~-->
-<p align="center" width="100%">
-<img src="./images/image681.png"
+<img class="displayed"
+  src="./images/image681.png"
+  loading="lazy"
   style="width:50%"
   title="4.15 Vacation Destination Project: HTML &amp; CSS -- Part 5"
   alt="4.15 Vacation Destination Project: HTML &amp; CSS -- Part 5." />
@@ -11353,16 +11346,6 @@ they're going to look like. The best way to do this is to add one manually, add
 a card that would get added by JavaScript with all the correct HTML, style that 
 so we know that what it's supposed to look like, and then remove that card. 
 That's what we'll do next.</p>
-
-
-
-
-
-
-
-
-
-
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-16">4.16 Vacation Destination Project: HTML & CSS -- Part 6 (4:13)</h2>
@@ -11419,10 +11402,10 @@ That's what we'll do next.</p>
 <h2 id="ch4-25">4.25 Course Summary (0:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-###### .the end. 2.24.24 11:42pm
-###### .the end, again. 3.06.24 5:24pm
-###### .the end, again. 3.15.24 4:03pm
 
+<h6>.the end. 2.24.24 11:42pm</h6>
+<h6>.the end, again. 3.06.24 5:24pm</h6>
+<h6>.the end, again. 3.15.24 4:03pm</h6>
 
 <!-- 
 LAST CHANGED March, 2024 - going through entire document (389 pages) to more clearly identify images
@@ -11432,7 +11415,22 @@ Currently at 4.09 with 4.10 thru 4.25 to complete this class. That will add appr
 the Word document this markdown was created from.
 
 Bear with me.  It does get convoluted as hell. Time and practice. Practice and time.
---> 
+-->
+<!--
+<img class="border"
+  src="./images/imageXXX.png"
+  loading="lazy"
+  style="width:40%; float: left; margin-left: 10%; margin-bottom: 1em;"
+  title=""
+  alt="." />
+<img class="border"
+  src="./images/imageXXX.png"
+  loading="lazy"
+  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
+  title=""
+  alt="." />
+<p style="clear: both;"></p>
+-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
