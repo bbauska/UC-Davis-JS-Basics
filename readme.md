@@ -3481,11 +3481,8 @@ the array that way.</p>
 ```
 <pre><code>
   const fruits = ['apple', 'banana', 'orange'];
-
   for (const fruit of fruits) {
-
     console.log(fruit);
-
 }
 </code></pre>
 ```
@@ -10609,10 +10606,10 @@ kilometers, the ratio is 1.609344 and to convert K to M, the ratio is
 </p>
 
 ```
-if(convertType == "miles"){ var converted = (distance &ast;
+if(convertType == "miles"){ var converted = (distance {asterisk/times} &ast;
 1.609344).tofixed(3);
 
-} else { var converted = (distance &ast; .621371192).tofixed(3)}
+} else { var converted = (distance &ast; {asterisk/times} .621371192).tofixed(3)}
 ```
 
 **answer.innerHTML** equals we&apos;re going to use your tick marts and
