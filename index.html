@@ -11304,10 +11304,182 @@ they're going to look like. The best way to do this is to add one manually, add
 a card that would get added by JavaScript with all the correct HTML, style that 
 so we know that what it's supposed to look like, and then remove that card. 
 That's what we'll do next.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 682.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image682.webp"
+  style="width:50%"
+  alt="." />
 
+<p>We&apos;re going to start by going back and adding just a little bit more
+HTML. We need a div with a class of <b>card</b> and an image with the
+signpost, and then in there we&apos;re going to have the <b>card</b> body with
+an <b>h3</b> and <b>h4</b> and a <b>paragraph</b> in button. We do have another
+button here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 683.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image683.webp"
+  style="width:50%"
+  alt="." />
+
+<p>Let&apos;s add this into our HTML over here. It&apos;s going to go down here
+inside this generated content by JavaScript here we&apos;re going to do
+<b>div class</b> equals <b>card-body</b>. This has to be a class because
+we&apos;re going to have multiple cards. We&apos;d have multiple cards on the
+page, so you can only use an <b>id</b> once. That has to be a <b>class</b>.
+Then let&apos;s add an image.</p>
+
+<p>Images/signpost. I&apos;m not going to put in all tag on it at the moment.
+We&apos;ve got that image and then we&apos;ve got the card body coming next. div
+class="card-body". Then inside the card body we&apos;re going to add h3
+destination name. Then we&apos;ll do a h4 destination location. Then we&apos;re
+to add a Paragraph p with a class set to card-text, destination
+description. Then we&apos;re going to add a button that will allow you to
+remove the card if you need to. We&apos;ll have a feature that will allow
+you to take a card off, so we&apos;ll add that button in there. I believe
+that&apos;s what we need for the HTML.</p>
+
+<p>Let&apos;s take a look over here. Yeah, there we go. So we&apos;ve got all of
+the HTML for that card in. It won&apos;t look particularly good.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 684.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image684.webp"
+  style="width:50%"
+  alt="." />
+
+<p>Let&apos;s see what it looks like. Doesn&apos;t look terrible, but it looks
+okay, but we might want to do a little bit more with it. Actually, it&apos;s
+fine for now. We&apos;ll leave it the way it is. We&apos;ve got our basic card
+in there. Although I do have a background color in there, don&apos;t I?
+Let&apos;s have that. Instead.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 685.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image685.webp"
+  style="width:50%"
+  alt="." />
+
+<p>One last rule down here. For the card. I&apos;m going to just give it a
+little bit of padding, set a background color, and set some margin on
+the bottom and that should look good.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 686.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image686.webp"
+  style="width:50%"
+  alt="." />
+
+<p>Let&apos;s take a look and see how that goes. There we go. Now we&apos;ve got a
+card that&apos;s looking good. Ultimately, these are going to be put in
+through JavaScript.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-16">4.16 Vacation Destination Project: HTML & CSS -- Part 6 (4:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 687.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image687.webp"
+  style="width:50%"
+  alt="." />
+
+<p>The HTML and CSS is in place now. And now that we&apos;ve got that in place,
+we can start thinking about how this little application is going to
+work.</p>
+
+<p>Essentially, user&apos;s going to type in a name and a location, and provide
+a URL for a photo and a little bit of a description here. And then that
+will get added, that card will get added to the list over here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 688.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image688.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>Let&apos;s take a look at a little bit of a flow chart to sort of see how
+this is going to work and how we&apos;re going to kind of make that all work
+out here. Over here on the right side of this page, you see we have a
+little program here that when it starts, we&apos;re going to, when somebody
+fills out that form, we&apos;re going to prevent the default form
+submission. We&apos;re going to get the value from that destination name,
+the location field, the photo field, the description field. And then
+we&apos;re going to clear out the fields in the form, create a card, create
+that HTML, and check to see, is the destination list empty? If it is,
+then we&apos;re going to change the title on the destination list up at the
+top. If it isn&apos;t, then we&apos;ll just upend the card to the container. In
+either case, we&apos;ll upend the card to the container, and we&apos;ll be able
+to move on from there, okay? So that&apos;s going to be the basic strategy
+for how we add stuff to the page.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 689.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image689.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>So the first time we add something to the page, this title is going to
+get changed, but otherwise it&apos;s not. That&apos;s the only thing that&apos;s
+going on there. These are going to be your little helper functions,
+clear out the fields, and then we&apos;re going to have a helper function
+that&apos;s going to create the actual card. Those are the next functions we
+need to look at here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 690.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image690.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>The creating the card looks like a really long function, but it&apos;s very
+sequential. And basically we&apos;re going to create a **div** and set the
+**class** to **card**, create an image **tag**, set the **alt**
+attribute on the image tag. And then if the photo&apos;s provided, we&apos;re
+going to set that source to whatever the **URL** is. If it isn&apos;t, well,
+we&apos;ll use the default photo and then assign that to the image element
+on the **DOM** that we just created. And then we&apos;ll create a **div**
+element. So basically, we&apos;re creating the elements manually or having
+JavaScript create them, to create these elements here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 691.   (3xx) ~~~~~~~~~~~~-->
+<img class="displayed"
+  src="./images/webp/image691.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>We&apos;re creating all of this HTML here.</p>
+
+<p>For each card, we&apos;re going to create that information, and then we&apos;re
+going to stick it on the card, and that&apos;s what&apos;s going on here. And
+you&apos;ll notice down here we&apos;ve got another helper function here for
+deleting the card. So if somebody clicks that remove button, then we
+need to be able to handle that as well. So let&apos;s take a look at that
+really quickly.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 692.   (3xx) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image692.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>We&apos;ve got a function here for going through the form fields and
+emptying out the form fields. And then we&apos;ve got a little function here
+for deleting the card if we want to delete the card. We&apos;ve got a number
+of pieces here to write in our JavaScript to create this little
+application for this destination list. And that&apos;s it for part one.
+We&apos;ve created the interface that we&apos;re going to be using. And you may
+be wondering why we spent all this time in HTML and CSS. But it&apos;s
+really important to understand how the HTML and the CSS interact with
+the JavaScript, because all three come together to make the full
+interface and to make all the functionality work. I think it&apos;s worth
+taking the time to build the HTML and the CSS for this project. This way
+you understand what&apos;s going on and how JavaScript is going to
+manipulate that HTML and CSS in the end to make the final product.</p>
 
 <ul>
   <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files"
@@ -11318,47 +11490,903 @@ That's what we'll do next.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-17">4.17 Vacation Destination Project: JavaScript -- Part 1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 693. vacation destination project: js - part 1 (385) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image693.webp"
+  style="width:50%"
+  title="Vacation Destination Project: JavaScript - Part 1"
+  alt="Vacation Destination Project: JavaScript - Part 1." />
+</p>
 
+<p>Vacation Destination List, part two.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 694. vacation destination list - javascript (385) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image694.webp"
+  style="width:50%"
+  title="Vacation Destination List - JavaScript"
+  alt="Vacation Destination List - JavaScript." />
+</p>
 
+<p>This part (2) we will add the JavaScript and I&apos;m picking up exactly
+where I left off after part one.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 695. example, getting started (386) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image695.webp"
+  style="width:50%"
+  title="Example, Getting Started"
+  alt="Example, Getting Started." />
+</p>
 
+<p>In part one, you created the HTML and the CSS, and you should have a
+page that looks like this. If you don&apos;t, please go back and make sure
+you go through everything to make sure that you get a page that looks
+like this before you start and you&apos;ve got all the elements in there
+correctly, everything spelled right.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 696. example, adding the event handler (386) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image696.webp"
+  style="width:50%"
+  title="Example, Adding the Event Handler"
+  alt="Example, Adding the Event Handler." />
+</p>
+  
+<p>Okay, now we&apos;ll write the JavaScript we need to make this little
+application work. To start with, let&apos;s grab the actual destination
+details form and put that into a variable called **detailsForm** and
+then we&apos;ll have a event listener for when that form is submitted and
+instead of running an anonymous function we&apos;re actually going to run a
+name function called **handleFormSubmit** and then we&apos;ll start writing
+the beginning of that function.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 697. example, planning the function (387) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image697.webp"
+  style="width:50%"
+  title="Example, Planning the Function"
+  alt="Example, Planning the Function." />
+</p>
+
+<p>Let&apos;s get started with this right off the bat. Over here, I&apos;m going to
+open up my script file and add a variable **var detailsForm** =
+**document.querySelector** **('#destination_details_form');** Get this
+form here, destination. Note that I&apos;m using a pound sign here because
+I&apos;m using **querySelector**. You could also use **getElementByID** but
+that&apos;ll get that form and put it in here. Now we can do
+**detailsForm.addEventListener("submit", handleFormSubmit)** and we&apos;re
+going to look for submit event.</p>
+
+<p>And then instead of just doing function like we&apos;ve done in the past,
+I&apos;m actually going to have a named function here called,
+**handleFormSubmit**. That&apos;s going to be a function that runs when this
+form is submitted. Now, I need to define that function
+**handleFormSubmit**. And this function we&apos;re going pass in the event
+object and do **event.preventDefault**, there we go. That&apos;ll prevent
+the default submission of the form. You might wonder why at this point
+I&apos;ve opted to create a named function here as opposed to just the
+inline function.</p>
+
+<p>And it could be an inline function, there&apos;s no reason why it couldn&apos;t
+but this function is actually going to do quite a number of things. You
+could use an anonymous function here and not have a named
+**handleFormSubmit** function for this particular project. That&apos;s what
+I like because what we&apos;re going to do here is going to extract out the
+value from each form field. We&apos;re going to clear out all the form
+fields. When you&apos;ve filled in the form and submitted it, you need to
+clear out these form fields so that you&apos;re ready to make another card
+and then we&apos;re going to run a function that creates the new card.</p>
+
+<p>And then if needed, meaning there&apos;s not already a card over on the
+right-hand side of the interface we need to change the header at the top
+of that destination list and then actually add the card. And you can go
+back to the flowchart from the previous version of this from part one
+and actually see how that&apos;s going to all come together in the flowchart
+there. Yeah, we start with event.preventDefault to keep the normal
+submission of the form from happening but then we&apos;re going to do all of
+these things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-18">4.18 Vacation Destination Project: JavaScript -- Part 2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 698. example, getting the form values (388) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image698.webp"
+  style="width:50%"
+  title="Example, Getting the Form Values"
+  alt="Example, Getting the Form Values." />
+</p>
 
+<p>The first thing on our list of tasks to do, is to get the values out of
+the fields from the form. And, to do that, we can create a variable for
+each of the four form fields. The name, the location, the photo and the
+description. And then go and get the value out of those from the actual
+form.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 699. vacation destinations wish list (389) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image699.webp"
+  style="width:50%"
+  title="Vacation Destinations Wish List"
+  alt="Vacation Destinations Wish List." />
+</p>
 
+<p>And you&apos;ll remember over here when we created this form, in the HTML,
+we made it such that these fields were required. So if you try to click
+add list without filling in anything, it&apos;s not going to do anything
+because of that required thing. At least if you&apos;re using chrome or
+modern browser. And we can get more into form validation and making sure
+you get good data into forms in the second course in the specialization.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 700. example, getting the form values (389) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image700.webp"
+  style="width:50%"
+  title="Example, Getting the Form Values"
+  alt="Example, Getting the Form Values." />
+</p>
+
+<p>But, for right now, we just want to do something quick and simple, and
+we&apos;ve got enough there to sort of keep it from it least being empty,
+even though we&apos;re not doing very much for that. And what we&apos;re going
+to use here is we&apos;re going to use event. The event target will be the
+form submission, right. Because that&apos;s the event target for the form
+itself. And then we can get the elements property, and pull out each one
+of these elements out of the form and its value and put them into a
+variable here.</p>
+
+<p>The dot elements refers specifically to form elements, and you could
+come over to the MDN and look at HTML form elements dot elements, and
+find out more about what this is. But it will get you a specific set of
+elements specifically from forms. And so, it&apos;s kind of a helpful
+little, property here, that we can use to get specific elements out of
+out of a form and get that data.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 701. script.js - lines 1-15 (390) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image701.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>Let&apos;s put that onto our script. Over here, I&apos;m going to do for
+**destName** equals **events.target.elements&lbrack;'name'&rbrack;.value;** That's
+going to get the name. That&apos;ll get me the first one. And the rest;
+**destLocation**, **destPhoto**, and **destDesc**.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-19">4.19 Vacation Destination Project: JavaScript -- Part 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 702. example, clearing out the form fields (391) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image702.webp"
+  style="width:50%"
+  title="Example, Clearing Out the Form Fields"
+  alt="Example, Clearing Out the Form Fields." />
+</p>
 
+<p>The next thing we need to do once we&apos;ve captured the values from the
+form is to remove them until the form is ready for a new thing.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 703. script.js - lines 1-20 (391) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image703.webp"
+  style="width:50%"
+  title="script.js - lines 1-20"
+  alt="script.js - lines 1-20." />
+</p>
 
+<p>I&apos;m just going to use a for loop here to loop through the elements of
+the form, and set the value back to empty. For, here&apos;s my for loop.
+For, and I&apos;m going to have just a counter variable, var **i** equals
+zero, while **i** is less than **detailsForm.length; i++,** there we go.
+That loop is going to go through **detailsForm**.</p>
+
+<p>Remember, **detailsForm** is going to get everything inside of
+**detailsForm** there. Then what I can do in here is I can very easily
+say, **detailsForm.elements&lbrack;i&rbrack;.value = "";** We&apos;re going to go
+through the **detailsForm**. I starts at zero, and the first time
+through the form, it&apos;s going to say, &quot;Get Element 0 from that form and
+set its value to empty.&quot; Then we&apos;re going to increment **i** from zero
+to one, and if there&apos;s more than one element in the form, then we&apos;re
+going to go through and do that again for Element 1, setting its value
+to zero. We&apos;re going to do that for each element in the form until the
+form is completely cleared out. It&apos;s just a very simple for loop
+that&apos;s going to loop through and clear out each of the elements in that
+form. We&apos;ve taken care of the first two items on our list.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 704. example, changing the text for the heading (392) ~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image704.webp"
+  style="width:50%"
+  title="Example, Changing the Text for the Heading"
+  alt="Example, Changing the Text for the Heading." />
+</p>
+
+<p>We gathered the information from the form and cleared the format. The
+third thing to do is to run a function that creates a new card. We&apos;re
+going to hold off on that because we need to write that function.</p>
+
+<p>But we can take care of the **fourth** thing, which is to check to see
+if we already have a card in the other side, and if we do one thing and
+if we don&apos;t, we won&apos;t, we&apos;ll do a different thing. We can take care
+of that in terms of the header over there, and in showing, in
+determining what this header says here. Either it&apos;s going to say enter
+destination details, where we&apos;re going to change it so that it has
+something like "My Wish List" in there, because that makes a little bit
+more sense once there&apos;s something in that column over there.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 705. script.js - lines 1-26 (393) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image705.webp"
+  style="width:50%"
+  title="script.js - lines 1-26"
+  alt="script.js - lines 1-26." />
+</p>
+
+<p>We&apos;re going to make a variable. We&apos;ll just put in create card here, so
+we remember we need to come back and do that. But I&apos;m going to have var
+wishListContainer equals document.getElementById, and you&apos;ll remember
+we had an Id called title specifically so that we could do this. Over
+here in the HTML you&apos;ll remember we have 10-year title on that Id, so
+getElementById title. Then we just need a little if statement here. I
+realized I did the wrong thing here. I don&apos;t want the title here. I
+want to get this Id down here, this destination container.</p>
+
+<p>That&apos;s the thing I want to check for. Destination container, because I
+want to see if we&apos;ll do the title in a minute. If
+wishListContainer.children.length is exactly the same as zero, so if
+there&apos;s nothing in this container. Over here we&apos;ve added a card in
+here temporarily, we&apos;re going to get rid of that. But if this container
+is empty, then we&apos;re going to do something. If it&apos;s empty, then we&apos;re
+going to say, document.getElementById. Now we want the title. Its
+innerHTML is going to be, what did I put in there? &apos;&apos;My Wish List&apos;&apos;.
+There we go. That will take care of the fourth thing, which is, if we
+haven&apos;t added a card in there before, it&apos;ll change the title over on
+the right-hand side there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-20">4.20 Vacation Destination Project: JavaScript -- Part 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 706. example, so far (394) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image706.webp"
+  style="width:50%"
+  title="Example, So Far"
+  alt="Example, So Far." />
+</p>
 
+<p>So far, it gets the data from the form fields, and then clears them out.</p>
 
+<p>We have a placeholder for a place where the function that creates new
+card is going to go and we&apos;re going to write that next. Then we check
+and see if the header on the right-hand side of the page, if there&apos;s
+already a card in there or not. If there isn&apos;t, we&apos;re going to change
+the text inside that header over there. Then finally the last thing that
+we&apos;ll do is actually add the card. Let&apos;s move on here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 707. example, creating the card (394) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image707.webp"
+  style="width:50%"
+  title="Example, Creating the Card."
+  alt="Example, Creating the Card." />
+</p>
+
+<p>We&apos;re going to create a new function called **createDestinationCard**.
+It&apos;s going to take four parameters, and these parameters are the data
+that come in from the form that somebody filled out.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 708. script.js - lines 20-45 (395) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image708.webp"
+  style="width:50%"
+  title="script.js - lines 20-45"
+  alt="script.js - lines 20-45." />
+</p>
+
+<p>Let&apos;s go ahead and do that first. Down here I&apos;m going to create a new
+function. **function createDestinationCard**, and it&apos;s going to take
+name, location, photo, I think I just did **desc** for description.
+It&apos;s going to take those as parameters, although they don&apos;t get quotes
+on them. Name, location, photo, and description. That&apos;s right. We&apos;re
+going to pass those variables in. Actually, I&apos;m going to change this a
+little bit. I&apos;m going to actually make this **photoURL**, and I&apos;m
+going to type out description over here. Then I need to make **var**
+**card**, and this is going to be assigned document.createElement.
+We&apos;re going to create a **div**, and then we&apos;re going take that card,
+and we&apos;re going to set the className equal to card.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 709. index.html - lines 32-56 (396) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image709.webp"
+  style="width:50%"
+  title="index.html - lines 32-56"
+  alt="index.html - lines 32-56." />
+</p>
+
+<p>If you wonder where we&apos;re going here, you can go over to the index file
+here because we&apos;re basically going to use JavaScript to create these
+elements and put them in the card. Now, we&apos;ve just created this **div**
+here and given it the class of **card**. This is going to be a long
+function because you have to create each one of these elements
+individually and put the content in them and then add them to the card.
+Next, we&apos;re going to add the image.</p>
+
+<p>First thing we need to do is make a var called image, I&apos;m just going to
+call it img. Then from there I&apos;m going to do equals
+document.createElement, and we&apos;re going to create an img in our
+element. Then images really should have an alt attribute, so I&apos;m going
+to say img.setAttribute alt. I&apos;m just going to set it to name. Whatever
+gets passed in as the name of this location is going to get set as the
+attribute for the alt tag. If somebody&apos;s using a screen reader, they
+will still be able to know what it&apos;s a picture of even if they can&apos;t
+see the picture if they&apos;ve got a visual disability of some sort or
+another. Great. We&apos;re setting that attribute. We need to set the source
+based on what comes in through this photoURL here. We want to be able to
+set that photo source, but the photo source is not required.</p>
+
+<p>The first thing we need to do is determine whether or not a photo has
+been brought in. Before that, we want to just make a variable var, and I
+think I called this **constantphotoUrl**. I&apos;m going to make that equal
+to **images/signpost.jpg**, because that&apos;s the image that&apos;s in this
+folder over in here. Then I just need to see if **photoURL**, that
+variable there that gets passed in, did somebody actually add a URL in
+there? We know that it has to be URL in there because over here in our
+form, we set this to type URL, so it&apos;ll only take a URL. Otherwise
+you&apos;ll get Chrome barking at you and telling you that you didn&apos;t put
+in a URL. We put URL in there and if we want to actually got put in
+because it&apos;s optional. If **photoURL**.length is greater than zero, I
+think that&apos;s what I&apos;m doing. No, actually I want to check and see if
+it&apos;s exactly the same as zero. If it&apos;s exactly the same as zero, then
+what I want to do is I want to set the img.src equal to this constant
+photo here. I want to set it to that. I want to set the image source to
+that. That should work. On my slide I use setAttribute again, so maybe
+I&apos;ll do that just to make sure. But really this should actually work
+just fine. But let me just put this in just so it matches what I&apos;m
+doing on my slide there. SetAttribute src is going to be this constant
+photo here, constant **PhotoUrl**. If that length isn&apos;t exactly zero,
+the else will be okay, we&apos;re going to do image **setAttribute** to not
+constant.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 710. script.js - lines 26-49 (397) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image710.webp"
+  style="width:50%"
+  title="script.js - lines 26-49"
+  alt="script.js - lines 26-49." />
+</p>
+
+<p>For this source table, we&apos;re going to say its a **photoURL**. If
+somebody put in a URL for a photo, it will get set to that. Otherwise,
+we&apos;ll use the default one that&apos;s in there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-21">4.21 Vacation Destination Project: JavaScript -- Part 5</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 711. script.js - lines 26-49 (398) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image711.webp"
+  style="width:50%"
+  title="script.js - lines 26-49"
+  alt="script.js - lines 26-49." />
+</p>
 
+<p>This function is getting long, and it&apos;s going to get longer because
+we&apos;re creating all of these elements here.</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 712. index.html - lines 34-59 (398) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image712.webp"
+  style="width:50%"
+  title="index.html - lines 34-59"
+  alt="index.html - lines 34-59." />
+</p>
+
+<p>If you look over here on the index file, what we&apos;ve created so far of
+our card is we&apos;ve created this **div**, and we&apos;ve created the image.
+Next we need to create this **div** for the **card body** and then add
+into that the **h3**, the **h4**, and then the description text. The
+description text is actually optional.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 713. index.html - lines 22-45 (399) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image713.webp"
+  style="width:50%"
+  title="index.html - lines 22-45"
+  alt="index.html - lines 22-45." />
+</p>
+
+<p>If you come up here, you&apos;ll notice there&apos;s no required on the text
+area there. We&apos;re going to have to deal with what happens if that&apos;s
+empty as well, and then we&apos;ll have to add the remove button as well but
+let&apos;s go ahead and continue forward with this.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 714. script.js - lines 35-60 (399) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image714.webp"
+  style="width:50%"
+  title="script.js - lines 35-60"
+  alt="script.js - lines 35-60." />
+</p>
+
+<p>Over here the next thing we need to add after the image is a variable
+for the card body. We&apos;re going to make a variable card body and create
+element **div** and then set the class name to card body for that, and
+that will create that card body element here and then next we need to do
+the same with the **h3** and the **h4**. Here&apos;s the **h3** and I&apos;m
+just going to paste it in. You&apos;ll have to type it, but I made **var
+card** title, document create element **h3**. I&apos;ve created an h3, and
+then I&apos;m setting the inner text to the name. Again, this is the name
+that came through from the form. That&apos;s what&apos;s going to get put in
+there, so that&apos;s going to be the name. I&apos;m going to append child card
+title. I&apos;m putting the actual card title into the card body here, and
+then we&apos;ll do the same thing with the subtitle.</p>
+
+<p>Now I can add in the subtitle, and again I&apos;m going to paste this in, so
+you don&apos;t have to watch me type it because it&apos;s getting painful for
+everybody. But I&apos;m going to make a variable card subtitle and create
+element h4, and then I&apos;m going to set the inner text to the location.
+That&apos;s this location that&apos;s getting passed in here. That&apos;s the
+location that somebody typed in on the form and so that&apos;s going to get
+set for the inner text there. I&apos;m taking card body, and I&apos;m appending
+the child card subtitle. That&apos;s going to add this to the card. I&apos;m
+appending that in there. I&apos;ve got a card body, and I&apos;ve appended in
+the h3 and the h4.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 715. script.js - lines 41-66 (400) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image715.webp"
+  style="width:50%"
+  title="script.js - lines 41-66"
+  alt="script.js - lines 41-66." />
+</p>
+
+<p>Next step is to check and see if somebody typed something into the
+description because it could be empty potentially, and we&apos;ll put that
+in next. Again, I&apos;m going to paste this in so that I know that it&apos;s
+right. But here we go. If description dot length is not zero meaning
+it&apos;s longer than nothing then we&apos;re going to make a variable card text
+and create a paragraph, and then we&apos;re going to take the class name and
+set it to card texts because again over here, remember we did that. We
+have p class card text. I&apos;m setting that class name in there to card
+text.</p>
+
+<p>We could start with specifically if we wanted to and then setting the
+inner HTML to description and then appending that card text to the card
+body again. We get that appended in.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 716. script.js - lines 45-69 (401) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image716.webp"
+  style="width:50%"
+  title="script.js - lines 45-69"
+  alt="script.js - lines 45-69." />
+</p>
+
+<p>The next thing we need to add is the remove button. I&apos;ll put that in
+here. Here I&apos;ve got a variable called card delete button, and I&apos;m
+creating a button, and I&apos;m setting the inner text to remove and that
+will create that button and set the for it to remove. But then I need to
+add an event listener. I&apos;m going to add an event listener, so that
+button is going to create an event listener, and I&apos;m going to add an
+event listener called removed destination. We&apos;ll write another little
+function that will actually remove this destination. But I&apos;m putting an
+event listener on this button right now as soon as I add it, and it&apos;s
+going to have its own event listener that&apos;s going to run a function,
+and then I take that button and I append it.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 717. script.js - lines 45-69 (402) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image717.webp"
+  style="width:50%"
+  title="script.js - lines 45-69"
+  alt="script.js - lines 45-69." />
+</p>
+
+<p>Append the card delete button to the card body.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 718. index.html - lines 30-55 (402) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image718.webp"
+  style="width:50%"
+  title="index.html - lines 30-55"
+  alt="index.html - lines 30-55." />
+</p>
+
+<p>Again, if we come over here and look at the HTML here, you can see that
+this button called remove has been added to this card body. The card
+body includes four items the **h3**, the **h4**, the **paragraph** and
+the **button**. It only includes the **paragraph** if somebody types
+something in that field, but it includes the **button** and the
+**button** has an event listener on it. That will run a function that we
+haven&apos;t written yet, but it&apos;s there. That&apos;s going to put all of those
+things on there.</p>
+
+<p>Now the next thing we need to do is take this card. We&apos;ve been building
+up this card body, so we need to take this whole card body and add it to
+the card because we added the image to the card. We created the image,
+and we set its attribute, and we set its photo. Maybe we didn&apos;t add
+that to the card.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 719. script.js - lines 35-60 (403) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image719.webp"
+  style="width:50%"
+  title="script.js - lines 35-60"
+  alt="script.js - lines 35-60." />
+</p>
+
+<p>We need to do that too, and then we created the card. We need to add the
+image to the card as well, but we need to add the card body to the card
+too. Since I forgot to add the image let&apos;s do that first. Here we&apos;ve
+got the image in place. In here we need to add card, append child image
+so that we&apos;ll put the image on the card.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 720. script.js - lines 55-78  (403) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image720.webp"
+  style="width:50%"
+  title="script.js - lines 55-78"
+  alt="script.js - lines 55-78." />
+</p>
+
+<p>Down at the bottom here, we need to add append child card body, and then
+we just need to return card. That&apos;s going to take this card object or
+this piece of HTML that we&apos;ve created that has all this stuff in it and
+return it. This is a long function that makes all of these elements and
+returns that card which should be a big piece of HTML.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 721. index.html - lines 30-55 (404) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image721.webp"
+  style="width:50%"
+  title="index.html - lines 30-55"
+  alt="index.html - lines 30-55." />
+</p>
+
+<p>Well not a very big piece of HTML, but a piece of HTML that&apos;s this card
+here, **div** class card and in it will have the image, either the
+signpost image or one that somebody entered a **div** called card body
+and an h3 and h4 possibly a paragraph if somebody typed one in and a
+button and then that gets added on there, and then it gets returned.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-22">4.22 Vacation Destination Project: JavaScript -- Part 6</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 722. example, removing the card (405) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image722.webp"
+  style="width:50%"
+  title="Example, Removing the Card"
+  alt="Example, Removing the Card." />
+</p>
 
+<p>The next step in this process is to actually write the function that
+removes the card. And that&apos;s what this is going to look like here.
+We&apos;re going to make a function called **removeDestination**. We&apos;re
+going to pass in the event object so that when you click on that
+**button**, the remove **button** that event gets passed through, the
+event object gets passed through. I&apos;m going to say variable card
+**event.target.parentElement.parentElement;** When you click this
+button, I need to go up to this parent and then to this parent and say
+card.remove. I have to get up to that parent to actually remove that
+card. I&apos;m going up one parent to another parent to remove the card.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 723. script.js - lines 64-83 (405) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image723.webp"
+  style="width:50%"
+  title="script.js - lines 64-83"
+  alt="script.js - lines 64-83." />
+</p>
 
+<p>Let&apos;s add this function over here. Down here I&apos;ve got function
+**removeDestination**, and it&apos;s going to take an event object. And I&apos;m
+going to say **var card = event**. No, yeah, you then, what did I say
+here? Yeah, that&apos;s right. **event.target.parentElement.parentElement;**
+That&apos;s going to be card. Once I get all of all the way up there, I
+could do **card.remove()**. And that removes that card from the body, we
+hope. We&apos;ve got our **removeDestination** function that&apos;s going to
+take in that event and then go up and actually remove that one, and that
+will get called here if you click on the **cardDeleteBtn**.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 724. script.js - lines 5-29 (406) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image724.webp"
+  style="width:50%"
+  title="script.js - lines 5-29"
+  alt="script.js - lines 5-29." />
+</p>
+
+<p>The last thing we need to do is kind of put it together. Up here you&apos;ll
+remember we had to things that we needed to do. We needed to create the
+card, and then down here, we needed to actually add the card. So, let&apos;s
+do these two things and then we&apos;ll be able to finish off this script
+here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 725. example, fill in steps 3 & 5 (407) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image725.webp"
+  style="width:50%"
+  title="Example, Fill In Steps 3 &amp; 5"
+  alt="Example, Fill In Steps 3 &amp; 5." />
+</p>
+
+<p>To create the card, what we&apos;re going to need is make it variable
+destination card, and that&apos;s going to run. This is going to be using a
+function expression here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 726. script.js - lines 5-29 (407) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image726.webp"
+  style="width:50%"
+  title="script.js - lines 5-29"
+  alt="script.js - lines 5-29." />
+</p>
+
+<p>So we&apos;re going to use a function expression to create the destination
+card passing in these variables, so let&apos;s do that. **destCard** = and
+then what I&apos;m actually doing is this thing here, createDestinationCard.
+So I&apos;m going to put that in here, createDestinationCard. But what I&apos;m
+passing in is the destination name, and I&apos;m passing in the destination
+location. I&apos;m passing in the destination photo to the photoURL, oops.
+And I&apos;m passing in the destination description. And then that should
+var, that&apos;s going to create, it&apos;s going to go in and create that and
+then down here now I just need to add destination card. So that&apos;s going
+to say, okay, destination card&apos;s going to actually hold that card. And
+remember, this function returns HTML, so that HTML for the card is now
+in destCard.</p>
+
+<p>Because remember that&apos;s what this function does, create destination
+card down here at the end, it returns the card, which is the HTML for
+all the stuff in the card. So now all of that stuff, all that HTML we
+created is now in this little variable right here, it&apos;s in this bucket.
+Okay, so the last thing we need to do is go in and find our container
+and upend the child, right? So let&apos;s go ahead and do that,
+document.querySelector. And what are we looking for, we&apos;re actually
+looking for this id here. &apos; Go get that id .appendChild. And what are
+we adding? We&apos;re adding **destCard**. Now we&apos;ve gotten all five pieces
+of our script together, and in the next video, we&apos;ll do some error
+checking and fixing of stuff and see if it all works.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-23">4.23 Vacation Destination Project: JavaScript -- Part 7</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 727.  vacation destinations wish list (408) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image727.webp"
+  style="width:50%"
+  title="Vacation Destinations Wish List"
+  alt="Vacation Destinations Wish List." />
+</p>
 
+<p>We can now add cards, and remove them from the list.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 728. inspect console, fenway park image (409) ~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image728.webp"
+  style="width:50%"
+  title="Inspect console, Fenway Park image"
+  alt="Inspect console, Fenway Park image." />
+</p>
 
+<p>Let&apos;s try it again here. We&apos;ll do Fenway Park again. We&apos;ll do Boston.
+Put in the photo that I have in my form already.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 729. inspect console, 2nd fenway park image (409) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image729.webp"
+  style="width:50%"
+  title="Inspect console, 2nd Fenway Park image"
+  alt="Inspect console, 2nd Fenway Park image." />
+</p>
+
+<p>Then what happens if we leave the photo app? Let&apos;s do that. No photo in
+there. See if the regular photo shows up. It does. So that&apos;s the
+default photo, and that&apos;s working. Let&apos;s add another one. Over here, I
+did a quick search for New York. I found this photo, right-click it, and
+open that photo up into a new tab. Here&apos;s a photo that I can use. I&apos;m
+just going to copy that URL, and come back here. Let&apos;s say destination
+name, Empire State Building in New York. I&apos;m going to paste that URL in
+for that JPEG, and then add a description, is visiting New York. Here we
+go, Add to List.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 730. inspect console, my wish list (410) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image730.webp"
+  style="width:50%"
+  title="Inspect console, My Wish List"
+  alt="Inspect console, My Wish List." />
+</p>
+
+<p>You can see that it&apos;s appended that card, it&apos;s added it to the list.
+So now I&apos;ve got two here, and they&apos;re both working. I can remove
+either one. If I remove this one, and that one will go away, and the New
+York one will stay. Notice, that the header here changed as it was
+supposed to change. Everything else is working.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 731. vacation destinations wish list (410) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image731.webp"
+  style="width:50%"
+  alt="." />
+</p>
+
+<p>Here, in this little application we&apos;ve created here, and it&apos;s not very
+sophisticated. It&apos;s only got a few features, but we can add elements,
+and remove elements on the page pretty easily with a little bit of
+scripting effort there. This is a really great capstone project for the
+end of the course here. Now, our last final pieces here, are to refactor
+the script down a little bit, and use our best practices, and we&apos;ll do
+that in the next video.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-24">4.24 Vacation Destination Project: JavaScript -- Part 8</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 732. script.js - lines 1-25 (411) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image732.webp"
+  style="width:50%"
+  alt="." />
+</p>
 
+<p>Now that we have a working project which is great, and we had some
+errors and that&apos;s normal and I&apos;m glad they appeared here for me
+because they&apos;ll certainly appear for you. It&apos;s very easy to end up
+with little mistakes whether you spelled something wrong or use the
+wrong ID. There&apos;s a lot of moving parts with little web application,
+even one small like this. You have your HTML with IDs things you&apos;re
+hooking into. You have the styles where there&apos;s different elements that
+are affecting the way the page looks, and then in the script, you&apos;re
+manipulating many times both of those things on the fly.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 732. script.js - lines 1-25 (412) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image732.webp"
+  style="width:50%"
+  title="script.js - lines 1-25"
+  alt="script.js - lines 1-25." />
+</p>
 
+<p>Just for a quick summary of the script here, when you submit that form,
+what we&apos;re doing is we&apos;re running this handle form submit function
+which is getting the values out of the form, clearing out those values
+from the form when it&apos;s done.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 733. script.js - lines 29-52 (412) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image733.webp"
+  style="width:50%"
+  title="script.js - lines 29-52"
+  alt="script.js - lines 29-52." />
+</p>
+
+<p>Then going through and actually creating the actual card, after that
+going in and fixing the header at the top of that container, at this
+part of the page up here.</p>
+
+<p>Over here you&apos;re fixing the header if we need to, after that, we
+actually put the card on the page.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 734. script.js - lines 49-74 (413) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image734.webp"
+  style="width:50%"
+  title="script.js - lines 49-74"
+  alt="script.js - lines 49-74." />
+</p>
+
+<p>The create destination card is a long function because we&apos;re creating
+each one of these HTML elements manually or individually here having
+JavaScript create those elements and put the contents inside of them,
+and then add them actually to the DOM as they&apos;re needed. Plus we have
+an extra function that allows you to remove a card so that&apos;s one more
+extra piece of functionality that we have in this little application.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 735. script.js - lines 59-81 (413) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image735.webp"
+  style="width:50%"
+  title="script.js - lines 59-81"
+  alt="script.js - lines 59-81." />
+</p>
+  
+<p>The last thing to do is to clean it up by adding a function up at the
+top here to enclose the whole thing and then changing out the variables.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 736. script.js - lines 1-25 (414) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image736.webp"
+  style="width:50%"
+  title="script.js - lines 1-25"
+  alt="script.js - lines 1-25." />
+</p>
+  
+<p>Again, we would just do open parenthesis and run an anonymous function
+with its parentheses in its curly braces, and then one more set of
+parentheses to make it run. This will run when the page loads. I can
+move this down and I can stick in here, **use strict**. That will make
+sure that I&apos;m not introducing any variables by accident in the global
+scope.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 737. script.js - lines 1-26 (414) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image737.webp"
+  style="width:50%"
+  title="script.js - lines 1-26"
+  alt="script.js - lines 1-26." />
+</p>
+
+<p>Then I could take everything that&apos;s in here, and stick it inside this
+function here.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 738. script.js - lines 1-26 (415) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image738.webp"
+  style="width:50%"
+  title="script.js - lines 1-26"
+  alt="script.js - lines 1-26." />
+</p>
+  
+<p>The last thing you could do is go through and replace all the **vars**
+we&apos;ve got with **const**. They should be **constant** as much as
+possible. So we can just click **const** there, come down through here,
+that&apos;s going to be const, that&apos;s going to be const. All of these can
+be const. Now this one needs to be let because that&apos;s actually in a
+loop. That&apos;s going to need to be let, and then down here this can be
+const. That&apos;s containers, that&apos;s going to be const. That&apos;s going to
+be const, that&apos;s going to be const, that&apos;s going to be const, this
+one, and this one. If you&apos;re comfortable with this now you can just
+start using const, to begin with rather than coming through and doing
+this at the end, and that&apos;s certainly fine as well.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 739. script.js - lines 19-44 (415) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image739.webp"
+  style="width:50%"
+  title="script.js - lines 19-44"
+  alt="script.js - lines 19-44." />
+</p>
+
+<p>When you&apos;re new at this I think it&apos;s helpful to start with **var** and
+then come in and add **const** as you need to or **let**. Again, **let**
+is for if the value is going to change. Now use other values you&apos;re
+going to change when the script runs. Just the one inside the loop. I
+think that&apos;s the only one. I could be wrong.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 740/741. script.js - lines 49-87 (416) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/webp/image740.webp"
+  style="width:45%"
+  title="script.js - lines 49-73"
+  alt="script.js - lines 49-73." />
+<img src="./images/webp/image741.webp"
+  style="width:45%"
+  title="script.js - lines 70-87"
+  alt="script.js - lines 70-87." />
+</p>
+
+<p>Let&apos;s just check and see if I&apos;m wrong. If you are wrong, you&apos;ll get
+an error and you can fix it. Just refresh this, type in Fenway Park one
+more time, Boston, and the URL. Look at that it works great. Click
+renewals and it removes it. Everything&apos;s working the way it should.
+This is really great capstone project that brings together everything
+we&apos;ve done in this first course of this specialization, and I look
+forward to seeing you in the second course of this specialization where
+we&apos;ll get into <b>jQuery</b> and creating all cool interactive elements on
+my pages.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-25">4.25 Course Summary (0:57)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Congratulations, you&apos;ve made it to the end of our first course on
+JavaScript, I hope you&apos;ve had a lot of fun with it. And I hope you had
+fun doing it with me while I stand outside here in California on this
+beautiful day, not that many miles away from where JavaScript was
+invented over 25 years ago. But JavaScript is a lot of fun, and you&apos;ve
+learned a lot, so you should give yourself a pat on the back, and I hope
+you&apos;re excited about the projects we&apos;ve done so far. Also, I hope you
+realize that there&apos;s a lot more to learn about JavaScript and that
+you&apos;ll join us in the next course in the specialization where we get
+into <b>jQuery</b>. And we look at some of the cool things that we can do
+with the <b>jQuery</b> library and some of the cool interactions that we
+can make. So thank you for coming along this far and I hope to see you
+in the next course.</p>
 
 
 <h6>.the end. 2.24.24 11:42pm</h6>
