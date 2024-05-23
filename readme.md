@@ -11352,39 +11352,43 @@ you understand what&apos;s going on and how JavaScript is going to
 manipulate that HTML and CSS in the end to make the final product.
 
 <ul>
-  <li><h3 id="ch4-16"><a href="https://www.coursera.org/learn/javascript-basics/supplement/D2III/vacation-destination-project-part-2-start-files">
-    4.16 Vacation-Destination-Project-Part2-START-Files.zip</a></h3></li>
+  <li><h3 id="ch4-16"><a href="./zips/4.16-VacationDestinationProject-Part2-START-Files.zip" 
+    target="_blank" rel="noopener noreferrer">
+    4.16 Vacation Destination Project Part 2 START Files (zip download)</a></h3></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-17">4.17 Vacation Destination Project: JavaScript -- Part 1 (5:37)</h2> 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 693.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 693. vacation destination project: js - part 1 (385) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image693.png"
   style="width:50%"
-  alt="." />
+  title="Vacation Destination Project: JavaScript - Part 1"
+  alt="Vacation Destination Project: JavaScript - Part 1." />
 </p>
 
 Vacation Destination List, part two.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 694.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 694. vacation destination list - javascript (385) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image694.png"
   style="width:50%"
-  alt="." />
+  title="Vacation Destination List - JavaScript"
+  alt="Vacation Destination List - JavaScript." />
 </p>
 
 This part (2) we will add the JavaScript and I&apos;m picking up exactly
 where I left off after part one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 695.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 695. example, getting started (386) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image695.png"
   style="width:50%"
-  alt="." />
+  title="Example, Getting Started"
+  alt="Example, Getting Started." />
 </p>
 
 In part one, you created the HTML and the CSS, and you should have a
@@ -11394,11 +11398,12 @@ like this before you start and you&apos;ve got all the elements in there
 correctly, everything spelled right.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 696.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 696. example, adding the event handler (386) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image696.png"
   style="width:50%"
-  alt="." />
+  title="Example, Adding the Event Handler"
+  alt="Example, Adding the Event Handler." />
 </p>
   
 Okay, now we&apos;ll write the JavaScript we need to make this little
@@ -11410,11 +11415,12 @@ name function called **handleFormSubmit** and then we&apos;ll start writing
 the beginning of that function.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 697.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 697. example, planning the function (387) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image697.png"
   style="width:50%"
-  alt="." />
+  title="Example, Planning the Function"
+  alt="Example, Planning the Function." />
 </p>
 
 Let&apos;s get started with this right off the bat. Over here, I&apos;m going to
@@ -11458,11 +11464,12 @@ these things.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-18">4.18 Vacation Destination Project: JavaScript -- Part 2 (4:33)</h2> 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 698.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 698. example, getting the form values (388) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image698.png"
   style="width:50%"
-  alt="." />
+  title="Example, Getting the Form Values"
+  alt="Example, Getting the Form Values." />
 </p>
 
 The first thing on our list of tasks to do, is to get the values out of
@@ -11472,11 +11479,12 @@ description. And then go and get the value out of those from the actual
 form.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 699.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 699. vacation destinations wish list (389) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image699.png"
   style="width:50%"
-  alt="." />
+  title="Vacation Destinations Wish List"
+  alt="Vacation Destinations Wish List." />
 </p>
   
 And you&apos;ll remember over here when we created this form, in the HTML,
@@ -11487,11 +11495,12 @@ modern browser. And we can get more into form validation and making sure
 you get good data into forms in the second course in the specialization.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 700.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 700. example, getting the form values (389) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image700.png"
   style="width:50%"
-  alt="." />
+  title="Example, Getting the Form Values"
+  alt="Example, Getting the Form Values." />
 </p>
 
 But, for right now, we just want to do something quick and simple, and
@@ -11511,7 +11520,7 @@ little, property here, that we can use to get specific elements out of
 out of a form and get that data.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 701.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 701. script.js - lines 1-15 (390) ~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image701.png"
   style="width:50%"
@@ -11524,23 +11533,26 @@ going to get the name. That&apos;ll get me the first one. And the rest;
 **destLocation**, **destPhoto**, and **destDesc**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-19">4.19 Vacation Destination Project: JavaScript -- Part 3 (6:37)</h2> <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 702.   (3xx) ~~~~~~~~~~~~-->
+<h2 id="ch4-19">4.19 Vacation Destination Project: JavaScript -- Part 3 (6:37)</h2> 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 702. example, clearing out the form fields (391) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image702.png"
   style="width:50%"
-  alt="." />
+  title="Example, Clearing Out the Form Fields"
+  alt="Example, Clearing Out the Form Fields." />
 </p>
 
 The next thing we need to do once we&apos;ve captured the values from the
 form is to remove them until the form is ready for a new thing.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 703.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 703. script.js - lines 1-20 (391) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image703.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 1-20"
+  alt="script.js - lines 1-20." />
 </p>
   
 I&apos;m just going to use a for loop here to loop through the elements of
@@ -11563,11 +11575,12 @@ that&apos;s going to loop through and clear out each of the elements in that
 form. We&apos;ve taken care of the first two items on our list.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 704.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 704. example, changing the text for the heading (392) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image704.png"
   style="width:50%"
-  alt="." />
+  title="Example, Changing the Text for the Heading"
+  alt="Example, Changing the Text for the Heading." />
 </p>
 
 We gathered the information from the form and cleared the format. The
@@ -11584,11 +11597,12 @@ something like "My Wish List" in there, because that makes a little bit
 more sense once there&apos;s something in that column over there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 705.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 705. script.js - lines 1-26 (393) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image705.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 1-26"
+  alt="script.js - lines 1-26." />
 </p>
 
 We&apos;re going to make a variable. We&apos;ll just put in create card here, so
@@ -11615,11 +11629,12 @@ the right-hand side there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-20">4.20 Vacation Destination Project: JavaScript -- Part 4 (9:07)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 706.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 706. example, so far (394) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image706.png"
   style="width:50%"
-  alt="." />
+  title="Example, So Far"
+  alt="Example, So Far." />
 </p>
 
 So far, it gets the data from the form fields, and then clears them out.
@@ -11632,11 +11647,12 @@ the text inside that header over there. Then finally the last thing that
 we&apos;ll do is actually add the card. Let&apos;s move on here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 707.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 707. example, creating the card (394) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image707.png"
   style="width:50%"
-  alt="." />
+  title="Example, Creating the Card."
+  alt="Example, Creating the Card." />
 </p>
 
 We&apos;re going to create a new function called **createDestinationCard**.
@@ -11644,11 +11660,12 @@ It&apos;s going to take four parameters, and these parameters are the data
 that come in from the form that somebody filled out.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 708.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 708. script.js - lines 20-45 (395) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image708.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 20-45"
+  alt="script.js - lines 20-45." />
 </p>
   
 Let&apos;s go ahead and do that first. Down here I&apos;m going to create a new
@@ -11664,11 +11681,12 @@ We&apos;re going to create a **div**, and then we&apos;re going take that card,
 and we&apos;re going to set the className equal to card.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 709.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 709. index.html - lines 32-56 (396) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image709.png"
   style="width:50%"
-  alt="." />
+  title="index.html - lines 32-56"
+  alt="index.html - lines 32-56." />
 </p>
 
 If you wonder where we&apos;re going here, you can go over to the index file
@@ -11716,11 +11734,12 @@ the else will be okay, we&apos;re going to do image **setAttribute** to not
 constant.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 710.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 710. script.js - lines 26-49 (397) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image710.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 26-49"
+  alt="script.js - lines 26-49." />
 </p>
 
 For this source table, we&apos;re going to say its a **photoURL**. If
@@ -11730,22 +11749,24 @@ we&apos;ll use the default one that&apos;s in there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-21">4.21 Vacation Destination Project: JavaScript -- Part 5 (7:37)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 711.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 711. script.js - lines 26-49 (398) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image711.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 26-49"
+  alt="script.js - lines 26-49." />
 </p>
 
 This function is getting long, and it&apos;s going to get longer because
 we&apos;re creating all of these elements here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 712.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 712. index.html - lines 34-59 (398) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image712.png"
   style="width:50%"
-  alt="." />
+  title="index.html - lines 34-59"
+  alt="index.html - lines 34-59." />
 </p>
 
 If you look over here on the index file, what we&apos;ve created so far of
@@ -11755,11 +11776,12 @@ into that the **h3**, the **h4**, and then the description text. The
 description text is actually optional.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 713.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 713. index.html - lines 22-45 (399) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image713.png"
   style="width:50%"
-  alt="." />
+  title="index.html - lines 22-45"
+  alt="index.html - lines 22-45." />
 </p>
 
 If you come up here, you&apos;ll notice there&apos;s no required on the text
@@ -11768,11 +11790,12 @@ empty as well, and then we&apos;ll have to add the remove button as well but
 let&apos;s go ahead and continue forward with this.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 714.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 714. script.js - lines 35-60 (399) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image714.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 35-60"
+  alt="script.js - lines 35-60." />
 </p>
 
 Over here the next thing we need to add after the image is a variable
@@ -11800,11 +11823,12 @@ appending that in there. I&apos;ve got a card body, and I&apos;ve appended in
 the h3 and the h4.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 715.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 715. script.js - lines 41-66 (400) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image715.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 41-66"
+  alt="script.js - lines 41-66." />
 </p>
 
 Next step is to check and see if somebody typed something into the
@@ -11822,11 +11846,12 @@ inner HTML to description and then appending that card text to the card
 body again. We get that appended in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 716.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 716. script.js - lines 45-69 (401) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image716.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 45-69"
+  alt="script.js - lines 45-69." />
 </p>
 
 The next thing we need to add is the remove button. I&apos;ll put that in
@@ -11842,21 +11867,23 @@ going to have its own event listener that&apos;s going to run a function,
 and then I take that button and I append it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 717.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 717. script.js - lines 45-69 (402) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image717.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 45-69"
+  alt="script.js - lines 45-69." />
 </p>
 
 Append the card delete button to the card body.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 718.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 718. index.html - lines 30-55 (402) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image718.png"
   style="width:50%"
-  alt="." />
+  title="index.html - lines 30-55"
+  alt="index.html - lines 30-55." />
 </p>
 
 Again, if we come over here and look at the HTML here, you can see that
@@ -11874,11 +11901,12 @@ the card because we added the image to the card. We created the image,
 and we set its attribute, and we set its photo. Maybe we didn&apos;t add
 that to the card.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 719.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 719. script.js - lines 35-60 (403) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image719.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 35-60"
+  alt="script.js - lines 35-60." />
 </p>
 
 We need to do that too, and then we created the card. We need to add the
@@ -11888,11 +11916,12 @@ got the image in place. In here we need to add card, append child image
 so that we&apos;ll put the image on the card.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 720.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 720. script.js - lines 55-78  (403) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image720.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 55-78"
+  alt="script.js - lines 55-78." />
 </p>
 
 Down at the bottom here, we need to add append child card body, and then
@@ -11902,11 +11931,12 @@ return it. This is a long function that makes all of these elements and
 returns that card which should be a big piece of HTML.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 721.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 721. index.html - lines 30-55 (404) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image721.png"
   style="width:50%"
-  alt="." />
+  title="index.html - lines 30-55"
+  alt="index.html - lines 30-55." />
 </p>
 
 Well not a very big piece of HTML, but a piece of HTML that&apos;s this card
@@ -11918,11 +11948,12 @@ button and then that gets added on there, and then it gets returned.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-22">4.22 Vacation Destination Project: JavaScript -- Part 6 (7:00)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 722.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 722. example, removing the card (405) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image722.png"
   style="width:50%"
-  alt="." />
+  title="Example, Removing the Card"
+  alt="Example, Removing the Card." />
 </p>
 
 The next step in this process is to actually write the function that
@@ -11937,11 +11968,12 @@ card.remove. I have to get up to that parent to actually remove that
 card. I&apos;m going up one parent to another parent to remove the card.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 723.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 723. script.js - lines 64-83 (405) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image723.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 64-83"
+  alt="script.js - lines 64-83." />
 </p>
 
 Let&apos;s add this function over here. Down here I&apos;ve got function
@@ -11955,11 +11987,12 @@ take in that event and then go up and actually remove that one, and that
 will get called here if you click on the **cardDeleteBtn**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 724.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 724. script.js - lines 5-29 (406) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image724.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 5-29"
+  alt="script.js - lines 5-29." />
 </p>
 
 The last thing we need to do is kind of put it together. Up here you&apos;ll
@@ -11969,11 +12002,12 @@ do these two things and then we&apos;ll be able to finish off this script
 here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 725.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 725. example, fill in steps 3 & 5 (407) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image725.png"
   style="width:50%"
-  alt="." />
+  title="Example, Fill In Steps 3 &amp; 5"
+  alt="Example, Fill In Steps 3 &amp; 5." />
 </p>
 
 To create the card, what we&apos;re going to need is make it variable
@@ -11981,11 +12015,12 @@ destination card, and that&apos;s going to run. This is going to be using a
 function expression here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 726.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 726. script.js - lines 5-29 (407) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image726.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 5-29"
+  alt="script.js - lines 5-29." />
 </p>
 
 So we&apos;re going to use a function expression to create the destination
@@ -12014,33 +12049,37 @@ of our script together, and in the next video, we&apos;ll do some error
 checking and fixing of stuff and see if it all works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch4-23">4.23 Vacation Destination Project: JavaScript -- Part 7 (9:39)</h2> <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 727.   (3xx) ~~~~~~~~~~~~-->
+<h2 id="ch4-23">4.23 Vacation Destination Project: JavaScript -- Part 7 (9:39)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 727.  vacation destinations wish list (408) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image727.png"
   style="width:50%"
-  alt="." />
+  title="Vacation Destinations Wish List"
+  alt="Vacation Destinations Wish List." />
 </p>
 
 We can now add cards, and remove them from the list.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 728.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 728. inspect console, fenway park image (409) ~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image728.png"
   style="width:50%"
-  alt="." />
+  title="Inspect console, Fenway Park image"
+  alt="Inspect console, Fenway Park image." />
 </p>
 
 Let&apos;s try it again here. We&apos;ll do Fenway Park again. We&apos;ll do Boston.
 Put in the photo that I have in my form already.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 729.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 729. inspect console, 2nd fenway park image (409) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image729.png"
   style="width:50%"
-  alt="." />
+  title="Inspect console, 2nd Fenway Park image"
+  alt="Inspect console, 2nd Fenway Park image." />
 </p>
 
 Then what happens if we leave the photo app? Let&apos;s do that. No photo in
@@ -12053,11 +12092,12 @@ name, Empire State Building in New York. I&apos;m going to paste that URL in
 for that JPEG, and then add a description, is visiting New York. Here we
 go, Add to List.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 730.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 730. inspect console, my wish list (410) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image730.png"
   style="width:50%"
-  alt="." />
+  title="Inspect console, My Wish List"
+  alt="Inspect console, My Wish List." />
 </p>
 
 You can see that it&apos;s appended that card, it&apos;s added it to the list.
@@ -12067,7 +12107,7 @@ York one will stay. Notice, that the header here changed as it was
 supposed to change. Everything else is working.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 731.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 731. vacation destinations wish list (410) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image731.png"
   style="width:50%"
@@ -12085,7 +12125,7 @@ that in the next video.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-24">4.24 Vacation Destination Project: JavaScript -- Part 8 (6:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 732.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 732. script.js - lines 1-25 (411) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image732.png"
   style="width:50%"
@@ -12103,11 +12143,12 @@ are affecting the way the page looks, and then in the script, you&apos;re
 manipulating many times both of those things on the fly.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 732.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 732. script.js - lines 1-25 (412) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image732.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 1-25"
+  alt="script.js - lines 1-25." />
 </p>
 
 Just for a quick summary of the script here, when you submit that form,
@@ -12116,11 +12157,12 @@ which is getting the values out of the form, clearing out those values
 from the form when it&apos;s done.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 733.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 733. script.js - lines 29-52 (412) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image733.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 29-52"
+  alt="script.js - lines 29-52." />
 </p>
 
 Then going through and actually creating the actual card, after that
@@ -12131,11 +12173,12 @@ Over here you&apos;re fixing the header if we need to, after that, we
 actually put the card on the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 734.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 734. script.js - lines 49-74 (413) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image734.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 49-74"
+  alt="script.js - lines 49-74." />
 </p>
 
 The create destination card is a long function because we&apos;re creating
@@ -12146,22 +12189,24 @@ an extra function that allows you to remove a card so that&apos;s one more
 extra piece of functionality that we have in this little application.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 735.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 735. script.js - lines 59-81 (413) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image735.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 59-81"
+  alt="script.js - lines 59-81." />
 </p>
   
 The last thing to do is to clean it up by adding a function up at the
 top here to enclose the whole thing and then changing out the variables.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 736.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 736. script.js - lines 1-25 (414) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image736.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 1-25"
+  alt="script.js - lines 1-25." />
 </p>
   
 Again, we would just do open parenthesis and run an anonymous function
@@ -12172,22 +12217,24 @@ sure that I&apos;m not introducing any variables by accident in the global
 scope.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 737.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 737. script.js - lines 1-26 (414) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image737.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 1-26"
+  alt="script.js - lines 1-26." />
 </p>
 
 Then I could take everything that&apos;s in here, and stick it inside this
 function here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 738.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 738. script.js - lines 1-26 (415) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image738.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 1-26"
+  alt="script.js - lines 1-26." />
 </p>
   
 The last thing you could do is go through and replace all the **vars**
@@ -12203,11 +12250,12 @@ start using const, to begin with rather than coming through and doing
 this at the end, and that&apos;s certainly fine as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 739.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 739. script.js - lines 19-44 (415) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image739.png"
   style="width:50%"
-  alt="." />
+  title="script.js - lines 19-44"
+  alt="script.js - lines 19-44." />
 </p>
 
 When you&apos;re new at this I think it&apos;s helpful to start with **var** and
@@ -12216,14 +12264,16 @@ is for if the value is going to change. Now use other values you&apos;re
 going to change when the script runs. Just the one inside the loop. I
 think that&apos;s the only one. I could be wrong.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~ 740/741.   (3xx) ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 740/741. script.js - lines 49-87 (416) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image740.png"
   style="width:45%"
-  alt="." />
+  title="script.js - lines 49-73"
+  alt="script.js - lines 49-73." />
 <img src="./images/image741.png"
   style="width:45%"
-  alt="." />
+  title="script.js - lines 70-87"
+  alt="script.js - lines 70-87." />
 </p>
 
 Let&apos;s just check and see if I&apos;m wrong. If you are wrong, you&apos;ll get
@@ -12233,7 +12283,7 @@ renewals and it removes it. Everything&apos;s working the way it should.
 This is really great capstone project that brings together everything
 we&apos;ve done in this first course of this specialization, and I look
 forward to seeing you in the second course of this specialization where
-we&apos;ll get into **jQuery** and creating all cool interactive elements on
+we&apos;ll get into <b>jQuery</b> and creating all cool interactive elements on
 my pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-25">4.25 Course Summary (0:57)</h2>
@@ -12247,8 +12297,8 @@ learned a lot, so you should give yourself a pat on the back, and I hope
 you&apos;re excited about the projects we&apos;ve done so far. Also, I hope you
 realize that there&apos;s a lot more to learn about JavaScript and that
 you&apos;ll join us in the next course in the specialization where we get
-into **jQuery**. And we look at some of the cool things that we can do
-with the **jQuery** library and some of the cool interactions that we
+into <b>jQuery</b>. And we look at some of the cool things that we can do
+with the <b>jQuery</b> library and some of the cool interactions that we
 can make. So thank you for coming along this far and I hope to see you
 in the next course.
 
