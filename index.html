@@ -8640,9 +8640,9 @@ bottom of the page. And you&apos;ll see that still works.</p>
 <p>If I take <b>defer</b> out of there, watch what happens. Refresh and, 
 it doesn&apos;t work. Because, <b>addEventListener</b> is null. What&apos;s going 
 on here, is that the page loads from the top to the bottom. So 
-it&apos;s loading the script first, before it gets to the bottom. 
+it&apos;s loading the script first, before it gets to the button. 
 And on the script, it&apos;s saying, put an event listener on the 
-bottom. We can&apos;t put an event listener on a button, that doesn&apos;t 
+button. We can&apos;t put an event listener on a button, that doesn&apos;t 
 exist yet. But adding the <b>defer</b> keyword up here makes it so that it loads 
 that script after the rest of the page is loaded.</p>
 
