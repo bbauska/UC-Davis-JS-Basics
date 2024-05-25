@@ -4,8 +4,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <meta name="title" content="UC-Davis' JavaScript Basics" />
+  <link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico" />
+<!--  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /> -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+  <meta name="author" content="Brian Bauska (bbauska)" />
+  <meta name="title" content="UC at Davis' JavaScript Basics" />
   <meta name="description" content="University of California @Davis - JavaScript Basics.  
     This course introduces the programming language JavaScript and shows the websites that 
     include the type of interactions students will eventually be able to develop. Learners 
@@ -15,16 +18,15 @@
     and arrays and assign values to them. If student’s skills are lacking, resources and 
     recommendations are provided to improve these skills. There is ample opportunity for 
     students to practice these first, core skills." />
-  <meta name="author" content="Brian Bauska (bbauska)" />
+
   <title>JavaScript Basics</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
   <!-- font awesome icons (free version)-->
-  <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+<!--  <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script> -->
   <!-- google fonts-->
-  <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+<!--  <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" /> -->
+<!--  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" /> -->
   <!-- core theme css (includes bootstrap)-->
-  <link href="/css/styles.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="./css/styles.css" />
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
@@ -73,20 +75,21 @@
     document.documentElement.scrollTop = 0;
   }
 </script>
-<h1 style="text-align:center">JavaScript Basics</h1>
-
-<h6 style="text-align:center">(by William Mead, Lecturer - University of California 
-  <span class="citation" data-cites="Davis">@Davis</span>)</h6>
+<header id="title-block-header">
+  <h1 style="text-align:center">JavaScript Basics</h1>
+  <h6 style="text-align:center">(by William Mead, Lecturer - University of California 
+    <span class="citation" data-cites="Davis">@Davis</span>)</h6>
+</header>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ index.html of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 01/02. javascript (coffee cup) logo / UC Davis log (01) ~~~~~~~~~~~~~~~~~~~-->
-<img class="displayed"
+<img class="border"
   src="./images/webp/image001.webp"
   style="width:20%; float: left; margin-left: 30%; margin-bottom: 1em;"
   title="JavaScript coffee cup logo version"
   alt="JavaScript coffee cup logo version." />
-<img class="border displayed"
+<img class="border"
   src="./images/webp/image002.webp"
   style="width:20%; float: left; margin-left: 5%; margin-bottom: 1em;"
   title="UC Davis logo"
@@ -109,86 +112,83 @@ skills.</p>
 <!--~~ Hoverable Dropdown Menu ~~-->
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
+<p id="table-of-contents">></p>
 
-<h3><a href="#ch1"><strong>Week 1: Getting Started, Intro to JS, Variables, and Arrays</strong></a></h3>
+<h3><strong>Week 1: Getting Started, Intro to JS, Variables, and Arrays</strong></h3>
 
 <blockquote>
-  <ul>
-    <li><h4><a href="#ch1-00-note"><strong>1.00 A Note from UC Davis</strong></a></h4></li>
-    <li><h4><a href="#ch1-00-obj"><strong>1.00 Learning Objectives</strong></a></h4></li>
-    <li><h4><a href="#ch1-00-intro"><strong>1.00 Welcome/Intro to this Course!</strong></a></h4></li>
-    <li><h4><a href="#ch1-01"><strong>1.01 Intro to JavaScript - Part 1</strong></a></h4></li>
-    <li><h4><a href="#ch1-02"><strong>1.02 Intro to JavaScript - Part 2</strong></a></h4></li>
-    <li><h4><a href="#ch1-03"><strong>1.03 Intro to JavaScript - Part 3</strong></a></h4></li>
-    <li><h4><a href="#ch1-04"><strong>1.04 Tools Needed for Success</strong></a></h4></li>
-    <li><h4><a href="#ch1-05"><strong>1.05 Skills Needed for Success</strong></a></h4></li>
-    <li><h4><a href="#ch1-05-assess"><strong>1.05 Assessing Your Skills</strong></a></h4></li>
-    <li><h4><a href="#ch1-05-add"><strong>1.05 Additional Resources</strong></a></h4></li>
-    <li><h4><a href="#ch1-06"><strong>1.06 JavaScript Variables</strong></a></h4></li>
-    <li><h4><a href="#ch1-07"><strong>1.07 JavaScript Variables Practice - Part 1</strong></a></h4></li>
-    <li><h4><a href="#ch1-08"><strong>1.08 JavaScript Variables Practice - Part 2</strong></a></h4></li>
-    <li><h4><a href="#ch1-09"><strong>1.09 JavaScript Variables Practice - Part 3</strong></a></h4></li>
-    <li><h4><a href="#ch1-10"><strong>1.10 JavaScript Arrays - Part 1</strong></a></h4></li>
-    <li><h4><a href="#ch1-11"><strong>1.11 JavaScript Arrays - Part 2</strong></a></h4></li>
-    <li><h4><a href="#ch1-12"><strong>1.12 JavaScript Arrays Practice</strong></a></h4></li>
-    <li><h4><a href="#ch1-12-add"><strong>1.12 Additional Resources</strong></a></h4></li>
-    <li><h4><a href="#ch1-12-res"><strong>1.12 Reserved Words</strong></a></h4></li>
-    <li><h4><a href="#ch1-12-array"><strong>1.12 Array Methods</strong></a></h4></li>
-  </ul>
+  <h4><a href="#ch1-00-note"><strong>1.00 A Note from UC Davis</strong></a></h4>
+  <h4><a href="#ch1-00-obj"><strong>1.00 Learning Objectives</strong></a></h4>
+  <h4><a href="#ch1-00-intro"><strong>1.00 Welcome/Intro to this Course!</strong></a></h4>
+  <h4><a href="#ch1-01"><strong>1.01 Intro to JavaScript - Part 1</strong></a></h4>
+  <h4><a href="#ch1-02"><strong>1.02 Intro to JavaScript - Part 2</strong></a></h4>
+  <h4><a href="#ch1-03"><strong>1.03 Intro to JavaScript - Part 3</strong></a></h4>
+  <h4><a href="#ch1-04"><strong>1.04 Tools Needed for Success</strong></a></h4>
+  <h4><a href="#ch1-05"><strong>1.05 Skills Needed for Success</strong></a></h4>
+  <h4><a href="#ch1-05-assess"><strong>1.05 Assessing Your Skills</strong></a></h4>
+  <h4><a href="#ch1-05-add"><strong>1.05 Additional Resources</strong></a></h4>
+  <h4><a href="#ch1-06"><strong>1.06 JavaScript Variables</strong></a></h4>
+  <h4><a href="#ch1-07"><strong>1.07 JavaScript Variables Practice - Part 1</strong></a></h4>
+  <h4><a href="#ch1-08"><strong>1.08 JavaScript Variables Practice - Part 2</strong></a></h4>
+  <h4><a href="#ch1-09"><strong>1.09 JavaScript Variables Practice - Part 3</strong></a></h4>
+  <h4><a href="#ch1-10"><strong>1.10 JavaScript Arrays - Part 1</strong></a></h4>
+  <h4><a href="#ch1-11"><strong>1.11 JavaScript Arrays - Part 2</strong></a></h4>
+  <h4><a href="#ch1-12"><strong>1.12 JavaScript Arrays Practice</strong></a></h4>
+  <h4><a href="#ch1-12-add"><strong>1.12 Additional Resources</strong></a></h4>
+  <h4><a href="#ch1-12-res"><strong>1.12 Reserved Words</strong></a></h4>
+  <h4><a href="#ch1-12-array"><strong>1.12 Array Methods</strong></a></h4>
 </blockquote>
 
-<h3><a href="#ch2"><strong>Week 2: Controlling Logical Flow in JavaScript</strong></a></h3>
+<h3><strong>Week 2: Controlling Logical Flow in JavaScript</strong></h3>
+
+<ul>
+  <li><h4><a href="#ch2-00-obj"><strong>2.00 Learning Objectives</strong></a></h4>
+  <h4><a href="#ch2-00-intro"><strong>2.00 Module 2 Introduction</strong></a></h4>
 
 <blockquote>
-<ul>
-  <li><h4><a href="#ch2-00-obj"><strong>2.00 Learning Objectives</strong></a></h4></li>
-  <li><h4><a href="#ch2-00-intro"><strong>2.00 Module 2 Introduction</strong></a></h4></li>
-  <li><h4><a href="#ch2-01"><strong>2.01 Visual Studio - Part 1</strong></a></h4></li>
-  <li><h4><a href="#ch2-02"><strong>2.02 Visual Studio - Part 2</strong></a></h4></li>
-  <li><h4><a href="#ch2-03"><strong>2.03 Visual Studio - Part 3</strong></a></h4></li>
-  <li><h4><a href="#ch2-04"><strong>2.04 Operators, Boolean &amp; Selection in JavaScript</strong></a></h4></li>
-  <li><h4><a href="#ch2-05"><strong>2.05 Try This!</strong></a></h4></li>
-  <li><h4><a href="#ch2-06"><strong>2.06 Comparing Values</strong></a></h4></li>
-  <li><h4><a href="#ch2-07"><strong>2.07 Else If</strong></a></h4></li>
-  <li><h4><a href="#ch2-08"><strong>2.08 Switch Statements</strong></a></h4></li>
-  <li><h4><a href="#ch2-09"><strong>2.09 Using &amp;&amp;</strong></a></h4></li>
-  <li><h4><a href="#ch2-09-add"><strong>2.09 Additional Resources</strong></a></h4></li>
-  <li><h4><a href="#ch2-10"><strong>2.10 Loops in JavaScript</strong></a></h4></li>
-  <li><h4><a href="#ch2-11"><strong>2.11 Working With Arrays</strong></a></h4></li>
-  <li><h4><a href="#ch2-12"><strong>2.12 The For…Of Loop</strong></a></h4></li>
-  <li><h4><a href="#ch2-13"><strong>2.13 While Loops</strong></a></h4></li>
-  <li><h4><a href="ch2-13-add"><strong>2.13.JavaScript-Loops Additional-Resources</strong></a></h4></li>
-  <li><h4><a href="#ch2-14"><strong>2.14 Structured Programming, Sequence - Part 1</strong></a></h4></li>
-  <li><h4><a href="#ch2-15"><strong>2.15 Sequence - Part 2</strong></a></h4></li>
-  <li><h4><a href="#ch2-16"><strong>2.16 Sequence - Part 3, Loop</strong></a></h4></li>
-  <li><h4><a href="#ch2-17"><strong>2.17 Loop + Selection</strong></a></h4></li>
-  <li><h4><a href="ch2-17-intro"><strong>2.17 JavaScript Basic Challenges Introduction 1-9</strong></a></h4></li>
-  <li><h4><a href="#ch2-18"><strong>2.18 JavaScript Basic Challenges</strong></a></h4></li>
-  <li><h4><a href="#ch2-19"><strong>2.19 JavaScript Basic Challenges</strong></a></h4></li>
-  <li><h4><a href="#ch2-20"><strong>2.20 JavaScript Basic Challenges</strong></a></h4></li>
-  <li><h4><a href="#ch2-21"><strong>2.21 Useful Example - Step 1</strong></a></h4></li>
-  <li><h4><a href="#ch2-22"><strong>2.22 Useful Example - Steps 2-4</strong></a></h4></li>
-  <li><h4><a href="#ch2-23"><strong>2.23 Useful Example - Step 5</strong></a></h4></li>
-  <li><h4><a href="#ch2-24"><strong>2.24 More on Functions</strong></a></h4></li>
-  <li><h4><a href="ch2-17-add"><strong>2.24 Additional Resources</strong></a></h4></li>
-  <li><h4><a href="ch2-17-func"><strong>2.24 JavaScript Function Challenges 10-16</strong></a></h4></li>
-  <li><h4><a href="ch2-24-refl"><strong>2.24 Module 2 Reflection</strong></a></h4></li>
-</ul>
+  <h4><a href="#ch2-01"><strong>2.01 Visual Studio - Part 1</strong></a></h4>
+  <h4><a href="#ch2-02"><strong>2.02 Visual Studio - Part 2</strong></a></h4>
+  <h4><a href="#ch2-03"><strong>2.03 Visual Studio - Part 3</strong></a></h4>
+  <h4><a href="#ch2-04"><strong>2.04 Operators, Boolean &amp; Selection in JavaScript</strong></a></h4>
+  <h4><a href="#ch2-05"><strong>2.05 Try This!</strong></a></h4>
+  <h4><a href="#ch2-06"><strong>2.06 Comparing Values</strong></a></h4>
+  <h4><a href="#ch2-07"><strong>2.07 Else If</strong></a></h4>
+  <h4><a href="#ch2-08"><strong>2.08 Switch Statements</strong></a></h4>
+  <h4><a href="#ch2-09"><strong>2.09 Using &amp;&amp;</strong></a></h4>
+  <h4><a href="#ch2-09-add"><strong>2.09 Additional Resources</strong></a></h4>
+  <h4><a href="#ch2-10"><strong>2.10 Loops in JavaScript</strong></a></h4>
+  <h4><a href="#ch2-11"><strong>2.11 Working With Arrays</strong></a></h4>
+  <h4><a href="#ch2-12"><strong>2.12 The For…Of Loop</strong></a></h4>
+  <h4><a href="#ch2-13"><strong>2.13 While Loops</strong></a></h4>
+  <h4><a href="ch2-13-add"><strong>2.13.JavaScript-Loops Additional-Resources</strong></a></h4>
+  <h4><a href="#ch2-14"><strong>2.14 Structured Programming, Sequence - Part 1</strong></a></h4>
+  <h4><a href="#ch2-15"><strong>2.15 Sequence - Part 2</strong></a></h4>
+  <h4><a href="#ch2-16"><strong>2.16 Sequence - Part 3, Loop</strong></a></h4>
+  <h4><a href="#ch2-17"><strong>2.17 Loop + Selection</strong></a></h4>
+  <h4><a href="ch2-17-intro"><strong>2.17 JavaScript Basic Challenges Introduction 1-9</strong></a></h4>
+  <h4><a href="#ch2-18"><strong>2.18 JavaScript Basic Challenges</strong></a></h4></li>
+  <h4><a href="#ch2-19"><strong>2.19 JavaScript Basic Challenges</strong></a></h4>
+  <h4><a href="#ch2-20"><strong>2.20 JavaScript Basic Challenges</strong></a></h4>
+  <h4><a href="#ch2-21"><strong>2.21 Useful Example - Step 1</strong></a></h4>
+  <h4><a href="#ch2-22"><strong>2.22 Useful Example - Steps 2-4</strong></a></h4>
+  <h4><a href="#ch2-23"><strong>2.23 Useful Example - Step 5</strong></a></h4>
+  <h4><a href="#ch2-24"><strong>2.24 More on Functions</strong></a></h4>
+  <h4><a href="ch2-17-add"><strong>2.24 Additional Resources</strong></a></h4>
+  <h4><a href="ch2-17-func"><strong>2.24 JavaScript Function Challenges 10-16</strong></a></h4>
+  <h4><a href="ch2-24-refl"><strong>2.24 Module 2 Reflection</strong></a></h4>
 </blockquote>
 
-<h3><a href="#ch3"><strong>Week 3: Using JavaScript in the Web Browser</strong></a></h3>
+<h3><strong>Week 3: Using JavaScript in the Web Browser</strong></h3>
 
 <blockquote>
-<ul>
-  <li><h4><a href="#ch3-00-obj"><strong>3.00 Learning Objectives</strong></a></h4></li>
-  <li><h4><a href="#ch3-00-intro"><strong>3.00 Module 3 Introduction</strong></a></h4></li>
-  <li><h4><a href="#ch3-01"><strong>3.01 JavaScript and the DOM</strong></a></h4></li>
-  <li><h4><a href="#ch3-02"><strong>3.02 Dot Syntax and Methods</strong></a></h4></li>
-  <li><h4><a href="#ch3-03"><strong>3.03 DOM; getElementsByTagName();</strong></a></h4></li>
-  <li><h4><a href="#ch3-04"><strong>3.04 DOM; getElementsByClassName();</strong></a></h4></li>
-  <li><h4><a href="#ch3-05"><strong>3.05 DOM; querySelector()</strong></a></h4></li>
-  <li><h4><a href="#ch3-06"><strong>3.06 DOM; querySelectorAll();</strong></a></h4></li>
-</ul>
+  <h4><a href="#ch3-00-obj"><strong>3.00 Learning Objectives</strong></a></h4>
+  <h4><a href="#ch3-00-intro"><strong>3.00 Module 3 Introduction</strong></a></h4>
+  <h4><a href="#ch3-01"><strong>3.01 JavaScript and the DOM</strong></a></h4>
+  <h4><a href="#ch3-02"><strong>3.02 Dot Syntax and Methods</strong></a></h4>
+  <h4><a href="#ch3-03"><strong>3.03 DOM; getElementsByTagName();</strong></a></h4>
+  <h4><a href="#ch3-04"><strong>3.04 DOM; getElementsByClassName();</strong></a></h4>
+  <h4><a href="#ch3-05"><strong>3.05 DOM; querySelector()</strong></a></h4>
+  <h4><a href="#ch3-06"><strong>3.06 DOM; querySelectorAll();</strong></a></h4>
 </blockquote>
 
 <h2>Syllabus</h2>
@@ -12392,52 +12392,7 @@ in the next course.</p>
 <h6>.the end. 2.24.24 11:42pm</h6>
 <h6>.the end, again. 3.06.24 5:24pm</h6>
 <h6>.the end, again. 3.15.24 4:03pm</h6>
+<h6>.the end, again. 5.24.24 8:13pm</h6>
 
-<!-- 
-LAST CHANGED March, 2024 - going through entire document (389 pages) to more clearly identify images
-and give a clearer description of JavaScript and it&apos;s many nuances. For example, ECMA 2023, and what it
-can do in comparison to ECMA 2017.
-Currently at 4.09 with 4.10 thru 4.25 to complete this class. That will add approximately 50 pages to
-the Word document this markdown was created from.
-
-Bear with me.  It does get convoluted as hell. Time and practice. Practice and time.
--->
-<!--
-<img class="border"
-  src="./images/webp/imageXXX.webp"
-  loading="lazy"
-  style="width:40%; float: left; margin-left: 10%; margin-bottom: 1em;"
-  title=""
-  alt="." />
-<img class="border"
-  src="./images/webp/imageXXX.webp"
-  loading="lazy"
-  style="width:40%; float: left; margin-left: 5%; margin-bottom: 1em;"
-  title=""
-  alt="." />
-<p style="clear: both;"></p>
--->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~ xxx/xxx.  (###) ~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/webp/imageXXX.webp?raw=true"
-  style="width:45%"
-  alt="." />
-<img src="./images/webp/imageXXX.webp?raw=true"
-  style="width:45%"
-  alt="." />
-</p>
--->
-<!--
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ xxx.  (###) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
-<p align="center" width="100%">
-<img src="./images/webp/imageXXX.webp?raw=true"
-  style="width:50%"
-  alt="." />
-</p>
--->
+</body>
+</html>
