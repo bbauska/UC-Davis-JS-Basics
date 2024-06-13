@@ -9,12 +9,6 @@ body {
   padding: 10px;
 }
 
-.image-container img {
-  transition: transform 0.3s ease-in-out;
-}
-.image-container img:hover {
-  transform: scale(1.2);
-}
 img.displayed {
   display: block;
   margin: 0 auto; 
