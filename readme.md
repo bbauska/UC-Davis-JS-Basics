@@ -3,7 +3,8 @@ title: |
   #1 University of California @Davis JavaScript Basics
   by William Mead, Lecturer
 author: "bbauska"
-date last editted: "4/17/2024 Thu 8+pm"
+date created: "02/24/24 11+pm"
+date last editted: "04/17/24 Thu 8+pm"
 output: 
   markdown:
     with some style
@@ -12303,8 +12304,8 @@ can make. So thank you for coming along this far and I hope to see you
 in the next course.
 
 <h5>.the end. 2.24.24 11:42pm</h5>
-<h5>.the end, again. 3.06.23 5:25pm</h5>
-<h5>.the end, again. 3.09.23 3:31am</h5>
+<h5>.the end, again. 3.06.24 5:25pm</h5>
+<h5>.the end, again. 3.09.24 3:31am</h5>
 
 <h2 id="add">Additional Materials re JavaScript Basics</h2>
 
