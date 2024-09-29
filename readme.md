@@ -5,6 +5,7 @@ title: |
 author: "bbauska"
 date created: "02/24/24 Sat 11+pm"
 date last editted: "04/17/24 Thu 8+pm"
+date last editted: "09/29/24 Sun 8+am"
 output: 
   markdown:
     with some style
@@ -502,7 +503,7 @@ vacation destination list application.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~ week 1 - getting started, introduction to javascript, variables and arrays (09) ~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch1">Week One: Getting Started, Introduction to JavaScript, Variables, and Arrays</h1>
+<h2 id="ch1">Week One: Getting Started, Introduction to JavaScript, Variables, and Arrays</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-note">1.00 A Note From UC Davis</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -572,7 +573,7 @@ Coursera Honor Code</a>.</p>
 	 1.00 Coursera&apos;s Learner Support/Help Center:</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch1">Week One:</h1>
+<h2 id="ch1">Week One:</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-00-obj">1.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2068,7 +2069,7 @@ ways of getting elements out of arrays.</p>
     1.12 Array Methods (shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch2">Week Two: Controlling Logical Flow in JavaScript</h1>
+<h2 id="ch2">Week Two: Controlling Logical Flow in JavaScript</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-00-obj">2.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9731,7 +9732,7 @@ to the page, and remove them from the page. Using our document object model (DOM
 as well as our event handlers. And this is a great slideshow that you could use 
 on any webpage. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch4">Week Four: Basic JavaScript Application Projects</h1>
+<h2 id="ch4">Week Four: Basic JavaScript Application Projects</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-00-obj">4.00 Learning Objectives</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -9769,7 +9770,7 @@ JavaScript along the way. So let&apos;s get to it. And hopefully, by the end of 
 module, you&apos;ll be excited about what you&apos;ve learned so far in this course, and 
 you&apos;ll be excited to go on to the next course and learn even more about JavaScript.</p>
 
-<ul>
+<ul id="ch4-00-start">
   <li><a href="https://www.coursera.org/learn/javascript-basics/supplement/g4gK7/basic-distance-converter-start-files"
     target="_blank" rel="noopener noreferrer">
 	4.00 Basic-Convert-START.zip (download)</a></li>
