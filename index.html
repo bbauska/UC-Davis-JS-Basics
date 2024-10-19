@@ -655,8 +655,8 @@ the extra w's in here.</p>
 
 <p>I have that website pulled up over here. You can come here and look through 
 some of the different sites that have won awards on <a href="https://www.awwwards.com/" 
-rel="noopener noreferrer" target="_blank">Awwwards</a>. They tend to be pretty 
-innovative and interesting sites.</p>
+aria-label="Awwwards web site of innovative and interesting sites." rel="noopener noreferrer" 
+target="_blank">Awwwards</a>. They tend to be pretty innovative and interesting sites.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 12. taptaro example in awwwards.com (14) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -667,9 +667,9 @@ innovative and interesting sites.</p>
   alt="TapTaro example from awwwards.com website." />
 
 <p>I have <a href="https://www.awwwards.com/sites/taptaro" rel="noopener noreferrer" 
-target="_blank">Awwwards taptaro</a>. Whether you're talking about following the mouse, 
-or coming over here and the animation around the circle, or the way these images 
-pop in, this is all being done with JavaScript, this kind of thing.</p>
+aria-label="Taptaro under Awwwards.com" target="_blank">Awwwards taptaro</a>. Whether you're 
+talking about following the mouse, or coming over here and the animation around the circle, 
+or the way these images pop in, this is all being done with JavaScript, this kind of thing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 13. javascript example, no longer there (15) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -692,9 +692,9 @@ sounds as you work around it.</p>
   title="Boyntonyards.com website from awwwards.com"
   alt="Boyntonyards.com website from awwwards.com." />
 
-<p>Or <a href="https://boyntonyards.com/" rel="noopener noreferrer" target="_blank">
-this website</a> which has some interesting interactions as you're scrolling through 
-the website.</p>
+<p>Or <a href="https://boyntonyards.com/" rel="noopener noreferrer" target="_blank"
+aria-label="Boyntonyards example website of interesting interactions">this website</a> 
+which has some interesting interactions as you're scrolling through the website.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. boyntonyards.com, cont'd (16) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="border displayed"
@@ -7282,11 +7282,10 @@ left the box. Cool, that&apos;s great.</p>
   alt="The mouse has left the box." />
 <p style="clear: both;"></p>
 
-<p>Let&apos;s go give that a try. Roll your mouse over the box. So the mouse is
-over the box. When I leave the box, the mouse has left the box. Mouse is
-over the box, mouse has left the box, so I can go back and forth. But
-it&apos;d be nice if I could return the page to its default state without
-having to click the refresh button.</p>
+<p>Let&apos;s go give that a try. Roll your mouse over the box. So the mouse is over the 
+box. When I leave the box, the mouse has left the box. Mouse is over the box, mouse has 
+left the box, so I can go back and forth. But it&apos;d be nice if I could return the 
+page to its default state without having to click the refresh button.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 415. event listener, mouseover box function (233) ~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7296,14 +7295,13 @@ having to click the refresh button.</p>
   title="Add event listener, mouseover red box."
   alt="Add event listener, mouseover red box." />
 
-<p>I&apos;m going to add one more event listener for the header. So when I roll
-over the header, it puts the original texts back in there, like this.
-Roll your mouse over the box and box is there, but really there&apos;s one
-box. Yeah, so let&apos;s just fix that right here. I&apos;m just going to copy
-this and paste it. But I&apos;m no longer working with box. I&apos;m going to
-put it on heading, addEventListener mouseover and I&apos;m going to put the
-same texts that I have here and here to the heading, to put it back to
-its default state of where it was before.</p>
+<p>I&apos;m going to add one more event listener for the header. So when I roll over the 
+header, it puts the original texts back in there, like this. Roll your mouse over the box 
+and box is there, but really there&apos;s one box. Yeah, so let&apos;s just fix that right 
+here. I&apos;m just going to copy this and paste it. But I&apos;m no longer working with 
+box. I&apos;m going to put it on heading, addEventListener mouseover and I&apos;m going to 
+put the same texts that I have here and here to the heading, to put it back to its default 
+state of where it was before.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 416. roll over and off red box (234) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7313,15 +7311,13 @@ its default state of where it was before.</p>
   title="Roll over and off red box"
   alt="Roll over and off red box." />
 
-<p>But now I can roll over them up, box roll off it and the event listeners
-are working. If I roll over the header, it puts it back to its original
-state. This is a really great example of how we can use event listeners
-and mouseover and mouseout to change content on the page. Plus you&apos;re
-making use of the inner HTML property. That element property that&apos;s
-taking that element and replacing the HTML inside of it with something
-else. Now you&apos;re starting to see we can actually do some interesting
-things to web-pages when we&apos;re no longer just putting stuff in the
-console.</p>
+<p>But now I can roll over them up, box roll off it and the event listeners are working. 
+If I roll over the header, it puts it back to its original state. This is a really great 
+example of how we can use eent listeners and mouseover and mouseout to change content on 
+the page. Plus you&apos;re making use of the inner HTML property. That element property 
+that&apos;s taking that element and replacing the HTML inside of it with something else. 
+Now you&apos;re starting to see we can actually do some interesting things to web-pages 
+when we&apos;re no longer just putting stuff in the console.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-16">3.16 Scroll Events: HTML (7:41)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7343,12 +7339,12 @@ console.</p>
   title="Example, Scroll Events: HTML"
   alt="Example, Scroll Events: HTML." />
 
-<p>Change the HTML on the page that we just had to something like this,
-I&apos;ve just changed the height to 5000 pixels for this div that&apos;s on the
-page. So I&apos;ve got capturing scroll events and just an empty div that&apos;s
-set to 5000 pixels high and I&apos;ve set it to 5000 pixels high so we have
-something to scroll. Otherwise there&apos;s nothing to really scroll and we
-can&apos;t really capture that event, okay, great.</p>
+<p>Change the HTML on the page that we just had to something like this, I&apos;ve just 
+changed the height to 5000 pixels for this div that&apos;s on the page. So I&apos;ve 
+got capturing scroll events and just an empty div that&apos;s set to 5000 pixels high 
+and I&apos;ve set it to 5000 pixels high so we have something to scroll. Otherwise 
+there&apos;s nothing to really scroll and we can&apos;t really capture that event, 
+okay, great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 419. example, scroll events: js (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
