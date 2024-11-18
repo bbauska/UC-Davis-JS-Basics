@@ -13,7 +13,7 @@ output:
 
 <h1 align="center">JavaScript Basics</h1>
 
-<h6 align="center">(by William Mead, Lecturer - University of California @Davis)</h6>
+<p align="center"><small><small>(by William Mead, Lecturer - University of California @Davis)</small></small></p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ readme.md of UC-Davis-JS-Basics in bbauska.github.io ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -200,7 +200,7 @@ skills in this area, if necessary. You will write simple JavaScript statements i
 web browser console and be able to create variables and arrays. You will be able to assign 
 values to these variables and arrays and be able to read values from them.</p>
 
-<h6>12 videos, 5 readings</h6>
+<p><small><small>12 videos, 5 readings</small></small></p>
 
 <ul>
   <li>1.00.A Note From UC Davis</li>
@@ -257,7 +257,7 @@ to create basic JavaScript programs that can be tested.</p>
 <p>Finally, you will be able to combine sets of program instructions into named functions 
 and create custom functions that can be called to complete the instructions they contain.</p>
 
-<h6>24 lessons/videos, 8 readings</h6>
+<p><small><small>24 lessons/videos, 8 readings</small></small></p>
 
 <ul>
   <li>2.00 Learning Objectives</li>
@@ -335,7 +335,7 @@ variables in JavaScript so that scope does not become a problem. You
 will be able to practice all the skills and techniques learned so far in
 the course by putting together a simple slideshow on a web page.</p>
 
-<h6>36 lessons/videos, 10+ readings</h6>
+<p><small><small>36 lessons/videos, 10+ readings</small></small></p>
 
 <ul>
   <li>3.00 Learning Objectives</li>
@@ -429,7 +429,7 @@ advanced distance converter. You will be able to further apply and
 practice to extend your skills and techniques by building a simple
 vacation destination list application.</p>
 
-<h6>25 lessons/videos, 4 readings, 4 zip uploadable files</h6>
+<p><small><small>25 lessons/videos, 4 readings, 4 zip uploadable files</small></small></p>
 
 <ul>
   <li>4.00 Learning Objectives</li>
@@ -12326,7 +12326,7 @@ purpose. Here are the main types of loops:
 
 ```
 for (let i = 0; i < 5; i++) {
-  // code to be executed
+  // <i>code to be executed</i>
 }
 ```
 
@@ -12339,7 +12339,7 @@ for (let i = 0; i < 5; i++) {
 ```
 let i = 0;
 while (i < 5) {
-  // code to be executed
+  // <i>code to be executed</i>
   i++;
 }
 ```
@@ -12352,7 +12352,7 @@ while (i < 5) {
 ```
 let i = 0;
 do {
-  // code to be executed
+  // <i>code to be executed</i>
   i++;
 } while (i < 5);
 ```
@@ -12366,7 +12366,7 @@ do {
 ```
 const person = { name: 'John', age: 30 };
 for (const key in person) {
-  // code to be executed for each property
+  // <i>code to be executed for each property</i>
   console.log(key, person[key]);
 }
 ```
@@ -12380,7 +12380,7 @@ for (const key in person) {
 ```
 const fruits = ['apple', 'banana', 'orange'];
 for (const fruit of fruits) {
-  // code to be executed for each element
+  // <i>code to be executed for each element</i>
   console.log(fruit);
 }
 ```
@@ -12396,7 +12396,7 @@ for (const fruit of fruits) {
 
 ```
 array.forEach(function(currentValue, index, array) {
-  // code to be executed for each element
+  // <i>code to be executed for each element</i>
 });
 ```
 
