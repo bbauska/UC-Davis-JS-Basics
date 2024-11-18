@@ -66,7 +66,6 @@ skills.</p>
 >#### [**1.12 JavaScript Arrays Practice**](#ch1-12)
 >	- #### [**1.12 Reserved Words**](#ch1-12-res)
 >	- #### [**1.12 Array Methods**](#ch1-12-array)
-
 ### [**Week 2: Controlling Logical Flow in JavaScript**](#ch2)
 >	- #### [**2.00 Learning Objectives**](#ch2-00-obj)
 >	- #### [**2.00 Module 2 Introduction; Controlling Logical Flow in JavaScript**](#ch2-00-intro)
