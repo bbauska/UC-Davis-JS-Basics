@@ -7295,12 +7295,11 @@ when we&apos;re no longer just putting stuff in the console.</p>
   title="Example, Scroll Events: HTML"
   alt="Example, Scroll Events: HTML." />
 
-<p>Change the HTML on the page that we just had to something like this, I&apos;ve just 
-changed the height to 5000 pixels for this div that&apos;s on the page. So I&apos;ve 
-got capturing scroll events and just an empty div that&apos;s set to 5000 pixels high 
-and I&apos;ve set it to 5000 pixels high so we have something to scroll. Otherwise 
-there&apos;s nothing to really scroll and we can&apos;t really capture that event, 
-okay, great.</p>
+<p>Change the HTML on the page that we just had to something like this, I&apos;ve just changed the 
+height to 5000 pixels for this div that&apos;s on the page. So I&apos;ve got capturing scroll events 
+and just an empty div that&apos;s set to 5000 pixels high and I&apos;ve set it to 5000 pixels high 
+so we have something to scroll. Otherwise there&apos;s nothing to really scroll and we can&apos;t 
+really capture that event, okay, great.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 419. example, scroll events: js (235) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7310,8 +7309,8 @@ okay, great.</p>
   title="Example, Scroll Events: JS"
   alt="Example, Scroll Events: JS." />
 
-<p>I&apos;ve got a script that&apos;s going to capture the scroll event and see what
-we can do with it.</p>
+<p>I&apos;ve got a script that&apos;s going to capture the scroll event and see what we can do 
+with it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 420. event listener, scroll, update pagetop (236) ~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7321,21 +7320,18 @@ we can do with it.</p>
   title="Event listener for scroll, then update pagetop to pageYOffset"
   alt="Event listener for scroll, then update pagetop to pageYOffset." />
 
-<p>Over here on my script, the first thing I&apos;m going to do is create a
-variable called <b>pagetop</b> and this variable is undefined at this
-moment. I&apos;ve created a variable <b>pagetop</b> and then I&apos;m going to
-create an <b>EventListener</b> and the <b>EventListener</b> in this case is
-going to go on the window object. I can actually do
-<b>window.addEventListener</b>, so I can listen for events for the window,
-and I can listen for scroll. Scroll a bit and then I&apos;m going to run a
-function when the scroll event happens.</p>
+<p>Over here on my script, the first thing I&apos;m going to do is create a variable called 
+<b>pagetop</b> and this variable is undefined at this moment. I&apos;ve created a variable 
+<b>pagetop</b> and then I&apos;m going to create an <b>EventListener</b> and the <b>EventListener</b> 
+in this case is going to go on the window object. I can actually do <b>window.addEventListener</b>, 
+so I can listen for events for the window, and I can listen for scroll. Scroll a bit and then I&apos;m 
+going to run a function when the scroll event happens.</p> 
 
-<p>Okay, so we&apos;ve got a function that&apos;s going to run here and what I want
-to do here is I want to take <b>pagetop</b> and update its value it started
-out as no value at all. But update the value of <b>pagetop</b> to be equal
-to <b>window.pageYOffset</b>. We&apos;re going to set it to that and then I&apos;m
-going to console log out <b>pagetop</b>. For now, just so we can kind of
-see what&apos;s going on as we&apos;re scrolling the page.</p>
+<p>Okay, so we&apos;ve got a function that&apos;s going to run here and what I want to do here is I 
+want to take <b>pagetop</b> and update its value it started out as no value at all. But update the 
+value of <b>pagetop</b> to be equal to <b>window.pageYOffset</b>. We&apos;re going to set it to that 
+and then I&apos;m going to console log out <b>pagetop</b>. For now, just so we can kind of see 
+what&apos;s going on as we&apos;re scrolling the page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 421. console inspect, counter increments as you scroll (237) ~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7345,10 +7341,10 @@ see what&apos;s going on as we&apos;re scrolling the page.</p>
   title="Console inspect, counter increments as you scroll"
   alt="Console inspect, counter increments as you scroll." />
 
-<p>I&apos;m going to go over to My browser over here and here&apos;s my page, I&apos;m
-going to refresh that and here&apos;s my div that&apos;s 5000 pixels tall. I
-have my inspector open in the console selected over here so I can
-actually see, as I scroll my page it&apos;s capturing that counter.</p>
+<p>I&apos;m going to go over to My browser over here and here&apos;s my page, I&apos;m going to 
+refresh that and here&apos;s my div that&apos;s 5000 pixels tall. I have my inspector open in the 
+console selected over here so I can actually see, as I scroll my page it&apos;s capturing that 
+counter.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 422. event listener for scroll, update pagetop (237) ~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7358,15 +7354,12 @@ actually see, as I scroll my page it&apos;s capturing that counter.</p>
   title="Event listener for scroll, then update pagetop"
   alt="Event listener for scroll, then update pagetop." />
 
-<p>Now, one thing to note here is that this <b>EventListener</b> is firing
-very, very often a couple things to note, it&apos;s firing very, very often,
-it&apos;s firing every time I scroll just a little bit. This event listener
-is going 123 boom, every single time I scroll just a little bit, it&apos;s
-firing that <b>EventListener</b>. So that makes the scroll
-<b>EventListener</b> very expensive in terms of processing and the kinds of
-things that JavaScript is doing. So you need to be very careful with the
-window add event listener scroll event because it&apos;s going to fire
-frequently.</p>
+<p>Now, one thing to note here is that this <b>EventListener</b> is firing very, very often a couple 
+things to note, it&apos;s firing very, very often, it&apos;s firing every time I scroll just a little 
+it. This event listener is going 123 boom, every single time I scroll just a little bit, it&apos;s 
+firing that <b>EventListener</b>. So that makes the scroll <b>EventListener</b> very expensive in 
+terms of processing and the kinds of things that JavaScript is doing. So you need to be very careful 
+with the window add event listener scroll event because it&apos;s going to fire frequently.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 423. every time you scroll update pagetop (238) ~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7376,10 +7369,9 @@ frequently.</p>
   title="Each time you scroll, update pagetop variable"
   alt="Each time you scroll, update pagetop variable." />
 
-<p>That brings me back to this, I could have just put var page top here.
-Instead of defining it here, but every time I scroll just a tiny little
-bit, it&apos;s going to ask JavaScript to recreate the page top variable
-from scratch.</p>
+<p>That brings me back to this, I could have just put var page top here. Instead of defining it here, 
+but every time I scroll just a tiny little bit, it&apos;s going to ask JavaScript to recreate the 
+page top variable from scratch.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 424. update value in pagetop to window.payyoffset (238) ~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7389,30 +7381,25 @@ from scratch.</p>
   title="Update pagetop to window.pageYOffset;"
   alt="Update pagetop to window.pageYOffset;" />
 
-<p>And then assign a value to it whereas if I do it up here, it&apos;s a little
-bit less expensive, because now I&apos;m just updating the value of pagetop.
-I create the variable once and then update it as I scroll down the page,
-it&apos;s not a big difference, you&apos;re not going to notice a huge
-difference in this example. But it&apos;s sort of important to mention
-because when we talk about creating events that are about scrolling the
-page, we need to be careful about what we&apos;re asking JavaScript to do.
-Because you can get your page can get bogged down really quickly keeping
-track of all the scroll events that are happening. And there are some
-techniques you can use to, to sort of mitigate the effects of that and
-we&apos;ll look at some of those later in this course.</p>
+<p>And then assign a value to it whereas if I do it up here, it&apos;s a little bit less expensive, 
+because now I&apos;m just updating the value of pagetop. I create the variable once and then update 
+it as I scroll down the page, it&apos;s not a big difference, you&apos;re not going to notice a huge
+difference in this example. But it&apos;s sort of important to mention because when we talk about 
+creating events that are about scrolling the page, we need to be careful about what we&apos;re asking 
+JavaScript to do. Because you can get your page can get bogged down really quickly keeping track of 
+all the scroll events that are happening. And there are some techniques you can use to, to sort of 
+mitigate the effects of that and we&apos;ll look at some of those later in this course.</p>
 
-<p>Okay, but for right now all I want you to be really aware of is that we
-can capture the scrolling the window. In this way that&apos;s very effective
-here and scroll back up to the top and refresh Scroll down, you&apos;ll see
-it&apos;s capturing this numbers, so this is an effective way of doing it.</p>
+<p>Okay, but for right now all I want you to be really aware of is that we can capture the scrolling 
+the window. In this way that&apos;s very effective here and scroll back up to the top and refresh 
+Scroll down, you&apos;ll see it&apos;s capturing this numbers, so this is an effective way of doing 
+it.</p>
 
-<p>One last thing I want to mention while we&apos;re here about the scroll
-event is notice it doesn&apos;t capture every single pixel. If I scroll
-slowly enough, capture a lot of them but you can see I&apos;ve missed a few
-of them in there. If I scroll really fast, it will skip lots of them
-more frequently, so that&apos;s another thing to pay attention to. If
-you&apos;re looking for a very specific pixel, it&apos;s harder to get with the
-scroll event.</p>
+<p>One last thing I want to mention while we&apos;re here about the scroll event is notice it 
+doesn&apos;t capture every single pixel. If I scroll slowly enough, capture a lot of them but 
+you can see I&apos;ve missed a few of them in there. If I scroll really fast, it will skip lots 
+of them more frequently, so that&apos;s another thing to pay attention to. If you&apos;re looking 
+for a very specific pixel, it&apos;s harder to get with the scroll event.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-17">3.17 Window Resizing (4:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7424,8 +7411,8 @@ scroll event.</p>
   title="3.17 Window Resizing"
   alt="3.17 Window Resizing." />
 
-<p>Another simple example that we can look at is watching for a resize of
-the window, and this is useful in responsive design.</p>
+<p>Another simple example that we can look at is watching for a resize of the window, and this is 
+useful in responsive design.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 426. example, window resizing (240) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7446,23 +7433,19 @@ this case, the event we&apos;re going to look for is a resize.</p>
   title="Define window.addEventListener(&apos;resize&apos;, function() and console log innerWidth & innerHeight"
   alt="Define window.addEventListener(&apos;resize&apos;, function() and console log innerWidth & innerHeight." />
 
-<p>I&apos;m looking for resize the window, and then we&apos;ll run a function And
-then, I&apos;m just going to add two console log statements in here. I can
-watch for resizing both the width and the height of the window. I&apos;m
-going to do <b>console.log,</b> parentheses and use my tickmarks and put in
-here The window, width is, I think it&apos;s window.innerWidth. Is that
-right? Let me check my slide over here. <b>Window.innerWidth</b>, yes, and
-<b>window.innerHeight</b>, <b>window.innerWidth</b>, and that&apos;s a variable so
-I&apos;m going to put a dollar sign and a curly brace. And at the end, I put
-a curly brace. We can get the number of pixels for the window with this.</p>
+<p>I&apos;m looking for resize the window, and then we&apos;ll run a function And then, I&apos;m just 
+going to add two console log statements in here. I can watch for resizing both the width and the 
+height of the window. I&apos;m going to do <b>console.log,</b> parentheses and use my tickmarks and 
+put in here The window, width is, I think it&apos;s window.innerWidth. Is that right? Let me check my 
+slide over here. <b>Window.innerWidth</b>, yes, and <b>window.innerHeight</b>, <b>window.innerWidth</b>, 
+and that&apos;s a variable so I&apos;m going to put a dollar sign and a curly brace. And at the end, 
+I put a curly brace. We can get the number of pixels for the window with this.</p>
 
-<p>Those are a couple more properties to add to your list of things, list
-of properties that you know about. I can come over here and go to my
-Events page. I&apos;m going to refresh this. And if I actually pull this off
-of here and let me see if I can position it just right here, there we
-go. And then I&apos;m going to resize this window. And as I do that, you can
-see that I&apos;m getting some comments over here about how wide and how
-window height is undefined.</p>
+<p>Those are a couple more properties to add to your list of things, list of properties that you know 
+about. I can come over here and go to my Events page. I&apos;m going to refresh this. And if I actually 
+pull this off of here and let me see if I can position it just right here, there we go. And then 
+I&apos;m going to resize this window. And as I do that, you can see that I&apos;m getting some 
+comments over here about how wide and how window height is undefined.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 428. test, resize window and log width/height to console (241) ~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7472,12 +7455,10 @@ window height is undefined.</p>
   title="Test, resize window and watch console log width/height"
   alt="Test, resize window and watch console log width/height." />
 
-<p>Right, so now I&apos;m getting, the width is changing because I&apos;m changing
-the width here. And then if I come down here and change the height, you
-can see the height is changing. We have a tool that we can use to find
-out how wide & how tall our window is. This is useful in JavaScript. And
-the resize event can be useful too if you&apos;re doing something with
-responsive design.</p>
+<p>Right, so now I&apos;m getting, the width is changing because I&apos;m changing the width here. 
+And then if I come down here and change the height, you can see the height is changing. We have a 
+tool that we can use to find out how wide & how tall our window is. This is useful in JavaScript. 
+And the resize event can be useful too if you&apos;re doing something with responsive design.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-18">3.18 Key Down Event (6:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7489,8 +7470,8 @@ responsive design.</p>
   title="3.18 Key Down Event"
   alt="3.18 Key Down Event." />
 
-<p>The next type of event that we&apos;re going capture is when you&apos;ve pressed
-a key on your keyboard.</p>
+<p>The next type of event that we&apos;re going capture is when you&apos;ve pressed a key on your 
+keyboard.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 430. example, key down event (242) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7500,9 +7481,8 @@ a key on your keyboard.</p>
   title="Example, Key Down Event"
   alt="Example, Key Down Event." />
 
-<p>Imagine creating games that you could play where you&apos;re pressing keys
-on your keyboard and things happen in the browser or something like
-that. That would be fun.</p>
+<p>Imagine creating games that you could play where you&apos;re pressing keys on your keyboard and 
+things happen in the browser or something like that. That would be fun.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 431. new script add event listener for keydown (243) ~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7512,14 +7492,12 @@ that. That would be fun.</p>
   title="Add script, document.addEventListener(&apos;keydown&apos;, function()"
   alt="Add script, document.addEventListener(&apos;keydown&apos;, function()." />
 
-<p>Over here on your HTML page, we can just add a script. This time we&apos;re
-going to actually attach the EventListener to the document itself.
-Let&apos;s just do that. It&apos;s a really simple thing to do. Let&apos;s come over
-here. I&apos;ve got a Keydown Event, press a key and I&apos;m going to actually
-say document.addEventListener. In here, I&apos;m going to look for a key
-down event. You could also look for key up or some other types of events
-that have to do with keys as well. Function. Then I&apos;m just going to
-alert, A key was pressed.</p>
+<p>Over here on your HTML page, we can just add a script. This time we&apos;re going to actually 
+attach the EventListener to the document itself. Let&apos;s just do that. It&apos;s a really simple 
+thing to do. Let&apos;s come over here. I&apos;ve got a Keydown Event, press a key and I&apos;m 
+going to actually say document.addEventListener. In here, I&apos;m going to look for a key down 
+event. You could also look for key up or some other types of events that have to do with keys as 
+well. Function. Then I&apos;m just going to alert, A key was pressed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 432. alert('a key was pressed') (243) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7529,10 +7507,9 @@ alert, A key was pressed.</p>
   title="alert(&apos;A key was pressed!&apos;)"
   alt="alert(&apos;A key was pressed!&apos;)." />
 
-<p>Let&apos;s go over and give that a try over here. I refresh this page and
-press key. I get a key was pressed. I can detect when a key was pressed.
-Now, we can check to see that a key was pressed but it would be nice to
-know which key was pressed.</p>
+<p>Let&apos;s go over and give that a try over here. I refresh this page and press key. I get a key 
+was pressed. I can detect when a key was pressed. Now, we can check to see that a key was pressed 
+but it would be nice to know which key was pressed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 433. example, which key was pressed (244) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7552,10 +7529,9 @@ know which key was pressed.</p>
   title="Which Key Number was Pressed?"
   alt="Which Key Number was Pressed?" />
 
-<p>Let&apos;s give that a try. I&apos;m going to pass in here my event object. Then
-in here, instead of using my quotes, I&apos;m going to use the tick marks
-and say the event.which key was pressed. An event.which is a variable so
-I&apos;m going to put a dollar sign then a curly brace and then a curly
+<p>Let&apos;s give that a try. I&apos;m going to pass in here my event object. Then in here, instead 
+of using my quotes, I&apos;m going to use the tick marks and say the event.which key was pressed. An 
+event.which is a variable so I&apos;m going to put a dollar sign then a curly brace and then a curly
 brace.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 435. test, the ## key was pressed (245) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7566,20 +7542,16 @@ brace.</p>
   title="Test Alert, The ## key was pressed"
   alt="Test Alert, The ## key was pressed." />
 
-<p>Let&apos;s give that a try. Now, when I press the J key, I get the 74 key
-was pressed. I&apos;m getting a code that goes with each key. I press the L
-key I get 76. If I press an A key, I get a 65. I can do this kind of
-thing to find this stuff out. Now, what&apos;s interesting here is that the
-which property has been deprecated. I just found out about this
-recently. More recently than I put together this lesson. This is
-something that happens with JavaScript and with web stuff, in
-particular, is that things change. Part of learning about the web is
-getting comfortable with finding out when things change and what to do
-about it.</p>
+<p>Let&apos;s give that a try. Now, when I press the J key, I get the 74 key was pressed. I&apos;m 
+getting a code that goes with each key. I press the L key I get 76. If I press an A key, I get a 65. 
+I can do this kind of thing to find this stuff out. Now, what&apos;s interesting here is that the
+which property has been deprecated. I just found out about this recently. More recently than I put 
+together this lesson. This is something that happens with JavaScript and with web stuff, in 
+particular, is that things change. Part of learning about the web is getting comfortable with 
+finding out when things change and what to do about it.</p>
 
-<p>From my understanding, the which property was deprecated because,
-keyboard layouts can change a lot all over the world. They decided that
-that was not the good way to go.</p>
+<p>From my understanding, the which property was deprecated because, keyboard layouts can change a 
+lot all over the world. They decided that that was not the good way to go.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 436. keyboard events (245) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7589,9 +7561,8 @@ that was not the good way to go.</p>
   title="Keyboard Events on MDM"
   alt="Keyboard Events on MDM." />
 
-<p>If you come over here to this MDM page, you can actually find out a lot
-about the different events and down here, it&apos;ll actually say the
-keyboard which key has been deprecated.</p>
+<p>If you come over here to this MDM page, you can actually find out a lot about the different events 
+and down here, it&apos;ll actually say the keyboard which key has been deprecated.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 437. change which key to event key (246) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7601,12 +7572,11 @@ keyboard which key has been deprecated.</p>
   title="Change which key to event key"
   alt="Change which key to event key." />
 
-<p>Now the reality is, is that browsers will support it for a long, long
-time to come. You could certainly use it, but they&apos;re saying you
-shouldn&apos;t use that, you should use event keyboard key instead. Let&apos;s
-give that a try real quick. Back here on my page, and I&apos;m going to
-change which to key. Because that&apos;s what the MDN says I should do and
-they&apos;re the most authoritative resource on this stuff.</p>
+<p>Now the reality is, is that browsers will support it for a long, long time to come. You could 
+certainly use it, but they&apos;re saying you shouldn&apos;t use that, you should use event keyboard 
+key instead. Let&apos;s give that a try real quick. Back here on my page, and I&apos;m going to 
+change which to key. Because that&apos;s what the MDN says I should do and they&apos;re the most 
+authoritative resource on this stuff.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 438. test, keydown event (246) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7616,8 +7586,8 @@ they&apos;re the most authoritative resource on this stuff.</p>
   title="Test, keydown event"
   alt="Test, keydown event." />
 
-<p>Let&apos;s go over and check that out over here. If I refresh my page, if I
-press the F key, now I&apos;m getting &quot;the F key was pressed&quot;.</p>
+<p>Let&apos;s go over and check that out over here. If I refresh my page, if I press the F key, 
+now I&apos;m getting &quot;the F key was pressed&quot;.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 439. summary - capture events (247) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -7653,16 +7623,16 @@ JavaScript to use in actually making some interesting fun things.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events" 
-    target="_blank" rel="noopener noreferrer">
-    3.18 Introduction to Events in JavaScript (URL shortcut)</a></li>
+    target="_blank" rel="noopener noreferrer" aria-label="Intro to Events in JS (URL)" 
+	title="Intro to Events in JS (URL)">3.18 Introduction to Events in JavaScript (URL shortcut)</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/Events" 
-    target="_blank" rel="noopener noreferrer">
-    3.18 Event Reference (URL shortcut)</a></li>
+    target="_blank" rel="noopener noreferrer" aria-label="Event Reference (URL)" 
+	title="Event Reference (URL)">3.18 Event Reference (URL shortcut)</a></li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch3-18-22thru30"><a href="./pdf/3.18-JS-Event-Challenges-22thru30.pdf" 
-  target="_blank" rel="noopener noreferrer">
-  3.18 JavaScript Event Challenges 22-30 (display pdf)</a></h3>
+  target="_blank" rel="noopener noreferrer" aria-label="JS Event Challenges 22-30 (pdf)"
+  title="JS Event Challenges 22-30 (pdf)">3.18 JavaScript Event Challenges 22-30 (display pdf)</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-19">3.19 Scope in JavaScript (5:19)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10703,10 +10673,9 @@ to alert our key to see what I get.</p>
   alt="Test, 'K' key was pressed." />
 <p style="clear: both;"></p>
 
-<p>All right great, let's go over here and test this. If I refresh and I press the 
-M key, I get key M. If I press the K, I get key K. Instead of giving you a number, 
-gives you actually a key within the letter than the actual letter that you're 
-pressing.</p>
+<p>All right great, let's go over here and test this. If I refresh and I press the M key, I get key 
+M. If I press the K, I get key K. Instead of giving you a number, gives you actually a key within 
+the letter than the actual letter that you're pressing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 640. if keyk..else keym (352) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -10716,14 +10685,12 @@ pressing.</p>
   title="If KeyK, convert to Kilometers, elseif KeyM, convert to Miles"
   alt="If KeyK, convert to Kilometers, elseif KeyM, convert to Miles." />
 
-<p>We know how to capture those keys and know which one has been pressed. From 
-here, writing the If statement is very simple. We can say if key is the same 
-as; you could even do triple equals if you wanted to. key K, we're going to do 
-one thing, else, if key is the same as key M we're going to do something else. 
-What are we going to do in here? We're going to change the heading. We're going 
-to change the intro paragraph and the convertype variable. Those are three 
-things that we need to do in each of these as we go forward here with this 
-function.</p>
+<p>We know how to capture those keys and know which one has been pressed. From here, writing the 
+If statement is very simple. We can say if key is the same as; you could even do triple equals if 
+you wanted to. key K, we're going to do one thing, else, if key is the same as key M we're going 
+to do something else. What are we going to do in here? We're going to change the heading. We're 
+going to change the intro paragraph and the convertype variable. Those are three things that we 
+need to do in each of these as we go forward here with this function.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch4-08">4.08 Advanced Distance Converter Project -- Part 3 (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -10739,20 +10706,18 @@ function.</p>
 because we already have it defined up there, so you don&apos;t use <b>var.convertType = "kilometers".</b> 
 That&apos;s going to get set to kilometers as a value, as opposed to miles. You could just use K and M
 in there if you wanted to keep it short, and that&apos;s fine.</p>
-<p>And then I&apos;m going to change the heading in here next.
-<b>heading.innerHTML = "Kilometers to Miles</b> c<b>onverter"</b>. That&apos;s
-going to change the heading up at the top of the page. And then the
-third thing I want to do is just change the intro paragraphs. That&apos;s
-the variable intro.InnerHTML = and then I&apos;m just going to paste this
-in, but you&apos;re going to have to type it. Type in a number of kilometers
-and click the button to convert the distance to miles. We&apos;ve got all of
-these set in here.</p>
-<p>And, what we need to do is put the same thing down below. But instead of
-kilometers it&apos;s going to be miles. And then over here we&apos;re going to
-say Miles to Kilometers converter. And then type the number of miles,
-and click the button to convert the distance to kilometers. That should
-be working in terms of which key I pressed here and how that&apos;s going to
-work.</p>
+
+<p>And then I&apos;m going to change the heading in here next. <b>heading.innerHTML = "Kilometers to 
+Miles</b> c<b>onverter"</b>. That&apos;s going to change the heading up at the top of the page. And 
+then the third thing I want to do is just change the intro paragraphs. That&apos;s the variable 
+intro.InnerHTML = and then I&apos;m just going to paste this in, but you&apos;re going to have to 
+type it. Type in a number of kilometers and click the button to convert the distance to miles. 
+We&apos;ve got all of these set in here.</p>
+
+<p>And, what we need to do is put the same thing down below. But instead of kilometers it&apos;s 
+going to be miles. And then over here we&apos;re going to say Miles to Kilometers converter. And 
+then type the number of miles, and click the button to convert the distance to kilometers. That 
+should be working in terms of which key I pressed here and how that&apos;s going to work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 642/643. test, k switches to kilometers, m to miles (353) ~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -10769,9 +10734,8 @@ work.</p>
   alt="Test, 'M' key switches conversion to Miles." />
 <p style="clear: both;"></p>
 
-<p>And if I come over and test this, you should see if I press the K key,
-it switches to kilometers to miles, the statement changes. And if I
-press the M key it switches back.</p>
+<p>And if I come over and test this, you should see if I press the K key, it switches to kilometers 
+to miles, the statement changes. And if I press the M key it switches back.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 644. example, starting the form submission handler (354) ~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -10781,10 +10745,9 @@ press the M key it switches back.</p>
   title="Example, Starting the Form Submission Handler"
   alt="Example, Starting the Form Submission Handler." />
 
-<p>Now we can start the second part of the script which is the form
-submission handler. And we can pass in the event and once again do
-<b>event.preventDefault</b> to keep that form from being submitted,
-actually submitted. So we&apos;re going to pass in our event object here.</p>
+<p>Now we can start the second part of the script which is the form submission handler. And we can 
+pass in the event and once again do <b>event.preventDefault</b> to keep that form from being 
+submitted, actually submitted. So we&apos;re going to pass in our event object here.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 645. event.preventdefault (354) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -10794,13 +10757,12 @@ actually submitted. So we&apos;re going to pass in our event object here.</p>
   title="event.preventDefault()"
   alt="event.preventDefault()." />
 
-<p>And down here again do <b>event.preventDefault.</b> And then we want to do
-the same thing we did before and get our variable out of their distance.
-var <b>distance = document.getElementByID</b>. And we&apos;re going into our
-form and up here in our form we&apos;re getting this distance ID here. So
-getElementByID (&apos;distance&apos;).value like that. But just as we did before
-we want to put parseFloat in front of this, parseFloat, parentheses, and
-then close the parentheses at the end after value there.</p>
+<p>And down here again do <b>event.preventDefault.</b> And then we want to do the same thing we did 
+before and get our variable out of their distance. var <b>distance = document.getElementByID</b>. 
+And we&apos;re going into our form and up here in our form we&apos;re getting this distance ID here. 
+So getElementByID (&apos;distance&apos;).value like that. But just as we did before we want to put 
+parseFloat in front of this, parseFloat, parentheses, and then close the parentheses at the end 
+after value there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 646. verify a number is entered (355) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img class="displayed"
@@ -12514,21 +12476,23 @@ can make. So thank you for coming along this far and I hope to see you
 in the next course.</p>
 
 
-<p>.the end. 2.24.24 11:42pm<br/>
-.the end, again. 3.06.24 5:24pm<br/>
-.the end, again. 5.26.24 7:31pm<br/>
-.the end, again. 5.31.24 12:21pm<br/>
-.the end, again. 6.08.24 9:41am<br/>
-.the end, again. 6.09.24 11:48pm<br/>
-.the end, again. 6.14.24 9:20am<br/>
-.the end, again. 7.26.24 9:44am<br/>
-.the end, again. 9.9.24 11:12am<br/>
-.the end, again. 9.26.24 2:26pm<br/>
-.the end, again. 9.28.24 8:29pm<br/>
-.the end, again. 10.01.24 10:23pm<br/>
-.the end, again. 10.15.24 10:19pm<br/>
-.the end, again. 11.17.24 7:19pm<br/>
-.the end, again. 4.28.25 8:32pm</p>
+<p>.the end. 2.24.24 11:42pm<br>
+.the end, again. 3.06.24 5:24pm<br>
+.the end, again. 5.26.24 7:31pm<br>
+.the end, again. 5.31.24 12:21pm<br>
+.the end, again. 6.08.24 9:41am<br>
+.the end, again. 6.09.24 11:48pm<br>
+.the end, again. 6.14.24 9:20am<br>
+.the end, again. 7.26.24 9:44am<br>
+.the end, again. 9.9.24 11:12am<br>
+.the end, again. 9.26.24 2:26pm<br>
+.the end, again. 9.28.24 8:29pm<br>
+.the end, again. 10.01.24 10:23pm<br>
+.the end, again. 10.15.24 10:19pm<br>
+.the end, again. 11.17.24 7:19pm<br>
+.the end, again. 4.28.25 8:32pm<br>
+.the end, again. 11.12.25 12:57am</p>
 
 </body>
 </html>
+
